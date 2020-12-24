@@ -12,4 +12,4 @@ CA NOC 2011   | json          |[ https://danielruss.github.io/codingsystems/noc_
 
 Thank you to the organization the actually provide the data:
 * The US SOC and SIC data came from the U.S. Bureau of Labor Statistics and O\*Net 
-* The Canadian Data came from Statistics Canada
+* The Canadian NOC Data came from Statistics Canada
