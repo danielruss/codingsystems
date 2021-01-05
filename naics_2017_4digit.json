@@ -1,0 +1,1246 @@
+{
+  "1111": {
+    "code": "1111",
+    "title": "Oilseed and Grain Farming"
+  },
+  "1112": {
+    "code": "1112",
+    "title": "Vegetable and Melon Farming"
+  },
+  "1113": {
+    "code": "1113",
+    "title": "Fruit and Tree Nut Farming"
+  },
+  "1114": {
+    "code": "1114",
+    "title": "Greenhouse, Nursery, and Floriculture Production"
+  },
+  "1119": {
+    "code": "1119",
+    "title": "Other Crop Farming"
+  },
+  "1121": {
+    "code": "1121",
+    "title": "Cattle Ranching and Farming"
+  },
+  "1122": {
+    "code": "1122",
+    "title": "Hog and Pig Farming"
+  },
+  "1123": {
+    "code": "1123",
+    "title": "Poultry and Egg Production"
+  },
+  "1124": {
+    "code": "1124",
+    "title": "Sheep and Goat Farming"
+  },
+  "1125": {
+    "code": "1125",
+    "title": "Aquaculture"
+  },
+  "1129": {
+    "code": "1129",
+    "title": "Other Animal Production"
+  },
+  "1131": {
+    "code": "1131",
+    "title": "Timber Tract Operations"
+  },
+  "1132": {
+    "code": "1132",
+    "title": "Forest Nurseries and Gathering of Forest Products"
+  },
+  "1133": {
+    "code": "1133",
+    "title": "Logging"
+  },
+  "1141": {
+    "code": "1141",
+    "title": "Fishing"
+  },
+  "1142": {
+    "code": "1142",
+    "title": "Hunting and Trapping"
+  },
+  "1151": {
+    "code": "1151",
+    "title": "Support Activities for Crop Production"
+  },
+  "1152": {
+    "code": "1152",
+    "title": "Support Activities for Animal Production"
+  },
+  "1153": {
+    "code": "1153",
+    "title": "Support Activities for Forestry"
+  },
+  "2111": {
+    "code": "2111",
+    "title": "Oil and Gas Extraction"
+  },
+  "2121": {
+    "code": "2121",
+    "title": "Coal Mining"
+  },
+  "2122": {
+    "code": "2122",
+    "title": "Metal Ore Mining"
+  },
+  "2123": {
+    "code": "2123",
+    "title": "Nonmetallic Mineral Mining and Quarrying"
+  },
+  "2131": {
+    "code": "2131",
+    "title": "Support Activities for Mining"
+  },
+  "2211": {
+    "code": "2211",
+    "title": "Electric Power Generation, Transmission and Distribution"
+  },
+  "2212": {
+    "code": "2212",
+    "title": "Natural Gas Distribution"
+  },
+  "2213": {
+    "code": "2213",
+    "title": "Water, Sewage and Other Systems"
+  },
+  "2361": {
+    "code": "2361",
+    "title": "Residential Building Construction"
+  },
+  "2362": {
+    "code": "2362",
+    "title": "Nonresidential Building Construction"
+  },
+  "2371": {
+    "code": "2371",
+    "title": "Utility System Construction"
+  },
+  "2372": {
+    "code": "2372",
+    "title": "Land Subdivision"
+  },
+  "2373": {
+    "code": "2373",
+    "title": "Highway, Street, and Bridge Construction"
+  },
+  "2379": {
+    "code": "2379",
+    "title": "Other Heavy and Civil Engineering Construction"
+  },
+  "2381": {
+    "code": "2381",
+    "title": "Foundation, Structure, and Building Exterior Contractors"
+  },
+  "2382": {
+    "code": "2382",
+    "title": "Building Equipment Contractors"
+  },
+  "2383": {
+    "code": "2383",
+    "title": "Building Finishing Contractors"
+  },
+  "2389": {
+    "code": "2389",
+    "title": "Other Specialty Trade Contractors"
+  },
+  "3111": {
+    "code": "3111",
+    "title": "Animal Food Manufacturing"
+  },
+  "3112": {
+    "code": "3112",
+    "title": "Grain and Oilseed Milling"
+  },
+  "3113": {
+    "code": "3113",
+    "title": "Sugar and Confectionery Product Manufacturing"
+  },
+  "3114": {
+    "code": "3114",
+    "title": "Fruit and Vegetable Preserving and Specialty Food Manufacturing"
+  },
+  "3115": {
+    "code": "3115",
+    "title": "Dairy Product Manufacturing"
+  },
+  "3116": {
+    "code": "3116",
+    "title": "Animal Slaughtering and Processing"
+  },
+  "3117": {
+    "code": "3117",
+    "title": "Seafood Product Preparation and Packaging"
+  },
+  "3118": {
+    "code": "3118",
+    "title": "Bakeries and Tortilla Manufacturing"
+  },
+  "3119": {
+    "code": "3119",
+    "title": "Other Food Manufacturing"
+  },
+  "3121": {
+    "code": "3121",
+    "title": "Beverage Manufacturing"
+  },
+  "3122": {
+    "code": "3122",
+    "title": "Tobacco Manufacturing"
+  },
+  "3131": {
+    "code": "3131",
+    "title": "Fiber, Yarn, and Thread Mills"
+  },
+  "3132": {
+    "code": "3132",
+    "title": "Fabric Mills"
+  },
+  "3133": {
+    "code": "3133",
+    "title": "Textile and Fabric Finishing and Fabric Coating Mills"
+  },
+  "3141": {
+    "code": "3141",
+    "title": "Textile Furnishings Mills"
+  },
+  "3149": {
+    "code": "3149",
+    "title": "Other Textile Product Mills"
+  },
+  "3151": {
+    "code": "3151",
+    "title": "Apparel Knitting Mills"
+  },
+  "3152": {
+    "code": "3152",
+    "title": "Cut and Sew Apparel Manufacturing"
+  },
+  "3159": {
+    "code": "3159",
+    "title": "Apparel Accessories and Other Apparel Manufacturing"
+  },
+  "3161": {
+    "code": "3161",
+    "title": "Leather and Hide Tanning and Finishing"
+  },
+  "3162": {
+    "code": "3162",
+    "title": "Footwear Manufacturing"
+  },
+  "3169": {
+    "code": "3169",
+    "title": "Other Leather and Allied Product Manufacturing"
+  },
+  "3211": {
+    "code": "3211",
+    "title": "Sawmills and Wood Preservation"
+  },
+  "3212": {
+    "code": "3212",
+    "title": "Veneer, Plywood, and Engineered Wood Product Manufacturing"
+  },
+  "3219": {
+    "code": "3219",
+    "title": "Other Wood Product Manufacturing"
+  },
+  "3221": {
+    "code": "3221",
+    "title": "Pulp, Paper, and Paperboard Mills"
+  },
+  "3222": {
+    "code": "3222",
+    "title": "Converted Paper Product Manufacturing"
+  },
+  "3231": {
+    "code": "3231",
+    "title": "Printing and Related Support Activities"
+  },
+  "3241": {
+    "code": "3241",
+    "title": "Petroleum and Coal Products Manufacturing"
+  },
+  "3251": {
+    "code": "3251",
+    "title": "Basic Chemical Manufacturing"
+  },
+  "3252": {
+    "code": "3252",
+    "title": "Resin, Synthetic Rubber, and Artificial and Synthetic Fibers and Filaments Manufacturing"
+  },
+  "3253": {
+    "code": "3253",
+    "title": "Pesticide, Fertilizer, and Other Agricultural Chemical Manufacturing"
+  },
+  "3254": {
+    "code": "3254",
+    "title": "Pharmaceutical and Medicine Manufacturing"
+  },
+  "3255": {
+    "code": "3255",
+    "title": "Paint, Coating, and Adhesive Manufacturing"
+  },
+  "3256": {
+    "code": "3256",
+    "title": "Soap, Cleaning Compound, and Toilet Preparation Manufacturing"
+  },
+  "3259": {
+    "code": "3259",
+    "title": "Other Chemical Product and Preparation Manufacturing"
+  },
+  "3261": {
+    "code": "3261",
+    "title": "Plastics Product Manufacturing"
+  },
+  "3262": {
+    "code": "3262",
+    "title": "Rubber Product Manufacturing"
+  },
+  "3271": {
+    "code": "3271",
+    "title": "Clay Product and Refractory Manufacturing"
+  },
+  "3272": {
+    "code": "3272",
+    "title": "Glass and Glass Product Manufacturing"
+  },
+  "3273": {
+    "code": "3273",
+    "title": "Cement and Concrete Product Manufacturing"
+  },
+  "3274": {
+    "code": "3274",
+    "title": "Lime and Gypsum Product Manufacturing"
+  },
+  "3279": {
+    "code": "3279",
+    "title": "Other Nonmetallic Mineral Product Manufacturing"
+  },
+  "3311": {
+    "code": "3311",
+    "title": "Iron and Steel Mills and Ferroalloy Manufacturing"
+  },
+  "3312": {
+    "code": "3312",
+    "title": "Steel Product Manufacturing from Purchased Steel"
+  },
+  "3313": {
+    "code": "3313",
+    "title": "Alumina and Aluminum Production and Processing"
+  },
+  "3314": {
+    "code": "3314",
+    "title": "Nonferrous Metal (except Aluminum) Production and Processing"
+  },
+  "3315": {
+    "code": "3315",
+    "title": "Foundries"
+  },
+  "3321": {
+    "code": "3321",
+    "title": "Forging and Stamping"
+  },
+  "3322": {
+    "code": "3322",
+    "title": "Cutlery and Handtool Manufacturing"
+  },
+  "3323": {
+    "code": "3323",
+    "title": "Architectural and Structural Metals Manufacturing"
+  },
+  "3324": {
+    "code": "3324",
+    "title": "Boiler, Tank, and Shipping Container Manufacturing"
+  },
+  "3325": {
+    "code": "3325",
+    "title": "Hardware Manufacturing"
+  },
+  "3326": {
+    "code": "3326",
+    "title": "Spring and Wire Product Manufacturing"
+  },
+  "3327": {
+    "code": "3327",
+    "title": "Machine Shops; Turned Product; and Screw, Nut, and Bolt Manufacturing"
+  },
+  "3328": {
+    "code": "3328",
+    "title": "Coating, Engraving, Heat Treating, and Allied Activities"
+  },
+  "3329": {
+    "code": "3329",
+    "title": "Other Fabricated Metal Product Manufacturing"
+  },
+  "3331": {
+    "code": "3331",
+    "title": "Agriculture, Construction, and Mining Machinery Manufacturing"
+  },
+  "3332": {
+    "code": "3332",
+    "title": "Industrial Machinery Manufacturing"
+  },
+  "3333": {
+    "code": "3333",
+    "title": "Commercial and Service Industry Machinery Manufacturing"
+  },
+  "3334": {
+    "code": "3334",
+    "title": "Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"
+  },
+  "3335": {
+    "code": "3335",
+    "title": "Metalworking Machinery Manufacturing"
+  },
+  "3336": {
+    "code": "3336",
+    "title": "Engine, Turbine, and Power Transmission Equipment Manufacturing"
+  },
+  "3339": {
+    "code": "3339",
+    "title": "Other General Purpose Machinery Manufacturing"
+  },
+  "3341": {
+    "code": "3341",
+    "title": "Computer and Peripheral Equipment Manufacturing"
+  },
+  "3342": {
+    "code": "3342",
+    "title": "Communications Equipment Manufacturing"
+  },
+  "3343": {
+    "code": "3343",
+    "title": "Audio and Video Equipment Manufacturing"
+  },
+  "3344": {
+    "code": "3344",
+    "title": "Semiconductor and Other Electronic Component Manufacturing"
+  },
+  "3345": {
+    "code": "3345",
+    "title": "Navigational, Measuring, Electromedical, and Control Instruments Manufacturing"
+  },
+  "3346": {
+    "code": "3346",
+    "title": "Manufacturing and Reproducing Magnetic and Optical Media"
+  },
+  "3351": {
+    "code": "3351",
+    "title": "Electric Lighting Equipment Manufacturing"
+  },
+  "3352": {
+    "code": "3352",
+    "title": "Household Appliance Manufacturing"
+  },
+  "3353": {
+    "code": "3353",
+    "title": "Electrical Equipment Manufacturing"
+  },
+  "3359": {
+    "code": "3359",
+    "title": "Other Electrical Equipment and Component Manufacturing"
+  },
+  "3361": {
+    "code": "3361",
+    "title": "Motor Vehicle Manufacturing"
+  },
+  "3362": {
+    "code": "3362",
+    "title": "Motor Vehicle Body and Trailer Manufacturing"
+  },
+  "3363": {
+    "code": "3363",
+    "title": "Motor Vehicle Parts Manufacturing"
+  },
+  "3364": {
+    "code": "3364",
+    "title": "Aerospace Product and Parts Manufacturing"
+  },
+  "3365": {
+    "code": "3365",
+    "title": "Railroad Rolling Stock Manufacturing"
+  },
+  "3366": {
+    "code": "3366",
+    "title": "Ship and Boat Building"
+  },
+  "3369": {
+    "code": "3369",
+    "title": "Other Transportation Equipment Manufacturing"
+  },
+  "3371": {
+    "code": "3371",
+    "title": "Household and Institutional Furniture and Kitchen Cabinet Manufacturing"
+  },
+  "3372": {
+    "code": "3372",
+    "title": "Office Furniture (including Fixtures) Manufacturing"
+  },
+  "3379": {
+    "code": "3379",
+    "title": "Other Furniture Related Product Manufacturing"
+  },
+  "3391": {
+    "code": "3391",
+    "title": "Medical Equipment and Supplies Manufacturing"
+  },
+  "3399": {
+    "code": "3399",
+    "title": "Other Miscellaneous Manufacturing"
+  },
+  "4231": {
+    "code": "4231",
+    "title": "Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers"
+  },
+  "4232": {
+    "code": "4232",
+    "title": "Furniture and Home Furnishing Merchant Wholesalers"
+  },
+  "4233": {
+    "code": "4233",
+    "title": "Lumber and Other Construction Materials Merchant Wholesalers"
+  },
+  "4234": {
+    "code": "4234",
+    "title": "Professional and Commercial Equipment and Supplies Merchant Wholesalers"
+  },
+  "4235": {
+    "code": "4235",
+    "title": "Metal and Mineral (except Petroleum) Merchant Wholesalers"
+  },
+  "4236": {
+    "code": "4236",
+    "title": "Household Appliances and Electrical and Electronic Goods Merchant Wholesalers"
+  },
+  "4237": {
+    "code": "4237",
+    "title": "Hardware, and Plumbing and Heating Equipment and Supplies Merchant Wholesalers"
+  },
+  "4238": {
+    "code": "4238",
+    "title": "Machinery, Equipment, and Supplies Merchant Wholesalers"
+  },
+  "4239": {
+    "code": "4239",
+    "title": "Miscellaneous Durable Goods Merchant Wholesalers"
+  },
+  "4241": {
+    "code": "4241",
+    "title": "Paper and Paper Product Merchant Wholesalers"
+  },
+  "4242": {
+    "code": "4242",
+    "title": "Drugs and Druggists' Sundries Merchant Wholesalers"
+  },
+  "4243": {
+    "code": "4243",
+    "title": "Apparel, Piece Goods, and Notions Merchant Wholesalers"
+  },
+  "4244": {
+    "code": "4244",
+    "title": "Grocery and Related Product Merchant Wholesalers"
+  },
+  "4245": {
+    "code": "4245",
+    "title": "Farm Product Raw Material Merchant Wholesalers"
+  },
+  "4246": {
+    "code": "4246",
+    "title": "Chemical and Allied Products Merchant Wholesalers"
+  },
+  "4247": {
+    "code": "4247",
+    "title": "Petroleum and Petroleum Products Merchant Wholesalers"
+  },
+  "4248": {
+    "code": "4248",
+    "title": "Beer, Wine, and Distilled Alcoholic Beverage Merchant Wholesalers"
+  },
+  "4249": {
+    "code": "4249",
+    "title": "Miscellaneous Nondurable Goods Merchant Wholesalers"
+  },
+  "4251": {
+    "code": "4251",
+    "title": "Wholesale Electronic Markets and Agents and Brokers"
+  },
+  "4411": {
+    "code": "4411",
+    "title": "Automobile Dealers"
+  },
+  "4412": {
+    "code": "4412",
+    "title": "Other Motor Vehicle Dealers"
+  },
+  "4413": {
+    "code": "4413",
+    "title": "Automotive Parts, Accessories, and Tire Stores"
+  },
+  "4421": {
+    "code": "4421",
+    "title": "Furniture Stores"
+  },
+  "4422": {
+    "code": "4422",
+    "title": "Home Furnishings Stores"
+  },
+  "4431": {
+    "code": "4431",
+    "title": "Electronics and Appliance Stores"
+  },
+  "4441": {
+    "code": "4441",
+    "title": "Building Material and Supplies Dealers"
+  },
+  "4442": {
+    "code": "4442",
+    "title": "Lawn and Garden Equipment and Supplies Stores"
+  },
+  "4451": {
+    "code": "4451",
+    "title": "Grocery Stores"
+  },
+  "4452": {
+    "code": "4452",
+    "title": "Specialty Food Stores"
+  },
+  "4453": {
+    "code": "4453",
+    "title": "Beer, Wine, and Liquor Stores"
+  },
+  "4461": {
+    "code": "4461",
+    "title": "Health and Personal Care Stores"
+  },
+  "4471": {
+    "code": "4471",
+    "title": "Gasoline Stations"
+  },
+  "4481": {
+    "code": "4481",
+    "title": "Clothing Stores"
+  },
+  "4482": {
+    "code": "4482",
+    "title": "Shoe Stores"
+  },
+  "4483": {
+    "code": "4483",
+    "title": "Jewelry, Luggage, and Leather Goods Stores"
+  },
+  "4511": {
+    "code": "4511",
+    "title": "Sporting Goods, Hobby, and Musical Instrument Stores"
+  },
+  "4512": {
+    "code": "4512",
+    "title": "Book Stores and News Dealers"
+  },
+  "4522": {
+    "code": "4522",
+    "title": "Department Stores"
+  },
+  "4523": {
+    "code": "4523",
+    "title": "General Merchandise Stores, including Warehouse Clubs and Supercenters"
+  },
+  "4531": {
+    "code": "4531",
+    "title": "Florists"
+  },
+  "4532": {
+    "code": "4532",
+    "title": "Office Supplies, Stationery, and Gift Stores"
+  },
+  "4533": {
+    "code": "4533",
+    "title": "Used Merchandise Stores"
+  },
+  "4539": {
+    "code": "4539",
+    "title": "Other Miscellaneous Store Retailers"
+  },
+  "4541": {
+    "code": "4541",
+    "title": "Electronic Shopping and Mail-Order Houses"
+  },
+  "4542": {
+    "code": "4542",
+    "title": "Vending Machine Operators"
+  },
+  "4543": {
+    "code": "4543",
+    "title": "Direct Selling Establishments"
+  },
+  "4811": {
+    "code": "4811",
+    "title": "Scheduled Air Transportation"
+  },
+  "4812": {
+    "code": "4812",
+    "title": "Nonscheduled Air Transportation"
+  },
+  "4821": {
+    "code": "4821",
+    "title": "Rail Transportation"
+  },
+  "4831": {
+    "code": "4831",
+    "title": "Deep Sea, Coastal, and Great Lakes Water Transportation"
+  },
+  "4832": {
+    "code": "4832",
+    "title": "Inland Water Transportation"
+  },
+  "4841": {
+    "code": "4841",
+    "title": "General Freight Trucking"
+  },
+  "4842": {
+    "code": "4842",
+    "title": "Specialized Freight Trucking"
+  },
+  "4851": {
+    "code": "4851",
+    "title": "Urban Transit Systems"
+  },
+  "4852": {
+    "code": "4852",
+    "title": "Interurban and Rural Bus Transportation"
+  },
+  "4853": {
+    "code": "4853",
+    "title": "Taxi and Limousine Service"
+  },
+  "4854": {
+    "code": "4854",
+    "title": "School and Employee Bus Transportation"
+  },
+  "4855": {
+    "code": "4855",
+    "title": "Charter Bus Industry"
+  },
+  "4859": {
+    "code": "4859",
+    "title": "Other Transit and Ground Passenger Transportation"
+  },
+  "4861": {
+    "code": "4861",
+    "title": "Pipeline Transportation of Crude Oil"
+  },
+  "4862": {
+    "code": "4862",
+    "title": "Pipeline Transportation of Natural Gas"
+  },
+  "4869": {
+    "code": "4869",
+    "title": "Other Pipeline Transportation"
+  },
+  "4871": {
+    "code": "4871",
+    "title": "Scenic and Sightseeing Transportation, Land"
+  },
+  "4872": {
+    "code": "4872",
+    "title": "Scenic and Sightseeing Transportation, Water"
+  },
+  "4879": {
+    "code": "4879",
+    "title": "Scenic and Sightseeing Transportation, Other"
+  },
+  "4881": {
+    "code": "4881",
+    "title": "Support Activities for Air Transportation"
+  },
+  "4882": {
+    "code": "4882",
+    "title": "Support Activities for Rail Transportation"
+  },
+  "4883": {
+    "code": "4883",
+    "title": "Support Activities for Water Transportation"
+  },
+  "4884": {
+    "code": "4884",
+    "title": "Support Activities for Road Transportation"
+  },
+  "4885": {
+    "code": "4885",
+    "title": "Freight Transportation Arrangement"
+  },
+  "4889": {
+    "code": "4889",
+    "title": "Other Support Activities for Transportation"
+  },
+  "4911": {
+    "code": "4911",
+    "title": "Postal Service"
+  },
+  "4921": {
+    "code": "4921",
+    "title": "Couriers and Express Delivery Services"
+  },
+  "4922": {
+    "code": "4922",
+    "title": "Local Messengers and Local Delivery"
+  },
+  "4931": {
+    "code": "4931",
+    "title": "Warehousing and Storage"
+  },
+  "5111": {
+    "code": "5111",
+    "title": "Newspaper, Periodical, Book, and Directory Publishers"
+  },
+  "5112": {
+    "code": "5112",
+    "title": "Software Publishers"
+  },
+  "5121": {
+    "code": "5121",
+    "title": "Motion Picture and Video Industries"
+  },
+  "5122": {
+    "code": "5122",
+    "title": "Sound Recording Industries"
+  },
+  "5151": {
+    "code": "5151",
+    "title": "Radio and Television Broadcasting"
+  },
+  "5152": {
+    "code": "5152",
+    "title": "Cable and Other Subscription Programming"
+  },
+  "5173": {
+    "code": "5173",
+    "title": "Wired and Wireless Telecommunications Carriers"
+  },
+  "5174": {
+    "code": "5174",
+    "title": "Satellite Telecommunications"
+  },
+  "5179": {
+    "code": "5179",
+    "title": "Other Telecommunications"
+  },
+  "5182": {
+    "code": "5182",
+    "title": "Data Processing, Hosting, and Related Services"
+  },
+  "5191": {
+    "code": "5191",
+    "title": "Other Information Services"
+  },
+  "5211": {
+    "code": "5211",
+    "title": "Monetary Authorities-Central Bank"
+  },
+  "5221": {
+    "code": "5221",
+    "title": "Depository Credit Intermediation"
+  },
+  "5222": {
+    "code": "5222",
+    "title": "Nondepository Credit Intermediation"
+  },
+  "5223": {
+    "code": "5223",
+    "title": "Activities Related to Credit Intermediation"
+  },
+  "5231": {
+    "code": "5231",
+    "title": "Securities and Commodity Contracts Intermediation and Brokerage"
+  },
+  "5232": {
+    "code": "5232",
+    "title": "Securities and Commodity Exchanges"
+  },
+  "5239": {
+    "code": "5239",
+    "title": "Other Financial Investment Activities"
+  },
+  "5241": {
+    "code": "5241",
+    "title": "Insurance Carriers"
+  },
+  "5242": {
+    "code": "5242",
+    "title": "Agencies, Brokerages, and Other Insurance Related Activities"
+  },
+  "5251": {
+    "code": "5251",
+    "title": "Insurance and Employee Benefit Funds"
+  },
+  "5259": {
+    "code": "5259",
+    "title": "Other Investment Pools and Funds"
+  },
+  "5311": {
+    "code": "5311",
+    "title": "Lessors of Real Estate"
+  },
+  "5312": {
+    "code": "5312",
+    "title": "Offices of Real Estate Agents and Brokers"
+  },
+  "5313": {
+    "code": "5313",
+    "title": "Activities Related to Real Estate"
+  },
+  "5321": {
+    "code": "5321",
+    "title": "Automotive Equipment Rental and Leasing"
+  },
+  "5322": {
+    "code": "5322",
+    "title": "Consumer Goods Rental"
+  },
+  "5323": {
+    "code": "5323",
+    "title": "General Rental Centers"
+  },
+  "5324": {
+    "code": "5324",
+    "title": "Commercial and Industrial Machinery and Equipment Rental and Leasing"
+  },
+  "5331": {
+    "code": "5331",
+    "title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
+  },
+  "5411": {
+    "code": "5411",
+    "title": "Legal Services"
+  },
+  "5412": {
+    "code": "5412",
+    "title": "Accounting, Tax Preparation, Bookkeeping, and Payroll Services"
+  },
+  "5413": {
+    "code": "5413",
+    "title": "Architectural, Engineering, and Related Services"
+  },
+  "5414": {
+    "code": "5414",
+    "title": "Specialized Design Services"
+  },
+  "5415": {
+    "code": "5415",
+    "title": "Computer Systems Design and Related Services"
+  },
+  "5416": {
+    "code": "5416",
+    "title": "Management, Scientific, and Technical Consulting Services"
+  },
+  "5417": {
+    "code": "5417",
+    "title": "Scientific Research and Development Services"
+  },
+  "5418": {
+    "code": "5418",
+    "title": "Advertising, Public Relations, and Related Services"
+  },
+  "5419": {
+    "code": "5419",
+    "title": "Other Professional, Scientific, and Technical Services"
+  },
+  "5511": {
+    "code": "5511",
+    "title": "Management of Companies and Enterprises"
+  },
+  "5611": {
+    "code": "5611",
+    "title": "Office Administrative Services"
+  },
+  "5612": {
+    "code": "5612",
+    "title": "Facilities Support Services"
+  },
+  "5613": {
+    "code": "5613",
+    "title": "Employment Services"
+  },
+  "5614": {
+    "code": "5614",
+    "title": "Business Support Services"
+  },
+  "5615": {
+    "code": "5615",
+    "title": "Travel Arrangement and Reservation Services"
+  },
+  "5616": {
+    "code": "5616",
+    "title": "Investigation and Security Services"
+  },
+  "5617": {
+    "code": "5617",
+    "title": "Services to Buildings and Dwellings"
+  },
+  "5619": {
+    "code": "5619",
+    "title": "Other Support Services"
+  },
+  "5621": {
+    "code": "5621",
+    "title": "Waste Collection"
+  },
+  "5622": {
+    "code": "5622",
+    "title": "Waste Treatment and Disposal"
+  },
+  "5629": {
+    "code": "5629",
+    "title": "Remediation and Other Waste Management Services"
+  },
+  "6111": {
+    "code": "6111",
+    "title": "Elementary and Secondary Schools"
+  },
+  "6112": {
+    "code": "6112",
+    "title": "Junior Colleges"
+  },
+  "6113": {
+    "code": "6113",
+    "title": "Colleges, Universities, and Professional Schools"
+  },
+  "6114": {
+    "code": "6114",
+    "title": "Business Schools and Computer and Management Training"
+  },
+  "6115": {
+    "code": "6115",
+    "title": "Technical and Trade Schools"
+  },
+  "6116": {
+    "code": "6116",
+    "title": "Other Schools and Instruction"
+  },
+  "6117": {
+    "code": "6117",
+    "title": "Educational Support Services"
+  },
+  "6211": {
+    "code": "6211",
+    "title": "Offices of Physicians"
+  },
+  "6212": {
+    "code": "6212",
+    "title": "Offices of Dentists"
+  },
+  "6213": {
+    "code": "6213",
+    "title": "Offices of Other Health Practitioners"
+  },
+  "6214": {
+    "code": "6214",
+    "title": "Outpatient Care Centers"
+  },
+  "6215": {
+    "code": "6215",
+    "title": "Medical and Diagnostic Laboratories"
+  },
+  "6216": {
+    "code": "6216",
+    "title": "Home Health Care Services"
+  },
+  "6219": {
+    "code": "6219",
+    "title": "Other Ambulatory Health Care Services"
+  },
+  "6221": {
+    "code": "6221",
+    "title": "General Medical and Surgical Hospitals"
+  },
+  "6222": {
+    "code": "6222",
+    "title": "Psychiatric and Substance Abuse Hospitals"
+  },
+  "6223": {
+    "code": "6223",
+    "title": "Specialty (except Psychiatric and Substance Abuse) Hospitals"
+  },
+  "6231": {
+    "code": "6231",
+    "title": "Nursing Care Facilities (Skilled Nursing Facilities)"
+  },
+  "6232": {
+    "code": "6232",
+    "title": "Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities"
+  },
+  "6233": {
+    "code": "6233",
+    "title": "Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly"
+  },
+  "6239": {
+    "code": "6239",
+    "title": "Other Residential Care Facilities"
+  },
+  "6241": {
+    "code": "6241",
+    "title": "Individual and Family Services"
+  },
+  "6242": {
+    "code": "6242",
+    "title": "Community Food and Housing, and Emergency and Other Relief Services"
+  },
+  "6243": {
+    "code": "6243",
+    "title": "Vocational Rehabilitation Services"
+  },
+  "6244": {
+    "code": "6244",
+    "title": "Child Day Care Services"
+  },
+  "7111": {
+    "code": "7111",
+    "title": "Performing Arts Companies"
+  },
+  "7112": {
+    "code": "7112",
+    "title": "Spectator Sports"
+  },
+  "7113": {
+    "code": "7113",
+    "title": "Promoters of Performing Arts, Sports, and Similar Events"
+  },
+  "7114": {
+    "code": "7114",
+    "title": "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+  },
+  "7115": {
+    "code": "7115",
+    "title": "Independent Artists, Writers, and Performers"
+  },
+  "7121": {
+    "code": "7121",
+    "title": "Museums, Historical Sites, and Similar Institutions"
+  },
+  "7131": {
+    "code": "7131",
+    "title": "Amusement Parks and Arcades"
+  },
+  "7132": {
+    "code": "7132",
+    "title": "Gambling Industries"
+  },
+  "7139": {
+    "code": "7139",
+    "title": "Other Amusement and Recreation Industries"
+  },
+  "7211": {
+    "code": "7211",
+    "title": "Traveler Accommodation"
+  },
+  "7212": {
+    "code": "7212",
+    "title": "RV (Recreational Vehicle) Parks and Recreational Camps"
+  },
+  "7213": {
+    "code": "7213",
+    "title": "Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+  },
+  "7223": {
+    "code": "7223",
+    "title": "Special Food Services"
+  },
+  "7224": {
+    "code": "7224",
+    "title": "Drinking Places (Alcoholic Beverages)"
+  },
+  "7225": {
+    "code": "7225",
+    "title": "Restaurants and Other Eating Places"
+  },
+  "8111": {
+    "code": "8111",
+    "title": "Automotive Repair and Maintenance"
+  },
+  "8112": {
+    "code": "8112",
+    "title": "Electronic and Precision Equipment Repair and Maintenance"
+  },
+  "8113": {
+    "code": "8113",
+    "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+  },
+  "8114": {
+    "code": "8114",
+    "title": "Personal and Household Goods Repair and Maintenance"
+  },
+  "8121": {
+    "code": "8121",
+    "title": "Personal Care Services"
+  },
+  "8122": {
+    "code": "8122",
+    "title": "Death Care Services"
+  },
+  "8123": {
+    "code": "8123",
+    "title": "Drycleaning and Laundry Services"
+  },
+  "8129": {
+    "code": "8129",
+    "title": "Other Personal Services"
+  },
+  "8131": {
+    "code": "8131",
+    "title": "Religious Organizations"
+  },
+  "8132": {
+    "code": "8132",
+    "title": "Grantmaking and Giving Services"
+  },
+  "8133": {
+    "code": "8133",
+    "title": "Social Advocacy Organizations"
+  },
+  "8134": {
+    "code": "8134",
+    "title": "Civic and Social Organizations"
+  },
+  "8139": {
+    "code": "8139",
+    "title": "Business, Professional, Labor, Political, and Similar Organizations"
+  },
+  "8141": {
+    "code": "8141",
+    "title": "Private Households"
+  },
+  "9211": {
+    "code": "9211",
+    "title": "Executive, Legislative, and Other General Government Support"
+  },
+  "9221": {
+    "code": "9221",
+    "title": "Justice, Public Order, and Safety Activities"
+  },
+  "9231": {
+    "code": "9231",
+    "title": "Administration of Human Resource Programs"
+  },
+  "9241": {
+    "code": "9241",
+    "title": "Administration of Environmental Quality Programs"
+  },
+  "9251": {
+    "code": "9251",
+    "title": "Administration of Housing Programs, Urban Planning, and Community Development"
+  },
+  "9261": {
+    "code": "9261",
+    "title": "Administration of Economic Programs"
+  },
+  "9271": {
+    "code": "9271",
+    "title": "Space Research and Technology"
+  },
+  "9281": {
+    "code": "9281",
+    "title": "National Security and International Affairs"
+  }
+}
