@@ -9,6 +9,7 @@ US SOC 2010   | json          | [https://danielruss.github.io/codingsystems/soc_
 US SIC 1987   | json          | [https://danielruss.github.io/codingsystems/sic_1987.json ](https://danielruss.github.io/codingsystems/sic_1987.json) |
  &nbsp;       |  csv          | [https://danielruss.github.io/codingsystems/sic_1987.csv](https://danielruss.github.io/codingsystems/sic_1987.csv)  |
 CA NOC 2011   | json          |[ https://danielruss.github.io/codingsystems/noc_2011.json ](https://danielruss.github.io/codingsystems/noc_2011.json) |
+NAICS 2017    | json          | [ https://danielruss.github.io/codingsystems/naics_2017_4digit.json ](https://danielruss.github.io/codingsystems/naics_2017_4digit.json) | Four digit NAICS 2017 codes |
 
 Thank you to the organization the actually provide the data:
 * The US SOC and SIC data came from the U.S. Bureau of Labor Statistics and O\*Net 
