@@ -12,8 +12,8 @@ CA NOC 2011   | json          |[ https://danielruss.github.io/codingsystems/noc_
 NAICS 2017    | json          | [ https://danielruss.github.io/codingsystems/naics_2017_4digit.json ](https://danielruss.github.io/codingsystems/naics_2017_4digit.json) | Four digit NAICS 2017 codes |
 
 Thank you to the organization the actually provide the data:
-* The US SOC and SIC data came from the U.S. Bureau of Labor Statistics and O\*Net 
-* The Canadian NOC Data came from Statistics Canada
+* The US SOC and SIC data came from the U.S. Bureau of Labor Statistics and [O\*Net](https://www.onetcenter.org/db_releases.html) DB version 24.3
+* The Canadian NOC Data came from [Statistics Canada](https://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
 
 
 If you would like to make a contribution, I'm happy to add your coding system and credit you in the notes.
