@@ -1456,3 +1456,30 @@ I,90,900,9000,"Federal, State, and Local Government (OES designation)"
 I,90,901,9010,Federal Government (OES designation)
 I,90,902,9020,State Government (OES designation)
 I,90,903,9030,Local Government (OES designation)
+J,91,911,9111,Executive Offices
+J,91,912,9121,Legislative Bodies
+J,91,913,9131,Executive and Legislative Offices Combined
+J,91,919,9199,"General Government, Not Elsewhere Classified"
+J,92,921,9211,Courts
+J,92,922,9221,Police Protection
+J,92,922,9222,Legal Counsel and Prosecution
+J,92,922,9223,Correctional Institutions
+J,92,922,9224,Fire Protection
+J,92,922,9229,"Public Order and Safety, Not Elsewhere Classified"
+J,93,931,9311,"Public Finance, Taxation, and Monetary Policy"
+J,94,941,9411,Administration of Educational Programs
+J,94,943,9431,Administration of Public Health Programs
+J,94,944,9441,"Administration of Social, Human Resource and Income Maintenance Programs"
+J,94,945,9451,"Administration of Veterans' Affairs, Except Health and Insurance"
+J,95,951,9511,Air and Water Resource and Solid Waste Management
+J,95,951,9512,"Land, Mineral, Wildlife, and Forest Conservation"
+J,95,953,9531,Administration of Housing Programs
+J,95,953,9532,Administration of Urban Planning and Community and Rural Development
+J,96,961,9611,Administration of General Economic Programs
+J,96,962,9621,Regulation and Administration of Transportation Programs
+J,96,963,9631,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities"
+J,96,964,9641,Regulation of Agricultural Marketing and Commodities
+J,96,965,9651,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors"
+J,96,966,9661,Space and Research and Technology
+J,97,971,9711,National Security
+J,99,999,9999 Nonclassifiable Establishments
