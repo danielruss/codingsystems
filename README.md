@@ -17,6 +17,13 @@ Thank you to the organization the actually provide the data:
 * The US SOC and SIC data came from the U.S. Bureau of Labor Statistics and [O\*Net](https://www.onetcenter.org/db_releases.html) DB version 24.3
 * The Canadian NOC Data came from [Statistics Canada](https://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
 
+# crosswalk
+inital system | final system | format | URL | Notes
+------------- | ------------ | ------ | ---- | -----
+isco 2008     | CA NOC 2011  | CSV    | [https://danielruss.github.io/codingsystems/isco2008_noc2011.csv](https://danielruss.github.io/codingsystems/isco2008_noc2011.csv)|
+isco 2008     | US SOC 2010  | CSV    | [https://danielruss.github.io/codingsystems/isco2008_soc2010.csv](https://danielruss.github.io/codingsystems/isco2008_soc2010.csv)|
+CA NOC 2011   | isco 2008    | CSV    | [https://danielruss.github.io/codingsystems/noc2011_isco2008.csv](https://danielruss.github.io/codingsystems/noc2011_isco2008.csv)|
+US SOC 2010   | isco 2008    | CSV    | [https://danielruss.github.io/codingsystems/soc2010_isco2008.csv](https://danielruss.github.io/codingsystems/soc2010_isco2008.csv)|
 
 # 2-stage crosswalk
 inital system | final system | using      | format | URL | Notes
