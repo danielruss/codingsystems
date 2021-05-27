@@ -18,4 +18,12 @@ Thank you to the organization the actually provide the data:
 * The Canadian NOC Data came from [Statistics Canada](https://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
 
 
+# 2-stage crosswalk
+inital system | final system | using      | format | URL | Notes
+------------- | ------------ | ---------- | ------ | ---- | -----
+US SOC 2010   | CA NOC 2011  |  isco 2008 | CSV    | [https://danielruss.github.io/codingsystems/soc2010_noc2011_via_isco2008.csv](https://danielruss.github.io/codingsystems/soc2010_noc2011_via_isco2008.csv)
+US SOC 2010   | CA NOC 2011  |  US SOC 2018 | CSV    | [https://danielruss.github.io/codingsystems/soc2010_noc2011_via_soc2018.csv](https://danielruss.github.io/codingsystems/soc2010_noc2011_via_soc2018.csv)
+CA NOC 2011   | US SOC 2010  |  isco 2008 | CSV    | [https://danielruss.github.io/codingsystems/noc2011_soc2010_via_isco2008.csv](https://danielruss.github.io/codingsystems/noc2011_soc2010_via_isco2008.csv)
+CA NOC 2011   | US SOC 2010  |  US SOC 2018 | CSV    | [https://danielruss.github.io/codingsystems/noc2011_soc2010_via_soc2018.csv](https://danielruss.github.io/codingsystems/noc2011_soc2010_via_soc2018.csv)
+
 If you would like to make a contribution, I'm happy to add your coding system and credit you in the notes.
