@@ -4,7 +4,7 @@ A repository of coding system data.
 coding system | format | URL | Notes |
 ------------ | ------------- | ------------- | ---------- |
 US SOC 2010   | json          | [https://danielruss.github.io/codingsystems/soc_2010_complete.json](https://danielruss.github.io/codingsystems/soc_2010_complete.json) | The complete Codings system.  The object has two element, first: a list of codes (key:codes), second: a tree structure containing all the codes (key:tree) |
-&nbsp;      | csv          | [https://danielruss.github.io/codingsystems/soc2010_complete.csv](https://danielruss.github.io/codingsystems/soc2010_complete.json) | all soc 2010 codes in csv format |
+&nbsp;      | csv          | [https://danielruss.github.io/codingsystems/soc2010_complete.csv](https://danielruss.github.io/codingsystems/soc2010_complete.csv) | all soc 2010 codes in csv format |
  &nbsp;       | json         | [https://danielruss.github.io/codingsystems/soc_2010_6digit.json](https://danielruss.github.io/codingsystems/soc_2010_6digit.json) | An array of all the 6 digit soc 2010 codes |
 &nbsp;      | csv          | [https://danielruss.github.io/codingsystems/soc2010_6digit.csv](https://danielruss.github.io/codingsystems/soc2010_6digit.csv) | csv made from  U.S. Bureau of Labor Statistic Data soc2010 structure |
 &nbsp;      | csv          | [https://danielruss.github.io/codingsystems/soc2010_5digit.csv](https://danielruss.github.io/codingsystems/soc2010_5digit.csv) | csv made from  U.S. Bureau of Labor Statistic Data soc2010 structure |
