@@ -19,6 +19,7 @@ CA NOC 2011   | json          |[ https://danielruss.github.io/codingsystems/noc_
  &nbsp;       |  csv          | [https://danielruss.github.io/codingsystems/noc_2011_4d.csv](https://danielruss.github.io/codingsystems/noc_2011_4d.csv) | The original file (noc-cnp-2011-structure-eng.csv) from statistic Canada had latin1 encoding, I changed this to UTF-8 |
 
 ## Industrial Coding Systems
+
 coding system | format | URL | Notes |
 ------------ | ------------- | ------------- | ---------- |
 US SIC 1987   | json          | [https://danielruss.github.io/codingsystems/sic_1987.json ](https://danielruss.github.io/codingsystems/sic_1987.json) |
