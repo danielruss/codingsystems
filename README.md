@@ -12,6 +12,7 @@ US SOC 2010   | json          | [https://danielruss.github.io/codingsystems/soc_
 &nbsp;      | csv          | [https://danielruss.github.io/codingsystems/soc2010_2digit.csv](https://danielruss.github.io/codingsystems/soc2010_2digit.csv) | csv made from  U.S. Bureau of Labor Statistic Data soc2010 structure |
  &nbsp;       | xml          | [https://danielruss.github.io/codingsystems/soc2010.xml](https://danielruss.github.io/codingsystems/soc2010.xml) | Original file made by hand years ago.  Let me know if you find any errors. |
 US SOC 2018   | csv          | [https://danielruss.github.io/codingsystems/soc_2018_6digit.csv](https://danielruss.github.io/codingsystems/soc_2018_6digit.csv) | csv made from U.S. Bureau of Labor Statistic Data soc2018 structure |
+US SOC 1980   | csv          | [[https://danielruss.github.io/codingsystems/soc1980.csv](https://danielruss.github.io/codingsystems/soc1980.csv) | Made by hand years ago Let me know if you find any errors.  All levels|
 US SIC 1987   | json          | [https://danielruss.github.io/codingsystems/sic_1987.json ](https://danielruss.github.io/codingsystems/sic_1987.json) |
  &nbsp;       |  csv          | [https://danielruss.github.io/codingsystems/sic_1987.csv](https://danielruss.github.io/codingsystems/sic_1987.csv)  |
 CA NOC 2011   | json          |[ https://danielruss.github.io/codingsystems/noc_2011.json ](https://danielruss.github.io/codingsystems/noc_2011.json) |
