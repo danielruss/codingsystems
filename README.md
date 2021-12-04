@@ -41,6 +41,7 @@ Thank you to the organization the actually provide the data:
 | isco 2008    | US SOC 2010  | CSV    | [https://danielruss.github.io/codingsystems/isco2008_soc2010.csv](https://danielruss.github.io/codingsystems/isco2008_soc2010.csv) |
 | CA NOC 2011  | isco 2008    | CSV    | [https://danielruss.github.io/codingsystems/noc2011_isco2008.csv](https://danielruss.github.io/codingsystems/noc2011_isco2008.csv) |
 | US SOC 2010  | isco 2008    | CSV    | [https://danielruss.github.io/codingsystems/soc2010_isco2008.csv](https://danielruss.github.io/codingsystems/soc2010_isco2008.csv) |
+| CA NOC 2016  | US SOC 2018  | CSV    | [https://danielruss.github.io/codingsystems/noc2016_soc2018.csv](https://danielruss.github.io/codingsystems/noc2016_soc2018.csv) |
 
 # 2-stage crosswalk
 
