@@ -20,6 +20,7 @@ US SOC 1980   | csv          | [https://danielruss.github.io/codingsystems/soc19
  &nbsp;        | csv          | [https://danielruss.github.io/codingsystems/soc1980_most_detailed.csv](https://danielruss.github.io/codingsystems/soc1980_most_detailed.csv) | The most detailed code for SOC 1980 is not always a 4-digit unit code.  This is a list of the most detailed codes (AKA leaf, or does not have child nodes)|
 CA NOC 2011   | json          |[ https://danielruss.github.io/codingsystems/noc_2011.json ](https://danielruss.github.io/codingsystems/noc_2011.json) |
  &nbsp;       |  csv          | [https://danielruss.github.io/codingsystems/noc_2011_4d.csv](https://danielruss.github.io/codingsystems/noc_2011_4d.csv) | The original file (noc-cnp-2011-structure-eng.csv) from statistic Canada had latin1 encoding, I changed this to UTF-8 |
+CA NOC 2016   | csv          |[ https://danielruss.github.io/codingsystems/noc2016.csv ](https://danielruss.github.io/codingsystems/noc2016.csv) |
 
 ## Industrial Coding Systems
 
@@ -31,7 +32,7 @@ NAICS 2017    | json          | [ https://danielruss.github.io/codingsystems/nai
 
 Thank you to the organization the actually provide the data:
 * The US SOC and SIC data came from the U.S. Bureau of Labor Statistics and [O\*Net](https://www.onetcenter.org/db_releases.html) DB version 24.3
-* The Canadian NOC Data came from [Statistics Canada](https://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index)
+* The Canadian NOC Data came from Statistics Canada [NOC 2011](https://www.statcan.gc.ca/eng/subjects/standard/noc/2011/index) and [NOC 2016](https://www.statcan.gc.ca/en/subjects/standard/noc/2016/indexV1.3)
 
 # crosswalk
 
