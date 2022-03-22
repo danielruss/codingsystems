@@ -1,0 +1,2007 @@
+occ1980,occ1980_title,soc2010,soc2010_title
+003,LEGISLATORS,11-1031,Legislators
+004,"CHIEF EXECUTIVES AND GENERAL ADMINISTRATORS, PUBLIC ADMINISTRATION",11-1011,Chief Executives
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",11-1011,Chief Executives
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",11-3131,Training and Development Managers
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",11-9041,Architectural and Engineering Managers
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",11-9199,"Managers, All Other"
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",13-1121,"Meeting, Convention, and Event Planners**"
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",13-1161,Market Research Analysts and Marketing Specialists**
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",13-1199,"Business Operations Specialists, All Other"
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",29-2071,Medical Records and Health Information Technicians
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",29-9011,Occupational Health and Safety Specialists
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",33-3051,Police and Sheriff's Patrol Officers
+005,"ADMINISTRATORS AND OFFICIALS, PUBLIC ADMINISTRATION",43-4061,"Eligibility Interviewers, Government Programs"
+006,"ADMINISTRATORS, PROTECTIVE SERVICES",11-1011,Chief Executives
+006,"ADMINISTRATORS, PROTECTIVE SERVICES",11-3011,Administrative Services Managers
+006,"ADMINISTRATORS, PROTECTIVE SERVICES",11-3051,Industrial Production Managers
+006,"ADMINISTRATORS, PROTECTIVE SERVICES",11-9161,Emergency Management Directors
+006,"ADMINISTRATORS, PROTECTIVE SERVICES",25-3021,Self-Enrichment Education Teachers
+007,FINANCIAL MANAGERS,11-3031,Financial Managers
+008,PERSONNEL AND LABOR RELATIONS MANAGERS,11-3111,Compensation and Benefits Managers
+008,PERSONNEL AND LABOR RELATIONS MANAGERS,11-3131,Training and Development Managers
+008,PERSONNEL AND LABOR RELATIONS MANAGERS,13-1071,Human Resources Specialists**
+008,PERSONNEL AND LABOR RELATIONS MANAGERS,13-1075,Labor Relations Specialists
+009,PURCHASING MANAGERS,11-3061,Purchasing Managers
+013,"MANAGERS, MARKETING, ADVERTISING, AND PUBLIC RELATIONS",11-2011,Advertising and Promotions Managers
+013,"MANAGERS, MARKETING, ADVERTISING, AND PUBLIC RELATIONS",11-2021,Marketing Managers
+013,"MANAGERS, MARKETING, ADVERTISING, AND PUBLIC RELATIONS",11-2022,Sales Managers
+013,"MANAGERS, MARKETING, ADVERTISING, AND PUBLIC RELATIONS",11-2031,Public Relations and Fundraising Managers
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",11-9031,"Education Administrators, Preschool and Childcare Center/Program"
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",11-9032,"Education Administrators, Elementary and Secondary School"
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",11-9033,"Education Administrators, Postsecondary"
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",11-9039,"Education Administrators, All Other"
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",11-9199,"Managers, All Other"
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",13-1151,Training and Development Specialists
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",21-1015,Rehabilitation Counselors
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",25-4012,Curators
+014,"ADMINISTRATORS, EDUCATION AND RELATED FIELDS",25-4021,Librarians
+015,"MANAGERS, MEDICINE AND HEALTH",11-3011,Administrative Services Managers
+015,"MANAGERS, MEDICINE AND HEALTH",11-9033,"Education Administrators, Postsecondary"
+015,"MANAGERS, MEDICINE AND HEALTH",11-9111,Medical and Health Services Managers
+015,"MANAGERS, MEDICINE AND HEALTH",29-1181,Audiologists
+015,"MANAGERS, MEDICINE AND HEALTH",29-9092,Genetic Counselors
+015,"MANAGERS, MEDICINE AND HEALTH",29-9099,"Healthcare Practitioners and Technical Workers, All Other"
+016,"MANAGERS, PROPERTIES AND REAL ESTATE",11-9141,"Property, Real Estate, and Community Association Managers"
+016,"MANAGERS, PROPERTIES AND REAL ESTATE",13-1121,"Meeting, Convention, and Event Planners**"
+016,"MANAGERS, PROPERTIES AND REAL ESTATE",13-1161,Market Research Analysts and Marketing Specialists**
+016,"MANAGERS, PROPERTIES AND REAL ESTATE",13-1199,"Business Operations Specialists, All Other"
+017,POSTMASTERS AND MAIL SUPERINTENDENTS,11-9131,Postmasters and Mail Superintendents
+018,FUNERAL DIRECTORS,11-1011,Chief Executives
+018,FUNERAL DIRECTORS,11-3051,Industrial Production Managers
+018,FUNERAL DIRECTORS,11-9061,Funeral Service Managers
+018,FUNERAL DIRECTORS,11-9151,Social and Community Service Managers
+018,FUNERAL DIRECTORS,11-9199,"Managers, All Other"
+018,FUNERAL DIRECTORS,13-1121,"Meeting, Convention, and Event Planners**"
+018,FUNERAL DIRECTORS,13-1161,Market Research Analysts and Marketing Specialists**
+018,FUNERAL DIRECTORS,13-1199,"Business Operations Specialists, All Other"
+018,FUNERAL DIRECTORS,39-4031,"Morticians, Undertakers, and Funeral Directors"
+018,FUNERAL DIRECTORS,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-1011,Chief Executives
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-1021,General and Operations Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-2021,Marketing Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-2022,Sales Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-2031,Public Relations and Fundraising Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-3011,Administrative Services Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-3021,Computer and Information Systems Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-3051,Industrial Production Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-3061,Purchasing Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-3071,"Transportation, Storage, and Distribution Managers"
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9021,Construction Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9041,Architectural and Engineering Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9051,Food Service Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9061,Funeral Service Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9071,Gaming Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9081,Lodging Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9111,Medical and Health Services Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9121,Natural Sciences Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9151,Social and Community Service Managers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",11-9199,"Managers, All Other"
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",13-1121,"Meeting, Convention, and Event Planners**"
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",13-1151,Training and Development Specialists
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",13-1161,Market Research Analysts and Marketing Specialists**
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",13-1199,"Business Operations Specialists, All Other"
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",17-2112,Industrial Engineers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",27-2012,Producers and Directors
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",39-4031,"Morticians, Undertakers, and Funeral Directors"
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",39-9032,Recreation Workers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",41-1012,First-Line Supervisors of Non-Retail Sales Workers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+019,"MANAGERS AND ADMINISTRATORS, N.E.C., SALARIED & SELF-EMPLOYED",53-1021,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+023,ACCOUNTANTS AND AUDITORS,13-2011,Accountants and Auditors
+024,UNDERWRITERS,13-2053,Insurance Underwriters
+025,OTHER FINANCIAL OFFICERS,11-3031,Financial Managers
+025,OTHER FINANCIAL OFFICERS,13-2031,Budget Analysts
+025,OTHER FINANCIAL OFFICERS,13-2041,Credit Analysts
+025,OTHER FINANCIAL OFFICERS,13-2051,Financial Analysts
+025,OTHER FINANCIAL OFFICERS,13-2052,Personal Financial Advisors
+025,OTHER FINANCIAL OFFICERS,13-2071,Credit Counselors
+025,OTHER FINANCIAL OFFICERS,13-2072,Loan Officers
+025,OTHER FINANCIAL OFFICERS,13-2099,"Financial Specialists, All Other"
+025,OTHER FINANCIAL OFFICERS,33-9021,Private Detectives and Investigators
+025,OTHER FINANCIAL OFFICERS,41-3021,Insurance Sales Agents
+025,OTHER FINANCIAL OFFICERS,43-4131,Loan Interviewers and Clerks
+026,MANAGEMENT ANALYSTS,13-1111,Management Analysts
+026,MANAGEMENT ANALYSTS,49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",11-3111,Compensation and Benefits Managers
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",11-3121,Human Resources Managers
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",13-1071,Human Resources Specialists**
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",13-1075,Labor Relations Specialists
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",13-1121,"Meeting, Convention, and Event Planners**"
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",13-1141,"Compensation, Benefits, and Job Analysis Specialists"
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",13-1151,Training and Development Specialists
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",13-1161,Market Research Analysts and Marketing Specialists**
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",13-1199,"Business Operations Specialists, All Other"
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",21-1092,Probation Officers and Correctional Treatment Specialists
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",23-1022,"Arbitrators, Mediators, and Conciliators"
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",27-2012,Producers and Directors
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",41-1012,First-Line Supervisors of Non-Retail Sales Workers
+027,"PERSONNEL, TRAINING, AND LABOR RELATIONS SPECIALISTS",43-4061,"Eligibility Interviewers, Government Programs"
+028,"PURCHASING AGENTS AND BUYERS, FARM PRODUCTS",11-3061,Purchasing Managers
+028,"PURCHASING AGENTS AND BUYERS, FARM PRODUCTS",13-1021,"Buyers and Purchasing Agents, Farm Products"
+028,"PURCHASING AGENTS AND BUYERS, FARM PRODUCTS",41-3031,"Securities, Commodities, and Financial Services Sales Agents"
+029,"BUYERS, WHOLESALE AND RETAIL TRADE EXCEPT FARM PRODUCTS",13-1022,"Wholesale and Retail Buyers, Except Farm Products"
+033,"PURCHASING AGENTS AND BUYERS, N.E.C.",13-1021,"Buyers and Purchasing Agents, Farm Products"
+033,"PURCHASING AGENTS AND BUYERS, N.E.C.",13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+033,"PURCHASING AGENTS AND BUYERS, N.E.C.",13-1121,"Meeting, Convention, and Event Planners**"
+033,"PURCHASING AGENTS AND BUYERS, N.E.C.",13-1161,Market Research Analysts and Marketing Specialists**
+033,"PURCHASING AGENTS AND BUYERS, N.E.C.",13-1199,"Business Operations Specialists, All Other"
+033,"PURCHASING AGENTS AND BUYERS, N.E.C.",17-2112,Industrial Engineers
+034,BUSINESS AND PROMOTION AGENTS,11-9199,"Managers, All Other"
+034,BUSINESS AND PROMOTION AGENTS,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+035,CONSTRUCTION INSPECTORS,33-2021,Fire Inspectors and Investigators
+035,CONSTRUCTION INSPECTORS,47-2061,Construction Laborers
+035,CONSTRUCTION INSPECTORS,47-4011,Construction and Building Inspectors
+035,CONSTRUCTION INSPECTORS,53-7199,"Material Moving Workers, All Other"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",11-9199,"Managers, All Other"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",13-1031,"Claims Adjusters, Examiners, and Investigators"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",13-1041,Compliance Officers
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",13-1121,"Meeting, Convention, and Event Planners**"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",13-1161,Market Research Analysts and Marketing Specialists**
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",13-1199,"Business Operations Specialists, All Other"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",13-2021,Appraisers and Assessors of Real Estate
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",13-2061,Financial Examiners
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",13-2081,"Tax Examiners and Collectors, and Revenue Agents"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",17-3026,Industrial Engineering Technicians
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",29-9011,Occupational Health and Safety Specialists
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",33-3021,Detectives and Criminal Investigators
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",33-9093,Transportation Security Screeners**
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",43-3021,Billing and Posting Clerks
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",45-2011,Agricultural Inspectors
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",45-4029,"Logging Workers, All Other"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",47-2231,Solar Photovoltaic Installers**
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",47-4011,Construction and Building Inspectors
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",49-9081,Wind Turbine Service Technicians
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+036,"INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",53-6051,Transportation Inspectors
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",11-3071,"Transportation, Storage, and Distribution Managers"
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",11-9199,"Managers, All Other"
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",13-1031,"Claims Adjusters, Examiners, and Investigators"
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",13-1051,Cost Estimators
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",13-1121,"Meeting, Convention, and Event Planners**"
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",13-1161,Market Research Analysts and Marketing Specialists**
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",13-1199,"Business Operations Specialists, All Other"
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",15-1142,Network and Computer Systems Administrators**
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",21-1012,"Educational, Guidance, School, and Vocational Counselors"
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",41-1012,First-Line Supervisors of Non-Retail Sales Workers
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",41-3021,Insurance Sales Agents
+037,"MANAGEMENT RELATED OCCUPATIONS, N.E.C.",43-6011,Executive Secretaries and Executive Administrative Assistants
+043,ARCHITECTS,17-1011,"Architects, Except Landscape and Naval"
+043,ARCHITECTS,17-1012,Landscape Architects
+044,AEROSPACE ENGINEERS,17-2011,Aerospace Engineers
+045,METALLURGICAL AND MATERIALS ENGINEERS,17-2131,Materials Engineers
+046,MINING ENGINEERS,17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers"
+046,MINING ENGINEERS,17-2171,Petroleum Engineers
+047,PETROLEUM ENGINEERS,11-9041,Architectural and Engineering Managers
+047,PETROLEUM ENGINEERS,17-2171,Petroleum Engineers
+048,CHEMICAL ENGINEERS,11-9121,Natural Sciences Managers
+048,CHEMICAL ENGINEERS,17-2041,Chemical Engineers
+049,NUCLEAR ENGINEERS,17-2161,Nuclear Engineers
+053,CIVIL ENGINEERS,11-9041,Architectural and Engineering Managers
+053,CIVIL ENGINEERS,17-2051,Civil Engineers
+053,CIVIL ENGINEERS,17-2161,Nuclear Engineers
+054,AGRICULTURAL ENGINEERS,17-2021,Agricultural Engineers
+055,ELECTRICAL AND ELECTRONIC ENGINEERS,11-9041,Architectural and Engineering Managers
+055,ELECTRICAL AND ELECTRONIC ENGINEERS,15-1111,Computer and Information Research Scientists
+055,ELECTRICAL AND ELECTRONIC ENGINEERS,15-1132,"Software Developers, Applications"
+055,ELECTRICAL AND ELECTRONIC ENGINEERS,15-1133,"Software Developers, Systems Software"
+055,ELECTRICAL AND ELECTRONIC ENGINEERS,15-1199,"Computer Occupations, All Other"
+055,ELECTRICAL AND ELECTRONIC ENGINEERS,17-2061,Computer Hardware Engineers
+055,ELECTRICAL AND ELECTRONIC ENGINEERS,17-2071,Electrical Engineers
+055,ELECTRICAL AND ELECTRONIC ENGINEERS,17-2072,"Electronics Engineers, Except Computer"
+056,INDUSTRIAL ENGINEERS,17-2051,Civil Engineers
+056,INDUSTRIAL ENGINEERS,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+056,INDUSTRIAL ENGINEERS,17-2112,Industrial Engineers
+057,MECHANICAL ENGINEERS,11-9041,Architectural and Engineering Managers
+057,MECHANICAL ENGINEERS,17-2141,Mechanical Engineers
+057,MECHANICAL ENGINEERS,17-3027,Mechanical Engineering Technicians
+058,MARINE AND NAVAL ARCHITECTS,17-2121,Marine Engineers and Naval Architects
+059,"ENGINEERS, N.E.C.",11-9041,Architectural and Engineering Managers
+059,"ENGINEERS, N.E.C.",13-1081,Logisticians
+059,"ENGINEERS, N.E.C.",17-2031,Biomedical Engineers
+059,"ENGINEERS, N.E.C.",17-2081,Environmental Engineers
+059,"ENGINEERS, N.E.C.",17-2199,"Engineers, All Other"
+063,SURVEYORS AND MAPPING SCIENTISTS,17-1021,Cartographers and Photogrammetrists
+063,SURVEYORS AND MAPPING SCIENTISTS,17-1022,Surveyors
+064,COMPUTER SYSTEMS ANALYSTS AND SCIENTISTS,15-1121,Computer Systems Analysts
+064,COMPUTER SYSTEMS ANALYSTS AND SCIENTISTS,15-1141,Database Administrators
+064,COMPUTER SYSTEMS ANALYSTS AND SCIENTISTS,15-1143,Computer Network Architects**
+064,COMPUTER SYSTEMS ANALYSTS AND SCIENTISTS,15-1151,Computer User Support Specialists
+065,OPERATIONS AND SYSTEMS RESEARCHERS AND ANALYSTS,15-2031,Operations Research Analysts
+066,ACTUARIES,15-2011,Actuaries
+067,STATISTICIANS,15-2041,Statisticians
+068,"MATHEMATICAL SCIENTISTS, N.E.C.",15-2021,Mathematicians
+068,"MATHEMATICAL SCIENTISTS, N.E.C.",15-2099,"Mathematical Science Occupations, All Other"
+069,PHYSICISTS AND ASTRONOMERS,19-1042,"Medical Scientists, Except Epidemiologists"
+069,PHYSICISTS AND ASTRONOMERS,19-2011,Astronomers
+069,PHYSICISTS AND ASTRONOMERS,19-2012,Physicists
+073,"CHEMISTS, EXCEPT BIOCHEMISTS",11-9121,Natural Sciences Managers
+073,"CHEMISTS, EXCEPT BIOCHEMISTS",19-2031,Chemists
+073,"CHEMISTS, EXCEPT BIOCHEMISTS",51-1011,First-Line Supervisors of Production and Operating Workers
+074,ATMOSPHERIC AND SPACE SCIENTISTS,19-2021,Atmospheric and Space Scientists
+075,GEOLOGISTS AND GEODESISTS,19-2042,"Geoscientists, Except Hydrologists and Geographers"
+075,GEOLOGISTS AND GEODESISTS,19-2043,Hydrologists
+076,"PHYSICAL SCIENTISTS, N.E.C.",17-2081,Environmental Engineers
+076,"PHYSICAL SCIENTISTS, N.E.C.",19-2032,Materials Scientists
+076,"PHYSICAL SCIENTISTS, N.E.C.",19-2041,"Environmental Scientists and Specialists, Including Health"
+076,"PHYSICAL SCIENTISTS, N.E.C.",19-3092,Geographers
+077,AGRICULTURAL AND FOOD SCIENTISTS,19-1011,Animal Scientists
+077,AGRICULTURAL AND FOOD SCIENTISTS,19-1012,Food Scientists and Technologists
+077,AGRICULTURAL AND FOOD SCIENTISTS,19-1013,Soil and Plant Scientists
+078,BIOLOGICAL AND LIFE SCIENTISTS,19-1013,Soil and Plant Scientists
+078,BIOLOGICAL AND LIFE SCIENTISTS,19-1021,Biochemists and Biophysicists
+078,BIOLOGICAL AND LIFE SCIENTISTS,19-1022,Microbiologists
+078,BIOLOGICAL AND LIFE SCIENTISTS,19-1023,Zoologists and Wildlife Biologists
+078,BIOLOGICAL AND LIFE SCIENTISTS,19-1041,Epidemiologists
+079,FORESTRY AND CONSERVATION SCIENTISTS,13-1121,"Meeting, Convention, and Event Planners**"
+079,FORESTRY AND CONSERVATION SCIENTISTS,13-1161,Market Research Analysts and Marketing Specialists**
+079,FORESTRY AND CONSERVATION SCIENTISTS,13-1199,"Business Operations Specialists, All Other"
+079,FORESTRY AND CONSERVATION SCIENTISTS,19-1031,Conservation Scientists
+079,FORESTRY AND CONSERVATION SCIENTISTS,19-1032,Foresters
+079,FORESTRY AND CONSERVATION SCIENTISTS,19-2099,"Physical Scientists, All Other"
+079,FORESTRY AND CONSERVATION SCIENTISTS,19-4093,Forest and Conservation Technicians
+083,MEDICAL SCIENTISTS,19-1041,Epidemiologists
+083,MEDICAL SCIENTISTS,19-1042,"Medical Scientists, Except Epidemiologists"
+083,MEDICAL SCIENTISTS,19-1099,"Life Scientists, All Other"
+084,PHYSICIANS,29-1061,Anesthesiologists
+084,PHYSICIANS,29-1062,Family and General Practitioners
+084,PHYSICIANS,29-1063,"Internists, General"
+084,PHYSICIANS,29-1064,Obstetricians and Gynecologists
+084,PHYSICIANS,29-1065,"Pediatricians, General"
+084,PHYSICIANS,29-1066,Psychiatrists
+084,PHYSICIANS,29-1067,Surgeons
+084,PHYSICIANS,29-1069,"Physicians and Surgeons, All Other"
+084,PHYSICIANS,29-1199,"Health Diagnosing and Treating Practitioners, All Other"
+085,DENTISTS,11-9199,"Managers, All Other"
+085,DENTISTS,29-1021,"Dentists, General"
+085,DENTISTS,29-1022,Oral and Maxillofacial Surgeons
+085,DENTISTS,29-1023,Orthodontists
+085,DENTISTS,29-1024,Prosthodontists
+085,DENTISTS,29-1029,"Dentists, All Other Specialists"
+086,VETERINARIANS,29-1131,Veterinarians
+087,OPTOMETRISTS,29-1041,Optometrists
+088,PODIATRISTS,29-1081,Podiatrists
+089,"HEALTH DIAGNOSING PRACTITIONERS, N.E.C.",29-1011,Chiropractors
+089,"HEALTH DIAGNOSING PRACTITIONERS, N.E.C.",29-1128,Exercise Physiologists
+089,"HEALTH DIAGNOSING PRACTITIONERS, N.E.C.",29-1129,"Therapists, All Other"
+089,"HEALTH DIAGNOSING PRACTITIONERS, N.E.C.",29-1199,"Health Diagnosing and Treating Practitioners, All Other"
+095,REGISTERED NURSES,29-1141,Registered Nurses
+095,REGISTERED NURSES,29-1151,Nurse Anesthetists
+095,REGISTERED NURSES,29-1161,Nurse Midwives
+095,REGISTERED NURSES,29-1171,Nurse Practitioners
+096,PHARMACISTS,29-1051,Pharmacists
+097,DIETITIANS,29-1031,Dietitians and Nutritionists
+097,DIETITIANS,29-2051,Dietetic Technicians
+098,INHALATION THERAPISTS,29-1126,Respiratory Therapists
+099,OCCUPATIONAL THERAPISTS,29-1122,Occupational Therapists
+103,PHYSICAL THERAPISTS,29-1123,Physical Therapists
+103,PHYSICAL THERAPISTS,29-1128,Exercise Physiologists
+103,PHYSICAL THERAPISTS,29-1129,"Therapists, All Other"
+104,SPEECH THERAPISTS,29-1127,Speech-Language Pathologists
+104,SPEECH THERAPISTS,29-1181,Audiologists
+105,"THERAPISTS, N.E.C.",11-9111,Medical and Health Services Managers
+105,"THERAPISTS, N.E.C.",19-3031,"Clinical, Counseling, and School Psychologists"
+105,"THERAPISTS, N.E.C.",21-1015,Rehabilitation Counselors
+105,"THERAPISTS, N.E.C.",25-2059,"Special Education Teachers, All Other"
+105,"THERAPISTS, N.E.C.",25-3099,"Teachers and Instructors, All Other"
+105,"THERAPISTS, N.E.C.",29-1125,Recreational Therapists
+105,"THERAPISTS, N.E.C.",29-1128,Exercise Physiologists
+105,"THERAPISTS, N.E.C.",29-1129,"Therapists, All Other"
+106,PHYSICIANS ASSISTANTS,29-1071,Physician Assistants
+113,"EARTH, ENVIRONMENTAL, AND MARINE SCIENCE TEACHERS",25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+114,BIOLOGICAL SCIENCE TEACHERS,25-1042,"Biological Science Teachers, Postsecondary"
+115,CHEMISTRY TEACHERS,25-1052,"Chemistry Teachers, Postsecondary"
+116,PHYSICS TEACHERS,25-1054,"Physics Teachers, Postsecondary"
+117,"NATURAL SCIENCE TEACHERS, N.E.C.",25-1053,"Environmental Science Teachers, Postsecondary"
+117,"NATURAL SCIENCE TEACHERS, N.E.C.",25-1199,"Postsecondary Teachers, All Other"
+117,"NATURAL SCIENCE TEACHERS, N.E.C.",25-3021,Self-Enrichment Education Teachers
+118,PSYCHOLOGY TEACHERS,25-1066,"Psychology Teachers, Postsecondary"
+119,ECONOMICS TEACHERS,25-1063,"Economics Teachers, Postsecondary"
+123,HISTORY TEACHERS,25-1125,"History Teachers, Postsecondary"
+124,POLITICAL SCIENCE TEACHERS,25-1065,"Political Science Teachers, Postsecondary"
+125,SOCIOLOGY TEACHERS,25-1061,"Anthropology and Archeology Teachers, Postsecondary"
+125,SOCIOLOGY TEACHERS,25-1067,"Sociology Teachers, Postsecondary"
+126,"SOCIAL SCIENCE TEACHERS, N.E.C.",25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+126,"SOCIAL SCIENCE TEACHERS, N.E.C.",25-1064,"Geography Teachers, Postsecondary"
+126,"SOCIAL SCIENCE TEACHERS, N.E.C.",25-1069,"Social Sciences Teachers, Postsecondary, All Other"
+127,ENGINEERING TEACHERS,25-1032,"Engineering Teachers, Postsecondary"
+128,MATHEMATICAL SCIENCE TEACHERS,25-1022,"Mathematical Science Teachers, Postsecondary"
+129,COMPUTER SCIENCE TEACHERS,25-1021,"Computer Science Teachers, Postsecondary"
+133,MEDICAL SCIENCE TEACHERS,25-1071,"Health Specialties Teachers, Postsecondary"
+134,HEALTH SPECIALTIES TEACHERS,25-1072,"Nursing Instructors and Teachers, Postsecondary"
+135,"BUSINESS, COMMERCE, AND MARKETING TEACHERS",25-1011,"Business Teachers, Postsecondary"
+136,AGRICULTURE AND FORESTRY TEACHERS,25-1041,"Agricultural Sciences Teachers, Postsecondary"
+137,"ART, DRAMA, AND MUSIC TEACHERS",25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+138,PHYSICAL EDUCATION TEACHERS,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary"
+139,EDUCATION TEACHERS,25-1081,"Education Teachers, Postsecondary"
+143,ENGLISH TEACHERS,25-1123,"English Language and Literature Teachers, Postsecondary"
+144,FOREIGN LANGUAGE TEACHERS,25-1124,"Foreign Language and Literature Teachers, Postsecondary"
+145,LAW TEACHERS,25-1112,"Law Teachers, Postsecondary"
+146,SOCIAL WORK TEACHERS,25-1113,"Social Work Teachers, Postsecondary"
+147,THEOLOGY TEACHERS,25-1126,"Philosophy and Religion Teachers, Postsecondary"
+148,TRADE AND INDUSTRIAL TEACHERS,25-1194,"Vocational Education Teachers, Postsecondary"
+149,HOME ECONOMICS TEACHERS,25-1192,"Home Economics Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1021,"Computer Science Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1031,"Architecture Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1043,"Forestry and Conservation Science Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1082,"Library Science Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1122,"Communications Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1126,"Philosophy and Religion Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1191,Graduate Teaching Assistants
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1194,"Vocational Education Teachers, Postsecondary"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-1199,"Postsecondary Teachers, All Other"
+153,"TEACHERS, POSTSECONDARY, N.E.C.",25-2031,"Secondary School Teachers, Except Special and Career/Technical Education"
+155,"TEACHERS, PREKINDERGARTEN AND KINDERGARTEN",25-2011,"Preschool Teachers, Except Special Education"
+155,"TEACHERS, PREKINDERGARTEN AND KINDERGARTEN",25-2012,"Kindergarten Teachers, Except Special Education"
+156,"TEACHERS, ELEMENTARY SCHOOL",25-2021,"Elementary School Teachers, Except Special Education"
+157,"TEACHERS, SECONDARY SCHOOL",25-2022,"Middle School Teachers, Except Special and Career/Technical Education"
+157,"TEACHERS, SECONDARY SCHOOL",25-2023,"Career/Technical Education Teachers, Middle School"
+157,"TEACHERS, SECONDARY SCHOOL",25-2031,"Secondary School Teachers, Except Special and Career/Technical Education"
+157,"TEACHERS, SECONDARY SCHOOL",25-2032,"Career/Technical Education Teachers, Secondary School"
+158,"TEACHERS, SPECIAL EDUCATION",25-2051,"Special Education Teachers, Preschool"
+158,"TEACHERS, SPECIAL EDUCATION",25-2052,"Special Education Teachers, Kindergarten and Elementary School"
+158,"TEACHERS, SPECIAL EDUCATION",25-2053,"Special Education Teachers, Middle School"
+158,"TEACHERS, SPECIAL EDUCATION",25-2054,"Special Education Teachers, Secondary School"
+159,"TEACHERS, N.E.C.",21-1091,Health Educators
+159,"TEACHERS, N.E.C.",21-1094,Community Health Workers**
+159,"TEACHERS, N.E.C.",25-1192,"Home Economics Teachers, Postsecondary"
+159,"TEACHERS, N.E.C.",25-1193,"Recreation and Fitness Studies Teachers, Postsecondary"
+159,"TEACHERS, N.E.C.",25-1194,"Vocational Education Teachers, Postsecondary"
+159,"TEACHERS, N.E.C.",25-2022,"Middle School Teachers, Except Special and Career/Technical Education"
+159,"TEACHERS, N.E.C.",25-2031,"Secondary School Teachers, Except Special and Career/Technical Education"
+159,"TEACHERS, N.E.C.",25-2059,"Special Education Teachers, All Other"
+159,"TEACHERS, N.E.C.",25-3011,Adult Basic and Secondary Education and Literacy Teachers and Instructors
+159,"TEACHERS, N.E.C.",25-3021,Self-Enrichment Education Teachers
+159,"TEACHERS, N.E.C.",25-3099,"Teachers and Instructors, All Other"
+159,"TEACHERS, N.E.C.",25-9011,Audio-Visual and Multimedia Collections Specialists
+159,"TEACHERS, N.E.C.",25-9021,Farm and Home Management Advisors
+159,"TEACHERS, N.E.C.",25-9031,Instructional Coordinators
+159,"TEACHERS, N.E.C.",39-9011,Childcare Workers
+159,"TEACHERS, N.E.C.",39-9031,Fitness Trainers and Aerobics Instructors
+163,"COUNSELORS, EDUCATIONAL AND VOCATIONAL",21-1012,"Educational, Guidance, School, and Vocational Counselors"
+163,"COUNSELORS, EDUCATIONAL AND VOCATIONAL",21-1013,Marriage and Family Therapists
+163,"COUNSELORS, EDUCATIONAL AND VOCATIONAL",21-1015,Rehabilitation Counselors
+164,LIBRARIANS,13-1121,"Meeting, Convention, and Event Planners**"
+164,LIBRARIANS,13-1161,Market Research Analysts and Marketing Specialists**
+164,LIBRARIANS,13-1199,"Business Operations Specialists, All Other"
+164,LIBRARIANS,25-4021,Librarians
+164,LIBRARIANS,25-4031,Library Technicians
+164,LIBRARIANS,25-9099,"Education, Training, and Library Workers, All Other"
+165,ARCHIVISTS AND CURATORS,25-4011,Archivists
+165,ARCHIVISTS AND CURATORS,25-4012,Curators
+165,ARCHIVISTS AND CURATORS,25-4013,Museum Technicians and Conservators
+165,ARCHIVISTS AND CURATORS,25-9099,"Education, Training, and Library Workers, All Other"
+165,ARCHIVISTS AND CURATORS,39-7011,Tour Guides and Escorts
+166,ECONOMISTS,13-1161,Market Research Analysts and Marketing Specialists**
+166,ECONOMISTS,19-3011,Economists
+167,PSYCHOLOGISTS,19-3031,"Clinical, Counseling, and School Psychologists"
+167,PSYCHOLOGISTS,19-3032,Industrial-Organizational Psychologists
+167,PSYCHOLOGISTS,19-3039,"Psychologists, All Other"
+168,SOCIOLOGISTS,19-3041,Sociologists
+169,"SOCIAL SCIENTISTS, N.E.C.",19-3091,Anthropologists and Archeologists
+169,"SOCIAL SCIENTISTS, N.E.C.",19-3093,Historians
+169,"SOCIAL SCIENTISTS, N.E.C.",19-3094,Political Scientists
+169,"SOCIAL SCIENTISTS, N.E.C.",19-3099,"Social Scientists and Related Workers, All Other"
+169,"SOCIAL SCIENTISTS, N.E.C.",25-4013,Museum Technicians and Conservators
+169,"SOCIAL SCIENTISTS, N.E.C.",27-3043,Writers and Authors
+173,URBAN PLANNERS,19-3051,Urban and Regional Planners
+174,SOCIAL WORKERS,11-9151,Social and Community Service Managers
+174,SOCIAL WORKERS,21-1011,Substance Abuse and Behavioral Disorder Counselors
+174,SOCIAL WORKERS,21-1021,"Child, Family, and School Social Workers"
+174,SOCIAL WORKERS,21-1022,Healthcare Social Workers
+174,SOCIAL WORKERS,21-1023,Mental Health and Substance Abuse Social Workers
+174,SOCIAL WORKERS,21-1092,Probation Officers and Correctional Treatment Specialists
+174,SOCIAL WORKERS,21-1093,Social and Human Service Assistants
+174,SOCIAL WORKERS,33-3021,Detectives and Criminal Investigators
+174,SOCIAL WORKERS,39-9041,Residential Advisors
+174,SOCIAL WORKERS,43-4061,"Eligibility Interviewers, Government Programs"
+175,RECREATION WORKERS,39-9032,Recreation Workers
+176,CLERGY,21-2011,Clergy
+177,"RELIGIOUS WORKERS, N.E.C.",21-2021,"Directors, Religious Activities and Education"
+177,"RELIGIOUS WORKERS, N.E.C.",21-2099,"Religious Workers, All Other"
+178,LAWYERS,13-1121,"Meeting, Convention, and Event Planners**"
+178,LAWYERS,13-1161,Market Research Analysts and Marketing Specialists**
+178,LAWYERS,13-1199,"Business Operations Specialists, All Other"
+178,LAWYERS,23-1011,Lawyers
+179,JUDGES,23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers"
+179,JUDGES,23-1023,"Judges, Magistrate Judges, and Magistrates"
+183,AUTHORS,27-3043,Writers and Authors
+183,AUTHORS,27-3099,"Media and Communication Workers, All Other"
+184,TECHNICAL WRITERS,27-3042,Technical Writers
+185,DESIGNERS,27-1011,Art Directors
+185,DESIGNERS,27-1021,Commercial and Industrial Designers
+185,DESIGNERS,27-1022,Fashion Designers
+185,DESIGNERS,27-1023,Floral Designers
+185,DESIGNERS,27-1024,Graphic Designers
+185,DESIGNERS,27-1025,Interior Designers
+185,DESIGNERS,27-1026,Merchandise Displayers and Window Trimmers
+185,DESIGNERS,27-1027,Set and Exhibit Designers
+186,MUSICIANS AND COMPOSERS,13-1121,"Meeting, Convention, and Event Planners**"
+186,MUSICIANS AND COMPOSERS,13-1161,Market Research Analysts and Marketing Specialists**
+186,MUSICIANS AND COMPOSERS,13-1199,"Business Operations Specialists, All Other"
+186,MUSICIANS AND COMPOSERS,27-2041,Music Directors and Composers
+186,MUSICIANS AND COMPOSERS,27-2042,Musicians and Singers
+186,MUSICIANS AND COMPOSERS,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other"
+187,ACTORS AND DIRECTORS,27-2011,Actors
+187,ACTORS AND DIRECTORS,27-2012,Producers and Directors
+187,ACTORS AND DIRECTORS,27-3041,Editors
+187,ACTORS AND DIRECTORS,43-9061,"Office Clerks, General"
+188,"PAINTERS, SCULPTORS, CRAFT-ARTISTS, AND ARTIST PRINTMAKERS",27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+188,"PAINTERS, SCULPTORS, CRAFT-ARTISTS, AND ARTIST PRINTMAKERS",27-1014,Multimedia Artists and Animators
+188,"PAINTERS, SCULPTORS, CRAFT-ARTISTS, AND ARTIST PRINTMAKERS",27-1021,Commercial and Industrial Designers
+188,"PAINTERS, SCULPTORS, CRAFT-ARTISTS, AND ARTIST PRINTMAKERS",33-1012,First-Line Supervisors of Police and Detectives
+189,PHOTOGRAPHERS,27-4021,Photographers
+189,PHOTOGRAPHERS,27-4031,"Camera Operators, Television, Video, and Motion Picture"
+189,PHOTOGRAPHERS,39-9099,"Personal Care and Service Workers, All Other"
+193,DANCERS,27-2031,Dancers
+193,DANCERS,27-2032,Choreographers
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",11-1011,Chief Executives
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",11-9199,"Managers, All Other"
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",23-2091,Court Reporters
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",25-9011,Audio-Visual and Multimedia Collections Specialists
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-1027,Set and Exhibit Designers
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-2011,Actors
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-2012,Producers and Directors
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-2021,Athletes and Sports Competitors
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-2099,"Entertainers and Performers, Sports and Related Workers, All Other"
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-3043,Writers and Authors
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-3091,Interpreters and Translators
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",27-4011,Audio and Video Equipment Technicians
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",39-2011,Animal Trainers
+194,"ARTISTS, PERFORMERS, AND RELATED WORKERS, N.E.C.",51-7099,"Woodworkers, All Other"
+195,EDITORS AND REPORTERS,27-3021,Broadcast News Analysts
+195,EDITORS AND REPORTERS,27-3022,Reporters and Correspondents
+195,EDITORS AND REPORTERS,27-3041,Editors
+195,EDITORS AND REPORTERS,27-3042,Technical Writers
+195,EDITORS AND REPORTERS,27-3043,Writers and Authors
+195,EDITORS AND REPORTERS,27-4032,Film and Video Editors
+197,PUBLIC RELATIONS SPECIALISTS,11-2031,Public Relations and Fundraising Managers
+197,PUBLIC RELATIONS SPECIALISTS,13-1071,Human Resources Specialists**
+197,PUBLIC RELATIONS SPECIALISTS,13-1075,Labor Relations Specialists
+197,PUBLIC RELATIONS SPECIALISTS,13-1121,"Meeting, Convention, and Event Planners**"
+197,PUBLIC RELATIONS SPECIALISTS,13-1161,Market Research Analysts and Marketing Specialists**
+197,PUBLIC RELATIONS SPECIALISTS,27-3031,Public Relations Specialists
+198,ANNOUNCERS,27-3011,Radio and Television Announcers
+198,ANNOUNCERS,27-3012,Public Address System and Other Announcers
+199,ATHLETES,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+199,ATHLETES,27-2021,Athletes and Sports Competitors
+199,ATHLETES,27-2022,Coaches and Scouts
+199,ATHLETES,27-2023,"Umpires, Referees, and Other Sports Officials"
+199,ATHLETES,29-9091,Athletic Trainers
+199,ATHLETES,39-2021,Nonfarm Animal Caretakers
+203,CLINICAL LABORATORY TECHNOLOGISTS AND TECHNICIANS,29-2011,Medical and Clinical Laboratory Technologists
+204,DENTAL HYGIENISTS,29-2021,Dental Hygienists
+205,HEALTH RECORD TECHNOLOGISTS AND TECHNICIANS,29-2071,Medical Records and Health Information Technicians
+206,RADIOLOGIC TECHNICIANS,29-1124,Radiation Therapists
+206,RADIOLOGIC TECHNICIANS,29-2031,Cardiovascular Technologists and Technicians
+206,RADIOLOGIC TECHNICIANS,29-2033,Nuclear Medicine Technologists
+206,RADIOLOGIC TECHNICIANS,29-2034,Radiologic Technologists
+206,RADIOLOGIC TECHNICIANS,29-2035,Magnetic Resonance Imaging Technologists
+207,LICENSED PRACTICAL NURSES,29-2053,Psychiatric Technicians
+207,LICENSED PRACTICAL NURSES,29-2061,Licensed Practical and Licensed Vocational Nurses
+207,LICENSED PRACTICAL NURSES,31-1014,Nursing Assistants
+207,LICENSED PRACTICAL NURSES,31-1015,Orderlies
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-1071,Physician Assistants
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2011,Medical and Clinical Laboratory Technologists
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2012,Medical and Clinical Laboratory Technicians
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2031,Cardiovascular Technologists and Technicians
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2032,Diagnostic Medical Sonographers
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2034,Radiologic Technologists
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2035,Magnetic Resonance Imaging Technologists
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2041,Emergency Medical Technicians and Paramedics
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2052,Pharmacy Technicians
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2055,Surgical Technologists
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2056,Veterinary Technologists and Technicians
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2057,Ophthalmic Medical Technicians
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2091,Orthotists and Prosthetists
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2092,Hearing Aid Specialists
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-2099,"Health Technologists and Technicians, All Other"
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-9011,Occupational Health and Safety Specialists
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-9092,Genetic Counselors
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",29-9099,"Healthcare Practitioners and Technical Workers, All Other"
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",31-9095,Pharmacy Aides
+208,"HEALTH TECHNOLOGISTS AND TECHNICIANS, N.E.C.",31-9096,Veterinary Assistants and Laboratory Animal Caretakers
+213,ELECTRICAL AND ELECTRONIC TECHNICIANS,17-3023,Electrical and Electronics Engineering Technicians
+213,ELECTRICAL AND ELECTRONIC TECHNICIANS,27-4012,Broadcast Technicians
+213,ELECTRICAL AND ELECTRONIC TECHNICIANS,51-9141,Semiconductor Processors
+214,INDUSTRIAL ENGINEERING TECHNICIANS,17-3026,Industrial Engineering Technicians
+215,MECHANICAL ENGINEERING TECHNICIANS,17-2141,Mechanical Engineers
+215,MECHANICAL ENGINEERING TECHNICIANS,17-3027,Mechanical Engineering Technicians
+216,"ENGINEERING TECHNICIANS, N.E.C.",17-3012,Electrical and Electronics Drafters
+216,"ENGINEERING TECHNICIANS, N.E.C.",17-3021,Aerospace Engineering and Operations Technicians
+216,"ENGINEERING TECHNICIANS, N.E.C.",17-3022,Civil Engineering Technicians
+216,"ENGINEERING TECHNICIANS, N.E.C.",17-3029,"Engineering Technicians, Except Drafters, All Other"
+216,"ENGINEERING TECHNICIANS, N.E.C.",19-4031,Chemical Technicians
+216,"ENGINEERING TECHNICIANS, N.E.C.",19-4041,Geological and Petroleum Technicians
+216,"ENGINEERING TECHNICIANS, N.E.C.",27-3042,Technical Writers
+216,"ENGINEERING TECHNICIANS, N.E.C.",27-4011,Audio and Video Equipment Technicians
+216,"ENGINEERING TECHNICIANS, N.E.C.",27-4014,Sound Engineering Technicians
+216,"ENGINEERING TECHNICIANS, N.E.C.",27-4032,Film and Video Editors
+216,"ENGINEERING TECHNICIANS, N.E.C.",51-4041,Machinists
+216,"ENGINEERING TECHNICIANS, N.E.C.",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+217,DRAFTING OCCUPATIONS,17-3011,Architectural and Civil Drafters
+217,DRAFTING OCCUPATIONS,17-3012,Electrical and Electronics Drafters
+217,DRAFTING OCCUPATIONS,17-3013,Mechanical Drafters
+217,DRAFTING OCCUPATIONS,17-3019,"Drafters, All Other"
+218,SURVEYING AND MAPPING TECHNICIANS,17-1021,Cartographers and Photogrammetrists
+218,SURVEYING AND MAPPING TECHNICIANS,17-3031,Surveying and Mapping Technicians
+223,BIOLOGICAL TECHNICIANS,19-1021,Biochemists and Biophysicists
+223,BIOLOGICAL TECHNICIANS,19-4011,Agricultural and Food Science Technicians
+223,BIOLOGICAL TECHNICIANS,19-4021,Biological Technicians
+223,BIOLOGICAL TECHNICIANS,19-4099,"Life, Physical, and Social Science Technicians, All Other"
+223,BIOLOGICAL TECHNICIANS,37-3013,Tree Trimmers and Pruners
+224,CHEMICAL TECHNICIANS,19-4011,Agricultural and Food Science Technicians
+224,CHEMICAL TECHNICIANS,19-4031,Chemical Technicians
+224,CHEMICAL TECHNICIANS,19-4091,"Environmental Science and Protection Technicians, Including Health"
+224,CHEMICAL TECHNICIANS,19-4099,"Life, Physical, and Social Science Technicians, All Other"
+225,"SCIENCE TECHNICIANS, N.E.C.",15-2091,Mathematical Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",17-3025,Environmental Engineering Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",17-3026,Industrial Engineering Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",17-3029,"Engineering Technicians, Except Drafters, All Other"
+225,"SCIENCE TECHNICIANS, N.E.C.",17-3031,Surveying and Mapping Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",19-4011,Agricultural and Food Science Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",19-4031,Chemical Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",19-4041,Geological and Petroleum Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",19-4051,Nuclear Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",19-4091,"Environmental Science and Protection Technicians, Including Health"
+225,"SCIENCE TECHNICIANS, N.E.C.",19-4092,Forensic Science Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",19-4099,"Life, Physical, and Social Science Technicians, All Other"
+225,"SCIENCE TECHNICIANS, N.E.C.",27-4021,Photographers
+225,"SCIENCE TECHNICIANS, N.E.C.",29-9012,Occupational Health and Safety Technicians
+225,"SCIENCE TECHNICIANS, N.E.C.",45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+226,AIRPLANE PILOTS AND NAVIGATORS,11-3071,"Transportation, Storage, and Distribution Managers"
+226,AIRPLANE PILOTS AND NAVIGATORS,17-3029,"Engineering Technicians, Except Drafters, All Other"
+226,AIRPLANE PILOTS AND NAVIGATORS,53-2011,"Airline Pilots, Copilots, and Flight Engineers"
+226,AIRPLANE PILOTS AND NAVIGATORS,53-2012,Commercial Pilots
+226,AIRPLANE PILOTS AND NAVIGATORS,53-6099,"Transportation Workers, All Other"
+227,AIR TRAFFIC CONTROLLERS,53-2021,Air Traffic Controllers
+228,BROADCAST EQUIPMENT OPERATORS,27-4012,Broadcast Technicians
+228,BROADCAST EQUIPMENT OPERATORS,27-4013,Radio Operators
+229,COMPUTER PROGRAMMERS,15-1131,Computer Programmers
+233,"TOOL PROGRAMMERS, NUMERICAL CONTROL",51-4012,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"
+234,LEGAL ASSISTANTS,23-1012,Judicial Law Clerks
+234,LEGAL ASSISTANTS,23-2011,Paralegals and Legal Assistants**
+234,LEGAL ASSISTANTS,23-2093,"Title Examiners, Abstractors, and Searchers"
+234,LEGAL ASSISTANTS,23-2099,"Legal Support Workers, All Other"
+235,"TECHNICIANS, N.E.C.",11-9199,"Managers, All Other"
+235,"TECHNICIANS, N.E.C.",13-1121,"Meeting, Convention, and Event Planners**"
+235,"TECHNICIANS, N.E.C.",13-1161,Market Research Analysts and Marketing Specialists**
+235,"TECHNICIANS, N.E.C.",13-1199,"Business Operations Specialists, All Other"
+235,"TECHNICIANS, N.E.C.",15-1122,Information Security Analysts
+235,"TECHNICIANS, N.E.C.",15-1134,Web Developers
+235,"TECHNICIANS, N.E.C.",15-1142,Network and Computer Systems Administrators**
+235,"TECHNICIANS, N.E.C.",15-1143,Computer Network Architects**
+235,"TECHNICIANS, N.E.C.",15-1151,Computer User Support Specialists
+235,"TECHNICIANS, N.E.C.",15-1152,Computer Network Support Specialists
+235,"TECHNICIANS, N.E.C.",17-3022,Civil Engineering Technicians
+235,"TECHNICIANS, N.E.C.",17-3029,"Engineering Technicians, Except Drafters, All Other"
+235,"TECHNICIANS, N.E.C.",19-2042,"Geoscientists, Except Hydrologists and Geographers"
+235,"TECHNICIANS, N.E.C.",19-4011,Agricultural and Food Science Technicians
+235,"TECHNICIANS, N.E.C.",19-4021,Biological Technicians
+235,"TECHNICIANS, N.E.C.",19-4051,Nuclear Technicians
+235,"TECHNICIANS, N.E.C.",19-4061,Social Science Research Assistants
+235,"TECHNICIANS, N.E.C.",25-4013,Museum Technicians and Conservators
+235,"TECHNICIANS, N.E.C.",25-9041,Teacher Assistants
+235,"TECHNICIANS, N.E.C.",27-1012,Craft Artists
+235,"TECHNICIANS, N.E.C.",27-3099,"Media and Communication Workers, All Other"
+235,"TECHNICIANS, N.E.C.",27-4011,Audio and Video Equipment Technicians
+235,"TECHNICIANS, N.E.C.",27-4012,Broadcast Technicians
+235,"TECHNICIANS, N.E.C.",27-4014,Sound Engineering Technicians
+235,"TECHNICIANS, N.E.C.",33-3021,Detectives and Criminal Investigators
+235,"TECHNICIANS, N.E.C.",33-9093,Transportation Security Screeners**
+235,"TECHNICIANS, N.E.C.",33-9099,"Protective Service Workers, All Other"
+235,"TECHNICIANS, N.E.C.",39-4011,Embalmers
+235,"TECHNICIANS, N.E.C.",43-9061,"Office Clerks, General"
+235,"TECHNICIANS, N.E.C.",51-5111,Prepress Technicians and Workers
+235,"TECHNICIANS, N.E.C.",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+235,"TECHNICIANS, N.E.C.",51-9071,Jewelers and Precious Stone and Metal Workers
+235,"TECHNICIANS, N.E.C.",53-6041,Traffic Technicians
+235,"TECHNICIANS, N.E.C.",53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
+235,"TECHNICIANS, N.E.C.",55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other"
+243,"SUPERVISORS AND PROPRIETORS, SALES OCCUPATIONS,SALARIED&SELF-EMPLOYED",41-1011,First-Line Supervisors of Retail Sales Workers
+243,"SUPERVISORS AND PROPRIETORS, SALES OCCUPATIONS,SALARIED&SELF-EMPLOYED",41-1012,First-Line Supervisors of Non-Retail Sales Workers
+243,"SUPERVISORS AND PROPRIETORS, SALES OCCUPATIONS,SALARIED&SELF-EMPLOYED",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+253,INSURANCE SALES OCCUPATIONS,41-3021,Insurance Sales Agents
+254,REAL ESTATE SALES OCCUPATIONS,11-9141,"Property, Real Estate, and Community Association Managers"
+254,REAL ESTATE SALES OCCUPATIONS,13-2021,Appraisers and Assessors of Real Estate
+254,REAL ESTATE SALES OCCUPATIONS,41-9021,Real Estate Brokers
+254,REAL ESTATE SALES OCCUPATIONS,41-9022,Real Estate Sales Agents
+255,SECURITIES AND FINANCIAL SERVICES SALES OCCUPATIONS,41-3031,"Securities, Commodities, and Financial Services Sales Agents"
+256,ADVERTISING AND RELATED SALES OCCUPATIONS,41-3011,Advertising Sales Agents
+257,"SALES OCCUPATIONS, OTHER BUSINESS  SERVICES",41-3099,"Sales Representatives, Services, All Other"
+258,SALES ENGINEERS,41-9031,Sales Engineers
+259,"SALES REPRESENTATIVES, MINING, MANUFACTURING, AND WHOLSALE",41-2031,Retail Salespersons
+259,"SALES REPRESENTATIVES, MINING, MANUFACTURING, AND WHOLSALE",41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+259,"SALES REPRESENTATIVES, MINING, MANUFACTURING, AND WHOLSALE",41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+263,"SALES WORKERS, MOTOR VEHICLES AND BOATS",41-2031,Retail Salespersons
+264,"SALES WORKERS, APPAREL",41-2031,Retail Salespersons
+265,"SALES WORKERS, SHOES",41-2031,Retail Salespersons
+265,"SALES WORKERS, SHOES",41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+266,"SALES WORKERS, FURNITURE AND HOME FURNISHINGS",41-2031,Retail Salespersons
+266,"SALES WORKERS, FURNITURE AND HOME FURNISHINGS",41-3099,"Sales Representatives, Services, All Other"
+266,"SALES WORKERS, FURNITURE AND HOME FURNISHINGS",41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+267,"SALES WORKERS, RADIO, TV, HI-FI, AND APPLIANCES",41-2031,Retail Salespersons
+267,"SALES WORKERS, RADIO, TV, HI-FI, AND APPLIANCES",41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+268,"SALES WORKERS, HARDWARE AND BUILDING SUPPLIES",41-2031,Retail Salespersons
+268,"SALES WORKERS, HARDWARE AND BUILDING SUPPLIES",41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+269,"SALES WORKERS, PARTS",41-2022,Parts Salespersons
+274,"SALES WORKERS, OTHER COMMODITIES",11-2031,Public Relations and Fundraising Managers
+274,"SALES WORKERS, OTHER COMMODITIES",13-1131,Fundraisers
+274,"SALES WORKERS, OTHER COMMODITIES",41-2021,Counter and Rental Clerks
+274,"SALES WORKERS, OTHER COMMODITIES",41-2031,Retail Salespersons
+274,"SALES WORKERS, OTHER COMMODITIES",41-3041,Travel Agents
+274,"SALES WORKERS, OTHER COMMODITIES",41-3099,"Sales Representatives, Services, All Other"
+274,"SALES WORKERS, OTHER COMMODITIES",41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+274,"SALES WORKERS, OTHER COMMODITIES",41-9099,"Sales and Related Workers, All Other"
+274,"SALES WORKERS, OTHER COMMODITIES",43-5081,Stock Clerks and Order Fillers
+275,SALES COUNTER CLERKS,41-2021,Counter and Rental Clerks
+276,CASHIERS,35-9099,"Food Preparation and Serving Related Workers, All Other"
+276,CASHIERS,41-2011,Cashiers
+276,CASHIERS,41-2012,Gaming Change Persons and Booth Cashiers
+276,CASHIERS,43-3041,Gaming Cage Workers
+276,CASHIERS,43-3099,"Financial Clerks, All Other"
+276,CASHIERS,43-4151,Order Clerks
+276,CASHIERS,43-9199,"Office and Administrative Support Workers, All Other"
+277,STREET AND DOOR-TO-DOOR SALES WORKERS,41-1012,First-Line Supervisors of Non-Retail Sales Workers
+277,STREET AND DOOR-TO-DOOR SALES WORKERS,41-9041,Telemarketers
+277,STREET AND DOOR-TO-DOOR SALES WORKERS,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+278,NEWS VENDORS,41-9091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+283,"DEMONSTRATORS, PROMOTERS AND MODELS, SALES",41-3099,"Sales Representatives, Services, All Other"
+283,"DEMONSTRATORS, PROMOTERS AND MODELS, SALES",41-9011,Demonstrators and Product Promoters
+283,"DEMONSTRATORS, PROMOTERS AND MODELS, SALES",41-9012,Models
+284,AUCTIONEERS,13-1131,Fundraisers
+284,AUCTIONEERS,41-9099,"Sales and Related Workers, All Other"
+285,"SALES SUPPORT OCCUPATIONS, N.E.C.",13-1131,Fundraisers
+285,"SALES SUPPORT OCCUPATIONS, N.E.C.",27-1019,"Artists and Related Workers, All Other"
+285,"SALES SUPPORT OCCUPATIONS, N.E.C.",29-2081,"Opticians, Dispensing"
+285,"SALES SUPPORT OCCUPATIONS, N.E.C.",41-3099,"Sales Representatives, Services, All Other"
+285,"SALES SUPPORT OCCUPATIONS, N.E.C.",41-9099,"Sales and Related Workers, All Other"
+285,"SALES SUPPORT OCCUPATIONS, N.E.C.",43-5021,Couriers and Messengers
+285,"SALES SUPPORT OCCUPATIONS, N.E.C.",43-5081,Stock Clerks and Order Fillers
+303,"SUPERVISORS, GENERAL OFFICE",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+304,"SUPERVISORS, COMPUTER EQUIPMENT OPERATORS",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+305,"SUPERVISORS, FINANCIAL RECORDS PROCESSING",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+306,CHIEF COMMUNICATIONS OPERATORS,43-1011,First-Line Supervisors of Office and Administrative Support Workers
+307,"SUPERVISORS, DISTRIBUTION, SCHEDULING AND ADJUSTING CLERKS",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+308,COMPUTER OPERATORS,43-9011,Computer Operators
+309,PERIPHERAL EQUIPMENT OPERATORS,43-9011,Computer Operators
+313,SECRETARIES,43-6012,Legal Secretaries
+313,SECRETARIES,43-6013,Medical Secretaries
+313,SECRETARIES,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+314,STENOGRAPHERS,23-2091,Court Reporters
+314,STENOGRAPHERS,31-9094,Medical Transcriptionists
+314,STENOGRAPHERS,43-9022,Word Processors and Typists
+315,TYPISTS,43-9022,Word Processors and Typists
+316,INTERVIEWERS,43-4061,"Eligibility Interviewers, Government Programs"
+316,INTERVIEWERS,43-4111,"Interviewers, Except Eligibility and Loan"
+316,INTERVIEWERS,43-4131,Loan Interviewers and Clerks
+316,INTERVIEWERS,43-4141,New Accounts Clerks
+317,HOTEL CLERKS,43-4081,"Hotel, Motel, and Resort Desk Clerks"
+318,TRANSPORTATION TICKET AND RESERVATION AGENTS,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks
+319,RECEPTIONISTS,43-4171,Receptionists and Information Clerks
+323,"INFORMATION CLERKS, N.E.C.",43-2099,"Communications Equipment Operators, All Other"
+323,"INFORMATION CLERKS, N.E.C.",43-3099,"Financial Clerks, All Other"
+323,"INFORMATION CLERKS, N.E.C.",43-4131,Loan Interviewers and Clerks
+323,"INFORMATION CLERKS, N.E.C.",43-4171,Receptionists and Information Clerks
+323,"INFORMATION CLERKS, N.E.C.",43-4181,Reservation and Transportation Ticket Agents and Travel Clerks
+323,"INFORMATION CLERKS, N.E.C.",43-9199,"Office and Administrative Support Workers, All Other"
+325,CLASSIFIED-AD CLERKS,43-4151,Order Clerks
+326,CORRESPONDENCE CLERKS,43-4021,Correspondence Clerks
+327,ORDER CLERKS,43-3061,Procurement Clerks
+327,ORDER CLERKS,43-4051,Customer Service Representatives
+327,ORDER CLERKS,43-4151,Order Clerks
+327,ORDER CLERKS,43-9061,"Office Clerks, General"
+328,"PERSONNEL CLERKS, EXCEPT PAYROLL AND TIMEKEEPING",13-1071,Human Resources Specialists**
+328,"PERSONNEL CLERKS, EXCEPT PAYROLL AND TIMEKEEPING",43-4161,"Human Resources Assistants, Except Payroll and Timekeeping"
+329,LIBRARY CLERKS,43-4121,"Library Assistants, Clerical"
+335,FILE CLERKS,43-4071,File Clerks
+336,RECORDS CLERKS,43-3021,Billing and Posting Clerks
+336,RECORDS CLERKS,43-3099,"Financial Clerks, All Other"
+336,RECORDS CLERKS,43-4011,Brokerage Clerks
+336,RECORDS CLERKS,43-4021,Correspondence Clerks
+336,RECORDS CLERKS,43-4051,Customer Service Representatives
+336,RECORDS CLERKS,43-5061,"Production, Planning, and Expediting Clerks"
+336,RECORDS CLERKS,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+336,RECORDS CLERKS,43-9041,Insurance Claims and Policy Processing Clerks
+336,RECORDS CLERKS,43-9061,"Office Clerks, General"
+336,RECORDS CLERKS,43-9199,"Office and Administrative Support Workers, All Other"
+336,RECORDS CLERKS,55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other"
+337,"BOOKKEEPERS, ACCOUNTING AND AUDITING CLERKS",13-2082,Tax Preparers
+337,"BOOKKEEPERS, ACCOUNTING AND AUDITING CLERKS",43-3021,Billing and Posting Clerks
+337,"BOOKKEEPERS, ACCOUNTING AND AUDITING CLERKS",43-3031,"Bookkeeping, Accounting, and Auditing Clerks"
+337,"BOOKKEEPERS, ACCOUNTING AND AUDITING CLERKS",43-3099,"Financial Clerks, All Other"
+337,"BOOKKEEPERS, ACCOUNTING AND AUDITING CLERKS",43-4011,Brokerage Clerks
+337,"BOOKKEEPERS, ACCOUNTING AND AUDITING CLERKS",43-9199,"Office and Administrative Support Workers, All Other"
+338,PAYROLL AND TIMEKEEPING CLERKS,43-3051,Payroll and Timekeeping Clerks
+339,BILLING CLERKS,43-3021,Billing and Posting Clerks
+343,COST AND RATE CLERKS,43-3021,Billing and Posting Clerks
+343,COST AND RATE CLERKS,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks
+344,"BILLING, POSTING, AND CALCULATING MACHINE OPERATORS",41-2011,Cashiers
+344,"BILLING, POSTING, AND CALCULATING MACHINE OPERATORS",43-3021,Billing and Posting Clerks
+344,"BILLING, POSTING, AND CALCULATING MACHINE OPERATORS",43-3031,"Bookkeeping, Accounting, and Auditing Clerks"
+344,"BILLING, POSTING, AND CALCULATING MACHINE OPERATORS",43-9061,"Office Clerks, General"
+345,DUPLICATING MACHINE OPERATORS,43-9071,"Office Machine Operators, Except Computer"
+346,MAIL PREPARING AND PAPER HANDLING MACHINE OPERATORS,43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service"
+347,"OFFICE MACHINE OPERATORS, N.E.C.",43-3099,"Financial Clerks, All Other"
+347,"OFFICE MACHINE OPERATORS, N.E.C.",43-9199,"Office and Administrative Support Workers, All Other"
+348,TELEPHONE OPERATORS,43-2011,"Switchboard Operators, Including Answering Service"
+348,TELEPHONE OPERATORS,43-2021,Telephone Operators
+348,TELEPHONE OPERATORS,43-2099,"Communications Equipment Operators, All Other"
+348,TELEPHONE OPERATORS,55-3015,Command and Control Center Specialists
+349,TELEGRAPHERS,43-2099,"Communications Equipment Operators, All Other"
+349,TELEGRAPHERS,43-9022,Word Processors and Typists
+353,"COMMUNICATIONS EQUIPMENT OPERATORS, N.E.C.",43-2011,"Switchboard Operators, Including Answering Service"
+353,"COMMUNICATIONS EQUIPMENT OPERATORS, N.E.C.",43-3099,"Financial Clerks, All Other"
+353,"COMMUNICATIONS EQUIPMENT OPERATORS, N.E.C.",43-5031,"Police, Fire, and Ambulance Dispatchers"
+353,"COMMUNICATIONS EQUIPMENT OPERATORS, N.E.C.",43-9199,"Office and Administrative Support Workers, All Other"
+354,"POSTAL CLERKS, EXC. MAIL CARRIERS",13-1121,"Meeting, Convention, and Event Planners**"
+354,"POSTAL CLERKS, EXC. MAIL CARRIERS",13-1161,Market Research Analysts and Marketing Specialists**
+354,"POSTAL CLERKS, EXC. MAIL CARRIERS",13-1199,"Business Operations Specialists, All Other"
+354,"POSTAL CLERKS, EXC. MAIL CARRIERS",43-5051,Postal Service Clerks
+354,"POSTAL CLERKS, EXC. MAIL CARRIERS",43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+355,"MAIL CARRIERS, POSTAL SERVICE",43-5052,Postal Service Mail Carriers
+356,"MAIL CLERKS, EXC. POSTAL SERVICE",43-3099,"Financial Clerks, All Other"
+356,"MAIL CLERKS, EXC. POSTAL SERVICE",43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service"
+356,"MAIL CLERKS, EXC. POSTAL SERVICE",43-9199,"Office and Administrative Support Workers, All Other"
+357,MESSENGERS,27-2042,Musicians and Singers
+357,MESSENGERS,43-3099,"Financial Clerks, All Other"
+357,MESSENGERS,43-5021,Couriers and Messengers
+357,MESSENGERS,43-9199,"Office and Administrative Support Workers, All Other"
+359,DISPATCHERS,43-5031,"Police, Fire, and Ambulance Dispatchers"
+359,DISPATCHERS,43-5032,"Dispatchers, Except Police, Fire, and Ambulance"
+363,PRODUCTION COORDINATORS,43-3021,Billing and Posting Clerks
+363,PRODUCTION COORDINATORS,43-5032,"Dispatchers, Except Police, Fire, and Ambulance"
+363,PRODUCTION COORDINATORS,43-5061,"Production, Planning, and Expediting Clerks"
+363,PRODUCTION COORDINATORS,53-2022,Airfield Operations Specialists
+363,PRODUCTION COORDINATORS,53-7063,Machine Feeders and Offbearers
+364,"TRAFFIC, SHIPPING, AND RECEIVING CLERKS",43-5011,Cargo and Freight Agents
+364,"TRAFFIC, SHIPPING, AND RECEIVING CLERKS",43-5071,"Shipping, Receiving, and Traffic Clerks"
+364,"TRAFFIC, SHIPPING, AND RECEIVING CLERKS",43-5081,Stock Clerks and Order Fillers
+364,"TRAFFIC, SHIPPING, AND RECEIVING CLERKS",43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+364,"TRAFFIC, SHIPPING, AND RECEIVING CLERKS",43-9061,"Office Clerks, General"
+365,STOCK AND INVENTORY CLERKS,43-3061,Procurement Clerks
+365,STOCK AND INVENTORY CLERKS,43-4121,"Library Assistants, Clerical"
+365,STOCK AND INVENTORY CLERKS,43-5061,"Production, Planning, and Expediting Clerks"
+365,STOCK AND INVENTORY CLERKS,43-5071,"Shipping, Receiving, and Traffic Clerks"
+365,STOCK AND INVENTORY CLERKS,43-5081,Stock Clerks and Order Fillers
+365,STOCK AND INVENTORY CLERKS,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+365,STOCK AND INVENTORY CLERKS,43-9061,"Office Clerks, General"
+366,METER READERS,43-5041,"Meter Readers, Utilities"
+368,"WEIGHERS, MEASURERS, AND CHECKERS",43-5071,"Shipping, Receiving, and Traffic Clerks"
+368,"WEIGHERS, MEASURERS, AND CHECKERS",43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+369,SAMPLERS,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+369,SAMPLERS,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+373,EXPEDITERS,43-4051,Customer Service Representatives
+373,EXPEDITERS,43-5011,Cargo and Freight Agents
+373,EXPEDITERS,43-5061,"Production, Planning, and Expediting Clerks"
+373,EXPEDITERS,53-1011,Aircraft Cargo Handling Supervisors
+374,"MATERIAL RECORDING, SCHEDULING, AND DISTRIBUTING CLERKS, N.E.C.",43-3099,"Financial Clerks, All Other"
+374,"MATERIAL RECORDING, SCHEDULING, AND DISTRIBUTING CLERKS, N.E.C.",43-5081,Stock Clerks and Order Fillers
+374,"MATERIAL RECORDING, SCHEDULING, AND DISTRIBUTING CLERKS, N.E.C.",43-9061,"Office Clerks, General"
+374,"MATERIAL RECORDING, SCHEDULING, AND DISTRIBUTING CLERKS, N.E.C.",43-9199,"Office and Administrative Support Workers, All Other"
+374,"MATERIAL RECORDING, SCHEDULING, AND DISTRIBUTING CLERKS, N.E.C.",51-3099,"Food Processing Workers, All Other"
+374,"MATERIAL RECORDING, SCHEDULING, AND DISTRIBUTING CLERKS, N.E.C.",51-9199,"Production Workers, All Other"
+375,"INSURANCE ADJUSTERS, EXAMINERS, AND INVESTIGATORS",13-1031,"Claims Adjusters, Examiners, and Investigators"
+375,"INSURANCE ADJUSTERS, EXAMINERS, AND INVESTIGATORS",13-1032,"Insurance Appraisers, Auto Damage"
+375,"INSURANCE ADJUSTERS, EXAMINERS, AND INVESTIGATORS",43-9041,Insurance Claims and Policy Processing Clerks
+376,"INVESTIGATORS AND ADJUSTERS, EXCEPT INSURANCE",33-9021,Private Detectives and Investigators
+376,"INVESTIGATORS AND ADJUSTERS, EXCEPT INSURANCE",43-4041,"Credit Authorizers, Checkers, and Clerks"
+376,"INVESTIGATORS AND ADJUSTERS, EXCEPT INSURANCE",43-4051,Customer Service Representatives
+376,"INVESTIGATORS AND ADJUSTERS, EXCEPT INSURANCE",43-4199,"Information and Record Clerks, All Other"
+376,"INVESTIGATORS AND ADJUSTERS, EXCEPT INSURANCE",43-9061,"Office Clerks, General"
+377,"ELIGIBILITY CLERKS, SOCIAL WELFARE",43-4061,"Eligibility Interviewers, Government Programs"
+378,BILL AND ACCOUNT COLLECTORS,43-3011,Bill and Account Collectors
+379,GENERAL OFFICE CLERKS,27-2023,"Umpires, Referees, and Other Sports Officials"
+379,GENERAL OFFICE CLERKS,43-9061,"Office Clerks, General"
+383,BANK TELLERS,43-3071,Tellers
+384,PROOFREADERS,43-9081,Proofreaders and Copy Markers
+385,DATA-ENTRY KEYERS,43-9021,Data Entry Keyers
+385,DATA-ENTRY KEYERS,51-5111,Prepress Technicians and Workers
+386,STATISTICAL CLERKS,29-2071,Medical Records and Health Information Technicians
+386,STATISTICAL CLERKS,43-9111,Statistical Assistants
+387,TEACHERS AIDES,25-9099,"Education, Training, and Library Workers, All Other"
+387,TEACHERS AIDES,43-9061,"Office Clerks, General"
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-3021,Billing and Posting Clerks
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-4031,"Court, Municipal, and License Clerks"
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-4041,"Credit Authorizers, Checkers, and Clerks"
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-4131,Loan Interviewers and Clerks
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-4141,New Accounts Clerks
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-9022,Word Processors and Typists
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-9041,Insurance Claims and Policy Processing Clerks
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-9061,"Office Clerks, General"
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",43-9111,Statistical Assistants
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",51-5112,Printing Press Operators**
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",53-3031,Driver/Sales Workers
+389,"ADMINISTRATIVE SUPPORT OCCUPATIONS, N.E.C.",55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other"
+403,LAUNDERERS AND IRONERS,37-2012,Maids and Housekeeping Cleaners
+404,"COOKS, PRIVATE HOUSEHOLD",35-2013,"Cooks, Private Household"
+405,HOUSEKEEPERS AND BUTLERS,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers
+405,HOUSEKEEPERS AND BUTLERS,37-2012,Maids and Housekeeping Cleaners
+406,"CHILD CARE WORKERS, PRIVATE HOUSEHOLD",39-9011,Childcare Workers
+407,PRIVATE HOUSEHOLD CLEANERS AND SERVANTS,37-2012,Maids and Housekeeping Cleaners
+407,PRIVATE HOUSEHOLD CLEANERS AND SERVANTS,39-9021,Personal Care Aides
+407,PRIVATE HOUSEHOLD CLEANERS AND SERVANTS,39-9099,"Personal Care and Service Workers, All Other"
+413,"SUPERVISORS, FIREFIGHTING AND FIRE PREVENTION OCCUPATIONS",33-1021,First-Line Supervisors of Fire Fighting and Prevention Workers
+414,"SUPERVISORS, POLICE AND DETECTIVES",33-1011,First-Line Supervisors of Correctional Officers
+414,"SUPERVISORS, POLICE AND DETECTIVES",33-1012,First-Line Supervisors of Police and Detectives
+414,"SUPERVISORS, POLICE AND DETECTIVES",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+415,"SUPERVISORS, GUARDS",11-9199,"Managers, All Other"
+415,"SUPERVISORS, GUARDS",33-1099,"First-Line Supervisors of Protective Service Workers, All Other"
+415,"SUPERVISORS, GUARDS",33-9011,Animal Control Workers
+415,"SUPERVISORS, GUARDS",43-4031,"Court, Municipal, and License Clerks"
+416,FIRE INSPECTION AND FIRE PREVENTION OCCUPATIONS,33-2021,Fire Inspectors and Investigators
+416,FIRE INSPECTION AND FIRE PREVENTION OCCUPATIONS,33-2022,Forest Fire Inspectors and Prevention Specialists
+417,FIREFIGHTING OCCUPATIONS,33-2011,Firefighters
+418,"POLICE AND DETECTIVES, PUBLIC SERVICE",11-3131,Training and Development Managers
+418,"POLICE AND DETECTIVES, PUBLIC SERVICE",13-1121,"Meeting, Convention, and Event Planners**"
+418,"POLICE AND DETECTIVES, PUBLIC SERVICE",13-1161,Market Research Analysts and Marketing Specialists**
+418,"POLICE AND DETECTIVES, PUBLIC SERVICE",13-1199,"Business Operations Specialists, All Other"
+418,"POLICE AND DETECTIVES, PUBLIC SERVICE",33-3021,Detectives and Criminal Investigators
+418,"POLICE AND DETECTIVES, PUBLIC SERVICE",33-3051,Police and Sheriff's Patrol Officers
+418,"POLICE AND DETECTIVES, PUBLIC SERVICE",33-9093,Transportation Security Screeners**
+418,"POLICE AND DETECTIVES, PUBLIC SERVICE",33-9099,"Protective Service Workers, All Other"
+423,"SHERIFFS, BAILIFFS, AND OTHER LAW ENFORCEMENT OFFICERS",33-1012,First-Line Supervisors of Police and Detectives
+423,"SHERIFFS, BAILIFFS, AND OTHER LAW ENFORCEMENT OFFICERS",33-3011,Bailiffs
+423,"SHERIFFS, BAILIFFS, AND OTHER LAW ENFORCEMENT OFFICERS",33-3031,Fish and Game Wardens
+423,"SHERIFFS, BAILIFFS, AND OTHER LAW ENFORCEMENT OFFICERS",33-3041,Parking Enforcement Workers
+423,"SHERIFFS, BAILIFFS, AND OTHER LAW ENFORCEMENT OFFICERS",33-3051,Police and Sheriff's Patrol Officers
+423,"SHERIFFS, BAILIFFS, AND OTHER LAW ENFORCEMENT OFFICERS",33-9093,Transportation Security Screeners**
+423,"SHERIFFS, BAILIFFS, AND OTHER LAW ENFORCEMENT OFFICERS",33-9099,"Protective Service Workers, All Other"
+424,CORRECTIONAL INSTITUTION OFFICERS,21-1092,Probation Officers and Correctional Treatment Specialists
+424,CORRECTIONAL INSTITUTION OFFICERS,33-3012,Correctional Officers and Jailers
+425,CROSSING GUARDS,33-9091,Crossing Guards
+426,"GUARDS AND POLICE, EXC. PUBLIC SERVICE",11-9199,"Managers, All Other"
+426,"GUARDS AND POLICE, EXC. PUBLIC SERVICE",33-3052,Transit and Railroad Police
+426,"GUARDS AND POLICE, EXC. PUBLIC SERVICE",33-9021,Private Detectives and Investigators
+426,"GUARDS AND POLICE, EXC. PUBLIC SERVICE",33-9031,Gaming Surveillance Officers and Gaming Investigators
+426,"GUARDS AND POLICE, EXC. PUBLIC SERVICE",33-9032,Security Guards
+426,"GUARDS AND POLICE, EXC. PUBLIC SERVICE",33-9093,Transportation Security Screeners**
+427,"PROTECTIVE SERVICE OCCUPATIONS, N.E.C.",33-3031,Fish and Game Wardens
+427,"PROTECTIVE SERVICE OCCUPATIONS, N.E.C.",33-3051,Police and Sheriff's Patrol Officers
+427,"PROTECTIVE SERVICE OCCUPATIONS, N.E.C.",33-9011,Animal Control Workers
+427,"PROTECTIVE SERVICE OCCUPATIONS, N.E.C.",33-9031,Gaming Surveillance Officers and Gaming Investigators
+427,"PROTECTIVE SERVICE OCCUPATIONS, N.E.C.",33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+427,"PROTECTIVE SERVICE OCCUPATIONS, N.E.C.",33-9093,Transportation Security Screeners**
+427,"PROTECTIVE SERVICE OCCUPATIONS, N.E.C.",33-9099,"Protective Service Workers, All Other"
+433,"SUPERVISORS, FOOD PREPARATION AND SERVICE OCCUPATIONS",11-9051,Food Service Managers
+433,"SUPERVISORS, FOOD PREPARATION AND SERVICE OCCUPATIONS",35-1011,Chefs and Head Cooks
+433,"SUPERVISORS, FOOD PREPARATION AND SERVICE OCCUPATIONS",35-1012,First-Line Supervisors of Food Preparation and Serving Workers
+433,"SUPERVISORS, FOOD PREPARATION AND SERVICE OCCUPATIONS",35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+433,"SUPERVISORS, FOOD PREPARATION AND SERVICE OCCUPATIONS",39-1021,First-Line Supervisors of Personal Service Workers
+434,BARTENDERS,35-3011,Bartenders
+435,WAITERS AND WAITRESSES,35-3031,Waiters and Waitresses
+436,"COOKS, EXCEPT SHORT ORDER",35-2011,"Cooks, Fast Food"
+436,"COOKS, EXCEPT SHORT ORDER",35-2012,"Cooks, Institution and Cafeteria"
+436,"COOKS, EXCEPT SHORT ORDER",35-2014,"Cooks, Restaurant"
+436,"COOKS, EXCEPT SHORT ORDER",51-3011,Bakers
+437,SHORT-ORDER COOKS,35-2011,"Cooks, Fast Food"
+437,SHORT-ORDER COOKS,35-2015,"Cooks, Short Order"
+438,"FOOD COUNTER, FOUNTAIN AND RELATED OCCUPATIONS",35-3021,"Combined Food Preparation and Serving Workers, Including Fast Food"
+438,"FOOD COUNTER, FOUNTAIN AND RELATED OCCUPATIONS",35-3022,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+438,"FOOD COUNTER, FOUNTAIN AND RELATED OCCUPATIONS",35-3041,"Food Servers, Nonrestaurant"
+439,"KITCHEN WORKERS, FOOD PREPARATION",35-2021,Food Preparation Workers
+443,WAITERS/WAITRESSES ASSISTANTS,35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers
+444,MISCELLANEOUS FOOD PREPARATION OCCUPATIONS,35-2021,Food Preparation Workers
+444,MISCELLANEOUS FOOD PREPARATION OCCUPATIONS,35-9021,Dishwashers
+444,MISCELLANEOUS FOOD PREPARATION OCCUPATIONS,35-9099,"Food Preparation and Serving Related Workers, All Other"
+445,DENTAL ASSISTANTS,31-9091,Dental Assistants
+446,"HEALTH AIDES, EXCEPT NURSING",29-2012,Medical and Clinical Laboratory Technicians
+446,"HEALTH AIDES, EXCEPT NURSING",29-2052,Pharmacy Technicians
+446,"HEALTH AIDES, EXCEPT NURSING",31-1013,Psychiatric Aides
+446,"HEALTH AIDES, EXCEPT NURSING",31-1014,Nursing Assistants
+446,"HEALTH AIDES, EXCEPT NURSING",31-1015,Orderlies
+446,"HEALTH AIDES, EXCEPT NURSING",31-2011,Occupational Therapy Assistants
+446,"HEALTH AIDES, EXCEPT NURSING",31-2012,Occupational Therapy Aides
+446,"HEALTH AIDES, EXCEPT NURSING",31-2021,Physical Therapist Assistants
+446,"HEALTH AIDES, EXCEPT NURSING",31-2022,Physical Therapist Aides
+446,"HEALTH AIDES, EXCEPT NURSING",31-9092,Medical Assistants
+446,"HEALTH AIDES, EXCEPT NURSING",31-9093,Medical Equipment Preparers
+446,"HEALTH AIDES, EXCEPT NURSING",31-9097,Phlebotomists
+446,"HEALTH AIDES, EXCEPT NURSING",31-9099,"Healthcare Support Workers, All Other"
+446,"HEALTH AIDES, EXCEPT NURSING",39-9099,"Personal Care and Service Workers, All Other"
+446,"HEALTH AIDES, EXCEPT NURSING",51-3099,"Food Processing Workers, All Other"
+446,"HEALTH AIDES, EXCEPT NURSING",51-9199,"Production Workers, All Other"
+446,"HEALTH AIDES, EXCEPT NURSING",53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",29-2057,Ophthalmic Medical Technicians
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",29-2092,Hearing Aid Specialists
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",29-2099,"Health Technologists and Technicians, All Other"
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",31-1011,Home Health Aides
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",31-1013,Psychiatric Aides
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",31-1014,Nursing Assistants
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",31-1015,Orderlies
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",31-9097,Phlebotomists
+447,"NURSING AIDES, ORDERLIES, AND ATTENDANTS",31-9099,"Healthcare Support Workers, All Other"
+448,"SUPERVISORS, CLEANING AND BUILDING SERVICE WORKERS",11-9199,"Managers, All Other"
+448,"SUPERVISORS, CLEANING AND BUILDING SERVICE WORKERS",37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers
+448,"SUPERVISORS, CLEANING AND BUILDING SERVICE WORKERS",39-1021,First-Line Supervisors of Personal Service Workers
+449,MAIDS AND HOUSEMEN,37-2012,Maids and Housekeeping Cleaners
+449,MAIDS AND HOUSEMEN,37-2019,"Building Cleaning Workers, All Other"
+449,MAIDS AND HOUSEMEN,39-3093,"Locker Room, Coatroom, and Dressing Room Attendants"
+453,JANITORS AND CLEANERS,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+453,JANITORS AND CLEANERS,37-3011,Landscaping and Groundskeeping Workers
+453,JANITORS AND CLEANERS,47-2231,Solar Photovoltaic Installers**
+453,JANITORS AND CLEANERS,49-9081,Wind Turbine Service Technicians
+453,JANITORS AND CLEANERS,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+454,ELEVATOR OPERATORS,53-6099,"Transportation Workers, All Other"
+454,ELEVATOR OPERATORS,53-7199,"Material Moving Workers, All Other"
+455,PEST CONTROL OCCUPATIONS,37-2021,Pest Control Workers
+456,"SUPERVISORS, PERSONAL SERVICE OCCUPATIONS",11-9071,Gaming Managers
+456,"SUPERVISORS, PERSONAL SERVICE OCCUPATIONS",11-9199,"Managers, All Other"
+456,"SUPERVISORS, PERSONAL SERVICE OCCUPATIONS",39-1012,Slot Supervisors
+456,"SUPERVISORS, PERSONAL SERVICE OCCUPATIONS",39-1021,First-Line Supervisors of Personal Service Workers
+456,"SUPERVISORS, PERSONAL SERVICE OCCUPATIONS",53-2031,Flight Attendants
+457,BARBERS,39-5011,Barbers
+458,HAIRDRESSERS AND COSMETOLOGISTS,39-5012,"Hairdressers, Hairstylists, and Cosmetologists"
+458,HAIRDRESSERS AND COSMETOLOGISTS,39-5091,"Makeup Artists, Theatrical and Performance"
+458,HAIRDRESSERS AND COSMETOLOGISTS,39-5092,Manicurists and Pedicurists
+458,HAIRDRESSERS AND COSMETOLOGISTS,39-5093,Shampooers
+458,HAIRDRESSERS AND COSMETOLOGISTS,39-9099,"Personal Care and Service Workers, All Other"
+459,"ATTENDANTS, AMUSEMENT AND RECREATION FACILITIES",39-3011,Gaming Dealers
+459,"ATTENDANTS, AMUSEMENT AND RECREATION FACILITIES",39-3012,Gaming and Sports Book Writers and Runners
+459,"ATTENDANTS, AMUSEMENT AND RECREATION FACILITIES",39-3019,"Gaming Service Workers, All Other"
+459,"ATTENDANTS, AMUSEMENT AND RECREATION FACILITIES",39-3091,Amusement and Recreation Attendants
+463,GUIDES,39-7011,Tour Guides and Escorts
+463,GUIDES,39-7012,Travel Guides
+464,USHERS,39-3031,"Ushers, Lobby Attendants, and Ticket Takers"
+465,PUBLIC TRANSPORTATION ATTENDANTS,39-9099,"Personal Care and Service Workers, All Other"
+465,PUBLIC TRANSPORTATION ATTENDANTS,53-2031,Flight Attendants
+465,PUBLIC TRANSPORTATION ATTENDANTS,53-6061,"Transportation Attendants, Except Flight Attendants"
+466,BAGGAGE PORTERS AND BELLHOPS,39-6011,Baggage Porters and Bellhops
+467,WELFARE SERVICE AIDES,39-9021,Personal Care Aides
+468,"CHILD CARE WORKERS, EXCEPT PRIVATE HOUSEHOLD",39-9011,Childcare Workers
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",27-2023,"Umpires, Referees, and Other Sports Officials"
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",31-9011,Massage Therapists
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",31-9097,Phlebotomists
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",31-9099,"Healthcare Support Workers, All Other"
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",37-3019,"Grounds Maintenance Workers, All Other"
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",39-3091,Amusement and Recreation Attendants
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",39-3092,Costume Attendants
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",39-3093,"Locker Room, Coatroom, and Dressing Room Attendants"
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",39-4021,Funeral Attendants
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",39-7012,Travel Guides
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",39-9032,Recreation Workers
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",39-9099,"Personal Care and Service Workers, All Other"
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",49-9071,"Maintenance and Repair Workers, General"
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+469,"PERSONAL SERVICE OCCUPATIONS, N.E.C.",53-6061,"Transportation Attendants, Except Flight Attendants"
+473,"FARMERS, EXCEPT HORTICULTURAL",11-9013,"Farmers, Ranchers, and Other Agricultural Managers**"
+473,"FARMERS, EXCEPT HORTICULTURAL",45-2021,Animal Breeders
+473,"FARMERS, EXCEPT HORTICULTURAL",45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+473,"FARMERS, EXCEPT HORTICULTURAL",45-3011,Fishers and Related Fishing Workers
+474,HORTICULTURAL SPECIALTY FARMERS,11-9013,"Farmers, Ranchers, and Other Agricultural Managers**"
+475,"MANAGERS, FARMS, EXCEPT HORTICULTURAL",11-9013,"Farmers, Ranchers, and Other Agricultural Managers**"
+475,"MANAGERS, FARMS, EXCEPT HORTICULTURAL",41-1012,First-Line Supervisors of Non-Retail Sales Workers
+475,"MANAGERS, FARMS, EXCEPT HORTICULTURAL",45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+476,"MANAGERS, HORTICULTURAL SPECIALTY FARMS",11-9013,"Farmers, Ranchers, and Other Agricultural Managers**"
+477,"SUPERVISORS, FARM WORKERS",45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+479,FARM WORKERS,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+479,FARM WORKERS,37-3013,Tree Trimmers and Pruners
+479,FARM WORKERS,39-2011,Animal Trainers
+479,FARM WORKERS,45-2041,"Graders and Sorters, Agricultural Products"
+479,FARM WORKERS,45-2091,Agricultural Equipment Operators
+479,FARM WORKERS,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+479,FARM WORKERS,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+479,FARM WORKERS,45-2099,"Agricultural Workers, All Other"
+479,FARM WORKERS,51-3099,"Food Processing Workers, All Other"
+479,FARM WORKERS,51-9198,Helpers--Production Workers
+479,FARM WORKERS,51-9199,"Production Workers, All Other"
+479,FARM WORKERS,53-7063,Machine Feeders and Offbearers
+483,MARINE LIFE CULTIVATION WORKERS,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+483,MARINE LIFE CULTIVATION WORKERS,45-3011,Fishers and Related Fishing Workers
+484,NURSERY WORKERS,37-3011,Landscaping and Groundskeeping Workers
+484,NURSERY WORKERS,45-2091,Agricultural Equipment Operators
+484,NURSERY WORKERS,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+485,"SUPERVISORS, RELATED AGRICULTURAL OCCUPATIONS",37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+485,"SUPERVISORS, RELATED AGRICULTURAL OCCUPATIONS",45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+486,"GROUNDSKEEPERS AND GARDENERS, EXCEPT FARM",37-3011,Landscaping and Groundskeeping Workers
+486,"GROUNDSKEEPERS AND GARDENERS, EXCEPT FARM",37-3019,"Grounds Maintenance Workers, All Other"
+487,"ANIMAL CARETAKERS, EXCEPT FARM",39-2021,Nonfarm Animal Caretakers
+488,"GRADERS AND SORTERS, AGRICULTURAL PRODUCTS",45-2041,"Graders and Sorters, Agricultural Products"
+489,"INSPECTORS, AGRICULTURAL PRODUCTS",37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+489,"INSPECTORS, AGRICULTURAL PRODUCTS",45-2011,Agricultural Inspectors
+489,"INSPECTORS, AGRICULTURAL PRODUCTS",45-2041,"Graders and Sorters, Agricultural Products"
+489,"INSPECTORS, AGRICULTURAL PRODUCTS",45-2099,"Agricultural Workers, All Other"
+494,"SUPERVISORS, FORESTRY AND LOGGING WORKERS",45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+495,"FORESTRY WORKERS, EXCEPT LOGGING",19-4093,Forest and Conservation Technicians
+495,"FORESTRY WORKERS, EXCEPT LOGGING",45-4011,Forest and Conservation Workers
+496,TIMBER CUTTING AND LOGGING OCCUPATIONS,37-3013,Tree Trimmers and Pruners
+496,TIMBER CUTTING AND LOGGING OCCUPATIONS,37-3019,"Grounds Maintenance Workers, All Other"
+496,TIMBER CUTTING AND LOGGING OCCUPATIONS,45-4021,Fallers
+496,TIMBER CUTTING AND LOGGING OCCUPATIONS,45-4022,Logging Equipment Operators
+496,TIMBER CUTTING AND LOGGING OCCUPATIONS,45-4023,Log Graders and Scalers
+496,TIMBER CUTTING AND LOGGING OCCUPATIONS,45-4029,"Logging Workers, All Other"
+496,TIMBER CUTTING AND LOGGING OCCUPATIONS,49-9096,Riggers
+497,"CAPTAINS AND OTHER OFFICERS, FISHING VESSELS",53-5021,"Captains, Mates, and Pilots of Water Vessels"
+498,FISHERS,45-3011,Fishers and Related Fishing Workers
+499,HUNTERS AND TRAPPERS,11-9013,"Farmers, Ranchers, and Other Agricultural Managers**"
+499,HUNTERS AND TRAPPERS,45-3021,Hunters and Trappers
+503,"SUPERVISORS, MECHANICS AND REPAIRERS",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+503,"SUPERVISORS, MECHANICS AND REPAIRERS",49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+505,"AUTOMOBILE MECHANICS, EXC. APPRENTICES",49-3023,Automotive Service Technicians and Mechanics
+505,"AUTOMOBILE MECHANICS, EXC. APPRENTICES",49-3031,Bus and Truck Mechanics and Diesel Engine Specialists
+505,"AUTOMOBILE MECHANICS, EXC. APPRENTICES",51-3099,"Food Processing Workers, All Other"
+505,"AUTOMOBILE MECHANICS, EXC. APPRENTICES",51-9199,"Production Workers, All Other"
+506,AUTOMOBILE MECHANIC APPRENTICES,49-3023,Automotive Service Technicians and Mechanics
+506,AUTOMOBILE MECHANIC APPRENTICES,49-3031,Bus and Truck Mechanics and Diesel Engine Specialists
+506,AUTOMOBILE MECHANIC APPRENTICES,51-3099,"Food Processing Workers, All Other"
+506,AUTOMOBILE MECHANIC APPRENTICES,51-9199,"Production Workers, All Other"
+507,"BUS, TRUCK, AND STATIONARY ENGINE MECHANICS",49-3031,Bus and Truck Mechanics and Diesel Engine Specialists
+507,"BUS, TRUCK, AND STATIONARY ENGINE MECHANICS",51-2031,Engine and Other Machine Assemblers
+508,AIRCRAFT ENGINE MECHANICS,49-3011,Aircraft Mechanics and Service Technicians
+509,SMALL ENGINE REPAIRERS,49-3051,Motorboat Mechanics and Service Technicians
+509,SMALL ENGINE REPAIRERS,49-3052,Motorcycle Mechanics
+509,SMALL ENGINE REPAIRERS,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,47-2231,Solar Photovoltaic Installers**
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,49-3021,Automotive Body and Related Repairers
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,49-3022,Automotive Glass Installers and Repairers
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,49-3023,Automotive Service Technicians and Mechanics
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,49-3052,Motorcycle Mechanics
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,49-9081,Wind Turbine Service Technicians
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+514,AUTOMOBILE BODY AND RELATED REPAIRERS,53-7061,Cleaners of Vehicles and Equipment
+515,"AIRCRAFT MECHANICS, EXC. ENGINE",47-2231,Solar Photovoltaic Installers**
+515,"AIRCRAFT MECHANICS, EXC. ENGINE",49-3011,Aircraft Mechanics and Service Technicians
+515,"AIRCRAFT MECHANICS, EXC. ENGINE",49-9081,Wind Turbine Service Technicians
+515,"AIRCRAFT MECHANICS, EXC. ENGINE",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+515,"AIRCRAFT MECHANICS, EXC. ENGINE",51-9022,"Grinding and Polishing Workers, Hand"
+516,HEAVY EQUIPMENT MECHANICS,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines"
+516,HEAVY EQUIPMENT MECHANICS,49-3043,Rail Car Repairers
+517,FARM EQUIPMENT MECHANICS,49-3041,Farm Equipment Mechanics and Service Technicians
+517,FARM EQUIPMENT MECHANICS,49-9043,"Maintenance Workers, Machinery"
+518,INDUSTRIAL MACHINERY REPAIRERS,49-3031,Bus and Truck Mechanics and Diesel Engine Specialists
+518,INDUSTRIAL MACHINERY REPAIRERS,49-9041,Industrial Machinery Mechanics
+518,INDUSTRIAL MACHINERY REPAIRERS,51-4041,Machinists
+519,MACHINERY MAINTENANCE OCCUPATIONS,47-2231,Solar Photovoltaic Installers**
+519,MACHINERY MAINTENANCE OCCUPATIONS,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+519,MACHINERY MAINTENANCE OCCUPATIONS,49-9041,Industrial Machinery Mechanics
+519,MACHINERY MAINTENANCE OCCUPATIONS,49-9043,"Maintenance Workers, Machinery"
+519,MACHINERY MAINTENANCE OCCUPATIONS,49-9081,Wind Turbine Service Technicians
+519,MACHINERY MAINTENANCE OCCUPATIONS,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+519,MACHINERY MAINTENANCE OCCUPATIONS,51-3099,"Food Processing Workers, All Other"
+519,MACHINERY MAINTENANCE OCCUPATIONS,51-4194,"Tool Grinders, Filers, and Sharpeners"
+519,MACHINERY MAINTENANCE OCCUPATIONS,51-9199,"Production Workers, All Other"
+519,MACHINERY MAINTENANCE OCCUPATIONS,53-7061,Cleaners of Vehicles and Equipment
+519,MACHINERY MAINTENANCE OCCUPATIONS,55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",47-2111,Electricians
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",47-2231,Solar Photovoltaic Installers**
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-2011,"Computer, Automated Teller, and Office Machine Repairers"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-2092,"Electric Motor, Power Tool, and Related Repairers"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-2097,Electronic Home Entertainment Equipment Installers and Repairers
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-9052,Telecommunications Line Installers and Repairers
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",49-9097,Signal and Track Switch Repairers
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",51-3099,"Food Processing Workers, All Other"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+523,"ELECTRONIC REPAIRERS, COMMUNICATIONS AND INDUSTRIAL EQUIPMENT",51-9199,"Production Workers, All Other"
+525,DATA PROCESSING EQUIPMENT REPAIR,49-2011,"Computer, Automated Teller, and Office Machine Repairers"
+525,DATA PROCESSING EQUIPMENT REPAIR,51-2022,Electrical and Electronic Equipment Assemblers
+526,HOUSEHOLD APPLIANCE AND POWER TOOL REPAIRERS,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+526,HOUSEHOLD APPLIANCE AND POWER TOOL REPAIRERS,49-9031,Home Appliance Repairers
+527,TELEPHONE LINE INSTALLERS AND REPAIRERS,49-9051,Electrical Power-Line Installers and Repairers
+527,TELEPHONE LINE INSTALLERS AND REPAIRERS,49-9052,Telecommunications Line Installers and Repairers
+529,TELEPHONE INSTALLERS AND REPAIRERS,49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,47-2111,Electricians
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,47-2231,Solar Photovoltaic Installers**
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,49-2091,Avionics Technicians
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment"
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles"
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,49-3023,Automotive Service Technicians and Mechanics
+533,MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS,49-9051,Electrical Power-Line Installers and Repairers
+534,"HEATING, AIR CONDITIONING, AND REFRIGERATION MECHANICS",47-2231,Solar Photovoltaic Installers**
+534,"HEATING, AIR CONDITIONING, AND REFRIGERATION MECHANICS",49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+534,"HEATING, AIR CONDITIONING, AND REFRIGERATION MECHANICS",49-9098,"Helpers--Installation, Maintenance, and Repair Workers"
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",17-3023,Electrical and Electronics Engineering Technicians
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",47-2231,Solar Photovoltaic Installers**
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door"
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9041,Industrial Machinery Mechanics
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9061,Camera and Photographic Equipment Repairers
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9062,Medical Equipment Repairers
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9063,Musical Instrument Repairers and Tuners
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9064,Watch Repairers
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9069,"Precision Instrument and Equipment Repairers, All Other"
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9081,Wind Turbine Service Technicians
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+535,"CAMERA, WATCH, AND MUSICAL INSTRUMENT REPAIRERS",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+536,LOCKSMITHS AND SAFE REPAIRERS,49-9094,Locksmiths and Safe Repairers
+538,OFFICE MACHINE REPAIRERS,49-2011,"Computer, Automated Teller, and Office Machine Repairers"
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,47-2231,Solar Photovoltaic Installers**
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,49-3011,Aircraft Mechanics and Service Technicians
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,49-3043,Rail Car Repairers
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,49-9011,Mechanical Door Repairers
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door"
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,49-9031,Home Appliance Repairers
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,49-9081,Wind Turbine Service Technicians
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+539,MECHANICAL CONTROLS AND VALVE  REPAIRERS,53-7072,"Pump Operators, Except Wellhead Pumpers"
+543,ELEVATOR INSTALLERS AND REPAIRER,47-4021,Elevator Installers and Repairers
+544,MILLWRIGHTS,49-9044,Millwrights
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",25-4013,Museum Technicians and Conservators
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",47-2031,Carpenters
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",47-2231,Solar Photovoltaic Installers**
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-2092,"Electric Motor, Power Tool, and Related Repairers"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-3011,Aircraft Mechanics and Service Technicians
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-3031,Bus and Truck Mechanics and Diesel Engine Specialists
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-3091,Bicycle Repairers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-3092,Recreational Vehicle Service Technicians
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-3093,Tire Repairers and Changers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9031,Home Appliance Repairers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9041,Industrial Machinery Mechanics
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9043,"Maintenance Workers, Machinery"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9062,Medical Equipment Repairers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9071,"Maintenance and Repair Workers, General"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9081,Wind Turbine Service Technicians
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9092,Commercial Divers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9093,"Fabric Menders, Except Garment"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9095,Manufactured Building and Mobile Home Installers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9096,Riggers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-3099,"Food Processing Workers, All Other"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-4199,"Metal Workers and Plastic Workers, All Other"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-6041,Shoe and Leather Workers and Repairers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-7021,Furniture Finishers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-9022,"Grinding and Polishing Workers, Hand"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-9031,"Cutters and Trimmers, Hand"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-9123,"Painting, Coating, and Decorating Workers"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-9198,Helpers--Production Workers
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",51-9199,"Production Workers, All Other"
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",53-7061,Cleaners of Vehicles and Equipment
+547,"SPECIFIED MECHANICS AND REPAIRERS, N.E.C.",55-3014,Artillery and Missile Crew Members
+553,"SUPERVISORS, BRICKMASONS, STONEMASONS, AND TILE SETTERS",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+554,"SUPERVISORS, CARPENTERS AND RELATED WORKERS",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+555,"SUPERVISORS, ELECTRICIANS AND POWER TRANSMISSION INSTALLERS",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+556,"SUPERVISORS, PAINTERS, PAPERHANGERS AND PLASTERERS",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+557,"SUPERVISORS, PLUMBERS, PIPEFITTERS AND STEAMFITTERS",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+557,"SUPERVISORS, PLUMBERS, PIPEFITTERS AND STEAMFITTERS",49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+558,"SUPERVISORS, N.E.C.",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+558,"SUPERVISORS, N.E.C.",49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+558,"SUPERVISORS, N.E.C.",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+563,"BRICKMASONS AND STONEMASONS, EXCEPT APPRENTICES",47-2021,Brickmasons and Blockmasons
+563,"BRICKMASONS AND STONEMASONS, EXCEPT APPRENTICES",47-2022,Stonemasons
+563,"BRICKMASONS AND STONEMASONS, EXCEPT APPRENTICES",47-2231,Solar Photovoltaic Installers**
+563,"BRICKMASONS AND STONEMASONS, EXCEPT APPRENTICES",47-4099,"Construction and Related Workers, All Other"
+564,BRICKMASON AND STONEMASON APPRENTICES,47-2021,Brickmasons and Blockmasons
+564,BRICKMASON AND STONEMASON APPRENTICES,47-2022,Stonemasons
+564,BRICKMASON AND STONEMASON APPRENTICES,47-2231,Solar Photovoltaic Installers**
+564,BRICKMASON AND STONEMASON APPRENTICES,47-4099,"Construction and Related Workers, All Other"
+565,"TILE SETTERS, HARD AND SOFT",47-2041,Carpet Installers
+565,"TILE SETTERS, HARD AND SOFT",47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+565,"TILE SETTERS, HARD AND SOFT",47-2044,Tile and Marble Setters
+566,CARPET INSTALLERS,47-2041,Carpet Installers
+566,CARPET INSTALLERS,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+567,"CARPENTERS, EXCEPT APPRENTICES",47-2031,Carpenters
+567,"CARPENTERS, EXCEPT APPRENTICES",47-2081,Drywall and Ceiling Tile Installers
+567,"CARPENTERS, EXCEPT APPRENTICES",49-3092,Recreational Vehicle Service Technicians
+569,CARPENTER APPRENTICES,47-2031,Carpenters
+569,CARPENTER APPRENTICES,47-2081,Drywall and Ceiling Tile Installers
+569,CARPENTER APPRENTICES,49-3092,Recreational Vehicle Service Technicians
+573,DRYWALL INSTALLERS,47-2031,Carpenters
+573,DRYWALL INSTALLERS,47-2081,Drywall and Ceiling Tile Installers
+573,DRYWALL INSTALLERS,47-2082,Tapers
+575,"ELECTRICIANS, EXCEPT APPRENTICES",47-2111,Electricians
+575,"ELECTRICIANS, EXCEPT APPRENTICES",47-2231,Solar Photovoltaic Installers**
+575,"ELECTRICIANS, EXCEPT APPRENTICES",49-2098,Security and Fire Alarm Systems Installers
+575,"ELECTRICIANS, EXCEPT APPRENTICES",49-9071,"Maintenance and Repair Workers, General"
+576,ELECTRICIAN APPRENTICES,47-2111,Electricians
+576,ELECTRICIAN APPRENTICES,47-2231,Solar Photovoltaic Installers**
+576,ELECTRICIAN APPRENTICES,49-2098,Security and Fire Alarm Systems Installers
+576,ELECTRICIAN APPRENTICES,49-9071,"Maintenance and Repair Workers, General"
+577,ELECTRICAL POWER INSTALLERS AND REPAIRERS,47-2231,Solar Photovoltaic Installers**
+577,ELECTRICAL POWER INSTALLERS AND REPAIRERS,47-4099,"Construction and Related Workers, All Other"
+577,ELECTRICAL POWER INSTALLERS AND REPAIRERS,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+577,ELECTRICAL POWER INSTALLERS AND REPAIRERS,49-9051,Electrical Power-Line Installers and Repairers
+577,ELECTRICAL POWER INSTALLERS AND REPAIRERS,51-3099,"Food Processing Workers, All Other"
+577,ELECTRICAL POWER INSTALLERS AND REPAIRERS,51-9199,"Production Workers, All Other"
+579,"PAINTERS, CONSTRUCTION AND MAINTENANCE",47-2141,"Painters, Construction and Maintenance"
+579,"PAINTERS, CONSTRUCTION AND MAINTENANCE",51-9122,"Painters, Transportation Equipment"
+579,"PAINTERS, CONSTRUCTION AND MAINTENANCE",51-9123,"Painting, Coating, and Decorating Workers"
+583,PAPERHANGERS,47-2142,Paperhangers
+584,PLASTERERS,47-2161,Plasterers and Stucco Masons
+585,"PLUMBERS, EXCEPT APPRENTICES",47-2061,Construction Laborers
+585,"PLUMBERS, EXCEPT APPRENTICES",47-2152,"Plumbers, Pipefitters, and Steamfitters"
+585,"PLUMBERS, EXCEPT APPRENTICES",47-2231,Solar Photovoltaic Installers**
+585,"PLUMBERS, EXCEPT APPRENTICES",49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door"
+585,"PLUMBERS, EXCEPT APPRENTICES",49-9081,Wind Turbine Service Technicians
+585,"PLUMBERS, EXCEPT APPRENTICES",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+587,"PLUMBER, PIPEFITTER, AND STEAMFITTER APPRENTICES",47-2061,Construction Laborers
+587,"PLUMBER, PIPEFITTER, AND STEAMFITTER APPRENTICES",47-2152,"Plumbers, Pipefitters, and Steamfitters"
+587,"PLUMBER, PIPEFITTER, AND STEAMFITTER APPRENTICES",47-2231,Solar Photovoltaic Installers**
+587,"PLUMBER, PIPEFITTER, AND STEAMFITTER APPRENTICES",49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door"
+587,"PLUMBER, PIPEFITTER, AND STEAMFITTER APPRENTICES",49-9081,Wind Turbine Service Technicians
+587,"PLUMBER, PIPEFITTER, AND STEAMFITTER APPRENTICES",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+588,CONCRETE AND TERRAZZO FINISHERS,47-2051,Cement Masons and Concrete Finishers
+588,CONCRETE AND TERRAZZO FINISHERS,47-2053,Terrazzo Workers and Finishers
+589,GLAZIERS,47-2121,Glaziers
+593,INSULATION WORKERS,47-2131,"Insulation Workers, Floor, Ceiling, and Wall"
+593,INSULATION WORKERS,47-2132,"Insulation Workers, Mechanical"
+594,"PAVING, SURFACING, AND TAMPING EQUIPMENT OPERATORS",47-2061,Construction Laborers
+594,"PAVING, SURFACING, AND TAMPING EQUIPMENT OPERATORS",47-2071,"Paving, Surfacing, and Tamping Equipment Operators"
+594,"PAVING, SURFACING, AND TAMPING EQUIPMENT OPERATORS",47-4061,Rail-Track Laying and Maintenance Equipment Operators
+595,ROOFERS,47-2181,Roofers
+595,ROOFERS,47-2231,Solar Photovoltaic Installers**
+596,SHEETMETAL DUCT INSTALLERS,47-2211,Sheet Metal Workers
+597,STRUCTURAL METAL WORKERS,47-2171,Reinforcing Iron and Rebar Workers
+597,STRUCTURAL METAL WORKERS,47-2221,Structural Iron and Steel Workers
+598,"DRILLERS, EARTH",47-5021,"Earth Drillers, Except Oil and Gas"
+599,"CONSTRUCTION TRADES, N.E.C.",19-4099,"Life, Physical, and Social Science Technicians, All Other"
+599,"CONSTRUCTION TRADES, N.E.C.",27-1023,Floral Designers
+599,"CONSTRUCTION TRADES, N.E.C.",47-2021,Brickmasons and Blockmasons
+599,"CONSTRUCTION TRADES, N.E.C.",47-2031,Carpenters
+599,"CONSTRUCTION TRADES, N.E.C.",47-2043,Floor Sanders and Finishers
+599,"CONSTRUCTION TRADES, N.E.C.",47-2053,Terrazzo Workers and Finishers
+599,"CONSTRUCTION TRADES, N.E.C.",47-2061,Construction Laborers
+599,"CONSTRUCTION TRADES, N.E.C.",47-2072,Pile-Driver Operators
+599,"CONSTRUCTION TRADES, N.E.C.",47-2151,Pipelayers
+599,"CONSTRUCTION TRADES, N.E.C.",47-2152,"Plumbers, Pipefitters, and Steamfitters"
+599,"CONSTRUCTION TRADES, N.E.C.",47-2231,Solar Photovoltaic Installers**
+599,"CONSTRUCTION TRADES, N.E.C.",47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+599,"CONSTRUCTION TRADES, N.E.C.",47-3012,Helpers--Carpenters
+599,"CONSTRUCTION TRADES, N.E.C.",47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+599,"CONSTRUCTION TRADES, N.E.C.",47-4031,Fence Erectors
+599,"CONSTRUCTION TRADES, N.E.C.",47-4051,Highway Maintenance Workers
+599,"CONSTRUCTION TRADES, N.E.C.",47-4061,Rail-Track Laying and Maintenance Equipment Operators
+599,"CONSTRUCTION TRADES, N.E.C.",47-4071,Septic Tank Servicers and Sewer Pipe Cleaners
+599,"CONSTRUCTION TRADES, N.E.C.",47-4099,"Construction and Related Workers, All Other"
+599,"CONSTRUCTION TRADES, N.E.C.",47-5051,"Rock Splitters, Quarry"
+599,"CONSTRUCTION TRADES, N.E.C.",49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+599,"CONSTRUCTION TRADES, N.E.C.",49-9045,"Refractory Materials Repairers, Except Brickmasons"
+599,"CONSTRUCTION TRADES, N.E.C.",51-3099,"Food Processing Workers, All Other"
+599,"CONSTRUCTION TRADES, N.E.C.",51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+599,"CONSTRUCTION TRADES, N.E.C.",51-9198,Helpers--Production Workers
+599,"CONSTRUCTION TRADES, N.E.C.",51-9199,"Production Workers, All Other"
+613,"SUPERVISORS, EXTRACTIVE OCCUPATIONS",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+613,"SUPERVISORS, EXTRACTIVE OCCUPATIONS",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+614,"DRILLERS, OIL WELL",47-5011,"Derrick Operators, Oil and Gas"
+614,"DRILLERS, OIL WELL",47-5012,"Rotary Drill Operators, Oil and Gas"
+615,EXPLOSIVES WORKERS,47-5031,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+616,MINING MACHINE OPERATORS,47-5041,Continuous Mining Machine Operators
+616,MINING MACHINE OPERATORS,47-5042,Mine Cutting and Channeling Machine Operators
+616,MINING MACHINE OPERATORS,47-5081,Helpers--Extraction Workers
+616,MINING MACHINE OPERATORS,47-5099,"Extraction Workers, All Other"
+617,"MINING OCCUPATIONS, N.E.C.",47-2231,Solar Photovoltaic Installers**
+617,"MINING OCCUPATIONS, N.E.C.",47-5013,"Service Unit Operators, Oil, Gas, and Mining"
+617,"MINING OCCUPATIONS, N.E.C.",47-5061,"Roof Bolters, Mining"
+617,"MINING OCCUPATIONS, N.E.C.",47-5071,"Roustabouts, Oil and Gas"
+617,"MINING OCCUPATIONS, N.E.C.",47-5081,Helpers--Extraction Workers
+617,"MINING OCCUPATIONS, N.E.C.",47-5099,"Extraction Workers, All Other"
+617,"MINING OCCUPATIONS, N.E.C.",49-9081,Wind Turbine Service Technicians
+617,"MINING OCCUPATIONS, N.E.C.",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",11-3071,"Transportation, Storage, and Distribution Managers"
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",17-2112,Industrial Engineers
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",51-1011,First-Line Supervisors of Production and Operating Workers
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",51-3099,"Food Processing Workers, All Other"
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",51-9199,"Production Workers, All Other"
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",53-1021,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+633,"SUPERVISORS, PRODUCTION OCCUPATIONS",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+634,"TOOL AND DIE MAKERS, EXCEPT APPRENTICES",51-4111,Tool and Die Makers
+635,TOOL AND DIE MAKER APPRENTICES,51-4111,Tool and Die Makers
+636,"PRECISION ASSEMBLERS, METAL",17-3024,Electro-Mechanical Technicians
+636,"PRECISION ASSEMBLERS, METAL",51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+636,"PRECISION ASSEMBLERS, METAL",51-2023,Electromechanical Equipment Assemblers
+636,"PRECISION ASSEMBLERS, METAL",51-2031,Engine and Other Machine Assemblers
+636,"PRECISION ASSEMBLERS, METAL",51-2041,Structural Metal Fabricators and Fitters
+636,"PRECISION ASSEMBLERS, METAL",51-2099,"Assemblers and Fabricators, All Other"
+637,"MACHINISTS, EXCEPT APPRENTICES",49-9061,Camera and Photographic Equipment Repairers
+637,"MACHINISTS, EXCEPT APPRENTICES",51-4041,Machinists
+639,MACHINIST APPRENTICES,49-9061,Camera and Photographic Equipment Repairers
+639,MACHINIST APPRENTICES,51-4041,Machinists
+643,BOILERMAKERS,47-2011,Boilermakers
+644,"PRECISION GRINDERS, FITTERS, AND TOOL SHARPENERS",51-4194,"Tool Grinders, Filers, and Sharpeners"
+644,"PRECISION GRINDERS, FITTERS, AND TOOL SHARPENERS",51-4199,"Metal Workers and Plastic Workers, All Other"
+645,"PATTERNMAKERS AND MODEL MAKERS, METAL",51-4041,Machinists
+645,"PATTERNMAKERS AND MODEL MAKERS, METAL",51-4061,"Model Makers, Metal and Plastic"
+645,"PATTERNMAKERS AND MODEL MAKERS, METAL",51-4062,"Patternmakers, Metal and Plastic"
+646,LAY-OUT WORKERS,51-4062,"Patternmakers, Metal and Plastic"
+646,LAY-OUT WORKERS,51-4192,"Layout Workers, Metal and Plastic"
+646,LAY-OUT WORKERS,51-6092,Fabric and Apparel Patternmakers
+647,PRECIOUS STONES AND METALS WORKERS(JEWELERS),51-2093,Timing Device Assemblers and Adjusters
+647,PRECIOUS STONES AND METALS WORKERS(JEWELERS),51-2099,"Assemblers and Fabricators, All Other"
+647,PRECIOUS STONES AND METALS WORKERS(JEWELERS),51-9071,Jewelers and Precious Stone and Metal Workers
+649,"ENGRAVERS, METAL",51-5111,Prepress Technicians and Workers
+649,"ENGRAVERS, METAL",51-9194,Etchers and Engravers
+653,"SHEET METAL WORKERS, EXCEPT APPRENTICES",47-2211,Sheet Metal Workers
+654,SHEET METAL WORKER APPRENTICES,47-2211,Sheet Metal Workers
+655,MISCELLANEOUS PRECISION METAL WORKERS,51-2041,Structural Metal Fabricators and Fitters
+655,MISCELLANEOUS PRECISION METAL WORKERS,51-2099,"Assemblers and Fabricators, All Other"
+655,MISCELLANEOUS PRECISION METAL WORKERS,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+655,MISCELLANEOUS PRECISION METAL WORKERS,51-4111,Tool and Die Makers
+655,MISCELLANEOUS PRECISION METAL WORKERS,51-4199,"Metal Workers and Plastic Workers, All Other"
+656,"PATTERNMAKERS AND MODEL MAKERS, WOOD",51-7031,"Model Makers, Wood"
+656,"PATTERNMAKERS AND MODEL MAKERS, WOOD",51-7032,"Patternmakers, Wood"
+656,"PATTERNMAKERS AND MODEL MAKERS, WOOD",51-7099,"Woodworkers, All Other"
+657,CABINET MAKERS AND BENCH CARPENTERS,51-7011,Cabinetmakers and Bench Carpenters
+658,FURNITURE AND WOOD FINISHERS,51-7021,Furniture Finishers
+659,MISCELLANEOUS PRECISION WOODWORKERS,51-7011,Cabinetmakers and Bench Carpenters
+659,MISCELLANEOUS PRECISION WOODWORKERS,51-7099,"Woodworkers, All Other"
+666,DRESSMAKERS,51-6031,Sewing Machine Operators
+666,DRESSMAKERS,51-6051,"Sewers, Hand"
+666,DRESSMAKERS,51-6052,"Tailors, Dressmakers, and Custom Sewers"
+666,DRESSMAKERS,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+667,TAILORS,51-6052,"Tailors, Dressmakers, and Custom Sewers"
+668,UPHOLSTERERS,51-6093,Upholsterers
+669,SHOE REPAIRERS,51-6041,Shoe and Leather Workers and Repairers
+673,APPAREL AND FABRIC PATTERNMAKERS,51-6092,Fabric and Apparel Patternmakers
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,39-3092,Costume Attendants
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,49-9093,"Fabric Menders, Except Garment"
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,51-3099,"Food Processing Workers, All Other"
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,51-6031,Sewing Machine Operators
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,51-6051,"Sewers, Hand"
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,51-6052,"Tailors, Dressmakers, and Custom Sewers"
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,51-6092,Fabric and Apparel Patternmakers
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,51-9031,"Cutters and Trimmers, Hand"
+674,MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS,51-9199,"Production Workers, All Other"
+675,"HAND MOLDERS AND SHAPERS, EXCEPT JEWELERS",51-3099,"Food Processing Workers, All Other"
+675,"HAND MOLDERS AND SHAPERS, EXCEPT JEWELERS",51-4071,Foundry Mold and Coremakers
+675,"HAND MOLDERS AND SHAPERS, EXCEPT JEWELERS",51-7011,Cabinetmakers and Bench Carpenters
+675,"HAND MOLDERS AND SHAPERS, EXCEPT JEWELERS",51-9022,"Grinding and Polishing Workers, Hand"
+675,"HAND MOLDERS AND SHAPERS, EXCEPT JEWELERS",51-9071,Jewelers and Precious Stone and Metal Workers
+675,"HAND MOLDERS AND SHAPERS, EXCEPT JEWELERS",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+675,"HAND MOLDERS AND SHAPERS, EXCEPT JEWELERS",51-9199,"Production Workers, All Other"
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",17-3021,Aerospace Engineering and Operations Technicians
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",47-2121,Glaziers
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-2022,Electrical and Electronic Equipment Assemblers
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-3099,"Food Processing Workers, All Other"
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-4061,"Model Makers, Metal and Plastic"
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-4062,"Patternmakers, Metal and Plastic"
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-7031,"Model Makers, Wood"
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-9031,"Cutters and Trimmers, Hand"
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-9194,Etchers and Engravers
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+676,"PATTERNMAKERS, LAY-OUT WORKERS, AND CUTTERS",51-9199,"Production Workers, All Other"
+677,OPTICAL GOODS WORKERS,49-9041,Industrial Machinery Mechanics
+677,OPTICAL GOODS WORKERS,51-3099,"Food Processing Workers, All Other"
+677,OPTICAL GOODS WORKERS,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+677,OPTICAL GOODS WORKERS,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+677,OPTICAL GOODS WORKERS,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+677,OPTICAL GOODS WORKERS,51-9022,"Grinding and Polishing Workers, Hand"
+677,OPTICAL GOODS WORKERS,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+677,OPTICAL GOODS WORKERS,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+677,OPTICAL GOODS WORKERS,51-9082,Medical Appliance Technicians
+677,OPTICAL GOODS WORKERS,51-9083,Ophthalmic Laboratory Technicians
+677,OPTICAL GOODS WORKERS,51-9141,Semiconductor Processors
+677,OPTICAL GOODS WORKERS,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+677,OPTICAL GOODS WORKERS,51-9199,"Production Workers, All Other"
+678,DENTAL LABORATORY AND MEDICAL APPLIANCE TECHNICIAN,51-9081,Dental Laboratory Technicians
+679,BOOKBINDERS,51-5113,Print Binding and Finishing Workers**
+683,ELECTRICAL AND ELECTRONIC EQUIPMENT ASSEMBLERS,17-3024,Electro-Mechanical Technicians
+683,ELECTRICAL AND ELECTRONIC EQUIPMENT ASSEMBLERS,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+683,ELECTRICAL AND ELECTRONIC EQUIPMENT ASSEMBLERS,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+683,ELECTRICAL AND ELECTRONIC EQUIPMENT ASSEMBLERS,51-2021,"Coil Winders, Tapers, and Finishers"
+683,ELECTRICAL AND ELECTRONIC EQUIPMENT ASSEMBLERS,51-2022,Electrical and Electronic Equipment Assemblers
+683,ELECTRICAL AND ELECTRONIC EQUIPMENT ASSEMBLERS,51-2031,Engine and Other Machine Assemblers
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",17-3023,Electrical and Electronics Engineering Technicians
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",47-2031,Carpenters
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",47-2061,Construction Laborers
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",47-2231,Solar Photovoltaic Installers**
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",47-4099,"Construction and Related Workers, All Other"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",49-3041,Farm Equipment Mechanics and Service Technicians
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-2022,Electrical and Electronic Equipment Assemblers
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-2023,Electromechanical Equipment Assemblers
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-2041,Structural Metal Fabricators and Fitters
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-2099,"Assemblers and Fabricators, All Other"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-3092,Food Batchmakers
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-3099,"Food Processing Workers, All Other"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-4041,Machinists
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-5111,Prepress Technicians and Workers
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-5112,Printing Press Operators**
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-6041,Shoe and Leather Workers and Repairers
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-7011,Cabinetmakers and Bench Carpenters
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-9071,Jewelers and Precious Stone and Metal Workers
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-9082,Medical Appliance Technicians
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+684,"MISCELLANEOUS PRECISION WORKERS, N.E.C.",51-9199,"Production Workers, All Other"
+686,BUTCHERS AND MEAT CUTTERS,51-3021,Butchers and Meat Cutters
+686,BUTCHERS AND MEAT CUTTERS,51-3023,Slaughterers and Meat Packers
+687,BAKERS,19-4011,Agricultural and Food Science Technicians
+687,BAKERS,51-3011,Bakers
+688,FOOD BATCHMAKERS,51-3092,Food Batchmakers
+688,FOOD BATCHMAKERS,51-3093,Food Cooking Machine Operators and Tenders
+688,FOOD BATCHMAKERS,51-3099,"Food Processing Workers, All Other"
+688,FOOD BATCHMAKERS,51-9123,"Painting, Coating, and Decorating Workers"
+688,FOOD BATCHMAKERS,51-9199,"Production Workers, All Other"
+689,"INSPECTORS, TESTERS, AND GRADERS",17-2112,Industrial Engineers
+689,"INSPECTORS, TESTERS, AND GRADERS",47-2231,Solar Photovoltaic Installers**
+689,"INSPECTORS, TESTERS, AND GRADERS",47-4099,"Construction and Related Workers, All Other"
+689,"INSPECTORS, TESTERS, AND GRADERS",49-9071,"Maintenance and Repair Workers, General"
+689,"INSPECTORS, TESTERS, AND GRADERS",51-5112,Printing Press Operators**
+689,"INSPECTORS, TESTERS, AND GRADERS",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+689,"INSPECTORS, TESTERS, AND GRADERS",51-9141,Semiconductor Processors
+689,"INSPECTORS, TESTERS, AND GRADERS",53-6051,Transportation Inspectors
+693,ADJUSTERS AND CALIBRATORS,13-1121,"Meeting, Convention, and Event Planners**"
+693,ADJUSTERS AND CALIBRATORS,13-1161,Market Research Analysts and Marketing Specialists**
+693,ADJUSTERS AND CALIBRATORS,13-1199,"Business Operations Specialists, All Other"
+693,ADJUSTERS AND CALIBRATORS,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+693,ADJUSTERS AND CALIBRATORS,51-2093,Timing Device Assemblers and Adjusters
+693,ADJUSTERS AND CALIBRATORS,51-3099,"Food Processing Workers, All Other"
+693,ADJUSTERS AND CALIBRATORS,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+693,ADJUSTERS AND CALIBRATORS,51-9199,"Production Workers, All Other"
+694,WATER AND SEWAGE TREATMENT PLANT OPERATORS,25-1194,"Vocational Education Teachers, Postsecondary"
+694,WATER AND SEWAGE TREATMENT PLANT OPERATORS,51-1011,First-Line Supervisors of Production and Operating Workers
+694,WATER AND SEWAGE TREATMENT PLANT OPERATORS,51-8031,Water and Wastewater Treatment Plant and System Operators
+694,WATER AND SEWAGE TREATMENT PLANT OPERATORS,51-8099,"Plant and System Operators, All Other"
+695,POWER PLANT OPERATORS,47-5012,"Rotary Drill Operators, Oil and Gas"
+695,POWER PLANT OPERATORS,51-8011,Nuclear Power Reactor Operators
+695,POWER PLANT OPERATORS,51-8012,Power Distributors and Dispatchers
+695,POWER PLANT OPERATORS,51-8013,Power Plant Operators
+696,STATIONARY ENGINEERS,51-8021,Stationary Engineers and Boiler Operators
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-3099,"Food Processing Workers, All Other"
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-8013,Power Plant Operators
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-8091,Chemical Plant and System Operators
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-8092,Gas Plant Operators
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-8099,"Plant and System Operators, All Other"
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+699,MISCELLANEOUS PLANT AND SYSTEM OPERATORS,51-9199,"Production Workers, All Other"
+703,LATHE AND TURNING MACHINE SET-UP OPERATORS,49-3023,Automotive Service Technicians and Mechanics
+703,LATHE AND TURNING MACHINE SET-UP OPERATORS,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+704,LATHE AND TURNING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+704,LATHE AND TURNING MACHINE OPERATORS,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+704,LATHE AND TURNING MACHINE OPERATORS,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+704,LATHE AND TURNING MACHINE OPERATORS,51-4199,"Metal Workers and Plastic Workers, All Other"
+704,LATHE AND TURNING MACHINE OPERATORS,51-9022,"Grinding and Polishing Workers, Hand"
+704,LATHE AND TURNING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+705,MILLING AND PLANING MACHINE OPERATORS,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+706,PUNCHING AND STAMPING PRESS MACHINE OPERATORS,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+706,PUNCHING AND STAMPING PRESS MACHINE OPERATORS,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+706,PUNCHING AND STAMPING PRESS MACHINE OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+707,ROLLING MACHINE OPERATORS,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+707,ROLLING MACHINE OPERATORS,53-7011,Conveyor Operators and Tenders
+708,DRILLING AND BORING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+708,DRILLING AND BORING MACHINE OPERATORS,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+708,DRILLING AND BORING MACHINE OPERATORS,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+708,DRILLING AND BORING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+709,"GRINDING, ABRADING, BUFFING, AND POLISHING MACHINE OPERATORS",51-3099,"Food Processing Workers, All Other"
+709,"GRINDING, ABRADING, BUFFING, AND POLISHING MACHINE OPERATORS",51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+709,"GRINDING, ABRADING, BUFFING, AND POLISHING MACHINE OPERATORS",51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+709,"GRINDING, ABRADING, BUFFING, AND POLISHING MACHINE OPERATORS",51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+709,"GRINDING, ABRADING, BUFFING, AND POLISHING MACHINE OPERATORS",51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+709,"GRINDING, ABRADING, BUFFING, AND POLISHING MACHINE OPERATORS",51-9022,"Grinding and Polishing Workers, Hand"
+709,"GRINDING, ABRADING, BUFFING, AND POLISHING MACHINE OPERATORS",51-9199,"Production Workers, All Other"
+713,FORGING MACHINE OPERATORS,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+714,NUMERICAL CONTROL MACHINE OPERATOR,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",47-2061,Construction Laborers
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",47-2211,Sheet Metal Workers
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-2099,"Assemblers and Fabricators, All Other"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-3099,"Food Processing Workers, All Other"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-4041,Machinists
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-4051,Metal-Refining Furnace Operators and Tenders
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-4061,"Model Makers, Metal and Plastic"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-4199,"Metal Workers and Plastic Workers, All Other"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-9022,"Grinding and Polishing Workers, Hand"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-9031,"Cutters and Trimmers, Hand"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-9111,Packaging and Filling Machine Operators and Tenders
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-9198,Helpers--Production Workers
+715,"MISCELLANEOUS METAL, PLASTIC, STONE AND GLASS WORKING MACHINE OPERA",51-9199,"Production Workers, All Other"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",47-2231,Solar Photovoltaic Installers**
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",49-3023,Automotive Service Technicians and Mechanics
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",49-9081,Wind Turbine Service Technicians
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-2041,Structural Metal Fabricators and Fitters
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-2099,"Assemblers and Fabricators, All Other"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-3099,"Food Processing Workers, All Other"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-4199,"Metal Workers and Plastic Workers, All Other"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-5112,Printing Press Operators**
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+717,"FABRICATING MACHINE OPERATORS, N.E.C.",51-9199,"Production Workers, All Other"
+719,MOLDING AND CASTING MACHINE OPERATORS,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+719,MOLDING AND CASTING MACHINE OPERATORS,51-4051,Metal-Refining Furnace Operators and Tenders
+719,MOLDING AND CASTING MACHINE OPERATORS,51-4052,"Pourers and Casters, Metal"
+719,MOLDING AND CASTING MACHINE OPERATORS,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+719,MOLDING AND CASTING MACHINE OPERATORS,51-4199,"Metal Workers and Plastic Workers, All Other"
+719,MOLDING AND CASTING MACHINE OPERATORS,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+719,MOLDING AND CASTING MACHINE OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+719,MOLDING AND CASTING MACHINE OPERATORS,51-9071,Jewelers and Precious Stone and Metal Workers
+719,MOLDING AND CASTING MACHINE OPERATORS,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+723,METAL PLATING MACHINE OPERATORS,51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"
+723,METAL PLATING MACHINE OPERATORS,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+723,METAL PLATING MACHINE OPERATORS,51-9123,"Painting, Coating, and Decorating Workers"
+724,HEAT TREATING EQUIPMENT OPERATORS,51-4051,Metal-Refining Furnace Operators and Tenders
+724,HEAT TREATING EQUIPMENT OPERATORS,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+724,HEAT TREATING EQUIPMENT OPERATORS,53-7199,"Material Moving Workers, All Other"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-4052,"Pourers and Casters, Metal"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-4199,"Metal Workers and Plastic Workers, All Other"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+725,MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+726,"WOOD LATHE, ROUTING, AND PLANING MACHINE OPERATORS",51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+727,SAWING MACHINE OPERATORS,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood"
+728,SHAPING AND JOINING MACHINE OPERATORS,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+728,SHAPING AND JOINING MACHINE OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+729,"NAILING AND TACKING MACHINE OPERATORS",51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,45-4029,"Logging Workers, All Other"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9123,"Painting, Coating, and Decorating Workers"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9191,Adhesive Bonding Machine Operators and Tenders
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+733,MISCELLANEOUS WOODWORKING MACHINE OPERATORS,53-7011,Conveyor Operators and Tenders
+734,PRINTING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+734,PRINTING MACHINE OPERATORS,51-5112,Printing Press Operators**
+734,PRINTING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+735,PHOTOENGRAVERS AND LITHOGRAPHERS,43-9031,Desktop Publishers
+735,PHOTOENGRAVERS AND LITHOGRAPHERS,51-3099,"Food Processing Workers, All Other"
+735,PHOTOENGRAVERS AND LITHOGRAPHERS,51-5111,Prepress Technicians and Workers
+735,PHOTOENGRAVERS AND LITHOGRAPHERS,51-5112,Printing Press Operators**
+735,PHOTOENGRAVERS AND LITHOGRAPHERS,51-9151,Photographic Process Workers and Processing Machine Operators**
+735,PHOTOENGRAVERS AND LITHOGRAPHERS,51-9199,"Production Workers, All Other"
+736,TYPESETTERS AND COMPOSITORS,51-5111,Prepress Technicians and Workers
+736,TYPESETTERS AND COMPOSITORS,51-5112,Printing Press Operators**
+736,TYPESETTERS AND COMPOSITORS,51-5113,Print Binding and Finishing Workers**
+737,MISCELLANEOUS PRINTING MACHINE OPERATORS,25-4013,Museum Technicians and Conservators
+737,MISCELLANEOUS PRINTING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+737,MISCELLANEOUS PRINTING MACHINE OPERATORS,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+737,MISCELLANEOUS PRINTING MACHINE OPERATORS,51-5111,Prepress Technicians and Workers
+737,MISCELLANEOUS PRINTING MACHINE OPERATORS,51-5112,Printing Press Operators**
+737,MISCELLANEOUS PRINTING MACHINE OPERATORS,51-5113,Print Binding and Finishing Workers**
+737,MISCELLANEOUS PRINTING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+738,WINDING AND TWISTING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+738,WINDING AND TWISTING MACHINE OPERATORS,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders"
+738,WINDING AND TWISTING MACHINE OPERATORS,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+738,WINDING AND TWISTING MACHINE OPERATORS,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+738,WINDING AND TWISTING MACHINE OPERATORS,51-9197,Tire Builders
+738,WINDING AND TWISTING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+739,"KNITTING, LOOPING, TAPING, AND WEAVING MACHINE OPERATORS",51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+739,"KNITTING, LOOPING, TAPING, AND WEAVING MACHINE OPERATORS",51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+739,"KNITTING, LOOPING, TAPING, AND WEAVING MACHINE OPERATORS",51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+743,TEXTILE CUTTING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+743,TEXTILE CUTTING MACHINE OPERATORS,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders"
+743,TEXTILE CUTTING MACHINE OPERATORS,51-6093,Upholsterers
+743,TEXTILE CUTTING MACHINE OPERATORS,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+743,TEXTILE CUTTING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+744,TEXTILE SEWING MACHINE OPERATORS,51-6031,Sewing Machine Operators
+745,SHOE MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+745,SHOE MACHINE OPERATORS,51-6042,Shoe Machine Operators and Tenders
+745,SHOE MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+747,PRESSING MACHINE OPERATORS,51-6021,"Pressers, Textile, Garment, and Related Materials"
+748,LAUNDERING AND DRY CLEANING MACHINE OPERATORS,51-6011,Laundry and Dry-Cleaning Workers
+748,LAUNDERING AND DRY CLEANING MACHINE OPERATORS,51-6021,"Pressers, Textile, Garment, and Related Materials"
+748,LAUNDERING AND DRY CLEANING MACHINE OPERATORS,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+748,LAUNDERING AND DRY CLEANING MACHINE OPERATORS,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+748,LAUNDERING AND DRY CLEANING MACHINE OPERATORS,51-9123,"Painting, Coating, and Decorating Workers"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,19-4031,Chemical Technicians
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-6021,"Pressers, Textile, Garment, and Related Materials"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-6062,"Textile Cutting Machine Setters, Operators, and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9111,Packaging and Filling Machine Operators and Tenders
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9191,Adhesive Bonding Machine Operators and Tenders
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9198,Helpers--Production Workers
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+749,MISCELLANEOUS TEXTILE MACHINE OPERATORS,53-7063,Machine Feeders and Offbearers
+753,CEMENTING AND GLUING MACHINE OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+753,CEMENTING AND GLUING MACHINE OPERATORS,51-9191,Adhesive Bonding Machine Operators and Tenders
+754,PACKAGING AND FILLING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+754,PACKAGING AND FILLING MACHINE OPERATORS,51-9111,Packaging and Filling Machine Operators and Tenders
+754,PACKAGING AND FILLING MACHINE OPERATORS,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+754,PACKAGING AND FILLING MACHINE OPERATORS,51-9191,Adhesive Bonding Machine Operators and Tenders
+754,PACKAGING AND FILLING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+755,EXTRUDING AND FORMING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+755,EXTRUDING AND FORMING MACHINE OPERATORS,51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+755,EXTRUDING AND FORMING MACHINE OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+755,EXTRUDING AND FORMING MACHINE OPERATORS,51-9111,Packaging and Filling Machine Operators and Tenders
+755,EXTRUDING AND FORMING MACHINE OPERATORS,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+755,EXTRUDING AND FORMING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+756,MIXING AND BLENDING MACHINE OPERATORS,51-3093,Food Cooking Machine Operators and Tenders
+756,MIXING AND BLENDING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+756,MIXING AND BLENDING MACHINE OPERATORS,51-9011,Chemical Equipment Operators and Tenders
+756,MIXING AND BLENDING MACHINE OPERATORS,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+756,MIXING AND BLENDING MACHINE OPERATORS,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+756,MIXING AND BLENDING MACHINE OPERATORS,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+756,MIXING AND BLENDING MACHINE OPERATORS,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+756,MIXING AND BLENDING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+756,MIXING AND BLENDING MACHINE OPERATORS,53-7072,"Pump Operators, Except Wellhead Pumpers"
+757,"SEPARATING, FILTERING, AND CLARIFYING MACHINE OPERATORS",51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+757,"SEPARATING, FILTERING, AND CLARIFYING MACHINE OPERATORS",51-3099,"Food Processing Workers, All Other"
+757,"SEPARATING, FILTERING, AND CLARIFYING MACHINE OPERATORS",51-9011,Chemical Equipment Operators and Tenders
+757,"SEPARATING, FILTERING, AND CLARIFYING MACHINE OPERATORS",51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+757,"SEPARATING, FILTERING, AND CLARIFYING MACHINE OPERATORS",51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+757,"SEPARATING, FILTERING, AND CLARIFYING MACHINE OPERATORS",51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+757,"SEPARATING, FILTERING, AND CLARIFYING MACHINE OPERATORS",51-9199,"Production Workers, All Other"
+757,"SEPARATING, FILTERING, AND CLARIFYING MACHINE OPERATORS",53-7072,"Pump Operators, Except Wellhead Pumpers"
+758,COMPRESSING AND COMPACTING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+758,COMPRESSING AND COMPACTING MACHINE OPERATORS,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+758,COMPRESSING AND COMPACTING MACHINE OPERATORS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+758,COMPRESSING AND COMPACTING MACHINE OPERATORS,51-9111,Packaging and Filling Machine Operators and Tenders
+758,COMPRESSING AND COMPACTING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+758,COMPRESSING AND COMPACTING MACHINE OPERATORS,53-7063,Machine Feeders and Offbearers
+759,PAINTING AND PAINT SPRAYING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+759,PAINTING AND PAINT SPRAYING MACHINE OPERATORS,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+759,PAINTING AND PAINT SPRAYING MACHINE OPERATORS,51-9122,"Painters, Transportation Equipment"
+759,PAINTING AND PAINT SPRAYING MACHINE OPERATORS,51-9123,"Painting, Coating, and Decorating Workers"
+759,PAINTING AND PAINT SPRAYING MACHINE OPERATORS,51-9193,Cooling and Freezing Equipment Operators and Tenders
+759,PAINTING AND PAINT SPRAYING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+763,"ROASTING AND BAKING MACHINE OPERATORS, FOOD",51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+763,"ROASTING AND BAKING MACHINE OPERATORS, FOOD",51-3093,Food Cooking Machine Operators and Tenders
+763,"ROASTING AND BAKING MACHINE OPERATORS, FOOD",51-3099,"Food Processing Workers, All Other"
+763,"ROASTING AND BAKING MACHINE OPERATORS, FOOD",51-9199,"Production Workers, All Other"
+764,"WASHING, CLEANING, AND PICKLING MACHINE OPERATORS",51-9011,Chemical Equipment Operators and Tenders
+764,"WASHING, CLEANING, AND PICKLING MACHINE OPERATORS",51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+764,"WASHING, CLEANING, AND PICKLING MACHINE OPERATORS",51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+764,"WASHING, CLEANING, AND PICKLING MACHINE OPERATORS",51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+765,FOLDING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+765,FOLDING MACHINE OPERATORS,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+765,FOLDING MACHINE OPERATORS,51-9191,Adhesive Bonding Machine Operators and Tenders
+765,FOLDING MACHINE OPERATORS,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+765,FOLDING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+766,"FURNACE, KILN, AND OVEN OPERATORS, EXC. FOOD",51-3099,"Food Processing Workers, All Other"
+766,"FURNACE, KILN, AND OVEN OPERATORS, EXC. FOOD",51-4051,Metal-Refining Furnace Operators and Tenders
+766,"FURNACE, KILN, AND OVEN OPERATORS, EXC. FOOD",51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+766,"FURNACE, KILN, AND OVEN OPERATORS, EXC. FOOD",51-9011,Chemical Equipment Operators and Tenders
+766,"FURNACE, KILN, AND OVEN OPERATORS, EXC. FOOD",51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+766,"FURNACE, KILN, AND OVEN OPERATORS, EXC. FOOD",51-9141,Semiconductor Processors
+766,"FURNACE, KILN, AND OVEN OPERATORS, EXC. FOOD",51-9199,"Production Workers, All Other"
+766,"FURNACE, KILN, AND OVEN OPERATORS, EXC. FOOD",53-7063,Machine Feeders and Offbearers
+768,CRUSHING AND GRINDING MACHINE OPERATORS,49-9041,Industrial Machinery Mechanics
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-9022,"Grinding and Polishing Workers, Hand"
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-9141,Semiconductor Processors
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+768,CRUSHING AND GRINDING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+769,SLICING AND CUTTING MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+769,SLICING AND CUTTING MACHINE OPERATORS,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+769,SLICING AND CUTTING MACHINE OPERATORS,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+769,SLICING AND CUTTING MACHINE OPERATORS,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+769,SLICING AND CUTTING MACHINE OPERATORS,51-9083,Ophthalmic Laboratory Technicians
+769,SLICING AND CUTTING MACHINE OPERATORS,51-9141,Semiconductor Processors
+769,SLICING AND CUTTING MACHINE OPERATORS,51-9198,Helpers--Production Workers
+769,SLICING AND CUTTING MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+773,MOTION PICTURE PROJECTIONISTS,39-3021,Motion Picture Projectionists
+773,MOTION PICTURE PROJECTIONISTS,51-3099,"Food Processing Workers, All Other"
+773,MOTION PICTURE PROJECTIONISTS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+773,MOTION PICTURE PROJECTIONISTS,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+773,MOTION PICTURE PROJECTIONISTS,51-9141,Semiconductor Processors
+773,MOTION PICTURE PROJECTIONISTS,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+773,MOTION PICTURE PROJECTIONISTS,51-9199,"Production Workers, All Other"
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,27-4031,"Camera Operators, Television, Video, and Motion Picture"
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,27-4032,Film and Video Editors
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,43-3099,"Financial Clerks, All Other"
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,43-9199,"Office and Administrative Support Workers, All Other"
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,47-2044,Tile and Marble Setters
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,51-3099,"Food Processing Workers, All Other"
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,51-5111,Prepress Technicians and Workers
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,51-5112,Printing Press Operators**
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,51-9123,"Painting, Coating, and Decorating Workers"
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,51-9151,Photographic Process Workers and Processing Machine Operators**
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,51-9194,Etchers and Engravers
+774,PHOTOGRAPHIC PROCESS MACHINE OPERATORS,51-9199,"Production Workers, All Other"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",39-3021,Motion Picture Projectionists
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-2021,"Coil Winders, Tapers, and Finishers"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-3093,Food Cooking Machine Operators and Tenders
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-3099,"Food Processing Workers, All Other"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-5113,Print Binding and Finishing Workers**
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-6031,Sewing Machine Operators
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-8021,Stationary Engineers and Boiler Operators
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-8099,"Plant and System Operators, All Other"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9011,Chemical Equipment Operators and Tenders
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9031,"Cutters and Trimmers, Hand"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9111,Packaging and Filling Machine Operators and Tenders
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9141,Semiconductor Processors
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9193,Cooling and Freezing Equipment Operators and Tenders
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9197,Tire Builders
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9198,Helpers--Production Workers
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",51-9199,"Production Workers, All Other"
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",53-7011,Conveyor Operators and Tenders
+777,"MISCELLANEOUS MACHINE OPERATORS, N.E.C.",53-7072,"Pump Operators, Except Wellhead Pumpers"
+783,WELDERS AND CUTTERS,51-3099,"Food Processing Workers, All Other"
+783,WELDERS AND CUTTERS,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+783,WELDERS AND CUTTERS,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+783,WELDERS AND CUTTERS,51-4121,"Welders, Cutters, Solderers, and Brazers"
+783,WELDERS AND CUTTERS,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+783,WELDERS AND CUTTERS,51-9199,"Production Workers, All Other"
+784,SOLDERERS AND BRAZERS,51-4121,"Welders, Cutters, Solderers, and Brazers"
+784,SOLDERERS AND BRAZERS,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+785,ASSEMBLERS,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+785,ASSEMBLERS,47-2031,Carpenters
+785,ASSEMBLERS,47-2111,Electricians
+785,ASSEMBLERS,47-2231,Solar Photovoltaic Installers**
+785,ASSEMBLERS,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+785,ASSEMBLERS,49-9043,"Maintenance Workers, Machinery"
+785,ASSEMBLERS,49-9045,"Refractory Materials Repairers, Except Brickmasons"
+785,ASSEMBLERS,49-9071,"Maintenance and Repair Workers, General"
+785,ASSEMBLERS,49-9095,Manufactured Building and Mobile Home Installers
+785,ASSEMBLERS,51-2021,"Coil Winders, Tapers, and Finishers"
+785,ASSEMBLERS,51-2022,Electrical and Electronic Equipment Assemblers
+785,ASSEMBLERS,51-2023,Electromechanical Equipment Assemblers
+785,ASSEMBLERS,51-2031,Engine and Other Machine Assemblers
+785,ASSEMBLERS,51-2091,Fiberglass Laminators and Fabricators
+785,ASSEMBLERS,51-2092,Team Assemblers
+785,ASSEMBLERS,51-2099,"Assemblers and Fabricators, All Other"
+785,ASSEMBLERS,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers"
+785,ASSEMBLERS,51-3099,"Food Processing Workers, All Other"
+785,ASSEMBLERS,51-4199,"Metal Workers and Plastic Workers, All Other"
+785,ASSEMBLERS,51-6021,"Pressers, Textile, Garment, and Related Materials"
+785,ASSEMBLERS,51-9022,"Grinding and Polishing Workers, Hand"
+785,ASSEMBLERS,51-9031,"Cutters and Trimmers, Hand"
+785,ASSEMBLERS,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+785,ASSEMBLERS,51-9123,"Painting, Coating, and Decorating Workers"
+785,ASSEMBLERS,51-9141,Semiconductor Processors
+785,ASSEMBLERS,51-9194,Etchers and Engravers
+785,ASSEMBLERS,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+785,ASSEMBLERS,51-9198,Helpers--Production Workers
+785,ASSEMBLERS,51-9199,"Production Workers, All Other"
+785,ASSEMBLERS,53-7064,"Packers and Packagers, Hand"
+786,HAND CUTTING AND TRIMMING OCCUPATIONS,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers"
+786,HAND CUTTING AND TRIMMING OCCUPATIONS,51-3099,"Food Processing Workers, All Other"
+786,HAND CUTTING AND TRIMMING OCCUPATIONS,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+786,HAND CUTTING AND TRIMMING OCCUPATIONS,51-9031,"Cutters and Trimmers, Hand"
+786,HAND CUTTING AND TRIMMING OCCUPATIONS,51-9123,"Painting, Coating, and Decorating Workers"
+786,HAND CUTTING AND TRIMMING OCCUPATIONS,51-9199,"Production Workers, All Other"
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",47-2231,Solar Photovoltaic Installers**
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",49-9081,Wind Turbine Service Technicians
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",51-3011,Bakers
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",51-3099,"Food Processing Workers, All Other"
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",51-4052,"Pourers and Casters, Metal"
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",51-9022,"Grinding and Polishing Workers, Hand"
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",51-9071,Jewelers and Precious Stone and Metal Workers
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+787,"HAND MOLDING, CASTING, AND FORMING OCCUPATIONS",51-9199,"Production Workers, All Other"
+789,"HAND PAINTING, COATING, AND DECORATING OCCUPATIONS",51-3099,"Food Processing Workers, All Other"
+789,"HAND PAINTING, COATING, AND DECORATING OCCUPATIONS",51-9122,"Painters, Transportation Equipment"
+789,"HAND PAINTING, COATING, AND DECORATING OCCUPATIONS",51-9123,"Painting, Coating, and Decorating Workers"
+789,"HAND PAINTING, COATING, AND DECORATING OCCUPATIONS",51-9199,"Production Workers, All Other"
+793,HAND ENGRAVING AND PRINTING OCCUPATIONS,51-3099,"Food Processing Workers, All Other"
+793,HAND ENGRAVING AND PRINTING OCCUPATIONS,51-9123,"Painting, Coating, and Decorating Workers"
+793,HAND ENGRAVING AND PRINTING OCCUPATIONS,51-9194,Etchers and Engravers
+793,HAND ENGRAVING AND PRINTING OCCUPATIONS,51-9199,"Production Workers, All Other"
+794,HAND GRINDING AND POLISHING OCCUPATIONS,51-3099,"Food Processing Workers, All Other"
+794,HAND GRINDING AND POLISHING OCCUPATIONS,51-9022,"Grinding and Polishing Workers, Hand"
+794,HAND GRINDING AND POLISHING OCCUPATIONS,51-9199,"Production Workers, All Other"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,37-2019,"Building Cleaning Workers, All Other"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,41-2021,Counter and Rental Clerks
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,47-2231,Solar Photovoltaic Installers**
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,49-9045,"Refractory Materials Repairers, Except Brickmasons"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,49-9081,Wind Turbine Service Technicians
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-3093,Food Cooking Machine Operators and Tenders
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-3099,"Food Processing Workers, All Other"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-4121,"Welders, Cutters, Solderers, and Brazers"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-6011,Laundry and Dry-Cleaning Workers
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-6021,"Pressers, Textile, Garment, and Related Materials"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-6051,"Sewers, Hand"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-9022,"Grinding and Polishing Workers, Hand"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-9123,"Painting, Coating, and Decorating Workers"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-9141,Semiconductor Processors
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-9198,Helpers--Production Workers
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,51-9199,"Production Workers, All Other"
+795,MISCELLANEOUS HAND WORKING OCCUPATIONS,53-7061,Cleaners of Vehicles and Equipment
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",45-2041,"Graders and Sorters, Agricultural Products"
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",47-4011,Construction and Building Inspectors
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",51-3099,"Food Processing Workers, All Other"
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",51-6041,Shoe and Leather Workers and Repairers
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",51-8091,Chemical Plant and System Operators
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",51-9199,"Production Workers, All Other"
+796,"PRODUCTION INSPECTORS, CHECKERS, AND EXAMINERS",53-6051,Transportation Inspectors
+797,PRODUCTION TESTERS,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+798,PRODUCTION SAMPLERS AND WEIGHERS,43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+798,PRODUCTION SAMPLERS AND WEIGHERS,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+799,"GRADERS AND SORTERS, EXC. AGRICULTURAL",45-4023,Log Graders and Scalers
+799,"GRADERS AND SORTERS, EXC. AGRICULTURAL",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+803,"SUPERVISORS, MOTOR VEHICLE OPERATORS",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+804,"TRUCK DRIVERS, HEAVY",53-3032,Heavy and Tractor-Trailer Truck Drivers
+805,"TRUCK DRIVERS, LIGHT",31-9093,Medical Equipment Preparers
+805,"TRUCK DRIVERS, LIGHT",53-3033,Light Truck or Delivery Services Drivers
+806,DRIVER-SALES WORKERS,53-3031,Driver/Sales Workers
+808,BUS DRIVERS,53-3021,"Bus Drivers, Transit and Intercity"
+808,BUS DRIVERS,53-3022,"Bus Drivers, School or Special Client"
+808,BUS DRIVERS,53-3033,Light Truck or Delivery Services Drivers
+809,TAXICAB DRIVERS AND CHAUFFEURS,53-3041,Taxi Drivers and Chauffeurs
+813,PARKING LOT ATTENDANTS,53-6021,Parking Lot Attendants
+814,"MOTOR TRANSPORTATION OCCUPATIONS, N.E.C.",53-3032,Heavy and Tractor-Trailer Truck Drivers
+814,"MOTOR TRANSPORTATION OCCUPATIONS, N.E.C.",53-3099,"Motor Vehicle Operators, All Other"
+823,RAILROAD CONDUCTORS AND YARDMASTER,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+823,RAILROAD CONDUCTORS AND YARDMASTER,53-4031,Railroad Conductors and Yardmasters
+824,LOCOMOTIVE OPERATING OCCUPATIONS,53-4011,Locomotive Engineers
+824,LOCOMOTIVE OPERATING OCCUPATIONS,53-4012,Locomotive Firers
+824,LOCOMOTIVE OPERATING OCCUPATIONS,53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers"
+824,LOCOMOTIVE OPERATING OCCUPATIONS,53-4041,Subway and Streetcar Operators
+825,"RAILROAD BRAKE, SIGNAL, AND SWITCH OPERATORS",53-4021,"Railroad Brake, Signal, and Switch Operators"
+826,"RAIL VEHICLE OPERATORS, N.E.C.",51-8099,"Plant and System Operators, All Other"
+826,"RAIL VEHICLE OPERATORS, N.E.C.",53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers"
+826,"RAIL VEHICLE OPERATORS, N.E.C.",53-4099,"Rail Transportation Workers, All Other"
+826,"RAIL VEHICLE OPERATORS, N.E.C.",53-7199,"Material Moving Workers, All Other"
+828,"SHIP CAPTAINS AND MATES, EXCEPT FISHING BOATS",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+828,"SHIP CAPTAINS AND MATES, EXCEPT FISHING BOATS",53-5021,"Captains, Mates, and Pilots of Water Vessels"
+828,"SHIP CAPTAINS AND MATES, EXCEPT FISHING BOATS",53-5022,Motorboat Operators
+828,"SHIP CAPTAINS AND MATES, EXCEPT FISHING BOATS",53-6099,"Transportation Workers, All Other"
+829,SAILORS AND DECKHANDS,53-5011,Sailors and Marine Oilers
+829,SAILORS AND DECKHANDS,53-7199,"Material Moving Workers, All Other"
+833,MARINE ENGINEERS,53-5031,Ship Engineers
+834,"BRIDGE, LOCK, AND LIGHTHOUSE TENDERS",53-6011,Bridge and Lock Tenders
+843,"SUPERVISORS, MATERIAL MOVING EQUIPMENT OPERATORS",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+844,OPERATING ENGINEERS,47-2073,Operating Engineers and Other Construction Equipment Operators
+845,LONGSHORE EQUIPMENT OPERATORS,53-7041,Hoist and Winch Operators
+848,HOIST AND WINCH OPERATORS,53-7041,Hoist and Winch Operators
+849,CRANE AND TOWER OPERATORS,53-7021,Crane and Tower Operators
+853,EXCAVATING AND LOADING MACHINE OPERATORS,53-7011,Conveyor Operators and Tenders
+853,EXCAVATING AND LOADING MACHINE OPERATORS,53-7031,Dredge Operators
+853,EXCAVATING AND LOADING MACHINE OPERATORS,53-7032,Excavating and Loading Machine and Dragline Operators
+853,EXCAVATING AND LOADING MACHINE OPERATORS,53-7033,"Loading Machine Operators, Underground Mining"
+855,"GRADER, DOZER, AND SCRAPER OPERATORS",47-2071,"Paving, Surfacing, and Tamping Equipment Operators"
+855,"GRADER, DOZER, AND SCRAPER OPERATORS",47-2073,Operating Engineers and Other Construction Equipment Operators
+856,INDUSTRIAL TRUCK AND TRACTOR EQUIPMENT OPERATORS,45-4022,Logging Equipment Operators
+856,INDUSTRIAL TRUCK AND TRACTOR EQUIPMENT OPERATORS,53-7051,Industrial Truck and Tractor Operators
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,47-4041,Hazardous Materials Removal Workers
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,47-5013,"Service Unit Operators, Oil, Gas, and Mining"
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,47-5081,Helpers--Extraction Workers
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,51-3099,"Food Processing Workers, All Other"
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,51-8099,"Plant and System Operators, All Other"
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,51-9198,Helpers--Production Workers
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,51-9199,"Production Workers, All Other"
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7011,Conveyor Operators and Tenders
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7032,Excavating and Loading Machine and Dragline Operators
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7041,Hoist and Winch Operators
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7051,Industrial Truck and Tractor Operators
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7071,Gas Compressor and Gas Pumping Station Operators
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7072,"Pump Operators, Except Wellhead Pumpers"
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7073,Wellhead Pumpers
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7111,Mine Shuttle Car Operators
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7121,"Tank Car, Truck, and Ship Loaders"
+859,MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS,53-7199,"Material Moving Workers, All Other"
+863,"SUPERVISORS, HANDLERS, EQUIPMENT CLEANERS, AND LABORERS,",53-1021,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+863,"SUPERVISORS, HANDLERS, EQUIPMENT CLEANERS, AND LABORERS,",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+864,"HELPERS, MECHANICS AND REPAIRERS",47-3012,Helpers--Carpenters
+864,"HELPERS, MECHANICS AND REPAIRERS",47-3013,Helpers--Electricians
+864,"HELPERS, MECHANICS AND REPAIRERS",49-9098,"Helpers--Installation, Maintenance, and Repair Workers"
+864,"HELPERS, MECHANICS AND REPAIRERS",51-6041,Shoe and Leather Workers and Repairers
+864,"HELPERS, MECHANICS AND REPAIRERS",51-9198,Helpers--Production Workers
+865,"HELPERS, CONSTRUCTION TRADES",47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+865,"HELPERS, CONSTRUCTION TRADES",47-3012,Helpers--Carpenters
+865,"HELPERS, CONSTRUCTION TRADES",47-3013,Helpers--Electricians
+865,"HELPERS, CONSTRUCTION TRADES",47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+865,"HELPERS, CONSTRUCTION TRADES",47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+865,"HELPERS, CONSTRUCTION TRADES",47-3019,"Helpers, Construction Trades, All Other"
+865,"HELPERS, CONSTRUCTION TRADES",49-9098,"Helpers--Installation, Maintenance, and Repair Workers"
+866,"HELPERS, SURVEYOR",47-3019,"Helpers, Construction Trades, All Other"
+867,"HELPERS, EXTRACTIVE OCCUPATIONS",47-5081,Helpers--Extraction Workers
+867,"HELPERS, EXTRACTIVE OCCUPATIONS",51-3099,"Food Processing Workers, All Other"
+867,"HELPERS, EXTRACTIVE OCCUPATIONS",51-9199,"Production Workers, All Other"
+869,CONSTRUCTION LABORERS,47-3012,Helpers--Carpenters
+869,CONSTRUCTION LABORERS,47-3016,Helpers--Roofers
+869,CONSTRUCTION LABORERS,47-5031,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+869,CONSTRUCTION LABORERS,51-9198,Helpers--Production Workers
+873,PRODUCTION HELPERS,51-3099,"Food Processing Workers, All Other"
+873,PRODUCTION HELPERS,51-4052,"Pourers and Casters, Metal"
+873,PRODUCTION HELPERS,51-9081,Dental Laboratory Technicians
+873,PRODUCTION HELPERS,51-9198,Helpers--Production Workers
+873,PRODUCTION HELPERS,51-9199,"Production Workers, All Other"
+873,PRODUCTION HELPERS,53-7041,Hoist and Winch Operators
+873,PRODUCTION HELPERS,53-7063,Machine Feeders and Offbearers
+875,GARBAGE COLLECTORS,53-7081,Refuse and Recyclable Material Collectors
+876,STEVEDORES,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
+877,STOCK HANDLERS AND BAGGERS,51-9198,Helpers--Production Workers
+877,STOCK HANDLERS AND BAGGERS,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
+877,STOCK HANDLERS AND BAGGERS,53-7064,"Packers and Packagers, Hand"
+878,MACHINE FEEDERS AND OFFBEARERS,45-4029,"Logging Workers, All Other"
+878,MACHINE FEEDERS AND OFFBEARERS,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers"
+878,MACHINE FEEDERS AND OFFBEARERS,51-3099,"Food Processing Workers, All Other"
+878,MACHINE FEEDERS AND OFFBEARERS,51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+878,MACHINE FEEDERS AND OFFBEARERS,51-9031,"Cutters and Trimmers, Hand"
+878,MACHINE FEEDERS AND OFFBEARERS,51-9191,Adhesive Bonding Machine Operators and Tenders
+878,MACHINE FEEDERS AND OFFBEARERS,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+878,MACHINE FEEDERS AND OFFBEARERS,51-9198,Helpers--Production Workers
+878,MACHINE FEEDERS AND OFFBEARERS,51-9199,"Production Workers, All Other"
+878,MACHINE FEEDERS AND OFFBEARERS,53-7063,Machine Feeders and Offbearers
+883,"FREIGHT, STOCK, AND MATERIAL HANDLERS, N.E.C.",51-9198,Helpers--Production Workers
+883,"FREIGHT, STOCK, AND MATERIAL HANDLERS, N.E.C.",53-7011,Conveyor Operators and Tenders
+883,"FREIGHT, STOCK, AND MATERIAL HANDLERS, N.E.C.",53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
+883,"FREIGHT, STOCK, AND MATERIAL HANDLERS, N.E.C.",53-7199,"Material Moving Workers, All Other"
+885,GARAGE AND SERVICE STATION RELATED OCCUPATIONS,53-6031,Automotive and Watercraft Service Attendants
+887,VEHICLE WASHERS AND EQUIPMENT CLEANERS,51-9198,Helpers--Production Workers
+887,VEHICLE WASHERS AND EQUIPMENT CLEANERS,53-7061,Cleaners of Vehicles and Equipment
+888,HAND PACKERS AND PACKAGERS,47-2031,Carpenters
+888,HAND PACKERS AND PACKAGERS,51-3099,"Food Processing Workers, All Other"
+888,HAND PACKERS AND PACKAGERS,51-6051,"Sewers, Hand"
+888,HAND PACKERS AND PACKAGERS,51-9198,Helpers--Production Workers
+888,HAND PACKERS AND PACKAGERS,51-9199,"Production Workers, All Other"
+888,HAND PACKERS AND PACKAGERS,53-7064,"Packers and Packagers, Hand"
+889,"LABORERS, EXCEPT CONSTRUCTION",39-3091,Amusement and Recreation Attendants
+889,"LABORERS, EXCEPT CONSTRUCTION",41-2021,Counter and Rental Clerks
+889,"LABORERS, EXCEPT CONSTRUCTION",45-4029,"Logging Workers, All Other"
+889,"LABORERS, EXCEPT CONSTRUCTION",49-2092,"Electric Motor, Power Tool, and Related Repairers"
+889,"LABORERS, EXCEPT CONSTRUCTION",49-9043,"Maintenance Workers, Machinery"
+889,"LABORERS, EXCEPT CONSTRUCTION",49-9096,Riggers
+889,"LABORERS, EXCEPT CONSTRUCTION",51-3022,"Meat, Poultry, and Fish Cutters and Trimmers"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-3099,"Food Processing Workers, All Other"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-6011,Laundry and Dry-Cleaning Workers
+889,"LABORERS, EXCEPT CONSTRUCTION",51-6021,"Pressers, Textile, Garment, and Related Materials"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9022,"Grinding and Polishing Workers, Hand"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9031,"Cutters and Trimmers, Hand"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9123,"Painting, Coating, and Decorating Workers"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9141,Semiconductor Processors
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9198,Helpers--Production Workers
+889,"LABORERS, EXCEPT CONSTRUCTION",51-9199,"Production Workers, All Other"
+889,"LABORERS, EXCEPT CONSTRUCTION",53-6031,Automotive and Watercraft Service Attendants
+889,"LABORERS, EXCEPT CONSTRUCTION",53-7061,Cleaners of Vehicles and Equipment
+889,"LABORERS, EXCEPT CONSTRUCTION",53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
+889,"LABORERS, EXCEPT CONSTRUCTION",53-7199,"Material Moving Workers, All Other"
