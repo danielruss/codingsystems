@@ -61,7 +61,7 @@ Thank you to the organization the actually provide the data:
 
 # n-stage crosswalk
 | inital system | final system | using      | format | URL | Notes |
-------------- | ------------ | ---------- | ------ | ---- | ----- |
+|------------- | ------------ | ---------- | ------ | ---- | ----- |
 | US Census 1980    | US SOC 2010   |  US SOC 1980, US SOC 2000 | CSV    | [https://danielruss.github.io/codingsystems/occ1980_soc2010.csv](https://danielruss.github.io/codingsystems/occ1980_soc2010.csv) |
 
 
