@@ -1,0 +1,5249 @@
+[
+  {
+    "soc_code": 111,
+    "title": "LEGISLATORS",
+    "division": "11-18",
+    "major": "11",
+    "minor": "111"
+  },
+  {
+    "soc_code": 112,
+    "title": "CHIEF EXECUTIVES AND GENERAL ADMINISTRATORS",
+    "division": "11-18",
+    "major": "11",
+    "minor": "112"
+  },
+  {
+    "soc_code": 1131,
+    "title": "JUDICIAL, PUBLIC SAFETY AND CORRECTIONS ADMINISTRATORS",
+    "division": "11-18",
+    "major": "11",
+    "minor": "113",
+    "unit": 1131
+  },
+  {
+    "soc_code": 1132,
+    "title": "HUMAN RESOURCES PROGRAM ADMINISTRATORS",
+    "division": "11-18",
+    "major": "11",
+    "minor": "113",
+    "unit": 1132
+  },
+  {
+    "soc_code": 1133,
+    "title": "NATURAL RESOURCES PROGRAM ADMINSITRATORS",
+    "division": "11-18",
+    "major": "11",
+    "minor": "113",
+    "unit": 1133
+  },
+  {
+    "soc_code": 1134,
+    "title": "RURAL, URBAN, AND COMMUNITY DEVELOPMENT PROGRAM ADMINIS",
+    "division": "11-18",
+    "major": "11",
+    "minor": "113",
+    "unit": 1134
+  },
+  {
+    "soc_code": 1135,
+    "title": "PUBLIC FINANCE, TAXATION, AND OTHER MONETARY PROGRAM AD",
+    "division": "11-18",
+    "major": "11",
+    "minor": "113",
+    "unit": 1135
+  },
+  {
+    "soc_code": 1139,
+    "title": "OFFICIALS AND ADMINISTRATORS, PUBLIC ADMINISTRATION, NEC",
+    "division": "11-18",
+    "major": "11",
+    "minor": "113",
+    "unit": 1139
+  },
+  {
+    "soc_code": 121,
+    "title": "GENERAL MANAGERS AND OTHER TOP EXECUTIVES",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "121"
+  },
+  {
+    "soc_code": 122,
+    "title": "FINANCIAL MANAGERS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "122"
+  },
+  {
+    "soc_code": 123,
+    "title": "PERSONNEL AND LABOR RELATIONS MANAGERS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "123"
+  },
+  {
+    "soc_code": 124,
+    "title": "PURCHASING MANAGERS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "124"
+  },
+  {
+    "soc_code": 125,
+    "title": "MANAGERS; MARKETING, ADVERTISING, AND PUBLIC RELATIONS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "125"
+  },
+  {
+    "soc_code": 126,
+    "title": "MANAGERS; ENGINEERING, MATHEMATICS, AND NATURAL SCIENCE",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "126"
+  },
+  {
+    "soc_code": 127,
+    "title": "MANAGERS; SOCIAL SCIENCES AND RELATED FIELDS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "127"
+  },
+  {
+    "soc_code": 1281,
+    "title": "ADMINISTRATORS; COLLEGES AND UNIVERSITIES",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "128",
+    "unit": 1281
+  },
+  {
+    "soc_code": 1282,
+    "title": "ADMINISTRATORS; ELEMENTARY AND SECONDARY EDUCATION",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "128",
+    "unit": 1282
+  },
+  {
+    "soc_code": 1283,
+    "title": "ADMINISTRATORS; EDUCATION AND RELATED FIELDS, NEC",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "128",
+    "unit": 1283
+  },
+  {
+    "soc_code": 131,
+    "title": "MANAGERS; MEDICINE AND HEALTH",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "131"
+  },
+  {
+    "soc_code": 132,
+    "title": "PRODUCTION MANAGERS, INDUSTRIAL",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "132"
+  },
+  {
+    "soc_code": 133,
+    "title": "CONSTRUCTION MANAGERS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "133"
+  },
+  {
+    "soc_code": 1341,
+    "title": "COMMUNICATIONS OPERATIONS MANAGERS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "134",
+    "unit": 1341
+  },
+  {
+    "soc_code": 1342,
+    "title": "TRANSPORTATION FACILITIES AND OPERATIONS MANAGERS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "134",
+    "unit": 1342
+  },
+  {
+    "soc_code": 1343,
+    "title": "ELECTRICITY, GAS, WATER SUPPLY, AND SANTIARY SERVICES M",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "134",
+    "unit": 1343
+  },
+  {
+    "soc_code": 1344,
+    "title": "POSTMASTERS AND MAIL SUPERINTENDENTS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "134",
+    "unit": 1344
+  },
+  {
+    "soc_code": 1351,
+    "title": "MANAGERS; FOOD SERVING AND LODGING ESTABLISHMENTS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "135",
+    "unit": 1351
+  },
+  {
+    "soc_code": 1352,
+    "title": "MANAGERS; ENTERTAINMENT AND RECREATION FACILITIES",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "135",
+    "unit": 1352
+  },
+  {
+    "soc_code": 1353,
+    "title": "MANAGERS; PROPERTY AND LEASING",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "135",
+    "unit": 1353
+  },
+  {
+    "soc_code": 1354,
+    "title": "MANAGERS; MEMBERSHIP ORGANIZATIONS",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "135",
+    "unit": 1354
+  },
+  {
+    "soc_code": 1359,
+    "title": "MANAGERS; SERVICE ORGANIZATIONS, NEC",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "135",
+    "unit": 1359
+  },
+  {
+    "soc_code": 136,
+    "title": "MANAGERS; MINING, QUARRYING, WELL DRILLING, AND SIMILAR",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "136"
+  },
+  {
+    "soc_code": 137,
+    "title": "MANAGERS: ADMINISTRATIVE SERVICES",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "137"
+  },
+  {
+    "soc_code": 139,
+    "title": "OFFICIALS AND ADMINISTRATORS; OTHER, NEC",
+    "division": "11-18",
+    "major": "12-13",
+    "minor": "139"
+  },
+  {
+    "soc_code": 1412,
+    "title": "ACCOUNTANTS AND AUDITORS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "141",
+    "unit": 1412
+  },
+  {
+    "soc_code": 1414,
+    "title": "UNDERWRITERS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "141",
+    "unit": 1414
+  },
+  {
+    "soc_code": 1415,
+    "title": "LOAN OFFICIERS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "141",
+    "unit": 1415
+  },
+  {
+    "soc_code": 1419,
+    "title": "OTHER FINANCIAL OFFICERS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "141",
+    "unit": 1419
+  },
+  {
+    "soc_code": 142,
+    "title": "MANAGEMENT ANALYST",
+    "division": "11-18",
+    "major": "14",
+    "minor": "142"
+  },
+  {
+    "soc_code": 143,
+    "title": "PERSONNEL, TRAINING, AND LABOR RLATIONS SPECIALISTS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "143"
+  },
+  {
+    "soc_code": 1442,
+    "title": "BUYERS, WHOLESALE AND RETAIL TRADE, EXCEPT FARM PRODUCTS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "144",
+    "unit": 1442
+  },
+  {
+    "soc_code": 1443,
+    "title": "PURCHASING AGENTS AND BUYERS, FARM PRODUCTS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "144",
+    "unit": 1443
+  },
+  {
+    "soc_code": 1449,
+    "title": "PURCHASING AGENTS AND BUYERS, NEC",
+    "division": "11-18",
+    "major": "14",
+    "minor": "144",
+    "unit": 1449
+  },
+  {
+    "soc_code": 145,
+    "title": "BUSINESS AND PROMOTION AGENTS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "145"
+  },
+  {
+    "soc_code": 1472,
+    "title": "CONSTRUCTION INSPECTORS",
+    "division": "11-18",
+    "major": "14",
+    "minor": "147",
+    "unit": 1472
+  },
+  {
+    "soc_code": 1473,
+    "title": "INSPECTORS AND COMPLIANCE OFFICERS, EXCEPT CONSTRUCTION",
+    "division": "11-18",
+    "major": "14",
+    "minor": "147",
+    "unit": 1473
+  },
+  {
+    "soc_code": 149,
+    "title": "MANAGEMENT RELATED OCCUPATIONS, NEC",
+    "division": "11-18",
+    "major": "14",
+    "minor": "149"
+  },
+  {
+    "soc_code": 161,
+    "title": "ARCHITECTS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "161"
+  },
+  {
+    "soc_code": 1622,
+    "title": "AEROSPACE ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1622
+  },
+  {
+    "soc_code": 1623,
+    "title": "METALLURGICAL AND MATERIALS ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1623
+  },
+  {
+    "soc_code": 1624,
+    "title": "MINING ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1624
+  },
+  {
+    "soc_code": 1625,
+    "title": "PETROLEUM ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1625
+  },
+  {
+    "soc_code": 1626,
+    "title": "CHEMICAL ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1626
+  },
+  {
+    "soc_code": 1627,
+    "title": "NUCLEAR ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1627
+  },
+  {
+    "soc_code": 1628,
+    "title": "CIVIL ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1628
+  },
+  {
+    "soc_code": 1632,
+    "title": "AGRICULTURAL ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1632
+  },
+  {
+    "soc_code": 1633,
+    "title": "ELECTRICAL AND ELECTRONIC ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1633
+  },
+  {
+    "soc_code": 1634,
+    "title": "INDUSTRIAL ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1634
+  },
+  {
+    "soc_code": 1635,
+    "title": "MECHANICAL ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1635
+  },
+  {
+    "soc_code": 1636,
+    "title": "COMPUTER ENGINEERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1636
+  },
+  {
+    "soc_code": 1637,
+    "title": "MARINE ENGINEERS AND NAVAL ARCHITECTS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1637
+  },
+  {
+    "soc_code": 1639,
+    "title": "ENGINEERS, NEC",
+    "division": "11-18",
+    "major": "16",
+    "minor": "162-3",
+    "unit": 1639
+  },
+  {
+    "soc_code": 1643,
+    "title": "LAND SURVEYORS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "164",
+    "unit": 1643
+  },
+  {
+    "soc_code": 1644,
+    "title": "CARTOGRAPHERS",
+    "division": "11-18",
+    "major": "16",
+    "minor": "164",
+    "unit": 1644
+  },
+  {
+    "soc_code": 1649,
+    "title": "SURVEYORS AND MAPPING SCIENTISTS, NEC",
+    "division": "11-18",
+    "major": "16",
+    "minor": "164",
+    "unit": 1649
+  },
+  {
+    "soc_code": 1712,
+    "title": "COMPUTER SYSTEMS ANALYSTS",
+    "division": "17-18",
+    "major": "17",
+    "minor": "171",
+    "unit": 1712
+  },
+  {
+    "soc_code": 1719,
+    "title": "COMPUTER SCIENTISTS, NEC",
+    "division": "17-18",
+    "major": "17",
+    "minor": "171",
+    "unit": 1719
+  },
+  {
+    "soc_code": 1721,
+    "title": "OPERATIONS RESEARCHERS AND ANLYSTS",
+    "division": "17-18",
+    "major": "17",
+    "minor": "172",
+    "unit": 1721
+  },
+  {
+    "soc_code": 1722,
+    "title": "SYSTEMS RESEARCHERS AND ANALYSTS, EXCEPT COMPUTER",
+    "division": "17-18",
+    "major": "17",
+    "minor": "172",
+    "unit": 1722
+  },
+  {
+    "soc_code": 1732,
+    "title": "ACTUARIES",
+    "division": "17-18",
+    "major": "17",
+    "minor": "173",
+    "unit": 1732
+  },
+  {
+    "soc_code": 1733,
+    "title": "STATISTICIANS",
+    "division": "17-18",
+    "major": "17",
+    "minor": "173",
+    "unit": 1733
+  },
+  {
+    "soc_code": 1739,
+    "title": "MATHEMATICAL SCIENTISTS, NEC",
+    "division": "17-18",
+    "major": "17",
+    "minor": "173",
+    "unit": 1739
+  },
+  {
+    "soc_code": 1842,
+    "title": "ASTRONOMERS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "184",
+    "unit": 1842
+  },
+  {
+    "soc_code": 1843,
+    "title": "PHYSICISTS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "184",
+    "unit": 1843
+  },
+  {
+    "soc_code": 1845,
+    "title": "CHEMISTS, EXCEPT BIOCHEMISTS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "184",
+    "unit": 1845
+  },
+  {
+    "soc_code": 1846,
+    "title": "ATMOSPHERIC AND SPACE SCIENTISTS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "184",
+    "unit": 1846
+  },
+  {
+    "soc_code": 1847,
+    "title": "GEOLOGISTS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "184",
+    "unit": 1847
+  },
+  {
+    "soc_code": 1849,
+    "title": "PHYSICAL SCIENTISTS, NEC",
+    "division": "17-18",
+    "major": "18",
+    "minor": "184",
+    "unit": 1849
+  },
+  {
+    "soc_code": 1852,
+    "title": "FORESTRY AND CONSERVATION SCIENTISTS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "185",
+    "unit": 1852
+  },
+  {
+    "soc_code": 1853,
+    "title": "AGRICULTURAL AND FOOD SCIENTISTS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "185",
+    "unit": 1853
+  },
+  {
+    "soc_code": 1854,
+    "title": "BIOLOGICAL SCIENTISTS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "185",
+    "unit": 1854
+  },
+  {
+    "soc_code": 1855,
+    "title": "MEDICAL SCIENTISTS",
+    "division": "17-18",
+    "major": "18",
+    "minor": "185",
+    "unit": 1855
+  },
+  {
+    "soc_code": 1912,
+    "title": "ECONOMISTS",
+    "division": "19-21",
+    "major": "19",
+    "minor": "191",
+    "unit": 1912
+  },
+  {
+    "soc_code": 1913,
+    "title": "HISTORIANS",
+    "division": "19-21",
+    "major": "19",
+    "minor": "191",
+    "unit": 1913
+  },
+  {
+    "soc_code": 1914,
+    "title": "POLITICAL SCIENTISTS",
+    "division": "19-21",
+    "major": "19",
+    "minor": "191",
+    "unit": 1914
+  },
+  {
+    "soc_code": 1915,
+    "title": "PSYCHOLOGISTS",
+    "division": "19-21",
+    "major": "19",
+    "minor": "191",
+    "unit": 1915
+  },
+  {
+    "soc_code": 1916,
+    "title": "SOCIOLOGISTS",
+    "division": "19-21",
+    "major": "19",
+    "minor": "191",
+    "unit": 1916
+  },
+  {
+    "soc_code": 1919,
+    "title": "SOCIAL SCIENTISTS, NEC",
+    "division": "19-21",
+    "major": "19",
+    "minor": "191",
+    "unit": 1919
+  },
+  {
+    "soc_code": 192,
+    "title": "URBAN AND REGIONAL PLANNERS",
+    "division": "19-21",
+    "major": "19",
+    "minor": "192"
+  },
+  {
+    "soc_code": 2032,
+    "title": "SOCIAL WORKERS",
+    "division": "19-21",
+    "major": "20",
+    "minor": "203",
+    "unit": 2032
+  },
+  {
+    "soc_code": 2033,
+    "title": "RECREATION WORKERS",
+    "division": "19-21",
+    "major": "20",
+    "minor": "203",
+    "unit": 2033
+  },
+  {
+    "soc_code": 2042,
+    "title": "CLERGY",
+    "division": "19-21",
+    "major": "20",
+    "minor": "204",
+    "unit": 2042
+  },
+  {
+    "soc_code": 2049,
+    "title": "RELIGIOUS WORKERS NEC",
+    "division": "19-21",
+    "major": "20",
+    "minor": "204",
+    "unit": 2049
+  },
+  {
+    "soc_code": 211,
+    "title": "LAWYERS",
+    "division": "19-21",
+    "major": "21",
+    "minor": "211"
+  },
+  {
+    "soc_code": 212,
+    "title": "JUDGES",
+    "division": "19-21",
+    "major": "21",
+    "minor": "212"
+  },
+  {
+    "soc_code": 2212,
+    "title": "ATMOSPHERIC, EARTH, MARINE, AND SPACE SCIENCES TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2212
+  },
+  {
+    "soc_code": 2213,
+    "title": "BIOLOGICAL SCIENCES TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2213
+  },
+  {
+    "soc_code": 2214,
+    "title": "CHEMISTRY TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2214
+  },
+  {
+    "soc_code": 2215,
+    "title": "PHYSICS TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2215
+  },
+  {
+    "soc_code": 2216,
+    "title": "NATURAL SCIENCES TEACHERS, NEC",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2216
+  },
+  {
+    "soc_code": 2217,
+    "title": "PSYCHOLOGY TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2217
+  },
+  {
+    "soc_code": 2218,
+    "title": "ECONOMICS TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2218
+  },
+  {
+    "soc_code": 2222,
+    "title": "HISTORY TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2222
+  },
+  {
+    "soc_code": 2223,
+    "title": "POLITICAL SCIENCE TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2223
+  },
+  {
+    "soc_code": 2224,
+    "title": "SOCIOLOGY TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2224
+  },
+  {
+    "soc_code": 2225,
+    "title": "SOCIAL SCIENCES TEACHERS, NEC",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2225
+  },
+  {
+    "soc_code": 2226,
+    "title": "ENGINEERING TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2226
+  },
+  {
+    "soc_code": 2227,
+    "title": "MATHEMATICAL SCIENCES TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2227
+  },
+  {
+    "soc_code": 2228,
+    "title": "COMPUTER SCIENCE TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2228
+  },
+  {
+    "soc_code": 2231,
+    "title": "MEDICAL SCIENCE TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2231
+  },
+  {
+    "soc_code": 2232,
+    "title": "HEALTH SPECIALTIES TEACHERS, NEC",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2232
+  },
+  {
+    "soc_code": 2233,
+    "title": "BUSINESS, COMMERCE AND MARKETING TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2233
+  },
+  {
+    "soc_code": 2234,
+    "title": "AGRICULTURE TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2234
+  },
+  {
+    "soc_code": 2235,
+    "title": "ART, DRAMA, AND MUSIC TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2235
+  },
+  {
+    "soc_code": 2236,
+    "title": "PHYSICAL EDUCATION TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2236
+  },
+  {
+    "soc_code": 2237,
+    "title": "EDUCATION TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2237
+  },
+  {
+    "soc_code": 2238,
+    "title": "ENGLISH TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2238
+  },
+  {
+    "soc_code": 2242,
+    "title": "FOREIGN LANGUAGE TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2242
+  },
+  {
+    "soc_code": 2243,
+    "title": "LAW TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2243
+  },
+  {
+    "soc_code": 2244,
+    "title": "SOCIAL WORK TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2244
+  },
+  {
+    "soc_code": 2245,
+    "title": "THEOLOGY TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2245
+  },
+  {
+    "soc_code": 2246,
+    "title": "TRADE AND INDUSTRIAL TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2246
+  },
+  {
+    "soc_code": 2247,
+    "title": "HOME ECONOMICS TEACHERS",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2247
+  },
+  {
+    "soc_code": 2249,
+    "title": "TEACHERS; POSTSECONDARY, NEC",
+    "division": "22-25",
+    "major": "22",
+    "unit": 2249
+  },
+  {
+    "soc_code": 231,
+    "title": "PREKINDERGARTEN AND KINDERGARTEN TEACHERS",
+    "division": "22-25",
+    "major": "23",
+    "minor": "231"
+  },
+  {
+    "soc_code": 232,
+    "title": "ELEMENTARY SCHOOL TEACHERS",
+    "division": "22-25",
+    "major": "23",
+    "minor": "232"
+  },
+  {
+    "soc_code": 233,
+    "title": "SECONDARY SCHOOL TEACHERS",
+    "division": "22-25",
+    "major": "23",
+    "minor": "233"
+  },
+  {
+    "soc_code": 235,
+    "title": "TEACHERS; SPECIAL EDUCATION",
+    "division": "22-25",
+    "major": "23",
+    "minor": "235"
+  },
+  {
+    "soc_code": 236,
+    "title": "INSTRUCTIONAL COORDINATORS",
+    "division": "22-25",
+    "major": "23",
+    "minor": "236"
+  },
+  {
+    "soc_code": 239,
+    "title": "ADULT EDUCATION AND OTHER TEACHERS, NEC",
+    "division": "22-25",
+    "major": "23",
+    "minor": "239"
+  },
+  {
+    "soc_code": 24,
+    "title": "VOCATIONAL AND EDUCATIONAL COUNSELORS",
+    "division": "22-25",
+    "major": "24"
+  },
+  {
+    "soc_code": 251,
+    "title": "LIBRARIANS",
+    "division": "22-25",
+    "major": "25",
+    "minor": "251"
+  },
+  {
+    "soc_code": 252,
+    "title": "ARCHIVISTS AND CURATORS",
+    "division": "22-25",
+    "major": "25",
+    "minor": "252"
+  },
+  {
+    "soc_code": 261,
+    "title": "PHYSICIANS",
+    "division": "26-28",
+    "major": "26",
+    "minor": "261"
+  },
+  {
+    "soc_code": 262,
+    "title": "DENTISTS",
+    "division": "26-28",
+    "major": "26",
+    "minor": "262"
+  },
+  {
+    "soc_code": 27,
+    "title": "VETERINARIANS",
+    "division": "26-28",
+    "major": "27"
+  },
+  {
+    "soc_code": 281,
+    "title": "OPTOMETRISTS",
+    "division": "26-28",
+    "major": "28",
+    "minor": "281"
+  },
+  {
+    "soc_code": 283,
+    "title": "PODIATRISTS",
+    "division": "26-28",
+    "major": "28",
+    "minor": "283"
+  },
+  {
+    "soc_code": 289,
+    "title": "HEALTH DIAGNOSING AND TREATING PRACTITIONERS, NEC",
+    "division": "26-28",
+    "major": "28",
+    "minor": "289"
+  },
+  {
+    "soc_code": 29,
+    "title": "REGISTERED NURSES",
+    "division": "29-30",
+    "major": "29"
+  },
+  {
+    "soc_code": 301,
+    "title": "PHARMACISTS",
+    "division": "29-30",
+    "major": "30",
+    "minor": "301"
+  },
+  {
+    "soc_code": 302,
+    "title": "DIETITIANS",
+    "division": "29-30",
+    "major": "30",
+    "minor": "302"
+  },
+  {
+    "soc_code": 3031,
+    "title": "RESPIRATORY THERAPISTS",
+    "division": "29-30",
+    "major": "30",
+    "minor": "303",
+    "unit": 3031
+  },
+  {
+    "soc_code": 3032,
+    "title": "OCCUPATIONAL THERAPISTS",
+    "division": "29-30",
+    "major": "30",
+    "minor": "303",
+    "unit": 3032
+  },
+  {
+    "soc_code": 3033,
+    "title": "PHYSICAL THERAPISTS",
+    "division": "29-30",
+    "major": "30",
+    "minor": "303",
+    "unit": 3033
+  },
+  {
+    "soc_code": 3034,
+    "title": "SPEECH PATHOLOGISTS AND AUDIOLOGISTS",
+    "division": "29-30",
+    "major": "30",
+    "minor": "303",
+    "unit": 3034
+  },
+  {
+    "soc_code": 3039,
+    "title": "THERAPISTS, NEC",
+    "division": "29-30",
+    "major": "30",
+    "minor": "303",
+    "unit": 3039
+  },
+  {
+    "soc_code": 304,
+    "title": "PHYSICIAN'S ASSISTANTS",
+    "division": "29-30",
+    "major": "30",
+    "minor": "304"
+  },
+  {
+    "soc_code": 321,
+    "title": "AUTHORS",
+    "division": "32-34",
+    "major": "32",
+    "minor": "321"
+  },
+  {
+    "soc_code": 322,
+    "title": "DESIGNERS",
+    "division": "32-34",
+    "major": "32",
+    "minor": "322"
+  },
+  {
+    "soc_code": 323,
+    "title": "MUSICIANS AND COMPOSERS",
+    "division": "32-34",
+    "major": "32",
+    "minor": "323"
+  },
+  {
+    "soc_code": 324,
+    "title": "ACTORS AND DIRECTORS",
+    "division": "32-34",
+    "major": "32",
+    "minor": "324"
+  },
+  {
+    "soc_code": 325,
+    "title": "PAINTERS, SCULPTORS, CRAFT-ARTISTS AND ARTIST-PRINTMAKE",
+    "division": "32-34",
+    "major": "32",
+    "minor": "325"
+  },
+  {
+    "soc_code": 326,
+    "title": "PHOTOGRAPHERS",
+    "division": "32-34",
+    "major": "32",
+    "minor": "326"
+  },
+  {
+    "soc_code": 327,
+    "title": "DANCERS",
+    "division": "32-34",
+    "major": "32",
+    "minor": "327"
+  },
+  {
+    "soc_code": 328,
+    "title": "PERFORMERS, NEC",
+    "division": "32-34",
+    "major": "32",
+    "minor": "328"
+  },
+  {
+    "soc_code": 329,
+    "title": "WRITERS, ARTISTS, AND RELATED WORKERS; NEC",
+    "division": "32-34",
+    "major": "32",
+    "minor": "329"
+  },
+  {
+    "soc_code": 3312,
+    "title": "EDITORS",
+    "division": "32-34",
+    "major": "33",
+    "minor": "331",
+    "unit": 3312
+  },
+  {
+    "soc_code": 3313,
+    "title": "REPORTERS",
+    "division": "32-34",
+    "major": "33",
+    "minor": "331",
+    "unit": 3313
+  },
+  {
+    "soc_code": 332,
+    "title": "PUBLIC RELATIONS SPECIALISTS AND PUBLICITY WRITERS",
+    "division": "32-34",
+    "major": "33",
+    "minor": "332"
+  },
+  {
+    "soc_code": 333,
+    "title": "RADIO, TELEVISION AND OTHER ANNOUNCERS",
+    "division": "32-34",
+    "major": "33",
+    "minor": "333"
+  },
+  {
+    "soc_code": 34,
+    "title": "ATHLETES AND RELATED WORKERS",
+    "division": "32-34",
+    "major": "34"
+  },
+  {
+    "soc_code": 362,
+    "title": "CLINICAL LABORATORY TECHNOLOGISTS AND TECHNICIANS",
+    "division": "36-36",
+    "major": "36",
+    "minor": "362"
+  },
+  {
+    "soc_code": 363,
+    "title": "DENTAL HYGIENISTS",
+    "division": "36-36",
+    "major": "36",
+    "minor": "363"
+  },
+  {
+    "soc_code": 364,
+    "title": "HEALTH RECORD TECHNOLOGISTS AND TECHNICIANS",
+    "division": "36-36",
+    "major": "36",
+    "minor": "364"
+  },
+  {
+    "soc_code": 365,
+    "title": "RADIOLOGIC TECHNOLOGISTS AND TECHNICIANS",
+    "division": "36-36",
+    "major": "36",
+    "minor": "365"
+  },
+  {
+    "soc_code": 366,
+    "title": "LICENSED PRACTICAL NURSES",
+    "division": "36-36",
+    "major": "36",
+    "minor": "366"
+  },
+  {
+    "soc_code": 369,
+    "title": "HEALTH TECHNOLOGISTS AND TECHNICIANS, NEC",
+    "division": "36-36",
+    "major": "36",
+    "minor": "369"
+  },
+  {
+    "soc_code": 3711,
+    "title": "ELECTRICAL AND ELECTRONIC ENGINEERING TECHNOLOGISTS AND",
+    "division": "37-39",
+    "major": "37",
+    "minor": "371",
+    "unit": 3711
+  },
+  {
+    "soc_code": 3712,
+    "title": "INDUSTRIAL ENGINEERING TECHNOLOGISTS AND TECHNICIANS",
+    "division": "37-39",
+    "major": "37",
+    "minor": "371",
+    "unit": 3712
+  },
+  {
+    "soc_code": 3713,
+    "title": "MECHANICAL ENGINERING TECHNOLOGISTS AND TECHNICIANS",
+    "division": "37-39",
+    "major": "37",
+    "minor": "371",
+    "unit": 3713
+  },
+  {
+    "soc_code": 3719,
+    "title": "ENGINEERING TECHNOLOGISTS AND TECHNICIANS, NEC",
+    "division": "37-39",
+    "major": "37",
+    "minor": "371",
+    "unit": 3719
+  },
+  {
+    "soc_code": 372,
+    "title": "DRAFTING OCCUPATIONS",
+    "division": "37-39",
+    "major": "37",
+    "minor": "372"
+  },
+  {
+    "soc_code": 3733,
+    "title": "SURVEYING TECHNICIANS",
+    "division": "37-39",
+    "major": "37",
+    "minor": "373",
+    "unit": 3733
+  },
+  {
+    "soc_code": 3734,
+    "title": "CARTOGRAPHIC TECHNICIANS",
+    "division": "37-39",
+    "major": "37",
+    "minor": "373",
+    "unit": 3734
+  },
+  {
+    "soc_code": 3739,
+    "title": "SURVEYING AND MAPPING TECHNICIANS, NEC",
+    "division": "37-39",
+    "major": "37",
+    "minor": "373",
+    "unit": 3739
+  },
+  {
+    "soc_code": 382,
+    "title": "BIOLOGICAL TECHNOLOGISTS AND TECHNICIANS, EXCEPT HEALTH",
+    "division": "37-39",
+    "major": "38",
+    "minor": "382"
+  },
+  {
+    "soc_code": 3831,
+    "title": "CHEMICAL TECHNOLOGISTS AND TECHNICIANS",
+    "division": "37-39",
+    "major": "38",
+    "minor": "383",
+    "unit": 3831
+  },
+  {
+    "soc_code": 3832,
+    "title": "NUCLEAR TECHNOLOGISTS AND TECHNICIANS",
+    "division": "37-39",
+    "major": "38",
+    "minor": "383",
+    "unit": 3832
+  },
+  {
+    "soc_code": 3833,
+    "title": "PETROLEUM TECHNOLOGISTS AND TECHNICIANS",
+    "division": "37-39",
+    "major": "38",
+    "minor": "383",
+    "unit": 3833
+  },
+  {
+    "soc_code": 384,
+    "title": "MATHEMATICAL TECHNICIANS",
+    "division": "37-39",
+    "major": "38",
+    "minor": "384"
+  },
+  {
+    "soc_code": 389,
+    "title": "SCIENCE TECHNOLOGISTS AND TECHNICIANS, NEC",
+    "division": "37-39",
+    "major": "38",
+    "minor": "389"
+  },
+  {
+    "soc_code": 392,
+    "title": "AIR TRAFFIC CONTROLLERS",
+    "division": "37-39",
+    "major": "39",
+    "minor": "392"
+  },
+  {
+    "soc_code": 393,
+    "title": "RADIO AND RELATED OPERATORS",
+    "division": "37-39",
+    "major": "39",
+    "minor": "393"
+  },
+  {
+    "soc_code": 396,
+    "title": "LEGAL TECHNICIANS",
+    "division": "37-39",
+    "major": "39",
+    "minor": "396"
+  },
+  {
+    "soc_code": 3971,
+    "title": "PROGRAMMERS, BUSINESS",
+    "division": "37-39",
+    "major": "39",
+    "minor": "397",
+    "unit": 3971
+  },
+  {
+    "soc_code": 3972,
+    "title": "PROGRAMMERS, SCIENTIFIC",
+    "division": "37-39",
+    "major": "39",
+    "minor": "397",
+    "unit": 3972
+  },
+  {
+    "soc_code": 3974,
+    "title": "PROGRAMMERS, NUMERICAL, TOOL AND PROCESS CONTROL",
+    "division": "37-39",
+    "major": "39",
+    "minor": "397",
+    "unit": 3974
+  },
+  {
+    "soc_code": 398,
+    "title": "TECHNICIAL WRITERS",
+    "division": "37-39",
+    "major": "39",
+    "minor": "398"
+  },
+  {
+    "soc_code": 399,
+    "title": "TECHNICIANS, NEC",
+    "division": "37-39",
+    "major": "39",
+    "minor": "399"
+  },
+  {
+    "soc_code": 401,
+    "title": "SUPERVISORS; SALES OCCUPATIONS, INSURANCE, REAL ESTATE AND BUSINESS SERVICE",
+    "division": "40-44",
+    "major": "40",
+    "minor": "401"
+  },
+  {
+    "soc_code": 402,
+    "title": "SUPERVISIORS; SALES OCCUPATIONS, COMMODITIES EXCEPT RETAIL",
+    "division": "40-44",
+    "major": "40",
+    "minor": "402"
+  },
+  {
+    "soc_code": 403,
+    "title": "SUPERVISORS; SALES OCCUPATIONS, RETAIL",
+    "division": "40-44",
+    "major": "40",
+    "minor": "403"
+  },
+  {
+    "soc_code": 4122,
+    "title": "INSURANCE SALES OCCUPATIONS",
+    "division": "40-44",
+    "major": "41",
+    "minor": "412",
+    "unit": 4122
+  },
+  {
+    "soc_code": 4123,
+    "title": "REAL ESTATE SALES OCCUPATIONS",
+    "division": "40-44",
+    "major": "41",
+    "minor": "412",
+    "unit": 4123
+  },
+  {
+    "soc_code": 4124,
+    "title": "SECURITIES AND FINANICAL SERVICE SALES OCCUPATIONS",
+    "division": "40-44",
+    "major": "41",
+    "minor": "412",
+    "unit": 4124
+  },
+  {
+    "soc_code": 4152,
+    "title": "BUSINESS SERVICE, EXCEPT ADVERTISING, SALES OCCUPATIONS",
+    "division": "40-44",
+    "major": "41",
+    "minor": "415",
+    "unit": 4152
+  },
+  {
+    "soc_code": 4153,
+    "title": "ADVERTISING AND RELATED SALES OCCUPATIONS",
+    "division": "40-44",
+    "major": "41",
+    "minor": "415",
+    "unit": 4153
+  },
+  {
+    "soc_code": 421,
+    "title": "SALES ENGINEERS",
+    "division": "40-44",
+    "major": "42",
+    "minor": "421"
+  },
+  {
+    "soc_code": 4232,
+    "title": "TECHNICAL SALES WORKERS, AIRCRAFT",
+    "division": "40-44",
+    "major": "42",
+    "minor": "423",
+    "unit": 4232
+  },
+  {
+    "soc_code": 4233,
+    "title": "TECHNICAL SALES WORKERS, AGRICULTURAL EQUIPMENT AND SUP",
+    "division": "40-44",
+    "major": "42",
+    "minor": "423",
+    "unit": 4233
+  },
+  {
+    "soc_code": 4234,
+    "title": "TECHNICAL SALES WORKERS, ELECTRONIC EQUIPMENT",
+    "division": "40-44",
+    "major": "42",
+    "minor": "423",
+    "unit": 4234
+  },
+  {
+    "soc_code": 4235,
+    "title": "TECHNICAL SALES WORKERS, INDUSTRIAL MACHINERY, EQUIPMEN",
+    "division": "40-44",
+    "major": "42",
+    "minor": "423",
+    "unit": 4235
+  },
+  {
+    "soc_code": 4236,
+    "title": "TECHNICAL SALES WORKERS, MEDICAL AND DENTAL EQUIPMENT A",
+    "division": "40-44",
+    "major": "42",
+    "minor": "423",
+    "unit": 4236
+  },
+  {
+    "soc_code": 4237,
+    "title": "TECHNICAL SALES WORKERS; CHEMICALS AND CHEMICAL PRODUCT",
+    "division": "40-44",
+    "major": "42",
+    "minor": "423",
+    "unit": 4237
+  },
+  {
+    "soc_code": 4239,
+    "title": "TECHNICAL SALES WORKERS, NEC",
+    "division": "40-44",
+    "major": "42",
+    "minor": "423",
+    "unit": 4239
+  },
+  {
+    "soc_code": 4242,
+    "title": "SALES REPRESENTATIVES, COMMERCIAL AND INDUSTRIAL EQUIPM",
+    "division": "40-44",
+    "major": "42",
+    "minor": "424",
+    "unit": 4242
+  },
+  {
+    "soc_code": 4243,
+    "title": "SALES REPRESENTATIVES, GARMENTS AND RELATED TEXTILE PRO",
+    "division": "40-44",
+    "major": "42",
+    "minor": "424",
+    "unit": 4243
+  },
+  {
+    "soc_code": 4244,
+    "title": "SALES REPRESENTATIVES, MOTOR VEHICLES AND SUPPLIES",
+    "division": "40-44",
+    "major": "42",
+    "minor": "424",
+    "unit": 4244
+  },
+  {
+    "soc_code": 4245,
+    "title": "SALES REPRESENTATIVES; PULP, PAPER, AND PAPER PRODUCTS",
+    "division": "40-44",
+    "major": "42",
+    "minor": "424",
+    "unit": 4245
+  },
+  {
+    "soc_code": 4246,
+    "title": "SALES REPRESENTATIVES; FARM PRODUCTS AND LIVESTOCK",
+    "division": "40-44",
+    "major": "42",
+    "minor": "424",
+    "unit": 4246
+  },
+  {
+    "soc_code": 4249,
+    "title": "SALES REPRESENTATIVES; NEC",
+    "division": "40-44",
+    "major": "42",
+    "minor": "424",
+    "unit": 4249
+  },
+  {
+    "soc_code": 4342,
+    "title": "SALESPERSONS; MOTOR VEHICLES, MOBILE HOMES, AND SUPPLIE",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4342
+  },
+  {
+    "soc_code": 4343,
+    "title": "SALESPERSONS; MUSICAL INSTRUMENTS AND SUPPLIES",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4343
+  },
+  {
+    "soc_code": 4344,
+    "title": "SALESPERSONS; BOATS AND MARINE EQUIPMENT AND SUPPLIES",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4344
+  },
+  {
+    "soc_code": 4345,
+    "title": "SALESPERSONS; SPORTING GOODS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4345
+  },
+  {
+    "soc_code": 4346,
+    "title": "SALESPERSONS; GARMENTS AND TEXTILE PRODUCTS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4346
+  },
+  {
+    "soc_code": 4347,
+    "title": "SALESPERSONS; BOOKS, STAMPS, COINS, AND STATIONERY",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4347
+  },
+  {
+    "soc_code": 4348,
+    "title": "SALESPERSONS; FURNITURE AND HOME FURNISHINGS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4348
+  },
+  {
+    "soc_code": 4351,
+    "title": "SALESPERSONS; SHOES",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4351
+  },
+  {
+    "soc_code": 4352,
+    "title": "SALESPERSONS; RADIO, TELEVISION, HIGH FIDELITY, AND HOU",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4352
+  },
+  {
+    "soc_code": 4353,
+    "title": "SALESPERSONS; HARDWARE",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4353
+  },
+  {
+    "soc_code": 4354,
+    "title": "SALESPERSONS; COSMETICS, TOILETRIES, AND ALLIED PRODUCT",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4354
+  },
+  {
+    "soc_code": 4356,
+    "title": "SALESPERSONS; JEWELRY AND RELATED PRODUCTS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4356
+  },
+  {
+    "soc_code": 4359,
+    "title": "SALESPERSONS; NEC",
+    "division": "40-44",
+    "major": "43",
+    "minor": "434-5",
+    "unit": 4359
+  },
+  {
+    "soc_code": 4362,
+    "title": "SALES CLERKS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "436",
+    "unit": 4362
+  },
+  {
+    "soc_code": 4363,
+    "title": "COUNTER CLERKS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "436",
+    "unit": 4363
+  },
+  {
+    "soc_code": 4364,
+    "title": "CASHIERS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "436",
+    "unit": 4364
+  },
+  {
+    "soc_code": 4365,
+    "title": "NEWS VENDORS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "436",
+    "unit": 4365
+  },
+  {
+    "soc_code": 4366,
+    "title": "STREET VENDORS, DOOR-TO-DOOR SALES WORKERS, AND RELATED",
+    "division": "40-44",
+    "major": "43",
+    "minor": "436",
+    "unit": 4366
+  },
+  {
+    "soc_code": 4367,
+    "title": "SALESPERSONS; PARTS",
+    "division": "40-44",
+    "major": "43",
+    "minor": "436",
+    "unit": 4367
+  },
+  {
+    "soc_code": 4369,
+    "title": "SALES OCCUPATIONS; SERVICES, NEC",
+    "division": "40-44",
+    "major": "43",
+    "minor": "436",
+    "unit": 4369
+  },
+  {
+    "soc_code": 444,
+    "title": "APPRAISERS AND RELATED OCCUPATIONS",
+    "division": "40-44",
+    "major": "44",
+    "minor": "444"
+  },
+  {
+    "soc_code": 445,
+    "title": "DEMONSTRATORS, PROMOTERS, AND MODELS",
+    "division": "40-44",
+    "major": "44",
+    "minor": "445"
+  },
+  {
+    "soc_code": 446,
+    "title": "SHOPPERS",
+    "division": "40-44",
+    "major": "44",
+    "minor": "446"
+  },
+  {
+    "soc_code": 447,
+    "title": "AUCTIONEERS",
+    "division": "40-44",
+    "major": "44",
+    "minor": "447"
+  },
+  {
+    "soc_code": 449,
+    "title": "SALES OCCUPATIONS; OTHER, NEC",
+    "division": "40-44",
+    "major": "44",
+    "minor": "449"
+  },
+  {
+    "soc_code": 4511,
+    "title": "SUPERVISORS; GENERAL OFFICE OCCUPATIONS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4511
+  },
+  {
+    "soc_code": 4512,
+    "title": "SUPERVISORS; COMPUTER AND PERIPHERAL EQUIPMENT OPERATORS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4512
+  },
+  {
+    "soc_code": 4513,
+    "title": "SUPERVISORS; SECRETARIES, STENOGRAPHERS AND TYPISTS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4513
+  },
+  {
+    "soc_code": 4514,
+    "title": "SUPERVISORS; INFORMATION CLERKS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4514
+  },
+  {
+    "soc_code": 4516,
+    "title": "SUPERVISORS; CORRESPONDENCE CLERKS AND ORDER CLERKS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4516
+  },
+  {
+    "soc_code": 4519,
+    "title": "SUPERVISORS; RECORD CLERKS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4519
+  },
+  {
+    "soc_code": 4521,
+    "title": "SUPERVISORS; FINANICAL RECORD PROCESSING OCCUPATIONS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4521
+  },
+  {
+    "soc_code": 4522,
+    "title": "SUPERVISORS; DUPLICATING, MAIL AND OTHER OFFICE MACHINE OPERATORS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4522
+  },
+  {
+    "soc_code": 4523,
+    "title": "CHIEF COMMUNICATIONS OPERATORS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4523
+  },
+  {
+    "soc_code": 4524,
+    "title": "SUPERVISORS; MAIL AND MESSAGE DISTRIBUTION CLERKS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4524
+  },
+  {
+    "soc_code": 4525,
+    "title": "SUPERVISORS; MATERIAL RECORDING, SCHEDULING, AND DISTRI",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4525
+  },
+  {
+    "soc_code": 4528,
+    "title": "SUPERVISORS; ADJUSTERS, INVESTIGATORS, AND COLLECTORS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4528
+  },
+  {
+    "soc_code": 4529,
+    "title": "SUPERVISORS; MISCELLANEOUS ADMINISTRATIVE SUPPORT OCCUPATIONS",
+    "division": "45-47",
+    "major": "45",
+    "unit": 4529
+  },
+  {
+    "soc_code": 4612,
+    "title": "COMPUTER OPERATORS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "461",
+    "unit": 4612
+  },
+  {
+    "soc_code": 4613,
+    "title": "PERIPHERAL EQUIPMENT OPERATORS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "461",
+    "unit": 4613
+  },
+  {
+    "soc_code": 4622,
+    "title": "SECRETARIES",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "462",
+    "unit": 4622
+  },
+  {
+    "soc_code": 4623,
+    "title": "STENOGRAPHERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "462",
+    "unit": 4623
+  },
+  {
+    "soc_code": 4624,
+    "title": "TYPISTS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "462",
+    "unit": 4624
+  },
+  {
+    "soc_code": 463,
+    "title": "GENERAL OFFICE OCCUPATIONS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "463"
+  },
+  {
+    "soc_code": 4642,
+    "title": "INTERVIEWING CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "464",
+    "unit": 4642
+  },
+  {
+    "soc_code": 4643,
+    "title": "HOTEL CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "464",
+    "unit": 4643
+  },
+  {
+    "soc_code": 4644,
+    "title": "RESERVATION AGENTS AND TRANSPORTATION TICKET CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "464",
+    "unit": 4644
+  },
+  {
+    "soc_code": 4645,
+    "title": "RECEPTIONISTS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "464",
+    "unit": 4645
+  },
+  {
+    "soc_code": 4649,
+    "title": "INFORMATION CLERKS, NEC",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "464",
+    "unit": 4649
+  },
+  {
+    "soc_code": 4662,
+    "title": "CLASSIFIED-AD CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "466",
+    "unit": 4662
+  },
+  {
+    "soc_code": 4663,
+    "title": "CORRESPONDENCE CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "466",
+    "unit": 4663
+  },
+  {
+    "soc_code": 4664,
+    "title": "ORDER CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "466",
+    "unit": 4664
+  },
+  {
+    "soc_code": 4692,
+    "title": "PERSONNEL CLERKS, EXCEPT PAYROLL AND TIMEKEEPING",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "469",
+    "unit": 4692
+  },
+  {
+    "soc_code": 4694,
+    "title": "LIBRARY CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "469",
+    "unit": 4694
+  },
+  {
+    "soc_code": 4696,
+    "title": "FILE CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "469",
+    "unit": 4696
+  },
+  {
+    "soc_code": 4699,
+    "title": "RECORDS CLERKS, NEC",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "469",
+    "unit": 4699
+  },
+  {
+    "soc_code": 4712,
+    "title": "BOOKKEEPERS AND ACCOUNTING AND AUDITING CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "471",
+    "unit": 4712
+  },
+  {
+    "soc_code": 4713,
+    "title": "PAYROLL AND TIMEKEEPING CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "471",
+    "unit": 4713
+  },
+  {
+    "soc_code": 4715,
+    "title": "BILLING CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "471",
+    "unit": 4715
+  },
+  {
+    "soc_code": 4716,
+    "title": "COST AND RATE CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "471",
+    "unit": 4716
+  },
+  {
+    "soc_code": 4718,
+    "title": "BILLING, POSTING, AND CALCULATING MACHINE OPERATORS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "471",
+    "unit": 4718
+  },
+  {
+    "soc_code": 4722,
+    "title": "DUPLICATING MACHINE OPERATORSCE",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "472",
+    "unit": 4722
+  },
+  {
+    "soc_code": 4723,
+    "title": "MAIL PREPARING AND HANDLING MACHINE OPERATORS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "472",
+    "unit": 4723
+  },
+  {
+    "soc_code": 4729,
+    "title": "OFFICE MACHINE OPERATORS, NEC",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "472",
+    "unit": 4729
+  },
+  {
+    "soc_code": 4732,
+    "title": "TELEPHONE OPERATORS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "473",
+    "unit": 4732
+  },
+  {
+    "soc_code": 4733,
+    "title": "TELEGRAPHERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "473",
+    "unit": 4733
+  },
+  {
+    "soc_code": 4739,
+    "title": "COMMUNICATIONS EQUIPMENT OPERATORS, NEC",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "473",
+    "unit": 4739
+  },
+  {
+    "soc_code": 4742,
+    "title": "POSTAL CLERKS, EXCEPT MAIL CARRIERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "474",
+    "unit": 4742
+  },
+  {
+    "soc_code": 4743,
+    "title": "MAIL CARRIERS, POST OFFICE",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "474",
+    "unit": 4743
+  },
+  {
+    "soc_code": 4744,
+    "title": "MAIL CLERKS, EXCEPT POST OFFICE",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "474",
+    "unit": 4744
+  },
+  {
+    "soc_code": 4745,
+    "title": "MESSENGERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "474",
+    "unit": 4745
+  },
+  {
+    "soc_code": 4751,
+    "title": "DISPATCHERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4751
+  },
+  {
+    "soc_code": 4752,
+    "title": "PRODUCTION AND PLANNING CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4752
+  },
+  {
+    "soc_code": 4753,
+    "title": "TRAFFIC, SHIPPING, AND RECEIVING CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4753
+  },
+  {
+    "soc_code": 4754,
+    "title": "STOCK AND INVENTORY CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4754
+  },
+  {
+    "soc_code": 4755,
+    "title": "METER READERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4755
+  },
+  {
+    "soc_code": 4756,
+    "title": "WEIGHERS, MEASURERS, AND CHECKERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4756
+  },
+  {
+    "soc_code": 4757,
+    "title": "SAMPLERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4757
+  },
+  {
+    "soc_code": 4758,
+    "title": "EXPEDITERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4758
+  },
+  {
+    "soc_code": 4759,
+    "title": "MATERIAL RECORDING, SCHEDULING, AND DISTRIBUTING CLERKS, NEC",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "475",
+    "unit": 4759
+  },
+  {
+    "soc_code": 4782,
+    "title": "INSURANCE ADJUSTERS, EXAMINERS, AND INVESTIGATORS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "478",
+    "unit": 4782
+  },
+  {
+    "soc_code": 4783,
+    "title": "INVESTIGATORS AND ADJUSTERS, EXCEPT INSURANCE",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "478",
+    "unit": 4783
+  },
+  {
+    "soc_code": 4784,
+    "title": "CLERKS, SOCIAL WELFARE",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "478",
+    "unit": 4784
+  },
+  {
+    "soc_code": 4786,
+    "title": "BILL AND ACCOUNT COLLECTORS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "478",
+    "unit": 4786
+  },
+  {
+    "soc_code": 4787,
+    "title": "LICENSE CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "478",
+    "unit": 4787
+  },
+  {
+    "soc_code": 4791,
+    "title": "BANK TELLERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "479",
+    "unit": 4791
+  },
+  {
+    "soc_code": 4792,
+    "title": "PROOF READERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "479",
+    "unit": 4792
+  },
+  {
+    "soc_code": 4793,
+    "title": "DATA ENTRY KEYERS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "479",
+    "unit": 4793
+  },
+  {
+    "soc_code": 4794,
+    "title": "STATISTICAL CLERKS",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "479",
+    "unit": 4794
+  },
+  {
+    "soc_code": 4795,
+    "title": "TEACHERS AIDES",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "479",
+    "unit": 4795
+  },
+  {
+    "soc_code": 4799,
+    "title": "ADMINISTRATIVE SUPPORT OCCUPATIONS, INCLUDING CLERICAL, NEC",
+    "division": "45-47",
+    "major": "46-47",
+    "minor": "479",
+    "unit": 4799
+  },
+  {
+    "soc_code": 502,
+    "title": "DAY WORKERS",
+    "division": "50-52",
+    "major": "50",
+    "minor": "502"
+  },
+  {
+    "soc_code": 503,
+    "title": "LAUNDERERS AND IRONERS",
+    "division": "50-52",
+    "major": "50",
+    "minor": "503"
+  },
+  {
+    "soc_code": 504,
+    "title": "COOKS, PRIVATE HOUSEHOLD",
+    "division": "50-52",
+    "major": "50",
+    "minor": "504"
+  },
+  {
+    "soc_code": 505,
+    "title": "HOUSEKEEPERS AND BUTLERS",
+    "division": "50-52",
+    "major": "50",
+    "minor": "505"
+  },
+  {
+    "soc_code": 506,
+    "title": "CHILD CARE WORKERS, PRIVATE HOUSEHOLD",
+    "division": "50-52",
+    "major": "50",
+    "minor": "506"
+  },
+  {
+    "soc_code": 507,
+    "title": "PRIVATE HOUSEHOLD CLEANERS AND SERVANTS",
+    "division": "50-52",
+    "major": "50",
+    "minor": "507"
+  },
+  {
+    "soc_code": 509,
+    "title": "PRIVATE HOUSEHOLD OCCUPATIONS, NEC",
+    "division": "50-52",
+    "major": "50",
+    "minor": "509"
+  },
+  {
+    "soc_code": 5111,
+    "title": "SUPERVISORS; FIREFIGHTING AND FIRE PREVENTION OCCUPATIO",
+    "division": "50-52",
+    "major": "51",
+    "minor": "511",
+    "unit": 5111
+  },
+  {
+    "soc_code": 5112,
+    "title": "SUPERVISORS; POLICE AND DETECTIVES",
+    "division": "50-52",
+    "major": "51",
+    "minor": "511",
+    "unit": 5112
+  },
+  {
+    "soc_code": 5113,
+    "title": "SUPERVISORS GUARDS",
+    "division": "50-52",
+    "major": "51",
+    "minor": "511",
+    "unit": 5113
+  },
+  {
+    "soc_code": 5122,
+    "title": "FIRE INSPECTION AND FIRE PREVENTION OCCUPATIONS",
+    "division": "50-52",
+    "major": "51",
+    "minor": "512",
+    "unit": 5122
+  },
+  {
+    "soc_code": 5123,
+    "title": "FIREFIGHTING OCCUPATIONS",
+    "division": "50-52",
+    "major": "51",
+    "minor": "512",
+    "unit": 5123
+  },
+  {
+    "soc_code": 5132,
+    "title": "POLICE AND DETECTIVES, PUBLIC SERVICE",
+    "division": "50-52",
+    "major": "51",
+    "minor": "513",
+    "unit": 5132
+  },
+  {
+    "soc_code": 5133,
+    "title": "CORRECTIONAL INSTITUTION OFFICERS",
+    "division": "50-52",
+    "major": "51",
+    "minor": "513",
+    "unit": 5133
+  },
+  {
+    "soc_code": 5134,
+    "title": "SHERIFFS, BAILIFFS, AND OTHER LAW ENFORCEMENT OFFICERS",
+    "division": "50-52",
+    "major": "51",
+    "minor": "513",
+    "unit": 5134
+  },
+  {
+    "soc_code": 5142,
+    "title": "CROSSING GUARDS",
+    "division": "50-52",
+    "major": "51",
+    "minor": "514",
+    "unit": 5142
+  },
+  {
+    "soc_code": 5144,
+    "title": "GUARDS AND POLICE, EXCEPT PUBLIC SERVICE",
+    "division": "50-52",
+    "major": "51",
+    "minor": "514",
+    "unit": 5144
+  },
+  {
+    "soc_code": 5149,
+    "title": "PROTECTIVE SERVICE OCCUPATIONS, NEC",
+    "division": "50-52",
+    "major": "51",
+    "minor": "514",
+    "unit": 5149
+  },
+  {
+    "soc_code": 5211,
+    "title": "SUPERVISORS; FOOD AND BEVERAGE PREPARATION AND SERVICE OCCUPATIONS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5211
+  },
+  {
+    "soc_code": 5212,
+    "title": "BARTENDERS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5212
+  },
+  {
+    "soc_code": 5213,
+    "title": "WAITERS AND WAITRESSES",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5213
+  },
+  {
+    "soc_code": 5214,
+    "title": "COOKS, EXCEPT SHORT ORDER",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5214
+  },
+  {
+    "soc_code": 5215,
+    "title": "SHORT-ORDER COOKS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5215
+  },
+  {
+    "soc_code": 5216,
+    "title": "FOOD COUNTER, FOUNTAIN AND RELATED OCCUPATIONS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5216
+  },
+  {
+    "soc_code": 5217,
+    "title": "KITCHEN WORKERS, FOOD PREPARATION",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5217
+  },
+  {
+    "soc_code": 5218,
+    "title": "WATERS'/WAITRESSES' ASSISTANTS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5218
+  },
+  {
+    "soc_code": 5219,
+    "title": "MISCELLANEOUS FOOD AND BEVERAGE PREPARATION OCCUPATIONS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "521",
+    "unit": 5219
+  },
+  {
+    "soc_code": 5232,
+    "title": "DENTAL ASSISTANTS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "523",
+    "unit": 5232
+  },
+  {
+    "soc_code": 5233,
+    "title": "HEALTH AIDES, EXCEPT NURSING",
+    "division": "50-52",
+    "major": "52",
+    "minor": "523",
+    "unit": 5233
+  },
+  {
+    "soc_code": 5236,
+    "title": "NURSING AIDES, ORDERLIES, AND ATTENDANTS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "523",
+    "unit": 5236
+  },
+  {
+    "soc_code": 5241,
+    "title": "SUPERVISORS;CLEANING AND BUILDING SERVICE WORKERS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "524",
+    "unit": 5241
+  },
+  {
+    "soc_code": 5242,
+    "title": "MAIDS AND HOUSEMEN",
+    "division": "50-52",
+    "major": "52",
+    "minor": "524",
+    "unit": 5242
+  },
+  {
+    "soc_code": 5244,
+    "title": "JANITORS AND CLEANERS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "524",
+    "unit": 5244
+  },
+  {
+    "soc_code": 5245,
+    "title": "ELEVATOR OPERATORS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "524",
+    "unit": 5245
+  },
+  {
+    "soc_code": 5246,
+    "title": "PEST CONTROL OCCUPATIONS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "524",
+    "unit": 5246
+  },
+  {
+    "soc_code": 5249,
+    "title": "CLEANING AND BUILDING SERVICE OCCUPATIONS, NEC",
+    "division": "50-52",
+    "major": "52",
+    "minor": "524",
+    "unit": 5249
+  },
+  {
+    "soc_code": 5251,
+    "title": "SUPERVISORS; PERSONAL SERVICE OCCUPATIONS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5251
+  },
+  {
+    "soc_code": 5252,
+    "title": "BARBERS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5252
+  },
+  {
+    "soc_code": 5253,
+    "title": "HAIRDRESSERS AND COSMETOLOGISTS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5253
+  },
+  {
+    "soc_code": 5254,
+    "title": "ATTENDANTS, AMUSEMENT AND RECREATION FACILITIES",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5254
+  },
+  {
+    "soc_code": 5255,
+    "title": "GUIDES",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5255
+  },
+  {
+    "soc_code": 5256,
+    "title": "USHERS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5256
+  },
+  {
+    "soc_code": 5257,
+    "title": "PUBLIC TRANSPORTATION ATTENDANTS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5257
+  },
+  {
+    "soc_code": 5258,
+    "title": "WARDROBE AND DRESSING ROOM ATTENDANTS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5258
+  },
+  {
+    "soc_code": 5262,
+    "title": "BAGGAGE PORTERS AND BELLHOPS",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5262
+  },
+  {
+    "soc_code": 5263,
+    "title": "WELFARE SERVICE AIDES",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5263
+  },
+  {
+    "soc_code": 5264,
+    "title": "CHILD CARE WORKERS, EXCEPT PRIVATE HOUSEHOLD",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5264
+  },
+  {
+    "soc_code": 5269,
+    "title": "PERSONAL SERVICE OCCUPATIONS, NEC",
+    "division": "50-52",
+    "major": "52",
+    "minor": "525-6",
+    "unit": 5269
+  },
+  {
+    "soc_code": 5512,
+    "title": "GENERAL FARMERS",
+    "division": "55-58",
+    "major": "55",
+    "minor": "551",
+    "unit": 5512
+  },
+  {
+    "soc_code": 5513,
+    "title": "CROP, VEGETABLE, FRUIT AND TREE NUT FARMERS",
+    "division": "55-58",
+    "major": "55",
+    "minor": "551",
+    "unit": 5513
+  },
+  {
+    "soc_code": 5514,
+    "title": "LIVESTOCK, DAIRY AND POULTRY FARMERS",
+    "division": "55-58",
+    "major": "55",
+    "minor": "551",
+    "unit": 5514
+  },
+  {
+    "soc_code": 5515,
+    "title": "HORTICULTURAL SPECIALTY FARMERS",
+    "division": "55-58",
+    "major": "55",
+    "minor": "551",
+    "unit": 5515
+  },
+  {
+    "soc_code": 5522,
+    "title": "MANAGERS, GENERAL FARMS",
+    "division": "55-58",
+    "major": "55",
+    "minor": "552",
+    "unit": 5522
+  },
+  {
+    "soc_code": 5523,
+    "title": "MANAGERS, CROP, VEGETABLE, FRUIT AND TREE NUT FARMS",
+    "division": "55-58",
+    "major": "55",
+    "minor": "552",
+    "unit": 5523
+  },
+  {
+    "soc_code": 5524,
+    "title": "MANAGERS, LIVESTOCK, DAIRY AND POULTRY FARMS",
+    "division": "55-58",
+    "major": "55",
+    "minor": "552",
+    "unit": 5524
+  },
+  {
+    "soc_code": 5525,
+    "title": "MANAGERS, HORTICULTURAL SPECIALTY FARMS",
+    "division": "55-58",
+    "major": "55",
+    "minor": "552",
+    "unit": 5525
+  },
+  {
+    "soc_code": 5611,
+    "title": "SUPERVISORS; FARM WORKERS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5611
+  },
+  {
+    "soc_code": 5612,
+    "title": "GENERAL FARM WORKERS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5612
+  },
+  {
+    "soc_code": 5613,
+    "title": "FIELD CROP AND VEGETABLE FARM WORKERS (HAND)",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5613
+  },
+  {
+    "soc_code": 5614,
+    "title": "ORCHARD AND VINEYARD AND RELATED WORKERS (HAND)",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5614
+  },
+  {
+    "soc_code": 5615,
+    "title": "IRRIGATION WORKERS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5615
+  },
+  {
+    "soc_code": 5616,
+    "title": "FARM MACHINERY OPERATORS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5616
+  },
+  {
+    "soc_code": 5617,
+    "title": "LIVESTOCK WORKERS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5617
+  },
+  {
+    "soc_code": 5618,
+    "title": "MARINE LIFE CULTIVATION WORKERS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5618
+  },
+  {
+    "soc_code": 5619,
+    "title": "NURSERY WORKERS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "561",
+    "unit": 5619
+  },
+  {
+    "soc_code": 5621,
+    "title": "SUPERVISORS; RELATED AGRICULTURAL WORKERS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "562",
+    "unit": 5621
+  },
+  {
+    "soc_code": 5622,
+    "title": "GROUNDSKEEPERS AND GARDENERS, EXCEPT FARM",
+    "division": "55-58",
+    "major": "56",
+    "minor": "562",
+    "unit": 5622
+  },
+  {
+    "soc_code": 5624,
+    "title": "ANIMAL CARETAKERS, EXCEPT FARM",
+    "division": "55-58",
+    "major": "56",
+    "minor": "562",
+    "unit": 5624
+  },
+  {
+    "soc_code": 5625,
+    "title": "GRADERS AND SORTERS; AGRICULTURAL PRODUCTS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "562",
+    "unit": 5625
+  },
+  {
+    "soc_code": 5627,
+    "title": "INSPECTORS; AGRICULTURAL PRODUCTS",
+    "division": "55-58",
+    "major": "56",
+    "minor": "562",
+    "unit": 5627
+  },
+  {
+    "soc_code": 571,
+    "title": "SUPERVISORS; FORESTRY AND LOGGING WORKERS",
+    "division": "55-58",
+    "major": "57",
+    "minor": "571"
+  },
+  {
+    "soc_code": 572,
+    "title": "FORESTRY WORKERS, EXCEPT LOGGING",
+    "division": "55-58",
+    "major": "57",
+    "minor": "572"
+  },
+  {
+    "soc_code": 573,
+    "title": "TIMBER CUTTING AND RELATED OCCUPATIONS",
+    "division": "55-58",
+    "major": "57",
+    "minor": "573"
+  },
+  {
+    "soc_code": 579,
+    "title": "LOGGING OCCUPATIONS, NEC",
+    "division": "55-58",
+    "major": "57",
+    "minor": "579"
+  },
+  {
+    "soc_code": 583,
+    "title": "FISHERS",
+    "division": "55-58",
+    "major": "58",
+    "minor": "583"
+  },
+  {
+    "soc_code": 584,
+    "title": "HUNTERS AND TRAPPERS",
+    "division": "55-58",
+    "major": "58",
+    "minor": "584"
+  },
+  {
+    "soc_code": 60,
+    "title": "SUPERVISORS; MECHANICS AND REPAIRERS",
+    "division": "60-61",
+    "major": "60"
+  },
+  {
+    "soc_code": 6111,
+    "title": "AUTOMOBILE MECHANICS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "611",
+    "unit": 6111
+  },
+  {
+    "soc_code": 6112,
+    "title": "BUS AND TRUCK ENGINE, AND STATIONARY DIESEL ENGINE MECH",
+    "division": "60-61",
+    "major": "61",
+    "minor": "611",
+    "unit": 6112
+  },
+  {
+    "soc_code": 6113,
+    "title": "AIRCRAFT ENGINE MECHANICS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "611",
+    "unit": 6113
+  },
+  {
+    "soc_code": 6114,
+    "title": "SMALL ENGINE REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "611",
+    "unit": 6114
+  },
+  {
+    "soc_code": 6115,
+    "title": "AUTOMOBILE BODY AND RELATED REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "611",
+    "unit": 6115
+  },
+  {
+    "soc_code": 6116,
+    "title": "AIRCRAFT MECANICS (EXCEPT ENGINE SPECIALISTS)",
+    "division": "60-61",
+    "major": "61",
+    "minor": "611",
+    "unit": 6116
+  },
+  {
+    "soc_code": 6117,
+    "title": "HEAVY EQUIPMENT MECHANICS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "611",
+    "unit": 6117
+  },
+  {
+    "soc_code": 6118,
+    "title": "FARM EQUIPMENT MECHANICS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "611",
+    "unit": 6118
+  },
+  {
+    "soc_code": 613,
+    "title": "INDUSTRIAL MACHINERY REPAIRERS*",
+    "division": "60-61",
+    "major": "61",
+    "minor": "613"
+  },
+  {
+    "soc_code": 614,
+    "title": "MACHINERY MAINTENANCE OCCUPATIONS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "614"
+  },
+  {
+    "soc_code": 6151,
+    "title": "COMMUNICATIONS EQUIPMENT REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6151
+  },
+  {
+    "soc_code": 6152,
+    "title": "ELECTRIC MOTOR,TRANSFORMER,AND RELATED REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6152
+  },
+  {
+    "soc_code": 6153,
+    "title": "ELECTRICAL AND ELECTRONIC REPAIRERS, COMERCIAL AND INDUSTRIAL EQUIPMEN",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6153
+  },
+  {
+    "soc_code": 6154,
+    "title": "DATA PROCESSING EQUIPMENT REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6154
+  },
+  {
+    "soc_code": 6155,
+    "title": "ELECTRONIC REPAIRERS, HOME-ENTERTAINMENT EQUIPMENT",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6155
+  },
+  {
+    "soc_code": 6156,
+    "title": "HOUSEHOLD APPLIANCE AND POWER TOOL REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6156
+  },
+  {
+    "soc_code": 6157,
+    "title": "TELEPHONE LINE INSTALLERS AND REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6157
+  },
+  {
+    "soc_code": 6158,
+    "title": "TELEPHONE INSTALLERS AND REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6158
+  },
+  {
+    "soc_code": 6159,
+    "title": "MISCELLANEOUS ELECTRICAL AND ELECTRONIC EQUIPMENT REPAI",
+    "division": "60-61",
+    "major": "61",
+    "minor": "615",
+    "unit": 6159
+  },
+  {
+    "soc_code": 616,
+    "title": "HEATING, AIR-CONDITIONING, AND REFRIGERATION MECHANICS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "616"
+  },
+  {
+    "soc_code": 6171,
+    "title": "CAMERA, WATCH, ADN OTHER PRECISION INSTRUMENT REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6171
+  },
+  {
+    "soc_code": 6172,
+    "title": "MUSICAL INSTRUMENT REPAIRERS AND TUNERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6172
+  },
+  {
+    "soc_code": 6173,
+    "title": "LOCKSMITHS AND SAFE REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6173
+  },
+  {
+    "soc_code": 6174,
+    "title": "OFFICE MACHINE REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6174
+  },
+  {
+    "soc_code": 6175,
+    "title": "MECHANICAL CONTROLS AND VALVE REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6175
+  },
+  {
+    "soc_code": 6176,
+    "title": "ELEVATOR INSTALLERS AND REPAIRERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6176
+  },
+  {
+    "soc_code": 6177,
+    "title": "RIGGERS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6177
+  },
+  {
+    "soc_code": 6178,
+    "title": "MILLWRIGHTS",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6178
+  },
+  {
+    "soc_code": 6179,
+    "title": "MECHANICS AND REPAIRERS, NEC",
+    "division": "60-61",
+    "major": "61",
+    "minor": "617",
+    "unit": 6179
+  },
+  {
+    "soc_code": 6311,
+    "title": "SUPERVISORS; OVERALL CONSTRUCTION",
+    "division": "63-65",
+    "major": "63",
+    "minor": "631",
+    "unit": 6311
+  },
+  {
+    "soc_code": 6312,
+    "title": "SUPERVISORS; BRICKMASONS, STONEMASONS, AND HARD TILE SE",
+    "division": "63-65",
+    "major": "63",
+    "minor": "631",
+    "unit": 6312
+  },
+  {
+    "soc_code": 6313,
+    "title": "SUPERVISORS; CARPENTERS AND RELATED WORKERS",
+    "division": "63-65",
+    "major": "63",
+    "minor": "631",
+    "unit": 6313
+  },
+  {
+    "soc_code": 6314,
+    "title": "SUPERVISORS; ELECTRICIANS AND POWER TRANSMISSION INSTA",
+    "division": "63-65",
+    "major": "63",
+    "minor": "631",
+    "unit": 6314
+  },
+  {
+    "soc_code": 6315,
+    "title": "SUPERVISORS; PAINTERS, PAPERHANGERS, AND PLASTERERS",
+    "division": "63-65",
+    "major": "63",
+    "minor": "631",
+    "unit": 6315
+  },
+  {
+    "soc_code": 6316,
+    "title": "SUPERVISORS; PLUMBERS AND PIPEFITTERS AND STEAMFITTERS",
+    "division": "63-65",
+    "major": "63",
+    "minor": "631",
+    "unit": 6316
+  },
+  {
+    "soc_code": 6318,
+    "title": "SUPERVISORS; OTHER CONSTRUCTION TRADES",
+    "division": "63-65",
+    "major": "63",
+    "minor": "631",
+    "unit": 6318
+  },
+  {
+    "soc_code": 632,
+    "title": "SUPERVISORS; EXTRACTIVE OCCUPATIONS",
+    "division": "63-65",
+    "major": "63",
+    "minor": "632"
+  },
+  {
+    "soc_code": 6412,
+    "title": "BRICKMASONS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "641",
+    "unit": 6412
+  },
+  {
+    "soc_code": 6413,
+    "title": "STONEMASONS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "641",
+    "unit": 6413
+  },
+  {
+    "soc_code": 6414,
+    "title": "TILE SETTERS, HARD",
+    "division": "63-65",
+    "major": "64",
+    "minor": "641",
+    "unit": 6414
+  },
+  {
+    "soc_code": 6422,
+    "title": "CARPENTERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "642",
+    "unit": 6422
+  },
+  {
+    "soc_code": 6424,
+    "title": "DRYWALL INSTALLERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "642",
+    "unit": 6424
+  },
+  {
+    "soc_code": 6432,
+    "title": "ELECTRICIANS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "643",
+    "unit": 6432
+  },
+  {
+    "soc_code": 6433,
+    "title": "ELECTRICAL POWER INSTALLERS AND REPAIRERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "643",
+    "unit": 6433
+  },
+  {
+    "soc_code": 6442,
+    "title": "PAINTERS (CONSTRUCTION AND MAINTENANCE)",
+    "division": "63-65",
+    "major": "64",
+    "minor": "644",
+    "unit": 6442
+  },
+  {
+    "soc_code": 6443,
+    "title": "PAPERHANGERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "644",
+    "unit": 6443
+  },
+  {
+    "soc_code": 6444,
+    "title": "PLASTERERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "644",
+    "unit": 6444
+  },
+  {
+    "soc_code": 645,
+    "title": "PLUMBERS, PIPEFITTERS AND STEAMFITTERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "645"
+  },
+  {
+    "soc_code": 6462,
+    "title": "CARPET AND SOFT TILE INSTALLERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6462
+  },
+  {
+    "soc_code": 6463,
+    "title": "CONCRETE AND TERRAZZO FINISHERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6463
+  },
+  {
+    "soc_code": 6464,
+    "title": "GLAZIERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6464
+  },
+  {
+    "soc_code": 6465,
+    "title": "INSULATION WORKERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6465
+  },
+  {
+    "soc_code": 6466,
+    "title": "PAVING, SURFACING, AND TAMPING EQUIPMENT OPERATORS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6466
+  },
+  {
+    "soc_code": 6467,
+    "title": "RAIL AND TRACK LAYING EQUIPMENT OPERATORS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6467
+  },
+  {
+    "soc_code": 6468,
+    "title": "ROOFERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6468
+  },
+  {
+    "soc_code": 6472,
+    "title": "SHEETMETAL DUCT INSTALLERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6472
+  },
+  {
+    "soc_code": 6473,
+    "title": "STRUCTURAL METAL WORKERS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6473
+  },
+  {
+    "soc_code": 6474,
+    "title": "DRILLERS, EARTH",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6474
+  },
+  {
+    "soc_code": 6475,
+    "title": "AIR HAMMER OPERATORS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6475
+  },
+  {
+    "soc_code": 6476,
+    "title": "PILE DRIVING OPERATORS",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6476
+  },
+  {
+    "soc_code": 6479,
+    "title": "CONSTRUCTION TRADES, NEC",
+    "division": "63-65",
+    "major": "64",
+    "minor": "646-7",
+    "unit": 6479
+  },
+  {
+    "soc_code": 652,
+    "title": "DRILLERS, OIL WELL",
+    "division": "63-65",
+    "major": "65",
+    "minor": "652"
+  },
+  {
+    "soc_code": 653,
+    "title": "EXPLOSIVE WORKERS",
+    "division": "63-65",
+    "major": "65",
+    "minor": "653"
+  },
+  {
+    "soc_code": 654,
+    "title": "MINING MACHINE OPERATORS",
+    "division": "63-65",
+    "major": "65",
+    "minor": "654"
+  },
+  {
+    "soc_code": 656,
+    "title": "EXTRACTIVE OCCUPATIONS, NEC",
+    "division": "63-65",
+    "major": "65",
+    "minor": "656"
+  },
+  {
+    "soc_code": 67,
+    "title": "SUPERVISORS; PRECISION PRODUCTION OCCUPATIONS",
+    "division": "67-69",
+    "major": "67"
+  },
+  {
+    "soc_code": 6811,
+    "title": "TOOL AND DIE MAKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6811
+  },
+  {
+    "soc_code": 6812,
+    "title": "PRECISION ASSEMBLERS (METAL)",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6812
+  },
+  {
+    "soc_code": 6813,
+    "title": "MACHINISTS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6813
+  },
+  {
+    "soc_code": 6814,
+    "title": "BOILERMAKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6814
+  },
+  {
+    "soc_code": 6816,
+    "title": "PRECISION GRINDERS, FITTERS, AND TOOL SHARPENERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6816
+  },
+  {
+    "soc_code": 6817,
+    "title": "PATTERNMAKERS AND MODEL MAKERS (METAL)",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6817
+  },
+  {
+    "soc_code": 6821,
+    "title": "LAY-OUT WORKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6821
+  },
+  {
+    "soc_code": 6822,
+    "title": "PRECISION HAND MOLDERS AND SHAPERS (JEWELERS)",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6822
+  },
+  {
+    "soc_code": 6823,
+    "title": "ENGRAVERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6823
+  },
+  {
+    "soc_code": 6824,
+    "title": "SHEET METAL WORKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6824
+  },
+  {
+    "soc_code": 6829,
+    "title": "MISCELLANEOUS PRECISION METAL WORKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "681-2",
+    "unit": 6829
+  },
+  {
+    "soc_code": 6831,
+    "title": "PATTERNMAKERS AND MODEL MAKERS, WOOD",
+    "division": "67-69",
+    "major": "68",
+    "minor": "683",
+    "unit": 6831
+  },
+  {
+    "soc_code": 6832,
+    "title": "CABINET MAKERS AND BENCH CARPENTERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "683",
+    "unit": 6832
+  },
+  {
+    "soc_code": 6835,
+    "title": "FURNITURE FINISHERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "683",
+    "unit": 6835
+  },
+  {
+    "soc_code": 6839,
+    "title": "MISCELLANEOUS PRECISION WOODWORKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "683",
+    "unit": 6839
+  },
+  {
+    "soc_code": 6841,
+    "title": "PRECISION TYPESETTERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "684",
+    "unit": 6841
+  },
+  {
+    "soc_code": 6842,
+    "title": "PRECISION LITHOGRAPHERS AND PHOTOENGRAVERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "684",
+    "unit": 6842
+  },
+  {
+    "soc_code": 6844,
+    "title": "BOOKBINDERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "684",
+    "unit": 6844
+  },
+  {
+    "soc_code": 6849,
+    "title": "MISCELLANEOUS PRECISION PRINTING OCCUPATIONS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "684",
+    "unit": 6849
+  },
+  {
+    "soc_code": 6852,
+    "title": "TAILORS AND DRESSMAKERS, HAND",
+    "division": "67-69",
+    "major": "68",
+    "minor": "685",
+    "unit": 6852
+  },
+  {
+    "soc_code": 6853,
+    "title": "UPHOLSTERERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "685",
+    "unit": 6853
+  },
+  {
+    "soc_code": 6854,
+    "title": "SHOEMAKERS AND LEATHER WORKERS AND REPAIRERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "685",
+    "unit": 6854
+  },
+  {
+    "soc_code": 6855,
+    "title": "PRECISION LAUNDERING, CLEANING, AND DYEING OCCUPATIONS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "685",
+    "unit": 6855
+  },
+  {
+    "soc_code": 6856,
+    "title": "APPAREL AND FABRIC PATTERNMAKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "685",
+    "unit": 6856
+  },
+  {
+    "soc_code": 6859,
+    "title": "MISCELLANEOUS PRECISION APPAREL AND FABRIC WORKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "685",
+    "unit": 6859
+  },
+  {
+    "soc_code": 6861,
+    "title": "PRECISION HAND MOLDERS AND SHAPERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6861
+  },
+  {
+    "soc_code": 6862,
+    "title": "PRECISION PATTERNMAKERS, LAY-OUT WORKERS AND CUTTERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6862
+  },
+  {
+    "soc_code": 6863,
+    "title": "DETAIL DESIGN PAINTERS AND DECORATORS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6863
+  },
+  {
+    "soc_code": 6864,
+    "title": "OPTICAL GOODS WORKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6864
+  },
+  {
+    "soc_code": 6865,
+    "title": "DENTAL LABORATORY AND MEDICAL APPLIANCE TECHNICIANS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6865
+  },
+  {
+    "soc_code": 6866,
+    "title": "GEM AND DIAMOND WORKING OCCUPATIONS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6866
+  },
+  {
+    "soc_code": 6867,
+    "title": "PRECISION ELECTRICAL AND ELECTRONIC EQUIPMENT ASEMBLERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6867
+  },
+  {
+    "soc_code": 6868,
+    "title": "PHOTOGRAPHIC PRECESS WORKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6868
+  },
+  {
+    "soc_code": 6869,
+    "title": "MISCELLANEOUS PRECISION WORKERS, NEC",
+    "division": "67-69",
+    "major": "68",
+    "minor": "686",
+    "unit": 6869
+  },
+  {
+    "soc_code": 6871,
+    "title": "BUTCHERS AND MEAT CUTTERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "687",
+    "unit": 6871
+  },
+  {
+    "soc_code": 6872,
+    "title": "BAKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "687",
+    "unit": 6872
+  },
+  {
+    "soc_code": 6873,
+    "title": "BATCHMAKERS (CANDYMAKERS, CHEESEMAKERS, ETC.)",
+    "division": "67-69",
+    "major": "68",
+    "minor": "687",
+    "unit": 6873
+  },
+  {
+    "soc_code": 6879,
+    "title": "MISCELLANEOUS PRECISION FOOD WORKERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "687",
+    "unit": 6879
+  },
+  {
+    "soc_code": 6881,
+    "title": "PRECISION INSPECTORS, TESTERS, AND GRADERS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "688",
+    "unit": 6881
+  },
+  {
+    "soc_code": 6882,
+    "title": "PRECISION ADJUSTERS AND CALIBRATORS",
+    "division": "67-69",
+    "major": "68",
+    "minor": "688",
+    "unit": 6882
+  },
+  {
+    "soc_code": 691,
+    "title": "WATER AND SEWAGE TREATMENT PLANT OPERATORS",
+    "division": "67-69",
+    "major": "69",
+    "minor": "691"
+  },
+  {
+    "soc_code": 692,
+    "title": "GAS PLANT OPERATORS",
+    "division": "67-69",
+    "major": "69",
+    "minor": "692"
+  },
+  {
+    "soc_code": 6931,
+    "title": "STATIONARY ENGINEERS",
+    "division": "67-69",
+    "major": "69",
+    "minor": "693",
+    "unit": 6931
+  },
+  {
+    "soc_code": 6932,
+    "title": "POWER PLANT AND SYSTEMS OPERATORS, EXCEPT STATIONARY ENGINEERS",
+    "division": "67-69",
+    "major": "69",
+    "minor": "693",
+    "unit": 6932
+  },
+  {
+    "soc_code": 694,
+    "title": "CHEMICAL PLANT OPERATORS",
+    "division": "67-69",
+    "major": "69",
+    "minor": "694"
+  },
+  {
+    "soc_code": 695,
+    "title": "PETROLEUM PLANT OPERATORS",
+    "division": "67-69",
+    "major": "69",
+    "minor": "695"
+  },
+  {
+    "soc_code": 696,
+    "title": "MISCELLANEOUS PLANT OR SYSTEM OPERATORS",
+    "division": "67-69",
+    "major": "69",
+    "minor": "696"
+  },
+  {
+    "soc_code": 71,
+    "title": "SUPERVISORS; PRODUCTION OCCUPATIONS",
+    "division": "71-78",
+    "major": "71"
+  },
+  {
+    "soc_code": 7312,
+    "title": "LATHE AND TURNING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7312
+  },
+  {
+    "soc_code": 7313,
+    "title": "MILLING AND PLANING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7313
+  },
+  {
+    "soc_code": 7314,
+    "title": "PUNCHING AND SHEARING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7314
+  },
+  {
+    "soc_code": 7315,
+    "title": "EXTRUDING AND DRAWING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7315
+  },
+  {
+    "soc_code": 7316,
+    "title": "ROLLING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7316
+  },
+  {
+    "soc_code": 7317,
+    "title": "PRESS AND BRAKE MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7317
+  },
+  {
+    "soc_code": 7318,
+    "title": "DRILLING AND BORING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7318
+  },
+  {
+    "soc_code": 7319,
+    "title": "FORGING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7319
+  },
+  {
+    "soc_code": 7322,
+    "title": "GRINDING, ABRADING, BUFFING, AND POLISHING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7322
+  },
+  {
+    "soc_code": 7324,
+    "title": "LAPPING AND HONING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7324
+  },
+  {
+    "soc_code": 7326,
+    "title": "NUMERICAL CONTROL MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7326
+  },
+  {
+    "soc_code": 7329,
+    "title": "MISCELLANEOUS METALWORKING AND PLASTIC WORKING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "731-2",
+    "unit": 7329
+  },
+  {
+    "soc_code": 7332,
+    "title": "WELDING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "733",
+    "unit": 7332
+  },
+  {
+    "soc_code": 7333,
+    "title": "SOLDERING AND BRAZING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "733",
+    "unit": 7333
+  },
+  {
+    "soc_code": 7339,
+    "title": "MISCELLANEOUS FABRICATING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "733",
+    "unit": 7339
+  },
+  {
+    "soc_code": 7342,
+    "title": "MOLDING AND CASTING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "734",
+    "unit": 7342
+  },
+  {
+    "soc_code": 7343,
+    "title": "PLATING AND COATING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "734",
+    "unit": 7343
+  },
+  {
+    "soc_code": 7344,
+    "title": "HEATING EQUIPMENT SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "734",
+    "unit": 7344
+  },
+  {
+    "soc_code": 7349,
+    "title": "MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "734",
+    "unit": 7349
+  },
+  {
+    "soc_code": 7431,
+    "title": "LATHE AND TURNING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "743",
+    "unit": 7431
+  },
+  {
+    "soc_code": 7432,
+    "title": "ROUTER AND PLANER MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "743",
+    "unit": 7432
+  },
+  {
+    "soc_code": 7433,
+    "title": "SAWING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "743",
+    "unit": 7433
+  },
+  {
+    "soc_code": 7434,
+    "title": "SANDING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "743",
+    "unit": 7434
+  },
+  {
+    "soc_code": 7435,
+    "title": "SHAPING AND JOINING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "743",
+    "unit": 7435
+  },
+  {
+    "soc_code": 7439,
+    "title": "MISCELLANEOUS WOODWORKING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "743",
+    "unit": 7439
+  },
+  {
+    "soc_code": 7443,
+    "title": "PRINTING PRESS SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "744",
+    "unit": 7443
+  },
+  {
+    "soc_code": 7444,
+    "title": "PHOTOENGRAVING AND LITHOGRAPHING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "744",
+    "unit": 7444
+  },
+  {
+    "soc_code": 7449,
+    "title": "MISCELLANEOUS PRINTING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "744",
+    "unit": 7449
+  },
+  {
+    "soc_code": 7451,
+    "title": "WINDING AND TWISTING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "745",
+    "unit": 7451
+  },
+  {
+    "soc_code": 7452,
+    "title": "KNITTING AND WEAVING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "745",
+    "unit": 7452
+  },
+  {
+    "soc_code": 7459,
+    "title": "TEXTILE MACHINE SETUP OPERATORS, NEC",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "745",
+    "unit": 7459
+  },
+  {
+    "soc_code": 7462,
+    "title": "PACKAGING AND FILING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7462
+  },
+  {
+    "soc_code": 7463,
+    "title": "EXTRUDING AND FORMING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7463
+  },
+  {
+    "soc_code": 7467,
+    "title": "COMPRESSING AND COMPACTING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7467
+  },
+  {
+    "soc_code": 7472,
+    "title": "ROASTING AND BAKING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7472
+  },
+  {
+    "soc_code": 7474,
+    "title": "FOLDING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7474
+  },
+  {
+    "soc_code": 7476,
+    "title": "STILL, CLARIFYING, AND PRECIPITATING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7476
+  },
+  {
+    "soc_code": 7477,
+    "title": "CRUSHING, GRINDING AND POLISHING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7477
+  },
+  {
+    "soc_code": 7478,
+    "title": "SLICING AND CUTTING MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7478
+  },
+  {
+    "soc_code": 7479,
+    "title": "MISCELLANEOUS MACHINE SETUP OPERATORS",
+    "division": "71-78",
+    "major": "73-74",
+    "minor": "746-7",
+    "unit": 7479
+  },
+  {
+    "soc_code": 7512,
+    "title": "LATHE AND TURNING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7512
+  },
+  {
+    "soc_code": 7513,
+    "title": "MILLING AND PLANING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7513
+  },
+  {
+    "soc_code": 7514,
+    "title": "PUNCHING AND SHEARING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7514
+  },
+  {
+    "soc_code": 7515,
+    "title": "EXTRUDING AND DRAWING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7515
+  },
+  {
+    "soc_code": 7516,
+    "title": "ROLLING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7516
+  },
+  {
+    "soc_code": 7517,
+    "title": "PRESS AND BRAKE MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7517
+  },
+  {
+    "soc_code": 7518,
+    "title": "DRILLING AND BORING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7518
+  },
+  {
+    "soc_code": 7519,
+    "title": "FORGING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7519
+  },
+  {
+    "soc_code": 7522,
+    "title": "GRINDING, ABRADING, BUFFING AND POLISHING MACHINE OPERATORS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7522
+  },
+  {
+    "soc_code": 7529,
+    "title": "MISCELLANEOUS METALWORKING AND PLASTIC WORKING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "751-2",
+    "unit": 7529
+  },
+  {
+    "soc_code": 7532,
+    "title": "WELDING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "753",
+    "unit": 7532
+  },
+  {
+    "soc_code": 7533,
+    "title": "SOLDERING AND BRAZING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "753",
+    "unit": 7533
+  },
+  {
+    "soc_code": 7539,
+    "title": "MISCELLANEOUS FABRICATING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "753",
+    "unit": 7539
+  },
+  {
+    "soc_code": 7542,
+    "title": "MOLDING AND CASTING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "754",
+    "unit": 7542
+  },
+  {
+    "soc_code": 7543,
+    "title": "PLATING AND COATING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "754",
+    "unit": 7543
+  },
+  {
+    "soc_code": 7544,
+    "title": "HEATING EQUIPMENT OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "754",
+    "unit": 7544
+  },
+  {
+    "soc_code": 7549,
+    "title": "MISCELLANEOUS METAL AND PLASTIC PROCESSING MACHINE OPER",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "754",
+    "unit": 7549
+  },
+  {
+    "soc_code": 7631,
+    "title": "LATHE AND TURNING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "763",
+    "unit": 7631
+  },
+  {
+    "soc_code": 7632,
+    "title": "ROUTER AND PLANER MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "763",
+    "unit": 7632
+  },
+  {
+    "soc_code": 7633,
+    "title": "SAWING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "763",
+    "unit": 7633
+  },
+  {
+    "soc_code": 7634,
+    "title": "SANDING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "763",
+    "unit": 7634
+  },
+  {
+    "soc_code": 7635,
+    "title": "SHAPING AND JOINING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "763",
+    "unit": 7635
+  },
+  {
+    "soc_code": 7636,
+    "title": "NAILING AND TRACKING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "763",
+    "unit": 7636
+  },
+  {
+    "soc_code": 7639,
+    "title": "MISCELLANEOUS WOODWORKING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "763",
+    "unit": 7639
+  },
+  {
+    "soc_code": 7642,
+    "title": "TYPESETTING AND COMPOSING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "764",
+    "unit": 7642
+  },
+  {
+    "soc_code": 7643,
+    "title": "PRINTING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "764",
+    "unit": 7643
+  },
+  {
+    "soc_code": 7644,
+    "title": "PHOTOENGRAVING AND LITHOGRAPHING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "764",
+    "unit": 7644
+  },
+  {
+    "soc_code": 7649,
+    "title": "PRINTING MACHINE OPERATORS AND TENDERS, NEC",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "764",
+    "unit": 7649
+  },
+  {
+    "soc_code": 7651,
+    "title": "WINDING AND TWISTING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "765",
+    "unit": 7651
+  },
+  {
+    "soc_code": 7652,
+    "title": "KNITTING AND WEAVING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "765",
+    "unit": 7652
+  },
+  {
+    "soc_code": 7654,
+    "title": "TEXTILE CUTTING MACHINE OPERATOR AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "765",
+    "unit": 7654
+  },
+  {
+    "soc_code": 7655,
+    "title": "TEXTILE SEWING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "765",
+    "unit": 7655
+  },
+  {
+    "soc_code": 7656,
+    "title": "SHOE MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "765",
+    "unit": 7656
+  },
+  {
+    "soc_code": 7657,
+    "title": "PRESSING MACHINE OPERATORS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "765",
+    "unit": 7657
+  },
+  {
+    "soc_code": 7658,
+    "title": "LAUNDERING AND DRY CLEANING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "765",
+    "unit": 7658
+  },
+  {
+    "soc_code": 7659,
+    "title": "MISCELLANEOUS TEXTILE MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "765",
+    "unit": 7659
+  },
+  {
+    "soc_code": 7661,
+    "title": "CEMENTING AND GLUING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7661
+  },
+  {
+    "soc_code": 7662,
+    "title": "PACKAGING AND FILLING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7662
+  },
+  {
+    "soc_code": 7663,
+    "title": "EXTRUDING AND FORMING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7663
+  },
+  {
+    "soc_code": 7664,
+    "title": "MIXING AND BLENDING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7664
+  },
+  {
+    "soc_code": 7665,
+    "title": "COOLING AND FREEZING EQUIPMENT OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7665
+  },
+  {
+    "soc_code": 7666,
+    "title": "SEPARATING AND FILTERING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7666
+  },
+  {
+    "soc_code": 7667,
+    "title": "COMPRESSING AND COMPACTING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7667
+  },
+  {
+    "soc_code": 7668,
+    "title": "BOILER OPERATORS AND TENDERS (LOW PRESSURE)",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7668
+  },
+  {
+    "soc_code": 7669,
+    "title": "COATING, PAINTING, AND SPRAYING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7669
+  },
+  {
+    "soc_code": 7671,
+    "title": "PHOTOGRAPHIC PROCESSING MACHINE OPERATORS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7671
+  },
+  {
+    "soc_code": 7672,
+    "title": "ROASTING AND BAKING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7672
+  },
+  {
+    "soc_code": 7673,
+    "title": "WASHING, CLEANING AND PICKLING EQUIPMENT OPERATORS AND",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7673
+  },
+  {
+    "soc_code": 7674,
+    "title": "FOLDING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7674
+  },
+  {
+    "soc_code": 7675,
+    "title": "FURNACE, KILN, AND OVEN OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7675
+  },
+  {
+    "soc_code": 7676,
+    "title": "STILL, CLARIFIER AND PRECIPITATOR OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7676
+  },
+  {
+    "soc_code": 7677,
+    "title": "CRUSHING AND GRINDING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7677
+  },
+  {
+    "soc_code": 7678,
+    "title": "SLICING AND CUTTING MACHINE OPERATORS AND TENDERS",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7678
+  },
+  {
+    "soc_code": 7679,
+    "title": "MISCELLANEOUS MACHINE OPERATORS AND TENDERS, NEC",
+    "division": "71-78",
+    "major": "75-76",
+    "minor": "766-7",
+    "unit": 7679
+  },
+  {
+    "soc_code": 7714,
+    "title": "WELDERS AND CUTTERS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "771",
+    "unit": 7714
+  },
+  {
+    "soc_code": 7717,
+    "title": "SOLDERERS AND BRAZERS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "771",
+    "unit": 7717
+  },
+  {
+    "soc_code": 772,
+    "title": "ASSEMBLERS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "772"
+  },
+  {
+    "soc_code": 774,
+    "title": "FABRICATORS, NEC",
+    "division": "71-78",
+    "major": "77",
+    "minor": "774"
+  },
+  {
+    "soc_code": 7752,
+    "title": "HAND SEWING OCCUPATIONS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "775",
+    "unit": 7752
+  },
+  {
+    "soc_code": 7753,
+    "title": "HAND CUTTING AND TRIMMING OCCUPATIONS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "775",
+    "unit": 7753
+  },
+  {
+    "soc_code": 7754,
+    "title": "HAND MOLDING AND CASTING OCCUPATIONS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "775",
+    "unit": 7754
+  },
+  {
+    "soc_code": 7755,
+    "title": "HAND FORMING AND SHAPING OCCUPATIONS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "775",
+    "unit": 7755
+  },
+  {
+    "soc_code": 7756,
+    "title": "HAND PAINTING, COATING AND DECORATING OCCUPATIONS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "775",
+    "unit": 7756
+  },
+  {
+    "soc_code": 7757,
+    "title": "HAND ENGRAVING AND PRINTING OCCUPATIONS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "775",
+    "unit": 7757
+  },
+  {
+    "soc_code": 7758,
+    "title": "HAND GRINDING AND POLISHING OCCUPATIONS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "775",
+    "unit": 7758
+  },
+  {
+    "soc_code": 7759,
+    "title": "MISCELLANEOUS HAND WORKING OCCUPATIONS",
+    "division": "71-78",
+    "major": "77",
+    "minor": "775",
+    "unit": 7759
+  },
+  {
+    "soc_code": 782,
+    "title": "PRODUCTION INSPECTORS, CHECKERS AND EXAMINERS",
+    "division": "71-78",
+    "major": "78",
+    "minor": "782"
+  },
+  {
+    "soc_code": 783,
+    "title": "PRODUCTION TESTERS",
+    "division": "71-78",
+    "major": "78",
+    "minor": "783"
+  },
+  {
+    "soc_code": 784,
+    "title": "PRODUCTION SAMPLERS AND WEIGHERS",
+    "division": "71-78",
+    "major": "78",
+    "minor": "784"
+  },
+  {
+    "soc_code": 785,
+    "title": "GRADERS AND SORTERS, EXCEPT AGRICULTURAL",
+    "division": "71-78",
+    "major": "78",
+    "minor": "785"
+  },
+  {
+    "soc_code": 787,
+    "title": "PRODUCTION EXPEDITERS",
+    "division": "71-78",
+    "major": "78",
+    "minor": "787"
+  },
+  {
+    "soc_code": 8111,
+    "title": "SUPERVISORS; MOTOR VEHICLE OPERATORS",
+    "division": "81-83",
+    "major": "81",
+    "minor": "811",
+    "unit": 8111
+  },
+  {
+    "soc_code": 8113,
+    "title": "RAILROAD CONDUCTORS AND YARDMASTERS",
+    "division": "81-83",
+    "major": "81",
+    "minor": "811",
+    "unit": 8113
+  },
+  {
+    "soc_code": 812,
+    "title": "SUPERVISORS; MATERIAL MOVING EQUIPMENT OPERATORS",
+    "division": "81-83",
+    "major": "81",
+    "minor": "812"
+  },
+  {
+    "soc_code": 8212,
+    "title": "TRUCK DRIVERS, TRACTOR-TRAILER",
+    "division": "81-83",
+    "major": "82",
+    "minor": "821",
+    "unit": 8212
+  },
+  {
+    "soc_code": 8213,
+    "title": "TRUCK DRIVERS, HEAVY",
+    "division": "81-83",
+    "major": "82",
+    "minor": "821",
+    "unit": 8213
+  },
+  {
+    "soc_code": 8214,
+    "title": "TRUCK DRIVERS, LIGHT (INCLUDING DELIVERY AND ROUTE DRIV",
+    "division": "81-83",
+    "major": "82",
+    "minor": "821",
+    "unit": 8214
+  },
+  {
+    "soc_code": 8215,
+    "title": "BUS DRIVERS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "821",
+    "unit": 8215
+  },
+  {
+    "soc_code": 8216,
+    "title": "TAXICAB DRIVERS AND CHAUFFEURS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "821",
+    "unit": 8216
+  },
+  {
+    "soc_code": 8218,
+    "title": "DRIVER-SALES WORKERS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "821",
+    "unit": 8218
+  },
+  {
+    "soc_code": 8219,
+    "title": "OTHER MOTOR TRANSPORTATION OCCUPATIONS, NEC",
+    "division": "81-83",
+    "major": "82",
+    "minor": "821",
+    "unit": 8219
+  },
+  {
+    "soc_code": 8232,
+    "title": "LOCOMOTIVE OPERATING OCCUPATIONS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "823",
+    "unit": 8232
+  },
+  {
+    "soc_code": 8233,
+    "title": "RAILROAD BRAKE, SIGNAL, AND SWITCH OPERATORS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "823",
+    "unit": 8233
+  },
+  {
+    "soc_code": 8239,
+    "title": "RAIL VEHICLE OPERATORS, NEC",
+    "division": "81-83",
+    "major": "82",
+    "minor": "823",
+    "unit": 8239
+  },
+  {
+    "soc_code": 8241,
+    "title": "SHIP CAPTAINS AND MATES, EXCEPT FISHING BOATS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "824",
+    "unit": 8241
+  },
+  {
+    "soc_code": 8242,
+    "title": "BOAT AND BARGE OPERATORS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "824",
+    "unit": 8242
+  },
+  {
+    "soc_code": 8243,
+    "title": "SAILORS AND DECKHANDS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "824",
+    "unit": 8243
+  },
+  {
+    "soc_code": 8244,
+    "title": "MARINE ENGINEERS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "824",
+    "unit": 8244
+  },
+  {
+    "soc_code": 8245,
+    "title": "BRIDGE, LOCK, AND LIGHTHOUSE TENDERS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "824",
+    "unit": 8245
+  },
+  {
+    "soc_code": 825,
+    "title": "AIRPLANE PILOTS AND NAVIGATORS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "825"
+  },
+  {
+    "soc_code": 828,
+    "title": "TRANSPORTATION INSPECTORS",
+    "division": "81-83",
+    "major": "82",
+    "minor": "828"
+  },
+  {
+    "soc_code": 8312,
+    "title": "OPERATING ENGINEERS",
+    "division": "81-83",
+    "major": "83",
+    "minor": "831",
+    "unit": 8312
+  },
+  {
+    "soc_code": 8313,
+    "title": "LONGSHORE EQUIPMENT OPERATORS",
+    "division": "81-83",
+    "major": "83",
+    "minor": "831",
+    "unit": 8313
+  },
+  {
+    "soc_code": 8314,
+    "title": "HOIST AND WINCH OPERATORS",
+    "division": "81-83",
+    "major": "83",
+    "minor": "831",
+    "unit": 8314
+  },
+  {
+    "soc_code": 8315,
+    "title": "CRANE AND TOWER OPERATORS",
+    "division": "81-83",
+    "major": "83",
+    "minor": "831",
+    "unit": 8315
+  },
+  {
+    "soc_code": 8316,
+    "title": "EXCAVATING AND LOADING MACHINE OPERATORS",
+    "division": "81-83",
+    "major": "83",
+    "minor": "831",
+    "unit": 8316
+  },
+  {
+    "soc_code": 8317,
+    "title": "GRADER, DOZER, AND SCRAPER OPERATORS",
+    "division": "81-83",
+    "major": "83",
+    "minor": "831",
+    "unit": 8317
+  },
+  {
+    "soc_code": 8318,
+    "title": "INDUSTRIAL TRUCK AND TRACTOR EQUIPMENT OPERATORS",
+    "division": "81-83",
+    "major": "83",
+    "minor": "831",
+    "unit": 8318
+  },
+  {
+    "soc_code": 8319,
+    "title": "MISCELLANEOUS MATERIAL MOVING EQUIPMENT OPERATORS",
+    "division": "81-83",
+    "major": "83",
+    "minor": "831",
+    "unit": 8319
+  },
+  {
+    "soc_code": 85,
+    "title": "SUPERVISORS; HANDLERS, EQUIPMENT CLEANERS, HELPERS, AND LABORERS",
+    "division": "85-87",
+    "major": "85"
+  },
+  {
+    "soc_code": 8611,
+    "title": "HELPERS; METALWORKING AND PLASTIC WORKING MACHINE OEPRATORS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "861",
+    "unit": 8611
+  },
+  {
+    "soc_code": 8614,
+    "title": "HELPERS; METAL AND PLASTIC PROCESSING MACHINE OPERATORS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "861",
+    "unit": 8614
+  },
+  {
+    "soc_code": 8615,
+    "title": "HELPERS; WOODWORKING MACHINE OPERATORS AND TENDERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "861",
+    "unit": 8615
+  },
+  {
+    "soc_code": 8616,
+    "title": "HELPERS; PRINTING MACHINE OPERATORS AND TENDERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "861",
+    "unit": 8616
+  },
+  {
+    "soc_code": 8617,
+    "title": "HELPERS; TEXTILE, APPAREL AND FURNISHINGS MACHINE OPERATORS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "861",
+    "unit": 8617
+  },
+  {
+    "soc_code": 8618,
+    "title": "HELPERS; MACHINE OPERATORS AND TENDERS ASSORTED MATERIALS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "861",
+    "unit": 8618
+  },
+  {
+    "soc_code": 8619,
+    "title": "HELPERS; PRECISION PRODUCTION OCCUPATIONS AND SETUP OEPRATORS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "861",
+    "unit": 8619
+  },
+  {
+    "soc_code": 862,
+    "title": "HELPERS; FABRICATORS AND INSPECTORS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "862"
+  },
+  {
+    "soc_code": 8632,
+    "title": "HELPERS; VEHICLE AND MOBILE EQUIPMENT MECHANICS AND REPAIRERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "863",
+    "unit": 8632
+  },
+  {
+    "soc_code": 8633,
+    "title": "HELPERS; INDUSTRIAL MACHINERY REPAIRERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "863",
+    "unit": 8633
+  },
+  {
+    "soc_code": 8635,
+    "title": "HELPERS; ELECTRICAL AND ELECTRONIC EQUIPMENT REPAIRERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "863",
+    "unit": 8635
+  },
+  {
+    "soc_code": 8637,
+    "title": "HELPERS; MISCELLANEOUS MECHANICS AND REPAIRERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "863",
+    "unit": 8637
+  },
+  {
+    "soc_code": 8641,
+    "title": "HELPERS; BRICKMASONS, STONEMASONS, AND HARD TILE SETTER",
+    "division": "85-87",
+    "major": "86",
+    "minor": "864",
+    "unit": 8641
+  },
+  {
+    "soc_code": 8642,
+    "title": "HELPERS; CARPENTERS AND RELATED WORKERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "864",
+    "unit": 8642
+  },
+  {
+    "soc_code": 8643,
+    "title": "HELPERS; ELECTRICIANS AND POWER TRANSMISSION INSTALLERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "864",
+    "unit": 8643
+  },
+  {
+    "soc_code": 8644,
+    "title": "HELPERS; PAINTERS, PAPERHANGERS, AND PLASTERERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "864",
+    "unit": 8644
+  },
+  {
+    "soc_code": 8645,
+    "title": "HELPERS; PLUMBERS, PIPEFITTERS AND STEAMFITTERS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "864",
+    "unit": 8645
+  },
+  {
+    "soc_code": 8646,
+    "title": "HELPERS; SURVEYOR'S",
+    "division": "85-87",
+    "major": "86",
+    "minor": "864",
+    "unit": 8646
+  },
+  {
+    "soc_code": 8648,
+    "title": "HELPERS; OTHER CONSTRUCTION TRADES",
+    "division": "85-87",
+    "major": "86",
+    "minor": "864",
+    "unit": 8648
+  },
+  {
+    "soc_code": 865,
+    "title": "HELPERS;EXTRACTIVE OCCUPATIONS",
+    "division": "85-87",
+    "major": "86",
+    "minor": "865"
+  },
+  {
+    "soc_code": 871,
+    "title": "CONSTRUCTION LABORERS",
+    "division": "85-87",
+    "major": "87",
+    "minor": "871"
+  },
+  {
+    "soc_code": 8722,
+    "title": "GARBAGE COLLECTORS",
+    "division": "85-87",
+    "major": "87",
+    "minor": "872",
+    "unit": 8722
+  },
+  {
+    "soc_code": 8723,
+    "title": "STEVEDORES",
+    "division": "85-87",
+    "major": "87",
+    "minor": "872",
+    "unit": 8723
+  },
+  {
+    "soc_code": 8724,
+    "title": "STOCK HANDLERS AND BAGGERS",
+    "division": "85-87",
+    "major": "87",
+    "minor": "872",
+    "unit": 8724
+  },
+  {
+    "soc_code": 8725,
+    "title": "MACHINE FEEDERS AND OFFBEARERS",
+    "division": "85-87",
+    "major": "87",
+    "minor": "872",
+    "unit": 8725
+  },
+  {
+    "soc_code": 8726,
+    "title": "FREIGHT, STOCK, AND MATERIAL MOVERS, HAND, NEC",
+    "division": "85-87",
+    "major": "87",
+    "minor": "872",
+    "unit": 8726
+  },
+  {
+    "soc_code": 873,
+    "title": "GARAGE AND SERVICE STATION RELATED OCCUPATIONS",
+    "division": "85-87",
+    "major": "87",
+    "minor": "873"
+  },
+  {
+    "soc_code": 874,
+    "title": "PARKING LOT ATTENDANTS",
+    "division": "85-87",
+    "major": "87",
+    "minor": "874"
+  },
+  {
+    "soc_code": 875,
+    "title": "VEHICLE WASHERS AND EQUIPMENT CLEANERS",
+    "division": "85-87",
+    "major": "87",
+    "minor": "875"
+  },
+  {
+    "soc_code": 8761,
+    "title": "HAND PACKERS AND PACKAGERS",
+    "division": "85-87",
+    "major": "87",
+    "minor": "876",
+    "unit": 8761
+  },
+  {
+    "soc_code": 8769,
+    "title": "MANUAL OCCUPATIONS, NEC",
+    "division": "85-87",
+    "major": "87",
+    "minor": "876",
+    "unit": 8769
+  },
+  {
+    "soc_code": 91,
+    "title": "MILITARY OCCUPATIONS",
+    "division": "91-91",
+    "major": "91"
+  },
+  {
+    "soc_code": 98,
+    "title": "NOT DETERMINED",
+    "division": "99-99",
+    "major": "98"
+  },
+  {
+    "soc_code": 9911,
+    "title": "GRADUATE ASSISTANT",
+    "division": "99-99",
+    "major": "99",
+    "minor": "991",
+    "unit": 9911
+  },
+  {
+    "soc_code": 9951,
+    "title": "HOUSEWIVES, UNPAID",
+    "division": "99-99",
+    "major": "99",
+    "minor": "995",
+    "unit": 9951
+  },
+  {
+    "soc_code": 9952,
+    "title": "HOME GARDENERS, UNPAID",
+    "division": "99-99",
+    "major": "99",
+    "minor": "995",
+    "unit": 9952
+  },
+  {
+    "soc_code": 9953,
+    "title": "STUDENTS, UNPAID",
+    "division": "99-99",
+    "major": "99",
+    "minor": "995",
+    "unit": 9953
+  },
+  {
+    "soc_code": 9954,
+    "title": "VOLUNTEERS, NEC",
+    "division": "99-99",
+    "major": "99",
+    "minor": "995",
+    "unit": 9954
+  },
+  {
+    "soc_code": 9992,
+    "title": "MISSING DATA",
+    "division": "99-99",
+    "major": "99",
+    "unit": 9992
+  },
+  {
+    "soc_code": 9994,
+    "title": "MISSING DATA",
+    "division": "99-99",
+    "major": "99",
+    "unit": 9994
+  },
+  {
+    "soc_code": 9996,
+    "title": "MISSING DATA",
+    "division": "99-99",
+    "major": "99",
+    "unit": 9996
+  },
+  {
+    "soc_code": 9998,
+    "title": "MISSING DATA",
+    "division": "99-99",
+    "major": "99",
+    "unit": 9998
+  },
+  {
+    "soc_code": 9999,
+    "title": "MISSING DATA",
+    "division": "99-99",
+    "major": "99",
+    "unit": 9999
+  },
+  {
+    "soc_code": 951,
+    "title": "RETIRED",
+    "division": "99-99",
+    "minor": "951"
+  },
+  {
+    "soc_code": 952,
+    "title": "DISABLED",
+    "division": "99-99",
+    "minor": "952"
+  },
+  {
+    "soc_code": 953,
+    "title": "ON WELFARE",
+    "division": "99-99",
+    "minor": "953"
+  },
+  {
+    "soc_code": 959,
+    "title": "UNEMPLOYED, NEC",
+    "division": "99-99",
+    "minor": "959"
+  }
+]
