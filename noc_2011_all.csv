@@ -411,7 +411,7 @@ code,title,noc1d,noc2d,noc3d,noc4d,Level,Hierarchical_structure
 6421,Retail salespersons,6,64,642,6421,4,Unit group
 65,Service representatives and other customer and personal services occupations,6,65,NA,NA,2,Major group
 651,Occupations in food and beverage service,6,65,651,NA,3,Minor group
-6511,Maîtres d'hôtel and hosts/hostesses,6,65,651,6511,4,Unit group
+6511,MaÃ®tres d'hÃ´tel and hosts/hostesses,6,65,651,6511,4,Unit group
 6512,Bartenders,6,65,651,6512,4,Unit group
 6513,Food and beverage servers,6,65,651,6513,4,Unit group
 652,Occupations in travel and accommodation,6,65,652,NA,3,Minor group
@@ -689,30 +689,3 @@ code,title,noc1d,noc2d,noc3d,noc4d,Level,Hierarchical_structure
 9617,"Labourers in food, beverage and associated products processing",9,96,961,9617,4,Unit group
 9618,Labourers in fish and seafood processing,9,96,961,9618,4,Unit group
 9619,"Other labourers in processing, manufacturing and utilities",9,96,961,9619,4,Unit group
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
-NA,NA,9,NA,NA,NA,NA,NA
