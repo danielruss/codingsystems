@@ -1,0 +1,3362 @@
+[
+  {
+    "code": "11-1011",
+    "title": "Ejecutivos en Jefe"
+  },
+  {
+    "code": "11-1021",
+    "title": "Gerentes Generales y de Operaciones"
+  },
+  {
+    "code": "11-1031",
+    "title": "Legisladores"
+  },
+  {
+    "code": "11-2011",
+    "title": "Gerentes de Publicidad y Promociones"
+  },
+  {
+    "code": "11-2021",
+    "title": "Gerentes de Mercadeo"
+  },
+  {
+    "code": "11-2022",
+    "title": "Gerentes de Ventas"
+  },
+  {
+    "code": "11-2031",
+    "title": "Gerentes de Relaciones Públicas y Recaudación de Fondos"
+  },
+  {
+    "code": "11-3011",
+    "title": "Gerentes de Servicios Administrativos"
+  },
+  {
+    "code": "11-3021",
+    "title": "Gerentes de Sistemas de Computación e Información"
+  },
+  {
+    "code": "11-3031",
+    "title": "Gerentes Financieros"
+  },
+  {
+    "code": "11-3051",
+    "title": "Gerentes de Producción Industrial"
+  },
+  {
+    "code": "11-3061",
+    "title": "Gerentes de Compras "
+  },
+  {
+    "code": "11-3071",
+    "title": "Gerentes de Transporte, Almacenamiento y Distribución "
+  },
+  {
+    "code": "11-3111",
+    "title": "Gerentes de Compensaciones y Beneficios "
+  },
+  {
+    "code": "11-3121",
+    "title": "Gerentes de Recursos Humanos "
+  },
+  {
+    "code": "11-3131",
+    "title": "Gerentes de Capacitación y Desarrollo"
+  },
+  {
+    "code": "11-9013",
+    "title": "Gerentes de Establecimientos Agrícolas, Ganaderos y de Otras Actividades Agrícolas "
+  },
+  {
+    "code": "11-9021",
+    "title": "Gerentes de Construcción "
+  },
+  {
+    "code": "11-9031",
+    "title": "Administradores Educativos de Centro/Programa Preescolar y Guardería Infantil"
+  },
+  {
+    "code": "11-9032",
+    "title": "Administradores Educativos de Escuela Primaria y Secundaria "
+  },
+  {
+    "code": "11-9033",
+    "title": "Administradores Educativos de Nivel Postsecundario"
+  },
+  {
+    "code": "11-9039",
+    "title": "Todos los demás Administradores Educativos"
+  },
+  {
+    "code": "11-9041",
+    "title": "Directores de Arquitectura e Ingeniería"
+  },
+  {
+    "code": "11-9051",
+    "title": "Directores de Servicio de Alimentos"
+  },
+  {
+    "code": "11-9061",
+    "title": "Gerentes de Servicios Fúnebres "
+  },
+  {
+    "code": "11-9071",
+    "title": "Gerentes de Salas de Juego "
+  },
+  {
+    "code": "11-9081",
+    "title": "Gerentes de Hospedaje "
+  },
+  {
+    "code": "11-9111",
+    "title": "Directores de Servicios Médicos y de Salud "
+  },
+  {
+    "code": "11-9121",
+    "title": "Directores de Ciencias Naturales "
+  },
+  {
+    "code": "11-9131",
+    "title": "Jefes de Correo y Superintendentes de Correo"
+  },
+  {
+    "code": "11-9141",
+    "title": "Gerentes de Propiedad, Inmuebles y Asociaciones de Vivienda Comunitaria "
+  },
+  {
+    "code": "11-9151",
+    "title": "Directores de Servicios Sociales y Comunitarios"
+  },
+  {
+    "code": "11-9161",
+    "title": "Directores de Manejo de Emergencias "
+  },
+  {
+    "code": "11-9199",
+    "title": "Todos los demás Gerentes, Directores, Administradores y Jefes"
+  },
+  {
+    "code": "13-1011",
+    "title": "Agentes y Gerentes Comerciales de Artistas, Intérpretes Artísticos y Atletas"
+  },
+  {
+    "code": "13-1021",
+    "title": "Compradores y Agentes de Compras de Productos Agrícolas"
+  },
+  {
+    "code": "13-1022",
+    "title": "Compradores Mayoristas y Minoristas, Excepto de Productos Agrícolas"
+  },
+  {
+    "code": "13-1023",
+    "title": "Agentes de Compras, Excepto Mayoristas, Minoristas y de Productos Agrícolas"
+  },
+  {
+    "code": "13-1031",
+    "title": "Ajustadores, Tasadores, Examinadores e Investigadores de Reclamaciones"
+  },
+  {
+    "code": "13-1032",
+    "title": "Tasadores de Seguro de Automóviles"
+  },
+  {
+    "code": "13-1041",
+    "title": "Funcionarios de Cumplimiento   "
+  },
+  {
+    "code": "13-1051",
+    "title": "Estimadores de Costos"
+  },
+  {
+    "code": "13-1071",
+    "title": "Especialistas en Recursos Humanos"
+  },
+  {
+    "code": "13-1074",
+    "title": "Contratistas de Mano de Obra Agrícola"
+  },
+  {
+    "code": "13-1075",
+    "title": "Especialistas en Relaciones Laborales"
+  },
+  {
+    "code": "13-1081",
+    "title": "Especialistas en Logística"
+  },
+  {
+    "code": "13-1111",
+    "title": "Analistas de Gestión"
+  },
+  {
+    "code": "13-1121",
+    "title": "Planificadores de Reuniones, Convenciones y Eventos"
+  },
+  {
+    "code": "13-1131",
+    "title": "Recaudadores de Fondos"
+  },
+  {
+    "code": "13-1141",
+    "title": "Especialistas en Compensaciones, Beneficios y Análisis Ocupacional"
+  },
+  {
+    "code": "13-1151",
+    "title": "Especialistas en Capacitación y Desarrollo"
+  },
+  {
+    "code": "13-1161",
+    "title": "Analistas de Investigación de Mercado y Especialistas en Mercadeo"
+  },
+  {
+    "code": "13-1199",
+    "title": "Todos los demás Especialistas en Operaciones Comerciales "
+  },
+  {
+    "code": "13-2011",
+    "title": "Contadores y Auditores "
+  },
+  {
+    "code": "13-2021",
+    "title": "Tasadores y Especialistas en Valoración de Bienes Raíces"
+  },
+  {
+    "code": "13-2031",
+    "title": "Analistas de Presupuesto"
+  },
+  {
+    "code": "13-2041",
+    "title": "Analistas de Crédito "
+  },
+  {
+    "code": "13-2051",
+    "title": "Analistas Financieros "
+  },
+  {
+    "code": "13-2052",
+    "title": "Asesores de Finanzas Personales "
+  },
+  {
+    "code": "13-2053",
+    "title": "Aseguradores"
+  },
+  {
+    "code": "13-2061",
+    "title": "Examinadores Financieros"
+  },
+  {
+    "code": "13-2071",
+    "title": "Asesores de Crédito "
+  },
+  {
+    "code": "13-2072",
+    "title": "Oficiales de Préstamo "
+  },
+  {
+    "code": "13-2081",
+    "title": "Examinadores y Cobradores de Impuestos y Agentes de Rentas Públicas"
+  },
+  {
+    "code": "13-2082",
+    "title": "Preparadores de Impuestos"
+  },
+  {
+    "code": "13-2099",
+    "title": "Todos los demás Especialistas Financieros"
+  },
+  {
+    "code": "15-1111",
+    "title": "Investigadores de Ciencias de la Computación e Información"
+  },
+  {
+    "code": "15-1121",
+    "title": "Analistas de Sistemas de Computadoras "
+  },
+  {
+    "code": "15-1122",
+    "title": "Analistas de Seguridad de la Información "
+  },
+  {
+    "code": "15-1131",
+    "title": "Programadores de Computadoras "
+  },
+  {
+    "code": "15-1132",
+    "title": "Diseñadores de Aplicaciones de Programas Software"
+  },
+  {
+    "code": "15-1133",
+    "title": "Diseñadores de Sistemas de Programas Software"
+  },
+  {
+    "code": "15-1134",
+    "title": "Diseñadores de Red "
+  },
+  {
+    "code": "15-1141",
+    "title": "Administradores de Bases de Datos "
+  },
+  {
+    "code": "15-1142",
+    "title": "Administradores de Redes Informáticas y Sistemas de Computación"
+  },
+  {
+    "code": "15-1143",
+    "title": "Diseñadores de Redes Informáticas "
+  },
+  {
+    "code": "15-1151",
+    "title": "Especialistas en Apoyo Técnico para Usuarios de Computadoras"
+  },
+  {
+    "code": "15-1152",
+    "title": "Especialistas en Apoyo Técnico de Computadoras y Redes Informáticas"
+  },
+  {
+    "code": "15-1199",
+    "title": "Todas las demás Ocupaciones Relacionadas con la Computación"
+  },
+  {
+    "code": "15-2011",
+    "title": "Actuarios"
+  },
+  {
+    "code": "15-2021",
+    "title": "Matemáticos"
+  },
+  {
+    "code": "15-2031",
+    "title": "Analistas de Operaciones de Investigación "
+  },
+  {
+    "code": "15-2041",
+    "title": "Estadísticos "
+  },
+  {
+    "code": "15-2091",
+    "title": "Técnicos Matemáticos"
+  },
+  {
+    "code": "15-2099",
+    "title": "Todas los demás Ocupaciones Relacionadas con las Ciencias Matemáticas  "
+  },
+  {
+    "code": "17-1011",
+    "title": "Arquitectos, Excepto Paisajistas y Navales"
+  },
+  {
+    "code": "17-1012",
+    "title": "Arquitectos Paisajistas"
+  },
+  {
+    "code": "17-1021",
+    "title": "Cartógrafos y Fotogrametristas "
+  },
+  {
+    "code": "17-1022",
+    "title": "Agrimensores "
+  },
+  {
+    "code": "17-2011",
+    "title": "Ingenieros Aeroespaciales "
+  },
+  {
+    "code": "17-2021",
+    "title": "Ingenieros Agrónomos "
+  },
+  {
+    "code": "17-2031",
+    "title": "Ingenieros Biomédicos "
+  },
+  {
+    "code": "17-2041",
+    "title": "Ingenieros Químicos "
+  },
+  {
+    "code": "17-2051",
+    "title": "Ingenieros Civiles "
+  },
+  {
+    "code": "17-2061",
+    "title": "Ingenieros de Computadoras"
+  },
+  {
+    "code": "17-2071",
+    "title": "Ingenieros Eléctricos"
+  },
+  {
+    "code": "17-2072",
+    "title": "Ingenieros Electrónicos, Excepto de Computadoras"
+  },
+  {
+    "code": "17-2081",
+    "title": "Ingenieros Ambientales"
+  },
+  {
+    "code": "17-2111",
+    "title": "Ingenieros Sanitarios y de Seguridad, Excepto Ingenieros e Inspectores de Seguridad Minera "
+  },
+  {
+    "code": "17-2112",
+    "title": "Ingenieros Industriales "
+  },
+  {
+    "code": "17-2121",
+    "title": "Ingenieros Marítimos y Arquitectos Navales "
+  },
+  {
+    "code": "17-2131",
+    "title": "Ingenieros de Materiales "
+  },
+  {
+    "code": "17-2141",
+    "title": "Ingenieros Mecánicos "
+  },
+  {
+    "code": "17-2151",
+    "title": "Ingenieros de Minería y Geología, Incluye a los Ingenieros de Seguridad Minera"
+  },
+  {
+    "code": "17-2161",
+    "title": "Ingenieros Nucleares"
+  },
+  {
+    "code": "17-2171",
+    "title": "Ingenieros Petroleros"
+  },
+  {
+    "code": "17-2199",
+    "title": "Todos los demás Ingenieros"
+  },
+  {
+    "code": "17-3011",
+    "title": "Delineantes de Planos Arquitectónicos y Civiles"
+  },
+  {
+    "code": "17-3012",
+    "title": "Delineantes de Sistemas Eléctricos y Electrónicos"
+  },
+  {
+    "code": "17-3013",
+    "title": "Delineantes de Sistemas Mecánicos"
+  },
+  {
+    "code": "17-3019",
+    "title": "Todos los demás Delineantes"
+  },
+  {
+    "code": "17-3021",
+    "title": "Técnicos en Ingeniería y Operaciones Aeroespaciales"
+  },
+  {
+    "code": "17-3022",
+    "title": "Técnicos en Ingeniería Civil"
+  },
+  {
+    "code": "17-3023",
+    "title": "Técnicos en Ingeniería Eléctrica y Electrónica"
+  },
+  {
+    "code": "17-3024",
+    "title": "Técnicos en Electromecánica "
+  },
+  {
+    "code": "17-3025",
+    "title": "Técnicos en Ingeniería Ambiental "
+  },
+  {
+    "code": "17-3026",
+    "title": "Técnicos en Ingeniería Industrial "
+  },
+  {
+    "code": "17-3027",
+    "title": "Técnicos en Ingeniería Mecánica "
+  },
+  {
+    "code": "17-3029",
+    "title": "Todos los demás Técnicos en Ingeniería, Excepto Delineantes"
+  },
+  {
+    "code": "17-3031",
+    "title": "Técnicos en Agrimensura y Cartografía"
+  },
+  {
+    "code": "19-1011",
+    "title": "Científicos Especializados en Animales"
+  },
+  {
+    "code": "19-1012",
+    "title": "Científicos y Tecnólogos Especializados en Alimentos"
+  },
+  {
+    "code": "19-1013",
+    "title": "Científicos Especializados en Suelos y Botánica"
+  },
+  {
+    "code": "19-1021",
+    "title": "Bioquímicos y Biofísicos"
+  },
+  {
+    "code": "19-1022",
+    "title": "Microbiólogos"
+  },
+  {
+    "code": "19-1023",
+    "title": "Zoólogos y Biólogos de la Fauna Silvestre"
+  },
+  {
+    "code": "19-1029",
+    "title": "Todos los demás Científicos Especializados en Biología"
+  },
+  {
+    "code": "19-1031",
+    "title": "Científicos Especializados en Conservación"
+  },
+  {
+    "code": "19-1032",
+    "title": "Silvicultores "
+  },
+  {
+    "code": "19-1041",
+    "title": "Epidemiólogos   "
+  },
+  {
+    "code": "19-1042",
+    "title": "Científicos Médicos, Excepto Epidemiólogos"
+  },
+  {
+    "code": "19-1099",
+    "title": "Todos los demás Científicos Especializados en Ciencias Biológicas"
+  },
+  {
+    "code": "19-2011",
+    "title": "Astrónomos "
+  },
+  {
+    "code": "19-2012",
+    "title": "Físicos "
+  },
+  {
+    "code": "19-2021",
+    "title": "Científicos Atmosféricos y Espaciales "
+  },
+  {
+    "code": "19-2031",
+    "title": "Químicos "
+  },
+  {
+    "code": "19-2032",
+    "title": "Científicos de Materiales "
+  },
+  {
+    "code": "19-2041",
+    "title": "Científicos y Especialistas en Medioambiente, Incluye Salud"
+  },
+  {
+    "code": "19-2042",
+    "title": "Científicos de la Geociencia, Excepto Hidrólogos y Geógrafos"
+  },
+  {
+    "code": "19-2043",
+    "title": "Hidrólogos"
+  },
+  {
+    "code": "19-2099",
+    "title": "Todos los demás Científicos Físicos"
+  },
+  {
+    "code": "19-3011",
+    "title": "Economistas"
+  },
+  {
+    "code": "19-3022",
+    "title": "Investigadores de Encuestas "
+  },
+  {
+    "code": "19-3031",
+    "title": "Psicólogos Clínicos, de Consejería y Escolares "
+  },
+  {
+    "code": "19-3032",
+    "title": "Psicólogos Industriales-Organizacionales "
+  },
+  {
+    "code": "19-3039",
+    "title": "Todos los demás Psicólogos "
+  },
+  {
+    "code": "19-3041",
+    "title": "Sociólogos "
+  },
+  {
+    "code": "19-3051",
+    "title": "Planificadores Urbanos y Regionales "
+  },
+  {
+    "code": "19-3091",
+    "title": "Antropólogos y Arqueólogos "
+  },
+  {
+    "code": "19-3092",
+    "title": "Geógrafos"
+  },
+  {
+    "code": "19-3093",
+    "title": "Historiadores"
+  },
+  {
+    "code": "19-3094",
+    "title": "Científicos Políticos"
+  },
+  {
+    "code": "19-3099",
+    "title": "Todos los demás Científicos Sociales y Trabajadores Relacionados"
+  },
+  {
+    "code": "19-4011",
+    "title": "Técnicos en Ciencias Agrícolas y de los Alimentos"
+  },
+  {
+    "code": "19-4021",
+    "title": "Técnicos en Biología"
+  },
+  {
+    "code": "19-4031",
+    "title": "Técnicos Químicos"
+  },
+  {
+    "code": "19-4041",
+    "title": "Técnicos en Exploración Geológica y Petrolera"
+  },
+  {
+    "code": "19-4051",
+    "title": "Técnicos Nucleares"
+  },
+  {
+    "code": "19-4061",
+    "title": "Asistentes de Investigación en Ciencias Sociales"
+  },
+  {
+    "code": "19-4091",
+    "title": "Técnicos en Ciencias Ambientales y de Protección, Incluye Salud "
+  },
+  {
+    "code": "19-4092",
+    "title": "Técnicos en Ciencias Forenses "
+  },
+  {
+    "code": "19-4093",
+    "title": "Técnicos Forestales y de Conservación "
+  },
+  {
+    "code": "19-4099",
+    "title": "Todos los demás Técnicos en Ciencias Biológicas, Físicas y Sociales"
+  },
+  {
+    "code": "21-1011",
+    "title": "Consejeros Especializados en Abuso de Sustancias Controladas y Trastornos del Comportamiento"
+  },
+  {
+    "code": "21-1012",
+    "title": "Consejeros Educativos, de Orientación, Escolares y Vocacionales"
+  },
+  {
+    "code": "21-1013",
+    "title": "Terapeutas de Matrimonios y Familias"
+  },
+  {
+    "code": "21-1014",
+    "title": "Consejeros de Salud Mental"
+  },
+  {
+    "code": "21-1015",
+    "title": "Consejeros de Rehabilitación"
+  },
+  {
+    "code": "21-1019",
+    "title": "Todos los demás Consejeros"
+  },
+  {
+    "code": "21-1021",
+    "title": "Trabajadores Sociales Especializados en Temas de la Infancia, Familiares y Escolares"
+  },
+  {
+    "code": "21-1022",
+    "title": "Trabajadores Sociales de Cuidado de la Salud"
+  },
+  {
+    "code": "21-1023",
+    "title": "Trabajadores Sociales Especializados en Salud Mental y Abuso de Sustancias "
+  },
+  {
+    "code": "21-1029",
+    "title": "Todos los demás Trabajadores Sociales  "
+  },
+  {
+    "code": "21-1091",
+    "title": "Educadores de la Salud"
+  },
+  {
+    "code": "21-1092",
+    "title": "Oficiales de Libertad Condicional y Especialistas en Tratamiento Correccional"
+  },
+  {
+    "code": "21-1093",
+    "title": "Asistentes de Servicios Sociales y Humanos "
+  },
+  {
+    "code": "21-1094",
+    "title": "Trabajadores de la Salud para la Comunidad "
+  },
+  {
+    "code": "21-1099",
+    "title": "Todos los demás Especialistas en Servicios Comunitarios y Sociales"
+  },
+  {
+    "code": "21-2011",
+    "title": "Clérigos"
+  },
+  {
+    "code": "21-2021",
+    "title": "Directores de Educación y Actividades Religiosas"
+  },
+  {
+    "code": "21-2099",
+    "title": "Todos los demás Trabajadores Religiosos"
+  },
+  {
+    "code": "23-1011",
+    "title": "Abogados "
+  },
+  {
+    "code": "23-1012",
+    "title": "Oficiales Jurídicos "
+  },
+  {
+    "code": "23-1021",
+    "title": "Jueces de Derecho Administrativo, Adjudicadores y Oficiales de Audiencia"
+  },
+  {
+    "code": "23-1022",
+    "title": "Árbitros, Mediadores y Conciliadores"
+  },
+  {
+    "code": "23-1023",
+    "title": "Jueces, Jueces Magistrados y Magistrados"
+  },
+  {
+    "code": "23-2011",
+    "title": "Asistentes Legales y Asistentes de Abogados"
+  },
+  {
+    "code": "23-2091",
+    "title": "Transcriptores Judiciales "
+  },
+  {
+    "code": "23-2093",
+    "title": "Examinadores, Analistas de Títulos y Gestores de Búsqueda de Títulos "
+  },
+  {
+    "code": "23-2099",
+    "title": "Todos los demás Trabajadores de Asistencia Legal "
+  },
+  {
+    "code": "25-1011",
+    "title": "Profesores de Estudios Comerciales de Nivel Postsecundario "
+  },
+  {
+    "code": "25-1021",
+    "title": "Profesores de Ciencias de la Computación de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1022",
+    "title": "Profesores de Ciencias Matemáticas de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1031",
+    "title": "Profesores de Arquitectura de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1032",
+    "title": "Profesores de Ingeniería de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1041",
+    "title": "Profesores de Ciencias Agrarias de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1042",
+    "title": "Profesores de Ciencias Biológicas de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1043",
+    "title": "Profesores de Silvicultura y Ciencias de la Conservación de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1051",
+    "title": "Profesores de Ciencias Atmosféricas, Geológicas, Oceanográficas y Espaciales de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1052",
+    "title": "Profesores de Química de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1053",
+    "title": "Profesores de Ciencias Ambientales de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1054",
+    "title": "Profesores de Física de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1061",
+    "title": "Profesores de Antropología y Arqueología de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1062",
+    "title": "Profesores de Estudios Regionales, Étnicos y Culturales de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1063",
+    "title": "Profesores de Economía de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1064",
+    "title": "Profesores de Geografía de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1065",
+    "title": "Profesores de Ciencias Políticas de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1066",
+    "title": "Profesores de Psicología de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1067",
+    "title": "Profesores de Sociología de Nivel Postsecundario   "
+  },
+  {
+    "code": "25-1069",
+    "title": "Todos los demás Profesores de Ciencias Sociales de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1071",
+    "title": "Profesores de Especialidades de Salud de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1072",
+    "title": "Profesores e Instructores de Enfermería de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1081",
+    "title": "Profesores de Educación de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1082",
+    "title": "Profesores de Bibliotecología de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1111",
+    "title": "Profesores de Justicia Criminal y Aplicación y Cumplimiento de la Ley de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1112",
+    "title": "Profesores de Derecho de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1113",
+    "title": "Profesores de Trabajo Social de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1121",
+    "title": "Profesores de Arte, Teatro y Música de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1122",
+    "title": "Profesores de Comunicaciones de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1123",
+    "title": "Profesores de Inglés y Literatura de Nivel Postsecundario "
+  },
+  {
+    "code": "25-1124",
+    "title": "Profesores de Lengua y Literatura Extranjeras de Nivel Postsecundario "
+  },
+  {
+    "code": "25-1125",
+    "title": "Profesores de Historia de Nivel Postsecundario "
+  },
+  {
+    "code": "25-1126",
+    "title": "Profesores de Filosofía y Religión de Nivel Postsecundario "
+  },
+  {
+    "code": "25-1191",
+    "title": "Ayudantes de Cátedra Graduados "
+  },
+  {
+    "code": "25-1192",
+    "title": "Profesores de Economía Doméstica de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1193",
+    "title": "Profesores de Estudios de Recreación y Acondicionamiento Físico de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1194",
+    "title": "Profesores de Educación Vocacional de Nivel Postsecundario"
+  },
+  {
+    "code": "25-1199",
+    "title": "Todos los demás Profesores de Nivel Postsecundario"
+  },
+  {
+    "code": "25-2011",
+    "title": "Maestros de Nivel Preescolar, Excepto de Educación Especial"
+  },
+  {
+    "code": "25-2012",
+    "title": "Maestros de Jardín de Infantes, Excepto de Educación Especial"
+  },
+  {
+    "code": "25-2021",
+    "title": "Maestros de Escuela Primaria, Excepto de Educación Especial"
+  },
+  {
+    "code": "25-2022",
+    "title": "Maestros de Escuela de Nivel Medio, Excepto de Educación Especial y de Educación Profesional/Técnica"
+  },
+  {
+    "code": "25-2023",
+    "title": "Maestros de Educación Profesional/Técnica de Escuela de Nivel Medio"
+  },
+  {
+    "code": "25-2031",
+    "title": "Maestros de Escuela Secundaria, Excepto de Educación Especial y Educación Profesional/Técnica"
+  },
+  {
+    "code": "25-2032",
+    "title": "Maestros de Educación Profesional/Técnica de Escuela Secundaria"
+  },
+  {
+    "code": "25-2051",
+    "title": "Maestros de Educación Especial de Nivel Preescolar"
+  },
+  {
+    "code": "25-2052",
+    "title": "Maestros de Educación Especial de Jardín de Infantes y Escuela Primaria"
+  },
+  {
+    "code": "25-2053",
+    "title": "Maestros de Educación Especial de Escuela de Nivel Medio"
+  },
+  {
+    "code": "25-2054",
+    "title": "Maestros de Educación Especial de Escuela Secundaria"
+  },
+  {
+    "code": "25-2059",
+    "title": "Todos los demás Maestros de Educación Especial   "
+  },
+  {
+    "code": "25-3011",
+    "title": "Maestros e Instructores de Educación Básica, Secundaria y de Alfabetización para Adultos "
+  },
+  {
+    "code": "25-3021",
+    "title": "Maestros de Educación de Enriquecimiento Personal "
+  },
+  {
+    "code": "25-3099",
+    "title": "Todos los demás Maestros e Instructores "
+  },
+  {
+    "code": "25-4011",
+    "title": "Archiveros "
+  },
+  {
+    "code": "25-4012",
+    "title": "Curadores "
+  },
+  {
+    "code": "25-4013",
+    "title": "Técnicos y Conservadores de Museo "
+  },
+  {
+    "code": "25-4021",
+    "title": "Bibliotecarios "
+  },
+  {
+    "code": "25-4031",
+    "title": "Técnicos de Biblioteca "
+  },
+  {
+    "code": "25-9011",
+    "title": "Especialistas en Colecciones de Materiales Audiovisuales y Multimedios"
+  },
+  {
+    "code": "25-9021",
+    "title": "Asesores en Gerencia de Granjas y Hogares"
+  },
+  {
+    "code": "25-9031",
+    "title": "Coordinadores Educativos"
+  },
+  {
+    "code": "25-9041",
+    "title": "Maestros Ayudantes"
+  },
+  {
+    "code": "25-9099",
+    "title": "Todos los demás Trabajadores de Ocupaciones Relacionadas con la Educación, Capacitación y Bibliotecología"
+  },
+  {
+    "code": "27-1011",
+    "title": "Directores de Arte "
+  },
+  {
+    "code": "27-1012",
+    "title": "Artesanos "
+  },
+  {
+    "code": "27-1013",
+    "title": "Artistas de Bellas Artes, Incluye Pintores, Escultores e Ilustradores"
+  },
+  {
+    "code": "27-1014",
+    "title": "Artistas y Animadores de Multimedios de Difusión"
+  },
+  {
+    "code": "27-1019",
+    "title": "Todos los demás Artistas y Trabajadores Relacionados "
+  },
+  {
+    "code": "27-1021",
+    "title": "Diseñadores Comerciales e Industriales "
+  },
+  {
+    "code": "27-1022",
+    "title": "Diseñadores de Moda "
+  },
+  {
+    "code": "27-1023",
+    "title": "Diseñadores Florales "
+  },
+  {
+    "code": "27-1024",
+    "title": "Diseñadores Gráficos "
+  },
+  {
+    "code": "27-1025",
+    "title": "Diseñadores de Interiores "
+  },
+  {
+    "code": "27-1026",
+    "title": "Diseñadores de Exhibidores de Mercadería y Escaparatistas"
+  },
+  {
+    "code": "27-1027",
+    "title": "Escenógrafos y Diseñadores de Exposiciones"
+  },
+  {
+    "code": "27-1029",
+    "title": "Todos los demás Diseñadores "
+  },
+  {
+    "code": "27-2011",
+    "title": "Actores "
+  },
+  {
+    "code": "27-2012",
+    "title": "Productores y Directores "
+  },
+  {
+    "code": "27-2021",
+    "title": "Competidores Atléticos y Deportivos "
+  },
+  {
+    "code": "27-2022",
+    "title": "Entrenadores y Buscadores de Talentos Deportivos"
+  },
+  {
+    "code": "27-2023",
+    "title": "Árbitros, Referís y Otros Oficiales Deportivo"
+  },
+  {
+    "code": "27-2031",
+    "title": "Bailarines"
+  },
+  {
+    "code": "27-2032",
+    "title": "Coreógrafos"
+  },
+  {
+    "code": "27-2041",
+    "title": "Directores y Compositores de Música"
+  },
+  {
+    "code": "27-2042",
+    "title": "Músicos y Cantantes"
+  },
+  {
+    "code": "27-2099",
+    "title": "Todos los demás Animadores, Intérpretes Artísticos, Deportistas y Trabajadores Relacionados"
+  },
+  {
+    "code": "27-3011",
+    "title": "Anunciadores de Radio y Televisión "
+  },
+  {
+    "code": "27-3012",
+    "title": "Anunciadores de Sistema Público de Altavoces y Otros Anunciadores "
+  },
+  {
+    "code": "27-3021",
+    "title": "Analistas de Emisiones de Noticias "
+  },
+  {
+    "code": "27-3022",
+    "title": "Reporteros y Corresponsales "
+  },
+  {
+    "code": "27-3031",
+    "title": "Especialistas en Relaciones Públicas "
+  },
+  {
+    "code": "27-3041",
+    "title": "Editores "
+  },
+  {
+    "code": "27-3042",
+    "title": "Redactores Técnicos  "
+  },
+  {
+    "code": "27-3043",
+    "title": "Escritores y Autores"
+  },
+  {
+    "code": "27-3091",
+    "title": "Intérpretes y Traductores "
+  },
+  {
+    "code": "27-3099",
+    "title": "Todos los demás Trabajadores de Medios de Difusión y Comunicación "
+  },
+  {
+    "code": "27-4011",
+    "title": "Técnicos de Equipos de Audio y Video "
+  },
+  {
+    "code": "27-4012",
+    "title": "Técnicos de Difusión "
+  },
+  {
+    "code": "27-4013",
+    "title": "Operadores de Radio "
+  },
+  {
+    "code": "27-4014",
+    "title": "Técnicos de Ingeniería de Sonido "
+  },
+  {
+    "code": "27-4021",
+    "title": "Fotógrafos "
+  },
+  {
+    "code": "27-4031",
+    "title": "Operadores de Cámara de Televisión, Video y Cine"
+  },
+  {
+    "code": "27-4032",
+    "title": "Editores de Películas Cinematográficas y Video"
+  },
+  {
+    "code": "27-4099",
+    "title": "Todos los demás Trabajadores de Equipos de Medios de Difusión y Comunicación"
+  },
+  {
+    "code": "29-1011",
+    "title": "Quiroprácticos"
+  },
+  {
+    "code": "29-1021",
+    "title": "Dentistas, Generales"
+  },
+  {
+    "code": "29-1022",
+    "title": "Cirujanos Bucales y Maxilofaciales"
+  },
+  {
+    "code": "29-1023",
+    "title": "Ortodoncistas "
+  },
+  {
+    "code": "29-1024",
+    "title": "Prostodoncistas "
+  },
+  {
+    "code": "29-1029",
+    "title": "Dentistas, Todos los demás Especialistas "
+  },
+  {
+    "code": "29-1031",
+    "title": "Dietistas y Nutricionistas "
+  },
+  {
+    "code": "29-1041",
+    "title": "Optómetras"
+  },
+  {
+    "code": "29-1051",
+    "title": "Farmacéuticos"
+  },
+  {
+    "code": "29-1061",
+    "title": "Anestesiólogos "
+  },
+  {
+    "code": "29-1062",
+    "title": "Médicos Generales y de Familia "
+  },
+  {
+    "code": "29-1063",
+    "title": "Internistas, Generales "
+  },
+  {
+    "code": "29-1064",
+    "title": "Obstetras y Ginecólogos "
+  },
+  {
+    "code": "29-1065",
+    "title": "Pediatras, Generales "
+  },
+  {
+    "code": "29-1066",
+    "title": "Psiquiatras "
+  },
+  {
+    "code": "29-1067",
+    "title": "Cirujanos "
+  },
+  {
+    "code": "29-1069",
+    "title": "Todos los demás Médicos y Cirujanos"
+  },
+  {
+    "code": "29-1071",
+    "title": "Asistentes Médicos"
+  },
+  {
+    "code": "29-1081",
+    "title": "Podiatras "
+  },
+  {
+    "code": "29-1122",
+    "title": "Terapistas Ocupacionales "
+  },
+  {
+    "code": "29-1123",
+    "title": "Fisioterapeutas "
+  },
+  {
+    "code": "29-1124",
+    "title": "Radioterapistas "
+  },
+  {
+    "code": "29-1125",
+    "title": "Terapistas Recreativos "
+  },
+  {
+    "code": "29-1126",
+    "title": "Terapistas Respiratorios "
+  },
+  {
+    "code": "29-1127",
+    "title": "Patólogos del Habla y el Lenguaje"
+  },
+  {
+    "code": "29-1128",
+    "title": "Fisiólogos de Ejercicios"
+  },
+  {
+    "code": "29-1129",
+    "title": "Todos los demás Terapistas"
+  },
+  {
+    "code": "29-1131",
+    "title": "Veterinarios"
+  },
+  {
+    "code": "29-1141",
+    "title": "Enfermeros Graduados"
+  },
+  {
+    "code": "29-1151",
+    "title": "Enfermeros Anestesistas"
+  },
+  {
+    "code": "29-1161",
+    "title": "Enfermeros de Partos"
+  },
+  {
+    "code": "29-1171",
+    "title": "Enfermeros Médicos "
+  },
+  {
+    "code": "29-1181",
+    "title": "Audiólogos "
+  },
+  {
+    "code": "29-1199",
+    "title": "Todos los demás Profesionales de Diagnóstico y Tratamiento Médico "
+  },
+  {
+    "code": "29-2011",
+    "title": "Tecnólogos de Laboratorio Médico y Clínico "
+  },
+  {
+    "code": "29-2012",
+    "title": "Técnicos de Laboratorio Médico y Clínico "
+  },
+  {
+    "code": "29-2021",
+    "title": "Higienistas Dentales "
+  },
+  {
+    "code": "29-2031",
+    "title": "Tecnólogos y Técnicos Cardiovasculares   "
+  },
+  {
+    "code": "29-2032",
+    "title": "Sonografistas de Diagnóstico Médico"
+  },
+  {
+    "code": "29-2033",
+    "title": "Tecnólogos de Medicina Nuclear "
+  },
+  {
+    "code": "29-2034",
+    "title": "Tecnólogos de Radiología "
+  },
+  {
+    "code": "29-2035",
+    "title": "Tecnólogos Especializados en Imágenes de Resonancia Magnética"
+  },
+  {
+    "code": "29-2041",
+    "title": "Técnicos de Emergencias Médicas y Paramédicos"
+  },
+  {
+    "code": "29-2051",
+    "title": "Técnicos en Dietética"
+  },
+  {
+    "code": "29-2052",
+    "title": "Técnicos de Farmacia"
+  },
+  {
+    "code": "29-2053",
+    "title": "Técnicos Psiquiátricos"
+  },
+  {
+    "code": "29-2054",
+    "title": "Técnicos de Terapia Respiratoria"
+  },
+  {
+    "code": "29-2055",
+    "title": "Tecnólogos Quirúrgicos "
+  },
+  {
+    "code": "29-2056",
+    "title": "Tecnólogos y Técnicos de Veterinaria "
+  },
+  {
+    "code": "29-2057",
+    "title": "Técnicos de Medicina Oftalmológica "
+  },
+  {
+    "code": "29-2061",
+    "title": "Enfermeros Prácticos y Vocacionales con Licencia"
+  },
+  {
+    "code": "29-2071",
+    "title": "Técnicos de Registros Médicos e Información de Salud"
+  },
+  {
+    "code": "29-2081",
+    "title": "Ópticos, Despacho"
+  },
+  {
+    "code": "29-2091",
+    "title": "Ortopedas y Protésicos"
+  },
+  {
+    "code": "29-2092",
+    "title": "Especialistas en Aparatos Auditivos"
+  },
+  {
+    "code": "29-2099",
+    "title": "Todos los demás Tecnólogos y Técnicos de Salud"
+  },
+  {
+    "code": "29-9011",
+    "title": "Especialistas en Salud y Seguridad Ocupacional"
+  },
+  {
+    "code": "29-9012",
+    "title": "Técnicos en Salud y Seguridad Ocupacional"
+  },
+  {
+    "code": "29-9091",
+    "title": "Instructores Atléticos"
+  },
+  {
+    "code": "29-9092",
+    "title": "Consejeros Genéticos "
+  },
+  {
+    "code": "29-9099",
+    "title": "Todos los demás Trabajadores de Ocupaciones Profesionales y Técnicas Relacionadas con el Cuidado de la Salud"
+  },
+  {
+    "code": "31-1011",
+    "title": "Auxiliares de Atención en el Hogar"
+  },
+  {
+    "code": "31-1013",
+    "title": "Auxiliares de Psiquiatría"
+  },
+  {
+    "code": "31-1014",
+    "title": "Asistentes de Enfermería"
+  },
+  {
+    "code": "31-1015",
+    "title": "Camilleros"
+  },
+  {
+    "code": "31-2011",
+    "title": "Asistentes de Terapia Ocupacional"
+  },
+  {
+    "code": "31-2012",
+    "title": "Auxiliares de Terapia Ocupacional"
+  },
+  {
+    "code": "31-2021",
+    "title": "Asistentes de Fisioterapeutas"
+  },
+  {
+    "code": "31-2022",
+    "title": "Auxiliares de Fisioterapeutas "
+  },
+  {
+    "code": "31-9011",
+    "title": "Terapistas de Masajes "
+  },
+  {
+    "code": "31-9091",
+    "title": "Asistentes Dentales"
+  },
+  {
+    "code": "31-9092",
+    "title": "Ayudantes de Médicos"
+  },
+  {
+    "code": "31-9093",
+    "title": "Preparadores de Equipos Médicos"
+  },
+  {
+    "code": "31-9094",
+    "title": "Transcriptores Médicos "
+  },
+  {
+    "code": "31-9095",
+    "title": "Auxiliares de Farmacia "
+  },
+  {
+    "code": "31-9096",
+    "title": "Asistentes de Veterinarios y Cuidadores de Animales de Laboratorio"
+  },
+  {
+    "code": "31-9097",
+    "title": "Flebotomistas "
+  },
+  {
+    "code": "31-9099",
+    "title": "Todos los demás Trabajadores de Ocupaciones de Apoyo Relacionadas con el Cuidado de la Salud"
+  },
+  {
+    "code": "33-1011",
+    "title": "Supervisores Directos de Oficiales Correccionales"
+  },
+  {
+    "code": "33-1012",
+    "title": "Supervisores Directos de Policías y Detectives"
+  },
+  {
+    "code": "33-1021",
+    "title": "Supervisores Directos de Trabajadores de Extinción y Prevención de Incendios   "
+  },
+  {
+    "code": "33-1099",
+    "title": "Todos los demás Supervisores Directos de Trabajadores de Servicios de Protección"
+  },
+  {
+    "code": "33-2011",
+    "title": "Bomberos "
+  },
+  {
+    "code": "33-2021",
+    "title": "Inspectores e Investigadores de Incendios "
+  },
+  {
+    "code": "33-2022",
+    "title": "Inspectores y Especialistas en Prevención de Incendios Forestales"
+  },
+  {
+    "code": "33-3011",
+    "title": "Alguaciles"
+  },
+  {
+    "code": "33-3012",
+    "title": "Oficiales Correccionales y Carceleros"
+  },
+  {
+    "code": "33-3021",
+    "title": "Detectives e Investigadores Criminales"
+  },
+  {
+    "code": "33-3031",
+    "title": "Guardianes de Caza y Pesca"
+  },
+  {
+    "code": "33-3041",
+    "title": "Guardias Controladores de Reglas de Estacionamiento"
+  },
+  {
+    "code": "33-3051",
+    "title": "Agentes y Patrulleros Policiales "
+  },
+  {
+    "code": "33-3052",
+    "title": "Policías de Tránsito y Policías Ferroviarios "
+  },
+  {
+    "code": "33-9011",
+    "title": "Trabajadores de Control de Animales "
+  },
+  {
+    "code": "33-9021",
+    "title": "Detectives e Investigadores Privados"
+  },
+  {
+    "code": "33-9031",
+    "title": "Agentes de Vigilancia de Salas de Juego e Investigadores de Juego"
+  },
+  {
+    "code": "33-9032",
+    "title": "Guardias de Seguridad"
+  },
+  {
+    "code": "33-9091",
+    "title": "Guardias de Cruce Peatonal y Vehicular"
+  },
+  {
+    "code": "33-9092",
+    "title": "Guardavidas, Patrullas de Esquí y Otros Trabajadores de Servicios de Protección en Espacios Recreativos"
+  },
+  {
+    "code": "33-9093",
+    "title": "Agentes de la Seguridad en el Transporte"
+  },
+  {
+    "code": "33-9099",
+    "title": "Todos los demás Trabajadores de Servicios de Protección"
+  },
+  {
+    "code": "35-1011",
+    "title": "Chefs y Primeros Chefs"
+  },
+  {
+    "code": "35-1012",
+    "title": "Supervisores Directos de Trabajadores de Preparación y Servicio de Comidas "
+  },
+  {
+    "code": "35-2011",
+    "title": "Cocineros de Comidas Rápidas "
+  },
+  {
+    "code": "35-2012",
+    "title": "Cocineros de Institución y Cafetería"
+  },
+  {
+    "code": "35-2013",
+    "title": "Cocineros de Residencias Privadas"
+  },
+  {
+    "code": "35-2014",
+    "title": "Cocineros de Restaurante"
+  },
+  {
+    "code": "35-2015",
+    "title": "Cocineros de Platos de Preparación Sencilla"
+  },
+  {
+    "code": "35-2019",
+    "title": "Todos los demás Cocineros"
+  },
+  {
+    "code": "35-2021",
+    "title": "Trabajadores de Preparación de Comidas"
+  },
+  {
+    "code": "35-3011",
+    "title": "Cantineros"
+  },
+  {
+    "code": "35-3021",
+    "title": "Trabajadores de Tareas Combinadas de Preparación y Servicio de Comidas, Incluye Comidas Rápidas "
+  },
+  {
+    "code": "35-3022",
+    "title": "Dependientes de Mostrador, Cafetería, Concesión de Servicio de Comidas y Establecimiento de Servicio de Café"
+  },
+  {
+    "code": "35-3031",
+    "title": "Camareros y Camareras"
+  },
+  {
+    "code": "35-3041",
+    "title": "Servidores de Comidas, Excepto Restaurante "
+  },
+  {
+    "code": "35-9011",
+    "title": "Auxiliares de Salón Comedor y Cafetería, y Ayudantes de Cantineros"
+  },
+  {
+    "code": "35-9021",
+    "title": "Lavaplatos "
+  },
+  {
+    "code": "35-9031",
+    "title": "Anfitriones de Restaurante, Bar y Establecimiento de Servicio de Café"
+  },
+  {
+    "code": "35-9099",
+    "title": "Todos los demás Trabajadores Relacionados con la Preparación y Servicio de Comidas"
+  },
+  {
+    "code": "37-1011",
+    "title": "Supervisores Directos de Empleados Domésticos y de Limpieza"
+  },
+  {
+    "code": "37-1012",
+    "title": "Supervisores Directos de Trabajadores de Jardinería, Mantenimiento de Césped y Terrenos   "
+  },
+  {
+    "code": "37-2011",
+    "title": "Ordenanzas y Empleados de Limpieza, Excepto Empleados Domésticos y Personal de Limpieza de Casas Privadas"
+  },
+  {
+    "code": "37-2012",
+    "title": "Empleados Domésticos y Personal de Limpieza de Casas Privadas"
+  },
+  {
+    "code": "37-2019",
+    "title": "Todos los demás Trabajadores de Limpieza de Edificios"
+  },
+  {
+    "code": "37-2021",
+    "title": "Trabajadores de Control y Exterminación de Plagas"
+  },
+  {
+    "code": "37-3011",
+    "title": "Trabajadores de Jardinería y Áreas Verdes"
+  },
+  {
+    "code": "37-3012",
+    "title": "Operadores, Fumigadores y Aplicadores de Pesticidas, Vegetación"
+  },
+  {
+    "code": "37-3013",
+    "title": "Podadores y Cortadores de Árboles "
+  },
+  {
+    "code": "37-3019",
+    "title": "Todos los demás Trabajadores de Mantenimiento de Áreas Verdes"
+  },
+  {
+    "code": "39-1011",
+    "title": "Supervisores de Salas de Juego"
+  },
+  {
+    "code": "39-1012",
+    "title": "Supervisores de Máquinas Tragamonedas "
+  },
+  {
+    "code": "39-1021",
+    "title": "Supervisores Directos de Trabajadores de Servicios Personales"
+  },
+  {
+    "code": "39-2011",
+    "title": "Adiestradores de Animales "
+  },
+  {
+    "code": "39-2021",
+    "title": "Cuidadores de Animales, Excepto de Animales de Granja "
+  },
+  {
+    "code": "39-3011",
+    "title": "Operadores de Mesas de Juego "
+  },
+  {
+    "code": "39-3012",
+    "title": "Receptores y Corredores de Apuestas de Juego y Deportes"
+  },
+  {
+    "code": "39-3019",
+    "title": "Todos los demás Trabajadores de Servicios de Juego"
+  },
+  {
+    "code": "39-3021",
+    "title": "Operadores de Proyectores de Cine "
+  },
+  {
+    "code": "39-3031",
+    "title": "Acomodadores y Controladores de Boletos de Admisión"
+  },
+  {
+    "code": "39-3091",
+    "title": "Asistentes de Establecimientos de Diversión y Recreación"
+  },
+  {
+    "code": "39-3092",
+    "title": "Asistentes de Vestuario"
+  },
+  {
+    "code": "39-3093",
+    "title": "Asistentes del Área de Armarios, Guardarropa y Vestidor"
+  },
+  {
+    "code": "39-3099",
+    "title": "Todos los demás Asistentes de Establecimientos de Entretenimiento y Trabajadores Relacionados"
+  },
+  {
+    "code": "39-4011",
+    "title": "Embalsamadores"
+  },
+  {
+    "code": "39-4021",
+    "title": "Asistentes de Servicios Fúnebres"
+  },
+  {
+    "code": "39-4031",
+    "title": "Enterradores, Sepultureros y Directores de Ceremonias Fúnebres"
+  },
+  {
+    "code": "39-5011",
+    "title": "Barberos "
+  },
+  {
+    "code": "39-5012",
+    "title": "Peluqueros, Estilistas de Cabello y Cosmetólogos"
+  },
+  {
+    "code": "39-5091",
+    "title": "Maquilladores Artísticos, Teatrales y de Actores"
+  },
+  {
+    "code": "39-5092",
+    "title": "Manicuristas y Pedicuristas"
+  },
+  {
+    "code": "39-5093",
+    "title": "Lavadores de Cabello "
+  },
+  {
+    "code": "39-5094",
+    "title": "Especialistas en Cuidados de la Piel "
+  },
+  {
+    "code": "39-6011",
+    "title": "Maleteros y Botones"
+  },
+  {
+    "code": "39-6012",
+    "title": "Porteros"
+  },
+  {
+    "code": "39-7011",
+    "title": "Guías y Escoltas de Excursiones"
+  },
+  {
+    "code": "39-7012",
+    "title": "Guías de Viajes"
+  },
+  {
+    "code": "39-9011",
+    "title": "Trabajadores de Cuidado de Niños"
+  },
+  {
+    "code": "39-9021",
+    "title": "Auxiliares de Cuidado Personal "
+  },
+  {
+    "code": "39-9031",
+    "title": "Entrenadores de Acondicionamiento Físico e Instructores de Ejercicios Aeróbicos"
+  },
+  {
+    "code": "39-9032",
+    "title": "Trabajadores de Actividades Recreativas"
+  },
+  {
+    "code": "39-9041",
+    "title": "Coordinadores de Residencias Comunitarias   "
+  },
+  {
+    "code": "39-9099",
+    "title": "Todos los demás Trabajadores de Ocupaciones Relacionadas con el Cuidado y Servicio Personal"
+  },
+  {
+    "code": "41-1011",
+    "title": "Supervisores Directos de Trabajadores de Ventas Minoristas"
+  },
+  {
+    "code": "41-1012",
+    "title": "Supervisores Directos de Trabajadores de Ventas, Excepto Ventas Minoristas"
+  },
+  {
+    "code": "41-2011",
+    "title": "Cajeros"
+  },
+  {
+    "code": "41-2012",
+    "title": "Encargados de Cambio y Cajeros de Cabina de Salas de Juego"
+  },
+  {
+    "code": "41-2021",
+    "title": "Empleados de Mostrador y de Alquiler"
+  },
+  {
+    "code": "41-2022",
+    "title": "Vendedores de Piezas "
+  },
+  {
+    "code": "41-2031",
+    "title": "Vendedores Minoristas "
+  },
+  {
+    "code": "41-3011",
+    "title": "Agentes de Venta de Publicidad "
+  },
+  {
+    "code": "41-3021",
+    "title": "Agentes de Venta de Seguros"
+  },
+  {
+    "code": "41-3031",
+    "title": "Agentes de Venta de Valores, Productos Básicos y Servicios Financieros "
+  },
+  {
+    "code": "41-3041",
+    "title": "Agentes de Viajes "
+  },
+  {
+    "code": "41-3099",
+    "title": "Todos  los demás Representantes de Venta de Servicios "
+  },
+  {
+    "code": "41-4011",
+    "title": "Representantes de Ventas Mayoristas y de Productos Manufacturados Técnicos y Científicos"
+  },
+  {
+    "code": "41-4012",
+    "title": "Representantes de Ventas Mayoristas y de Productos Manufacturados, Excepto de Productos Técnicos y Científicos"
+  },
+  {
+    "code": "41-9011",
+    "title": "Demostradores y Promotores de Producto "
+  },
+  {
+    "code": "41-9012",
+    "title": "Modelos "
+  },
+  {
+    "code": "41-9021",
+    "title": "Corredores de Bienes Raíces "
+  },
+  {
+    "code": "41-9022",
+    "title": "Agentes  de Venta de Bienes Raíces"
+  },
+  {
+    "code": "41-9031",
+    "title": "Ingenieros de Ventas"
+  },
+  {
+    "code": "41-9041",
+    "title": "Representantes de Telemercadeo"
+  },
+  {
+    "code": "41-9091",
+    "title": "Trabajadores de Venta a Domicilio, Vendedores de Periódicos y Ambulantes y Trabajadores Relacionados"
+  },
+  {
+    "code": "41-9099",
+    "title": "Todos los demás Trabajadores de Ventas y Ocupaciones Relacionadas"
+  },
+  {
+    "code": "43-1011",
+    "title": "Supervisores Directos de Empleados de Oficina y de Apoyo Administrativo"
+  },
+  {
+    "code": "43-2011",
+    "title": "Operadores de Sistema Telefónico Central, Incluye Servicio de Contestación de Llamadas"
+  },
+  {
+    "code": "43-2021",
+    "title": "Operadores Telefónicos "
+  },
+  {
+    "code": "43-2099",
+    "title": "Todos los demás Operadores de Equipos de Comunicaciones"
+  },
+  {
+    "code": "43-3011",
+    "title": "Cobradores de Cuentas y Facturas"
+  },
+  {
+    "code": "43-3021",
+    "title": "Oficinistas de Facturación y Registro de Facturas"
+  },
+  {
+    "code": "43-3031",
+    "title": "Empleados de Teneduría de Libros, Contabilidad y Auditoría"
+  },
+  {
+    "code": "43-3041",
+    "title": "Tesoreros de Salas de Juego"
+  },
+  {
+    "code": "43-3051",
+    "title": "Oficinistas de Nómina y de Registro de Horas Trabajadas"
+  },
+  {
+    "code": "43-3061",
+    "title": "Oficinistas Auxiliares de Compras"
+  },
+  {
+    "code": "43-3071",
+    "title": "Cajeros de Instituciones Financieras"
+  },
+  {
+    "code": "43-3099",
+    "title": "Todos los demás Empleados de Oficina de Servicios Financieros "
+  },
+  {
+    "code": "43-4011",
+    "title": "Oficinistas de Corretaje "
+  },
+  {
+    "code": "43-4021",
+    "title": "Oficinistas de Correspondencia"
+  },
+  {
+    "code": "43-4031",
+    "title": "Oficinistas Judiciales, Municipales y de Otorgamiento de Licencias  "
+  },
+  {
+    "code": "43-4041",
+    "title": "Autorizadores, Verificadores y Empleados de Crédito"
+  },
+  {
+    "code": "43-4051",
+    "title": "Representantes del Servicio al Cliente"
+  },
+  {
+    "code": "43-4061",
+    "title": "Entrevistadores de Determinación de Elegibilidad para Programas del Gobierno"
+  },
+  {
+    "code": "43-4071",
+    "title": "Oficinistas de Archivo"
+  },
+  {
+    "code": "43-4081",
+    "title": "Empleados de Recepción de Hotel, Motel y Centro Turístico"
+  },
+  {
+    "code": "43-4111",
+    "title": "Entrevistadores, Excepto de Determinación de Elegibilidad y Otorgamiento de Préstamos"
+  },
+  {
+    "code": "43-4121",
+    "title": "Asistentes de Oficina de Biblioteca"
+  },
+  {
+    "code": "43-4131",
+    "title": "Entrevistadores y Empleados de Préstamos Financieros"
+  },
+  {
+    "code": "43-4141",
+    "title": "Oficinistas de Apertura de Cuentas"
+  },
+  {
+    "code": "43-4151",
+    "title": "Empleados de Órdenes de Pedido"
+  },
+  {
+    "code": "43-4161",
+    "title": "Asistentes de Recursos Humanos, Excepto de Nómina y de Registro de Horas Trabajadas"
+  },
+  {
+    "code": "43-4171",
+    "title": "Recepcionistas y Oficinistas de Información "
+  },
+  {
+    "code": "43-4181",
+    "title": "Agentes de Reservación y Venta de Boletos de Transporte y Empleados de Oficina de Viajes"
+  },
+  {
+    "code": "43-4199",
+    "title": "Todos los demás Empleados de Información y Registro"
+  },
+  {
+    "code": "43-5011",
+    "title": "Agentes de Carga y Flete"
+  },
+  {
+    "code": "43-5021",
+    "title": "Mensajeros y Repartidores"
+  },
+  {
+    "code": "43-5031",
+    "title": "Despachadores de Policía, Bomberos y Ambulancia"
+  },
+  {
+    "code": "43-5032",
+    "title": "Despachadores, Excepto Policía, Bomberos y Ambulancia"
+  },
+  {
+    "code": "43-5041",
+    "title": "Lectores de Medidores de Servicios Públicos"
+  },
+  {
+    "code": "43-5051",
+    "title": "Oficinistas del Servicio Postal"
+  },
+  {
+    "code": "43-5052",
+    "title": "Carteros del Servicio Postal"
+  },
+  {
+    "code": "43-5053",
+    "title": "Clasificadores y Procesadores de Correo y Operadores de Máquinas de Procesamiento de Correo del Servicio Postal"
+  },
+  {
+    "code": "43-5061",
+    "title": "Oficinistas de Producción, Planificación y Expedición"
+  },
+  {
+    "code": "43-5071",
+    "title": "Oficinistas de Despacho, Recibo y Tráfico "
+  },
+  {
+    "code": "43-5081",
+    "title": "Oficinistas de Inventario y Preparadores de Órdenes de Pedido"
+  },
+  {
+    "code": "43-5111",
+    "title": "Controladores y Verificadores de Peso, Medidas y Muestras, Mantenimiento de Registros"
+  },
+  {
+    "code": "43-6011",
+    "title": "Secretarios Ejecutivos y Asistentes Administrativos Ejecutivos"
+  },
+  {
+    "code": "43-6012",
+    "title": "Secretarios Legales"
+  },
+  {
+    "code": "43-6013",
+    "title": "Secretarios de Médicos"
+  },
+  {
+    "code": "43-6014",
+    "title": "Secretarios y Asistentes Administrativos, Excepto Legales, Médicos y Ejecutivos"
+  },
+  {
+    "code": "43-9011",
+    "title": "Operadores de Computadora"
+  },
+  {
+    "code": "43-9021",
+    "title": "Operadores de Equipos de Ingreso de Datos "
+  },
+  {
+    "code": "43-9022",
+    "title": "Procesadores de Texto y Dactilógrafos "
+  },
+  {
+    "code": "43-9031",
+    "title": "Autoeditores"
+  },
+  {
+    "code": "43-9041",
+    "title": "Oficinistas de Procesamiento de Reclamaciones y Pólizas de Seguro"
+  },
+  {
+    "code": "43-9051",
+    "title": "Empleados de Correspondencia y Operadores de Máquinas de Correspondencia, Excepto del Servicio Postal"
+  },
+  {
+    "code": "43-9061",
+    "title": "Empleados de Oficina, Tareas Generales  "
+  },
+  {
+    "code": "43-9071",
+    "title": "Operadores de Máquinas de Oficina, Excepto Computadoras"
+  },
+  {
+    "code": "43-9081",
+    "title": "Correctores de Pruebas y Marcadores de Copias"
+  },
+  {
+    "code": "43-9111",
+    "title": "Asistentes de Estadísticas"
+  },
+  {
+    "code": "43-9199",
+    "title": "Todos los demás Empleados de Oficina y de Apoyo Administrativo"
+  },
+  {
+    "code": "45-1011",
+    "title": "Supervisores Directos de Trabajadores de Ocupaciones Relacionadas con la Agricultura, la Pesca y la Silvicultura"
+  },
+  {
+    "code": "45-2011",
+    "title": "Inspectores Agrícolas"
+  },
+  {
+    "code": "45-2021",
+    "title": "Criadores de Animales"
+  },
+  {
+    "code": "45-2041",
+    "title": "Evaluadores y Clasificadores de Productos Agrícolas"
+  },
+  {
+    "code": "45-2091",
+    "title": "Operadores de Equipo Agrícola"
+  },
+  {
+    "code": "45-2092",
+    "title": "Trabajadores y Jornaleros Agrícolas, de Cultivos, de Viveros y de Invernaderos"
+  },
+  {
+    "code": "45-2093",
+    "title": "Trabajadores Agrícolas de Animales de Granja, Ganado y Animales Acuáticos"
+  },
+  {
+    "code": "45-2099",
+    "title": "Todos los demás Trabajadores Agrícolas "
+  },
+  {
+    "code": "45-3011",
+    "title": "Pescadores y Trabajadores Relacionados con la Pesca"
+  },
+  {
+    "code": "45-3021",
+    "title": "Cazadores y Tramperos de Animales"
+  },
+  {
+    "code": "45-4011",
+    "title": "Trabajadores Forestales y de Conservación"
+  },
+  {
+    "code": "45-4021",
+    "title": "Derribadores"
+  },
+  {
+    "code": "45-4022",
+    "title": "Operadores de Equipo de Tala Forestal"
+  },
+  {
+    "code": "45-4023",
+    "title": "Evaluadores y Tasadores de Árboles Talados"
+  },
+  {
+    "code": "45-4029",
+    "title": "Todos los demás Trabajadores de Tala Forestal"
+  },
+  {
+    "code": "47-1011",
+    "title": "Supervisores Directos de Trabajadores de Oficios de Construcción y Extracción"
+  },
+  {
+    "code": "47-2011",
+    "title": "Caldereros"
+  },
+  {
+    "code": "47-2021",
+    "title": "Albañiles de Ladrillos y Bloques"
+  },
+  {
+    "code": "47-2022",
+    "title": "Albañiles de Piedras"
+  },
+  {
+    "code": "47-2031",
+    "title": "Carpinteros "
+  },
+  {
+    "code": "47-2041",
+    "title": "Instaladores de Alfombras "
+  },
+  {
+    "code": "47-2042",
+    "title": "Instaladores de Pisos, Excepto Alfombras, Pisos de Madera y Losas "
+  },
+  {
+    "code": "47-2043",
+    "title": "Pulidores y Terminadores de Pisos "
+  },
+  {
+    "code": "47-2044",
+    "title": "Instaladores de Losas y Mármol"
+  },
+  {
+    "code": "47-2051",
+    "title": "Albañiles de Trabajos en Cemento y Terminadores de Concreto"
+  },
+  {
+    "code": "47-2053",
+    "title": "Trabajadores de Aplicación y Terminación de Terrazo"
+  },
+  {
+    "code": "47-2061",
+    "title": "Obreros de la Construcción"
+  },
+  {
+    "code": "47-2071",
+    "title": "Operadores de Equipos de Pavimentación, Aplanamiento y Compactación"
+  },
+  {
+    "code": "47-2072",
+    "title": "Operadores de Martinetes de Pilotes"
+  },
+  {
+    "code": "47-2073",
+    "title": "Mecánicos Operadores y Otros Operadores de Equipo Pesado y Maquinaria de Construcción "
+  },
+  {
+    "code": "47-2081",
+    "title": "Instaladores de Paneles de Yeso y Paneles Acústicos de Techo"
+  },
+  {
+    "code": "47-2082",
+    "title": "Selladores de Paneles"
+  },
+  {
+    "code": "47-2111",
+    "title": "Electricistas "
+  },
+  {
+    "code": "47-2121",
+    "title": "Cristaleros "
+  },
+  {
+    "code": "47-2131",
+    "title": "Trabajadores de Instalación de Pisos, Techos y Paredes Aislantes   "
+  },
+  {
+    "code": "47-2132",
+    "title": "Trabajadores de Instalación de Materiales Aislantes de Sistemas Mecánicos"
+  },
+  {
+    "code": "47-2141",
+    "title": "Pintores, Construcción y Mantenimiento"
+  },
+  {
+    "code": "47-2142",
+    "title": "Empapeladores "
+  },
+  {
+    "code": "47-2151",
+    "title": "Instaladores de Tuberías "
+  },
+  {
+    "code": "47-2152",
+    "title": "Plomeros, Instaladores y Ajustadores de Tuberías de Agua y de Vapor"
+  },
+  {
+    "code": "47-2161",
+    "title": "Yeseros y Estucadores"
+  },
+  {
+    "code": "47-2171",
+    "title": "Trabajadores de Colocación de Refuerzos de Hierro y Varillas"
+  },
+  {
+    "code": "47-2181",
+    "title": "Techadores"
+  },
+  {
+    "code": "47-2211",
+    "title": "Trabajadores de Chapa Metálica "
+  },
+  {
+    "code": "47-2221",
+    "title": "Trabajadores de Piezas de Hierro y Acero Estructural"
+  },
+  {
+    "code": "47-2231",
+    "title": "Instaladores de Sistema Solar Fotovoltaico "
+  },
+  {
+    "code": "47-3011",
+    "title": "Ayudantes de Albañiles de Ladrillos, Bloques y Piedras, e Instaladores de Losas y Mármol "
+  },
+  {
+    "code": "47-3012",
+    "title": "Ayudantes de Carpinteros "
+  },
+  {
+    "code": "47-3013",
+    "title": "Ayudantes de Electricistas"
+  },
+  {
+    "code": "47-3014",
+    "title": "Ayudantes de Pintores, Empapeladores, Yeseros y Estucadores"
+  },
+  {
+    "code": "47-3015",
+    "title": "Ayudantes de Instaladores de Tuberías, Plomeros e Instaladores y Ajustadores de Tuberías de Agua y de Vapor"
+  },
+  {
+    "code": "47-3016",
+    "title": "Ayudantes de Techadores"
+  },
+  {
+    "code": "47-3019",
+    "title": "Todos los demás Ayudantes de Oficios de la Construcción"
+  },
+  {
+    "code": "47-4011",
+    "title": "Inspectores de Construcción y Edificios "
+  },
+  {
+    "code": "47-4021",
+    "title": "Instaladores y Reparadores de Ascensores "
+  },
+  {
+    "code": "47-4031",
+    "title": "Constructores de Cercos"
+  },
+  {
+    "code": "47-4041",
+    "title": "Trabajadores de Remoción de Materiales Peligrosos"
+  },
+  {
+    "code": "47-4051",
+    "title": "Trabajadores de Mantenimiento de Carreteras"
+  },
+  {
+    "code": "47-4061",
+    "title": "Instaladores de Rieles y Operadores de Equipo de Mantenimiento de Rieles"
+  },
+  {
+    "code": "47-4071",
+    "title": "Operadores de Servicio de Tanques Sépticos y Limpiadores de Cañerías Cloacales"
+  },
+  {
+    "code": "47-4091",
+    "title": "Trabajadores de Pavimento Segmentado"
+  },
+  {
+    "code": "47-4099",
+    "title": "Todos los demás Trabajadores de la Construcción y Trabajadores Relacionados"
+  },
+  {
+    "code": "47-5011",
+    "title": "Operadores de Torres de Perforación, Petróleo y Gas"
+  },
+  {
+    "code": "47-5012",
+    "title": "Operadores de Perforadoras Giratorias, Petróleo y Gas"
+  },
+  {
+    "code": "47-5013",
+    "title": "Operadores de Unidad de Servicio, Petróleo, Gas y Minería "
+  },
+  {
+    "code": "47-5021",
+    "title": "Operadores de Perforadoras de Tierra, Excepto Petróleo y Gas "
+  },
+  {
+    "code": "47-5031",
+    "title": "Trabajadores de Explosivos, Expertos en el Manejo de Artillería y Dinamiteros"
+  },
+  {
+    "code": "47-5041",
+    "title": "Operadores de Máquinas de Minería de Operación Continua"
+  },
+  {
+    "code": "47-5042",
+    "title": "Operadores de Máquinas de Corte y Canalización de Minas"
+  },
+  {
+    "code": "47-5049",
+    "title": "Todos los demás Operadores de Máquinas de Minería"
+  },
+  {
+    "code": "47-5051",
+    "title": "Picapedreros, Cantera"
+  },
+  {
+    "code": "47-5061",
+    "title": "Instaladores de Pernos en Techos, Minería"
+  },
+  {
+    "code": "47-5071",
+    "title": "Obreros No Especializados, Petróleo y Gas   "
+  },
+  {
+    "code": "47-5081",
+    "title": "Ayudantes de Trabajadores de Ocupaciones Relacionadas con la Extracción"
+  },
+  {
+    "code": "47-5099",
+    "title": "Todos los demás Trabajadores de Ocupaciones Relacionadas con la Extracción"
+  },
+  {
+    "code": "49-1011",
+    "title": "Supervisores Directos de Mecánicos, Instaladores y Reparadores"
+  },
+  {
+    "code": "49-2011",
+    "title": "Reparadores de Computadoras, Cajeros Automáticos y Máquinas de Oficina"
+  },
+  {
+    "code": "49-2021",
+    "title": "Instaladores y Reparadores de Equipos de Radio, Telefonía Celular y Torres"
+  },
+  {
+    "code": "49-2022",
+    "title": "Instaladores y Reparadores de Equipo de Telecomunicaciones, Excepto Instaladores de Líneas"
+  },
+  {
+    "code": "49-2091",
+    "title": "Técnicos de Aviónica "
+  },
+  {
+    "code": "49-2092",
+    "title": "Reparadores de Motores Eléctricos, Herramientas Eléctricas y Otros Reparadores Relacionados "
+  },
+  {
+    "code": "49-2093",
+    "title": "Instaladores y Reparadores de Equipo Eléctrico y Electrónico de Transporte "
+  },
+  {
+    "code": "49-2094",
+    "title": "Reparadores de Equipo Eléctrico y Electrónico Comercial e Industrial"
+  },
+  {
+    "code": "49-2095",
+    "title": "Reparadores de Equipo Eléctrico y Electrónico de Estación Eléctrica, Subestación y Base de Retransmisión Eléctrica"
+  },
+  {
+    "code": "49-2096",
+    "title": "Instaladores y Reparadores de Equipo Eléctrico y Electrónico de Vehículos de Motor"
+  },
+  {
+    "code": "49-2097",
+    "title": "Instaladores y Reparadores de Equipo Electrónico de Entretenimiento de Uso Doméstico"
+  },
+  {
+    "code": "49-2098",
+    "title": "Instaladores de Sistemas de Alarma de Seguridad e Incendio"
+  },
+  {
+    "code": "49-3011",
+    "title": "Mecánicos y Técnicos de Servicio de Aeronaves"
+  },
+  {
+    "code": "49-3021",
+    "title": "Reparadores de Carrocerías y Componentes Automotrices Relacionados"
+  },
+  {
+    "code": "49-3022",
+    "title": "Instaladores y Reparadores de Cristales Automotrices"
+  },
+  {
+    "code": "49-3023",
+    "title": "Técnicos y Mecánicos de Servicio Automotriz"
+  },
+  {
+    "code": "49-3031",
+    "title": "Mecánicos de Autobuses y Camiones y Especialistas en Motores Diesel"
+  },
+  {
+    "code": "49-3041",
+    "title": "Mecánicos y Técnicos de Servicio de Equipo Agrícola"
+  },
+  {
+    "code": "49-3042",
+    "title": "Mecánicos de Equipo Pesado Móvil, Excepto de Motores"
+  },
+  {
+    "code": "49-3043",
+    "title": "Reparadores de Carros Ferroviarios"
+  },
+  {
+    "code": "49-3051",
+    "title": "Mecánicos y Técnicos de Servicio de Motores de Lancha"
+  },
+  {
+    "code": "49-3052",
+    "title": "Mecánicos de Motocicletas "
+  },
+  {
+    "code": "49-3053",
+    "title": "Mecánicos de Equipo de Uso en Exteriores y de Otros Motores Pequeños "
+  },
+  {
+    "code": "49-3091",
+    "title": "Reparadores de Bicicletas "
+  },
+  {
+    "code": "49-3092",
+    "title": "Técnicos de Servicio de Vehículos Recreativos"
+  },
+  {
+    "code": "49-3093",
+    "title": "Reparadores y Cambiadores de Neumáticos"
+  },
+  {
+    "code": "49-9011",
+    "title": "Reparadores de Puertas Mecánicas"
+  },
+  {
+    "code": "49-9012",
+    "title": "Instaladores y Reparadores de Válvulas y Mecanismos de Control, Excepto de Puertas Mecánicas"
+  },
+  {
+    "code": "49-9021",
+    "title": "Mecánicos e Instaladores de Calefacción, Aire Acondicionado y Refrigeración"
+  },
+  {
+    "code": "49-9031",
+    "title": "Reparadores de Equipos Electrodomésticos"
+  },
+  {
+    "code": "49-9041",
+    "title": "Mecánicos de Maquinaria Industrial   "
+  },
+  {
+    "code": "49-9043",
+    "title": "Trabajadores de Mantenimiento de Maquinaria"
+  },
+  {
+    "code": "49-9044",
+    "title": "Armadores y Desarmadores de Maquinaria"
+  },
+  {
+    "code": "49-9045",
+    "title": "Reparadores de Materiales Refractarios, Excepto Albañiles de Ladrillos"
+  },
+  {
+    "code": "49-9051",
+    "title": "Instaladores y Reparadores de Tendido de Líneas de Energía Eléctrica"
+  },
+  {
+    "code": "49-9052",
+    "title": "Instaladores y Reparadores de Tendido de Líneas de Telecomunicaciones"
+  },
+  {
+    "code": "49-9061",
+    "title": "Reparadores de Cámaras y Equipo Fotográfico"
+  },
+  {
+    "code": "49-9062",
+    "title": "Reparadores de Equipos Médicos"
+  },
+  {
+    "code": "49-9063",
+    "title": "Reparadores y Afinadores de Instrumentos Musicales"
+  },
+  {
+    "code": "49-9064",
+    "title": "Relojeros "
+  },
+  {
+    "code": "49-9069",
+    "title": "Todos los demás Reparadores de Instrumentos y Equipo de Precisión "
+  },
+  {
+    "code": "49-9071",
+    "title": "Trabajadores de Mantenimiento y Reparación, General "
+  },
+  {
+    "code": "49-9081",
+    "title": "Técnicos de Servicio de Turbinas de Viento "
+  },
+  {
+    "code": "49-9091",
+    "title": "Reparadores y Encargados de Servicio de Máquinas a Monedas, Expendedoras y Máquinas de Entretenimiento"
+  },
+  {
+    "code": "49-9092",
+    "title": "Buzos Comerciales"
+  },
+  {
+    "code": "49-9093",
+    "title": "Zurcidores de Tela, Excepto de Prendas de Vestir"
+  },
+  {
+    "code": "49-9094",
+    "title": "Cerrajeros y Reparadores de Cajas de Seguridad"
+  },
+  {
+    "code": "49-9095",
+    "title": "Instaladores de Estructuras Prefabricadas y de Casas Rodantes"
+  },
+  {
+    "code": "49-9096",
+    "title": "Aparejadores"
+  },
+  {
+    "code": "49-9097",
+    "title": "Reparadores de Señales y Sistemas de Cambio de Vías de Ferrocarril"
+  },
+  {
+    "code": "49-9098",
+    "title": "Ayudantes de Trabajadores de Ocupaciones Relacionadas con la Instalación, Mantenimiento y Reparación"
+  },
+  {
+    "code": "49-9099",
+    "title": "Todos los demás Trabajadores de Ocupaciones Relacionadas con la Instalación, Mantenimiento y Reparación"
+  },
+  {
+    "code": "51-1011",
+    "title": "Supervisores Directos de Trabajadores de Producción y Operación"
+  },
+  {
+    "code": "51-2011",
+    "title": "Ensambladores de Estructuras, Superficies, Aparejos y Sistemas de Aeronaves"
+  },
+  {
+    "code": "51-2021",
+    "title": "Bobinadores, Encintadores y Terminadores de Bobinas"
+  },
+  {
+    "code": "51-2022",
+    "title": "Ensambladores de Equipo Eléctrico y Electrónico"
+  },
+  {
+    "code": "51-2023",
+    "title": "Ensambladores de Equipo Electromecánico "
+  },
+  {
+    "code": "51-2031",
+    "title": "Ensambladores de Motores y Otras Máquinas "
+  },
+  {
+    "code": "51-2041",
+    "title": "Ajustadores y Fabricadores de Metal Estructural"
+  },
+  {
+    "code": "51-2091",
+    "title": "Laminadores y Fabricadores de Productos de Fibra de Vidrio"
+  },
+  {
+    "code": "51-2092",
+    "title": "Ensambladores en Equipo "
+  },
+  {
+    "code": "51-2093",
+    "title": "Ensambladores y Ajustadores de Dispositivos de Tiempo "
+  },
+  {
+    "code": "51-2099",
+    "title": "Todos los demás Ensambladores y Fabricadores "
+  },
+  {
+    "code": "51-3011",
+    "title": "Panaderos y Reposteros "
+  },
+  {
+    "code": "51-3021",
+    "title": "Carniceros y Cortadores de Carne "
+  },
+  {
+    "code": "51-3022",
+    "title": "Cortadores y Fileteadores de Carne, Aves y Pescados en Crudo  "
+  },
+  {
+    "code": "51-3023",
+    "title": "Matarifes y Empacadores de Carne"
+  },
+  {
+    "code": "51-3091",
+    "title": "Operadores y Encargados de Máquinas de Tostar, Hornear y Secar Alimentos y Tabaco"
+  },
+  {
+    "code": "51-3092",
+    "title": "Preparadores de Mezclas de Productos Alimenticios"
+  },
+  {
+    "code": "51-3093",
+    "title": "Operadores y Encargados de Máquinas de Cocción de Alimentos"
+  },
+  {
+    "code": "51-3099",
+    "title": "Todos los demás Trabajadores Relacionados con el Procesamiento de Alimentos"
+  },
+  {
+    "code": "51-4011",
+    "title": "Operadores de Máquina Herramienta Controlada por Computadora, Metal y Plástico"
+  },
+  {
+    "code": "51-4012",
+    "title": "Programadores de Máquina Herramienta de Control Numérico por Computadora, Metal y Plástico"
+  },
+  {
+    "code": "51-4021",
+    "title": "Preparadores, Operadores y Encargados de Máquina de Extrusión y Estirado, Metal y Plástico "
+  },
+  {
+    "code": "51-4022",
+    "title": "Preparadores, Operadores y Encargados de Máquina de Forjado, Metal y Plástico "
+  },
+  {
+    "code": "51-4023",
+    "title": "Preparadores, Operadores y Encargados de Máquina de Laminado, Metal y Plástico"
+  },
+  {
+    "code": "51-4031",
+    "title": "Preparadores, Operadores y Encargados de Máquina de Corte, Punzón y Prensado, Metal y Plástico"
+  },
+  {
+    "code": "51-4032",
+    "title": "Preparadores, Operadores y Encargados de Máquina Herramienta de Taladrar y Perforar, Metal y Plástico"
+  },
+  {
+    "code": "51-4033",
+    "title": "Preparadores, Operadores y Encargados de Máquina Herramienta de Lijar, Facetear, Pulir y Lustrar, Metal y Plástico"
+  },
+  {
+    "code": "51-4034",
+    "title": "Preparadores, Operadores y Encargados de Máquina Herramienta de Tornear, Metal y Plástico"
+  },
+  {
+    "code": "51-4035",
+    "title": "Preparadores, Operadores y Encargados de Máquina Fresadora y Alisadora, Metal y Plástico"
+  },
+  {
+    "code": "51-4041",
+    "title": "Maquinistas"
+  },
+  {
+    "code": "51-4051",
+    "title": "Operadores y Encargados de Hornos de Refinación de Metal"
+  },
+  {
+    "code": "51-4052",
+    "title": "Vertedores y Fundidores de Metal"
+  },
+  {
+    "code": "51-4061",
+    "title": "Fabricadores de Moldes, Metal y Plástico "
+  },
+  {
+    "code": "51-4062",
+    "title": "Fabricadores de Patrones, Metal y Plástico "
+  },
+  {
+    "code": "51-4071",
+    "title": "Fabricantes de Moldes de Fundición y Hormas Matrices"
+  },
+  {
+    "code": "51-4072",
+    "title": "Preparadores, Operadores y Encargados de Máquinas para Matrices y Moldes de Fundición, Metal y Plástico"
+  },
+  {
+    "code": "51-4081",
+    "title": "Preparadores, Operadores y Encargados de Diversas Máquinas Herramienta, Metal y Plástico "
+  },
+  {
+    "code": "51-4111",
+    "title": "Fabricadores de Herramientas y Troqueles "
+  },
+  {
+    "code": "51-4121",
+    "title": "Soldadores, Cortadores, Estañadores y Soldadores de Latón"
+  },
+  {
+    "code": "51-4122",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Soldadura de Metal, Estaño y Latón "
+  },
+  {
+    "code": "51-4191",
+    "title": "Preparadores, Operadores y Encargados de Equipo de Tratamiento Térmico, Metal y Plástico "
+  },
+  {
+    "code": "51-4192",
+    "title": "Trazadores, Metal y Plástico "
+  },
+  {
+    "code": "51-4193",
+    "title": "Preparadores, Operadores y Encargados de Máquina de Enchapado y Revestido, Metal y Plástico  "
+  },
+  {
+    "code": "51-4194",
+    "title": "Rectificadores, Limadores y Afiladores de Herramientas"
+  },
+  {
+    "code": "51-4199",
+    "title": "Todos los demás Trabajadores Relacionados con la Producción de Metal y Plástico"
+  },
+  {
+    "code": "51-5111",
+    "title": "Técnicos y Trabajadores de Preimpresión"
+  },
+  {
+    "code": "51-5112",
+    "title": "Operadores de Máquina de Impresión "
+  },
+  {
+    "code": "51-5113",
+    "title": "Trabajadores de Encuadernación y Acabado Final de Imprenta"
+  },
+  {
+    "code": "51-6011",
+    "title": "Trabajadores de Lavandería y Tintorería "
+  },
+  {
+    "code": "51-6021",
+    "title": "Planchadores Textiles, de Indumentaria y Materiales Relacionados"
+  },
+  {
+    "code": "51-6031",
+    "title": "Operadores de Máquinas de Coser "
+  },
+  {
+    "code": "51-6041",
+    "title": "Trabajadores y Reparadores de Calzado y Cuero "
+  },
+  {
+    "code": "51-6042",
+    "title": "Operadores y Encargados de Máquinas de Calzado "
+  },
+  {
+    "code": "51-6051",
+    "title": "Costureros Manuales "
+  },
+  {
+    "code": "51-6052",
+    "title": "Sastres, Modistos y Costureros a Medida"
+  },
+  {
+    "code": "51-6061",
+    "title": "Operadores y Encargados de Máquinas Textiles de Blanqueado y Teñido"
+  },
+  {
+    "code": "51-6062",
+    "title": "Preparadores, Operadores y Encargados de Máquinas Textiles de Corte"
+  },
+  {
+    "code": "51-6063",
+    "title": "Preparadores, Operadores y Encargados de Máquinas Textiles de Tejido y Tramado"
+  },
+  {
+    "code": "51-6064",
+    "title": "Preparadores, Operadores y Encargados de Máquinas Textiles de Devanado, Torsión y Cardado"
+  },
+  {
+    "code": "51-6091",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Extrusión y Moldeado de Fibras Sintéticas y de Vidrio"
+  },
+  {
+    "code": "51-6092",
+    "title": "Modelistas de Telas e Indumentaria"
+  },
+  {
+    "code": "51-6093",
+    "title": "Tapiceros "
+  },
+  {
+    "code": "51-6099",
+    "title": "Todos los demás Trabajadores Textiles, de Indumentaria y Accesorios"
+  },
+  {
+    "code": "51-7011",
+    "title": "Ebanistas y Carpinteros de Banco "
+  },
+  {
+    "code": "51-7021",
+    "title": "Ebanistas Encargados del Acabado de Muebles "
+  },
+  {
+    "code": "51-7031",
+    "title": "Fabricadores de Modelos, Madera "
+  },
+  {
+    "code": "51-7032",
+    "title": "Fabricadores de Patrones, Madera"
+  },
+  {
+    "code": "51-7041",
+    "title": "Preparadores, Operadores y Encargados de Máquinas Aserradoras de Madera"
+  },
+  {
+    "code": "51-7042",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Ebanistería y Carpintería, Excepto Aserradoras"
+  },
+  {
+    "code": "51-7099",
+    "title": "Todos los demás Trabajadores de Ebanistería y Carpintería"
+  },
+  {
+    "code": "51-8011",
+    "title": "Operadores de Reactor de Energía Nuclear"
+  },
+  {
+    "code": "51-8012",
+    "title": "Distribuidores y Despachadores de Energía"
+  },
+  {
+    "code": "51-8013",
+    "title": "Operadores de Planta de Energía Eléctrica"
+  },
+  {
+    "code": "51-8021",
+    "title": "Operadores de Caldera y Mecánicos de Maquinaria Fija"
+  },
+  {
+    "code": "51-8031",
+    "title": "Operadores de Planta y Sistema de Tratamiento de Aguas y Aguas Residuales"
+  },
+  {
+    "code": "51-8091",
+    "title": "Operadores de Planta y Sistema de Procesos Químicos"
+  },
+  {
+    "code": "51-8092",
+    "title": "Operadores de Planta de Gas"
+  },
+  {
+    "code": "51-8093",
+    "title": "Operadores de Sistema de Bombeo de Petróleo, Operadores de Refinería y Calibradores"
+  },
+  {
+    "code": "51-8099",
+    "title": "Todos los demás Operadores de Planta y Sistema   "
+  },
+  {
+    "code": "51-9011",
+    "title": "Operadores y Encargados de Equipo Químico"
+  },
+  {
+    "code": "51-9012",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Separación, Filtro, Depuración, Precipitación y Destilación"
+  },
+  {
+    "code": "51-9021",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Molido, Trituración y Pulido "
+  },
+  {
+    "code": "51-9022",
+    "title": "Trabajadores de Molido y Pulido Manual "
+  },
+  {
+    "code": "51-9023",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Mezcla y Licuado "
+  },
+  {
+    "code": "51-9031",
+    "title": "Cortadores y Rebanadores Manuales "
+  },
+  {
+    "code": "51-9032",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Cortar y Rebanar "
+  },
+  {
+    "code": "51-9041",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Extrusión, Moldeado, Prensado y Compactación "
+  },
+  {
+    "code": "51-9051",
+    "title": "Operadores y Encargados de Quemadores, Incineradores, Hornos, Estufas, Secadoras y Calderos"
+  },
+  {
+    "code": "51-9061",
+    "title": "Inspectores, Examinadores, Clasificadores, Tomadores de Muestras y Pesadores"
+  },
+  {
+    "code": "51-9071",
+    "title": "Joyeros y Trabajadores de Piedras y Metales Preciosos"
+  },
+  {
+    "code": "51-9081",
+    "title": "Técnicos de Laboratorio Dental"
+  },
+  {
+    "code": "51-9082",
+    "title": "Técnicos de Aparatos Médicos "
+  },
+  {
+    "code": "51-9083",
+    "title": "Técnicos de Laboratorio Oftálmico "
+  },
+  {
+    "code": "51-9111",
+    "title": "Operadores y Encargados de Máquinas de Empaque y Envasado"
+  },
+  {
+    "code": "51-9121",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Revestir, Pintar y Rociar"
+  },
+  {
+    "code": "51-9122",
+    "title": "Pintores de Equipo de Transporte"
+  },
+  {
+    "code": "51-9123",
+    "title": "Trabajadores de Pintura, Esmaltado y Decoración "
+  },
+  {
+    "code": "51-9141",
+    "title": "Procesadores de Semiconductores "
+  },
+  {
+    "code": "51-9151",
+    "title": "Trabajadores de Proceso Fotográfico y Operadores de Máquina de Procesamiento Fotográfico "
+  },
+  {
+    "code": "51-9191",
+    "title": "Operadores y Encargados de Máquinas de Cemento Adhesivo"
+  },
+  {
+    "code": "51-9192",
+    "title": "Operadores y Encargados de Equipos de Limpieza, Lavado y Decapado Metálico"
+  },
+  {
+    "code": "51-9193",
+    "title": "Operadores y Encargados de Equipos de Enfriamiento y Congelamiento"
+  },
+  {
+    "code": "51-9194",
+    "title": "Grabadores y Talladores"
+  },
+  {
+    "code": "51-9195",
+    "title": "Moldeadores, Modeladores y Fundidores, Excepto Metal y Plástico"
+  },
+  {
+    "code": "51-9196",
+    "title": "Preparadores, Operadores y Encargados de Máquinas de Fabricación de Artículos de Papel"
+  },
+  {
+    "code": "51-9197",
+    "title": "Trabajadores de Fabricación de Neumáticos"
+  },
+  {
+    "code": "51-9198",
+    "title": "Ayudantes de Trabajadores de Ocupaciones Relacionadas con la Producción"
+  },
+  {
+    "code": "51-9199",
+    "title": "Todos los demás Trabajadores de Ocupaciones Relacionadas con la Producción"
+  },
+  {
+    "code": "53-1011",
+    "title": "Supervisores de Transporte Aéreo de Carga"
+  },
+  {
+    "code": "53-1021",
+    "title": "Supervisores Directos de Ayudantes, Obreros y Acarreadores Manuales de Materiales"
+  },
+  {
+    "code": "53-1031",
+    "title": "Supervisores Directos de Operadores de Máquinas y Vehículos de Transporte y de Traslado de Materiales   "
+  },
+  {
+    "code": "53-2011",
+    "title": "Pilotos, Copilotos e Ingenieros de Vuelo de Aerolínea"
+  },
+  {
+    "code": "53-2012",
+    "title": "Pilotos Comerciales"
+  },
+  {
+    "code": "53-2021",
+    "title": "Controladores de Tráfico Aéreo"
+  },
+  {
+    "code": "53-2022",
+    "title": "Especialistas en Operaciones de Aeropuerto "
+  },
+  {
+    "code": "53-2031",
+    "title": "Auxiliares de Vuelo "
+  },
+  {
+    "code": "53-3011",
+    "title": "Conductores y Asistentes de Ambulancia, Excepto Técnicos de Emergencia Médica"
+  },
+  {
+    "code": "53-3021",
+    "title": "Conductores de Autobús, Tránsito e Interurbano"
+  },
+  {
+    "code": "53-3022",
+    "title": "Conductores de Autobús, Escolar o de Cliente Especial "
+  },
+  {
+    "code": "53-3031",
+    "title": "Conductores/Vendedores "
+  },
+  {
+    "code": "53-3032",
+    "title": "Conductores de Camión Pesado y Tractocamión"
+  },
+  {
+    "code": "53-3033",
+    "title": "Conductores de Camión Liviano o de Servicio de Entrega "
+  },
+  {
+    "code": "53-3041",
+    "title": "Conductores de Taxi y Choferes "
+  },
+  {
+    "code": "53-3099",
+    "title": "Todos los demás Operadores de Vehículos de Motor "
+  },
+  {
+    "code": "53-4011",
+    "title": "Maquinistas de Locomotoras "
+  },
+  {
+    "code": "53-4012",
+    "title": "Fogoneros "
+  },
+  {
+    "code": "53-4013",
+    "title": "Maquinistas Ferroviarios, Operadores de Locomotoras Pequeñas y Obreros de Servicio de Locomotoras"
+  },
+  {
+    "code": "53-4021",
+    "title": "Operadores de Frenos, Señales y Cambios de Vías de Ferrocarril"
+  },
+  {
+    "code": "53-4031",
+    "title": "Coordinadores y Encargados Ferroviarios"
+  },
+  {
+    "code": "53-4041",
+    "title": "Operadores de Subterráneos y Tranvías "
+  },
+  {
+    "code": "53-4099",
+    "title": "Todos los demás Trabajadores de Transporte Ferroviario "
+  },
+  {
+    "code": "53-5011",
+    "title": "Marineros y Engrasadores "
+  },
+  {
+    "code": "53-5021",
+    "title": "Capitanes, Oficiales y Pilotos de Navíos"
+  },
+  {
+    "code": "53-5022",
+    "title": "Operadores de Lanchas a Motor"
+  },
+  {
+    "code": "53-5031",
+    "title": "Maquinistas de Barcos"
+  },
+  {
+    "code": "53-6011",
+    "title": "Encargados de Puentes y Compuertas "
+  },
+  {
+    "code": "53-6021",
+    "title": "Empleados de Áreas de Estacionamiento "
+  },
+  {
+    "code": "53-6031",
+    "title": "Empleados de Servicio de Vehículos de Motor y Embarcaciones"
+  },
+  {
+    "code": "53-6041",
+    "title": "Técnicos de Tráfico"
+  },
+  {
+    "code": "53-6051",
+    "title": "Inspectores de Transporte"
+  },
+  {
+    "code": "53-6061",
+    "title": "Auxiliares de Transporte, Excepto Auxiliares de Vuelo"
+  },
+  {
+    "code": "53-6099",
+    "title": "Todos los demás Trabajadores Relacionados con el Transporte "
+  },
+  {
+    "code": "53-7011",
+    "title": "Operadores y Encargados de Máquinas Transportadoras "
+  },
+  {
+    "code": "53-7021",
+    "title": "Operadores de Grúas y Torres"
+  },
+  {
+    "code": "53-7031",
+    "title": "Operadores de Dragadora"
+  },
+  {
+    "code": "53-7032",
+    "title": "Operadores de Excavadora, Cargadora y Draga de Línea de Baldes"
+  },
+  {
+    "code": "53-7033",
+    "title": "Operadores de Máquinas de Carga, Minería Subterránea"
+  },
+  {
+    "code": "53-7041",
+    "title": "Operadores de Montacargas y Cabrestantes"
+  },
+  {
+    "code": "53-7051",
+    "title": "Operadores de Camiones y Tractores Industriales"
+  },
+  {
+    "code": "53-7061",
+    "title": "Limpiadores de Vehículos y Equipo"
+  },
+  {
+    "code": "53-7062",
+    "title": "Obreros y Trabajadores Manuales de Traslado de Carga, Mercaderías y Materiales   "
+  },
+  {
+    "code": "53-7063",
+    "title": "Alimentadores y Descargadores de Máquinas"
+  },
+  {
+    "code": "53-7064",
+    "title": "Empacadores y Embaladores Manuales"
+  },
+  {
+    "code": "53-7071",
+    "title": "Operadores de Compresores de Gas y de Estaciones de Bombeo de Gas"
+  },
+  {
+    "code": "53-7072",
+    "title": "Operadores de Bombas, Excepto de Sistemas de Bombeo de Pozos"
+  },
+  {
+    "code": "53-7073",
+    "title": "Operadores de Sistemas de Bombeo de Pozos"
+  },
+  {
+    "code": "53-7081",
+    "title": "Recolectores de Residuos y Materiales Reciclables"
+  },
+  {
+    "code": "53-7111",
+    "title": "Operadores de Carros de Minería "
+  },
+  {
+    "code": "53-7121",
+    "title": "Cargadores de Vagones, Camiones y Barcos Tanque"
+  },
+  {
+    "code": "53-7199",
+    "title": "Todos los demás Trabajadores Relacionados con el Traslado de Materiales"
+  },
+  {
+    "code": "55-1011",
+    "title": "Oficiales de Tripulación Aérea "
+  },
+  {
+    "code": "55-1012",
+    "title": "Oficiales de Lanzamiento y Recuperación de Aeronaves"
+  },
+  {
+    "code": "55-1013",
+    "title": "Oficiales de Vehículos Blindados de Asalto "
+  },
+  {
+    "code": "55-1014",
+    "title": "Oficiales de Artillería y Misiles "
+  },
+  {
+    "code": "55-1015",
+    "title": "Oficiales de Centro de Comando y Control "
+  },
+  {
+    "code": "55-1016",
+    "title": "Oficiales de Infantería "
+  },
+  {
+    "code": "55-1017",
+    "title": "Oficiales de Fuerzas Especiales"
+  },
+  {
+    "code": "55-1019",
+    "title": "Todos los demás Oficiales Superiores de las Fuerzas Armadas de Operaciones Especiales y Tácticas"
+  },
+  {
+    "code": "55-2011",
+    "title": "Supervisores Directos de Miembros de Tripulación Aérea"
+  },
+  {
+    "code": "55-2012",
+    "title": "Supervisores Directos de Especialistas en Armas/Miembros de Tripulación "
+  },
+  {
+    "code": "55-2013",
+    "title": "Supervisores Directos de todos los demás Especialistas en Operaciones Tácticas"
+  },
+  {
+    "code": "55-3011",
+    "title": "Miembros de Tripulación Aérea"
+  },
+  {
+    "code": "55-3012",
+    "title": "Especialistas de Lanzamiento y Recuperación de Aeronaves"
+  },
+  {
+    "code": "55-3013",
+    "title": "Miembros de Tripulación de Vehículos Blindados de Asalto "
+  },
+  {
+    "code": "55-3014",
+    "title": "Miembros de Tripulación de Artillería y Misiles"
+  },
+  {
+    "code": "55-3015",
+    "title": "Especialistas de Centro de Comando y Control"
+  },
+  {
+    "code": "55-3016",
+    "title": "Infantería"
+  },
+  {
+    "code": "55-3017",
+    "title": "Técnicos de Radar y Sonar"
+  },
+  {
+    "code": "55-3018",
+    "title": "Fuerzas Especiales "
+  },
+  {
+    "code": "55-3019",
+    "title": "Todos los demás Especialistas en Operaciones Tácticas y Aéreas /Armas y Miembros de Tripulación Enlistados en las Fuerzas Armadas         "
+  }
+]

@@ -1,0 +1,841 @@
+code,title
+11-1011,Ejecutivos en Jefe
+11-1021,Gerentes Generales y de Operaciones
+11-1031,Legisladores
+11-2011,Gerentes de Publicidad y Promociones
+11-2021,Gerentes de Mercadeo
+11-2022,Gerentes de Ventas
+11-2031,Gerentes de Relaciones Públicas y Recaudación de Fondos
+11-3011,Gerentes de Servicios Administrativos
+11-3021,Gerentes de Sistemas de Computación e Información
+11-3031,Gerentes Financieros
+11-3051,Gerentes de Producción Industrial
+11-3061,Gerentes de Compras 
+11-3071,"Gerentes de Transporte, Almacenamiento y Distribución "
+11-3111,Gerentes de Compensaciones y Beneficios 
+11-3121,Gerentes de Recursos Humanos 
+11-3131,Gerentes de Capacitación y Desarrollo
+11-9013,"Gerentes de Establecimientos Agrícolas, Ganaderos y de Otras Actividades Agrícolas "
+11-9021,Gerentes de Construcción 
+11-9031,Administradores Educativos de Centro/Programa Preescolar y Guardería Infantil
+11-9032,Administradores Educativos de Escuela Primaria y Secundaria 
+11-9033,Administradores Educativos de Nivel Postsecundario
+11-9039,Todos los demás Administradores Educativos
+11-9041,Directores de Arquitectura e Ingeniería
+11-9051,Directores de Servicio de Alimentos
+11-9061,Gerentes de Servicios Fúnebres 
+11-9071,Gerentes de Salas de Juego 
+11-9081,Gerentes de Hospedaje 
+11-9111,Directores de Servicios Médicos y de Salud 
+11-9121,Directores de Ciencias Naturales 
+11-9131,Jefes de Correo y Superintendentes de Correo
+11-9141,"Gerentes de Propiedad, Inmuebles y Asociaciones de Vivienda Comunitaria "
+11-9151,Directores de Servicios Sociales y Comunitarios
+11-9161,Directores de Manejo de Emergencias 
+11-9199,"Todos los demás Gerentes, Directores, Administradores y Jefes"
+13-1011,"Agentes y Gerentes Comerciales de Artistas, Intérpretes Artísticos y Atletas"
+13-1021,Compradores y Agentes de Compras de Productos Agrícolas
+13-1022,"Compradores Mayoristas y Minoristas, Excepto de Productos Agrícolas"
+13-1023,"Agentes de Compras, Excepto Mayoristas, Minoristas y de Productos Agrícolas"
+13-1031,"Ajustadores, Tasadores, Examinadores e Investigadores de Reclamaciones"
+13-1032,Tasadores de Seguro de Automóviles
+13-1041,Funcionarios de Cumplimiento   
+13-1051,Estimadores de Costos
+13-1071,Especialistas en Recursos Humanos
+13-1074,Contratistas de Mano de Obra Agrícola
+13-1075,Especialistas en Relaciones Laborales
+13-1081,Especialistas en Logística
+13-1111,Analistas de Gestión
+13-1121,"Planificadores de Reuniones, Convenciones y Eventos"
+13-1131,Recaudadores de Fondos
+13-1141,"Especialistas en Compensaciones, Beneficios y Análisis Ocupacional"
+13-1151,Especialistas en Capacitación y Desarrollo
+13-1161,Analistas de Investigación de Mercado y Especialistas en Mercadeo
+13-1199,Todos los demás Especialistas en Operaciones Comerciales 
+13-2011,Contadores y Auditores 
+13-2021,Tasadores y Especialistas en Valoración de Bienes Raíces
+13-2031,Analistas de Presupuesto
+13-2041,Analistas de Crédito 
+13-2051,Analistas Financieros 
+13-2052,Asesores de Finanzas Personales 
+13-2053,Aseguradores
+13-2061,Examinadores Financieros
+13-2071,Asesores de Crédito 
+13-2072,Oficiales de Préstamo 
+13-2081,Examinadores y Cobradores de Impuestos y Agentes de Rentas Públicas
+13-2082,Preparadores de Impuestos
+13-2099,Todos los demás Especialistas Financieros
+15-1111,Investigadores de Ciencias de la Computación e Información
+15-1121,Analistas de Sistemas de Computadoras 
+15-1122,Analistas de Seguridad de la Información 
+15-1131,Programadores de Computadoras 
+15-1132,Diseñadores de Aplicaciones de Programas Software
+15-1133,Diseñadores de Sistemas de Programas Software
+15-1134,Diseñadores de Red 
+15-1141,Administradores de Bases de Datos 
+15-1142,Administradores de Redes Informáticas y Sistemas de Computación
+15-1143,Diseñadores de Redes Informáticas 
+15-1151,Especialistas en Apoyo Técnico para Usuarios de Computadoras
+15-1152,Especialistas en Apoyo Técnico de Computadoras y Redes Informáticas
+15-1199,Todas las demás Ocupaciones Relacionadas con la Computación
+15-2011,Actuarios
+15-2021,Matemáticos
+15-2031,Analistas de Operaciones de Investigación 
+15-2041,Estadísticos 
+15-2091,Técnicos Matemáticos
+15-2099,Todas los demás Ocupaciones Relacionadas con las Ciencias Matemáticas  
+17-1011,"Arquitectos, Excepto Paisajistas y Navales"
+17-1012,Arquitectos Paisajistas
+17-1021,Cartógrafos y Fotogrametristas 
+17-1022,Agrimensores 
+17-2011,Ingenieros Aeroespaciales 
+17-2021,Ingenieros Agrónomos 
+17-2031,Ingenieros Biomédicos 
+17-2041,Ingenieros Químicos 
+17-2051,Ingenieros Civiles 
+17-2061,Ingenieros de Computadoras
+17-2071,Ingenieros Eléctricos
+17-2072,"Ingenieros Electrónicos, Excepto de Computadoras"
+17-2081,Ingenieros Ambientales
+17-2111,"Ingenieros Sanitarios y de Seguridad, Excepto Ingenieros e Inspectores de Seguridad Minera "
+17-2112,Ingenieros Industriales 
+17-2121,Ingenieros Marítimos y Arquitectos Navales 
+17-2131,Ingenieros de Materiales 
+17-2141,Ingenieros Mecánicos 
+17-2151,"Ingenieros de Minería y Geología, Incluye a los Ingenieros de Seguridad Minera"
+17-2161,Ingenieros Nucleares
+17-2171,Ingenieros Petroleros
+17-2199,Todos los demás Ingenieros
+17-3011,Delineantes de Planos Arquitectónicos y Civiles
+17-3012,Delineantes de Sistemas Eléctricos y Electrónicos
+17-3013,Delineantes de Sistemas Mecánicos
+17-3019,Todos los demás Delineantes
+17-3021,Técnicos en Ingeniería y Operaciones Aeroespaciales
+17-3022,Técnicos en Ingeniería Civil
+17-3023,Técnicos en Ingeniería Eléctrica y Electrónica
+17-3024,Técnicos en Electromecánica 
+17-3025,Técnicos en Ingeniería Ambiental 
+17-3026,Técnicos en Ingeniería Industrial 
+17-3027,Técnicos en Ingeniería Mecánica 
+17-3029,"Todos los demás Técnicos en Ingeniería, Excepto Delineantes"
+17-3031,Técnicos en Agrimensura y Cartografía
+19-1011,Científicos Especializados en Animales
+19-1012,Científicos y Tecnólogos Especializados en Alimentos
+19-1013,Científicos Especializados en Suelos y Botánica
+19-1021,Bioquímicos y Biofísicos
+19-1022,Microbiólogos
+19-1023,Zoólogos y Biólogos de la Fauna Silvestre
+19-1029,Todos los demás Científicos Especializados en Biología
+19-1031,Científicos Especializados en Conservación
+19-1032,Silvicultores 
+19-1041,Epidemiólogos   
+19-1042,"Científicos Médicos, Excepto Epidemiólogos"
+19-1099,Todos los demás Científicos Especializados en Ciencias Biológicas
+19-2011,Astrónomos 
+19-2012,Físicos 
+19-2021,Científicos Atmosféricos y Espaciales 
+19-2031,Químicos 
+19-2032,Científicos de Materiales 
+19-2041,"Científicos y Especialistas en Medioambiente, Incluye Salud"
+19-2042,"Científicos de la Geociencia, Excepto Hidrólogos y Geógrafos"
+19-2043,Hidrólogos
+19-2099,Todos los demás Científicos Físicos
+19-3011,Economistas
+19-3022,Investigadores de Encuestas 
+19-3031,"Psicólogos Clínicos, de Consejería y Escolares "
+19-3032,Psicólogos Industriales-Organizacionales 
+19-3039,Todos los demás Psicólogos 
+19-3041,Sociólogos 
+19-3051,Planificadores Urbanos y Regionales 
+19-3091,Antropólogos y Arqueólogos 
+19-3092,Geógrafos
+19-3093,Historiadores
+19-3094,Científicos Políticos
+19-3099,Todos los demás Científicos Sociales y Trabajadores Relacionados
+19-4011,Técnicos en Ciencias Agrícolas y de los Alimentos
+19-4021,Técnicos en Biología
+19-4031,Técnicos Químicos
+19-4041,Técnicos en Exploración Geológica y Petrolera
+19-4051,Técnicos Nucleares
+19-4061,Asistentes de Investigación en Ciencias Sociales
+19-4091,"Técnicos en Ciencias Ambientales y de Protección, Incluye Salud "
+19-4092,Técnicos en Ciencias Forenses 
+19-4093,Técnicos Forestales y de Conservación 
+19-4099,"Todos los demás Técnicos en Ciencias Biológicas, Físicas y Sociales"
+21-1011,Consejeros Especializados en Abuso de Sustancias Controladas y Trastornos del Comportamiento
+21-1012,"Consejeros Educativos, de Orientación, Escolares y Vocacionales"
+21-1013,Terapeutas de Matrimonios y Familias
+21-1014,Consejeros de Salud Mental
+21-1015,Consejeros de Rehabilitación
+21-1019,Todos los demás Consejeros
+21-1021,"Trabajadores Sociales Especializados en Temas de la Infancia, Familiares y Escolares"
+21-1022,Trabajadores Sociales de Cuidado de la Salud
+21-1023,Trabajadores Sociales Especializados en Salud Mental y Abuso de Sustancias 
+21-1029,Todos los demás Trabajadores Sociales  
+21-1091,Educadores de la Salud
+21-1092,Oficiales de Libertad Condicional y Especialistas en Tratamiento Correccional
+21-1093,Asistentes de Servicios Sociales y Humanos 
+21-1094,Trabajadores de la Salud para la Comunidad 
+21-1099,Todos los demás Especialistas en Servicios Comunitarios y Sociales
+21-2011,Clérigos
+21-2021,Directores de Educación y Actividades Religiosas
+21-2099,Todos los demás Trabajadores Religiosos
+23-1011,Abogados 
+23-1012,Oficiales Jurídicos 
+23-1021,"Jueces de Derecho Administrativo, Adjudicadores y Oficiales de Audiencia"
+23-1022,"Árbitros, Mediadores y Conciliadores"
+23-1023,"Jueces, Jueces Magistrados y Magistrados"
+23-2011,Asistentes Legales y Asistentes de Abogados
+23-2091,Transcriptores Judiciales 
+23-2093,"Examinadores, Analistas de Títulos y Gestores de Búsqueda de Títulos "
+23-2099,Todos los demás Trabajadores de Asistencia Legal 
+25-1011,Profesores de Estudios Comerciales de Nivel Postsecundario 
+25-1021,Profesores de Ciencias de la Computación de Nivel Postsecundario
+25-1022,Profesores de Ciencias Matemáticas de Nivel Postsecundario
+25-1031,Profesores de Arquitectura de Nivel Postsecundario
+25-1032,Profesores de Ingeniería de Nivel Postsecundario
+25-1041,Profesores de Ciencias Agrarias de Nivel Postsecundario
+25-1042,Profesores de Ciencias Biológicas de Nivel Postsecundario
+25-1043,Profesores de Silvicultura y Ciencias de la Conservación de Nivel Postsecundario
+25-1051,"Profesores de Ciencias Atmosféricas, Geológicas, Oceanográficas y Espaciales de Nivel Postsecundario"
+25-1052,Profesores de Química de Nivel Postsecundario
+25-1053,Profesores de Ciencias Ambientales de Nivel Postsecundario
+25-1054,Profesores de Física de Nivel Postsecundario
+25-1061,Profesores de Antropología y Arqueología de Nivel Postsecundario
+25-1062,"Profesores de Estudios Regionales, Étnicos y Culturales de Nivel Postsecundario"
+25-1063,Profesores de Economía de Nivel Postsecundario
+25-1064,Profesores de Geografía de Nivel Postsecundario
+25-1065,Profesores de Ciencias Políticas de Nivel Postsecundario
+25-1066,Profesores de Psicología de Nivel Postsecundario
+25-1067,Profesores de Sociología de Nivel Postsecundario   
+25-1069,Todos los demás Profesores de Ciencias Sociales de Nivel Postsecundario
+25-1071,Profesores de Especialidades de Salud de Nivel Postsecundario
+25-1072,Profesores e Instructores de Enfermería de Nivel Postsecundario
+25-1081,Profesores de Educación de Nivel Postsecundario
+25-1082,Profesores de Bibliotecología de Nivel Postsecundario
+25-1111,Profesores de Justicia Criminal y Aplicación y Cumplimiento de la Ley de Nivel Postsecundario
+25-1112,Profesores de Derecho de Nivel Postsecundario
+25-1113,Profesores de Trabajo Social de Nivel Postsecundario
+25-1121,"Profesores de Arte, Teatro y Música de Nivel Postsecundario"
+25-1122,Profesores de Comunicaciones de Nivel Postsecundario
+25-1123,Profesores de Inglés y Literatura de Nivel Postsecundario 
+25-1124,Profesores de Lengua y Literatura Extranjeras de Nivel Postsecundario 
+25-1125,Profesores de Historia de Nivel Postsecundario 
+25-1126,Profesores de Filosofía y Religión de Nivel Postsecundario 
+25-1191,Ayudantes de Cátedra Graduados 
+25-1192,Profesores de Economía Doméstica de Nivel Postsecundario
+25-1193,Profesores de Estudios de Recreación y Acondicionamiento Físico de Nivel Postsecundario
+25-1194,Profesores de Educación Vocacional de Nivel Postsecundario
+25-1199,Todos los demás Profesores de Nivel Postsecundario
+25-2011,"Maestros de Nivel Preescolar, Excepto de Educación Especial"
+25-2012,"Maestros de Jardín de Infantes, Excepto de Educación Especial"
+25-2021,"Maestros de Escuela Primaria, Excepto de Educación Especial"
+25-2022,"Maestros de Escuela de Nivel Medio, Excepto de Educación Especial y de Educación Profesional/Técnica"
+25-2023,Maestros de Educación Profesional/Técnica de Escuela de Nivel Medio
+25-2031,"Maestros de Escuela Secundaria, Excepto de Educación Especial y Educación Profesional/Técnica"
+25-2032,Maestros de Educación Profesional/Técnica de Escuela Secundaria
+25-2051,Maestros de Educación Especial de Nivel Preescolar
+25-2052,Maestros de Educación Especial de Jardín de Infantes y Escuela Primaria
+25-2053,Maestros de Educación Especial de Escuela de Nivel Medio
+25-2054,Maestros de Educación Especial de Escuela Secundaria
+25-2059,Todos los demás Maestros de Educación Especial   
+25-3011,"Maestros e Instructores de Educación Básica, Secundaria y de Alfabetización para Adultos "
+25-3021,Maestros de Educación de Enriquecimiento Personal 
+25-3099,Todos los demás Maestros e Instructores 
+25-4011,Archiveros 
+25-4012,Curadores 
+25-4013,Técnicos y Conservadores de Museo 
+25-4021,Bibliotecarios 
+25-4031,Técnicos de Biblioteca 
+25-9011,Especialistas en Colecciones de Materiales Audiovisuales y Multimedios
+25-9021,Asesores en Gerencia de Granjas y Hogares
+25-9031,Coordinadores Educativos
+25-9041,Maestros Ayudantes
+25-9099,"Todos los demás Trabajadores de Ocupaciones Relacionadas con la Educación, Capacitación y Bibliotecología"
+27-1011,Directores de Arte 
+27-1012,Artesanos 
+27-1013,"Artistas de Bellas Artes, Incluye Pintores, Escultores e Ilustradores"
+27-1014,Artistas y Animadores de Multimedios de Difusión
+27-1019,Todos los demás Artistas y Trabajadores Relacionados 
+27-1021,Diseñadores Comerciales e Industriales 
+27-1022,Diseñadores de Moda 
+27-1023,Diseñadores Florales 
+27-1024,Diseñadores Gráficos 
+27-1025,Diseñadores de Interiores 
+27-1026,Diseñadores de Exhibidores de Mercadería y Escaparatistas
+27-1027,Escenógrafos y Diseñadores de Exposiciones
+27-1029,Todos los demás Diseñadores 
+27-2011,Actores 
+27-2012,Productores y Directores 
+27-2021,Competidores Atléticos y Deportivos 
+27-2022,Entrenadores y Buscadores de Talentos Deportivos
+27-2023,"Árbitros, Referís y Otros Oficiales Deportivo"
+27-2031,Bailarines
+27-2032,Coreógrafos
+27-2041,Directores y Compositores de Música
+27-2042,Músicos y Cantantes
+27-2099,"Todos los demás Animadores, Intérpretes Artísticos, Deportistas y Trabajadores Relacionados"
+27-3011,Anunciadores de Radio y Televisión 
+27-3012,Anunciadores de Sistema Público de Altavoces y Otros Anunciadores 
+27-3021,Analistas de Emisiones de Noticias 
+27-3022,Reporteros y Corresponsales 
+27-3031,Especialistas en Relaciones Públicas 
+27-3041,Editores 
+27-3042,Redactores Técnicos  
+27-3043,Escritores y Autores
+27-3091,Intérpretes y Traductores 
+27-3099,Todos los demás Trabajadores de Medios de Difusión y Comunicación 
+27-4011,Técnicos de Equipos de Audio y Video 
+27-4012,Técnicos de Difusión 
+27-4013,Operadores de Radio 
+27-4014,Técnicos de Ingeniería de Sonido 
+27-4021,Fotógrafos 
+27-4031,"Operadores de Cámara de Televisión, Video y Cine"
+27-4032,Editores de Películas Cinematográficas y Video
+27-4099,Todos los demás Trabajadores de Equipos de Medios de Difusión y Comunicación
+29-1011,Quiroprácticos
+29-1021,"Dentistas, Generales"
+29-1022,Cirujanos Bucales y Maxilofaciales
+29-1023,Ortodoncistas 
+29-1024,Prostodoncistas 
+29-1029,"Dentistas, Todos los demás Especialistas "
+29-1031,Dietistas y Nutricionistas 
+29-1041,Optómetras
+29-1051,Farmacéuticos
+29-1061,Anestesiólogos 
+29-1062,Médicos Generales y de Familia 
+29-1063,"Internistas, Generales "
+29-1064,Obstetras y Ginecólogos 
+29-1065,"Pediatras, Generales "
+29-1066,Psiquiatras 
+29-1067,Cirujanos 
+29-1069,Todos los demás Médicos y Cirujanos
+29-1071,Asistentes Médicos
+29-1081,Podiatras 
+29-1122,Terapistas Ocupacionales 
+29-1123,Fisioterapeutas 
+29-1124,Radioterapistas 
+29-1125,Terapistas Recreativos 
+29-1126,Terapistas Respiratorios 
+29-1127,Patólogos del Habla y el Lenguaje
+29-1128,Fisiólogos de Ejercicios
+29-1129,Todos los demás Terapistas
+29-1131,Veterinarios
+29-1141,Enfermeros Graduados
+29-1151,Enfermeros Anestesistas
+29-1161,Enfermeros de Partos
+29-1171,Enfermeros Médicos 
+29-1181,Audiólogos 
+29-1199,Todos los demás Profesionales de Diagnóstico y Tratamiento Médico 
+29-2011,Tecnólogos de Laboratorio Médico y Clínico 
+29-2012,Técnicos de Laboratorio Médico y Clínico 
+29-2021,Higienistas Dentales 
+29-2031,Tecnólogos y Técnicos Cardiovasculares   
+29-2032,Sonografistas de Diagnóstico Médico
+29-2033,Tecnólogos de Medicina Nuclear 
+29-2034,Tecnólogos de Radiología 
+29-2035,Tecnólogos Especializados en Imágenes de Resonancia Magnética
+29-2041,Técnicos de Emergencias Médicas y Paramédicos
+29-2051,Técnicos en Dietética
+29-2052,Técnicos de Farmacia
+29-2053,Técnicos Psiquiátricos
+29-2054,Técnicos de Terapia Respiratoria
+29-2055,Tecnólogos Quirúrgicos 
+29-2056,Tecnólogos y Técnicos de Veterinaria 
+29-2057,Técnicos de Medicina Oftalmológica 
+29-2061,Enfermeros Prácticos y Vocacionales con Licencia
+29-2071,Técnicos de Registros Médicos e Información de Salud
+29-2081,"Ópticos, Despacho"
+29-2091,Ortopedas y Protésicos
+29-2092,Especialistas en Aparatos Auditivos
+29-2099,Todos los demás Tecnólogos y Técnicos de Salud
+29-9011,Especialistas en Salud y Seguridad Ocupacional
+29-9012,Técnicos en Salud y Seguridad Ocupacional
+29-9091,Instructores Atléticos
+29-9092,Consejeros Genéticos 
+29-9099,Todos los demás Trabajadores de Ocupaciones Profesionales y Técnicas Relacionadas con el Cuidado de la Salud
+31-1011,Auxiliares de Atención en el Hogar
+31-1013,Auxiliares de Psiquiatría
+31-1014,Asistentes de Enfermería
+31-1015,Camilleros
+31-2011,Asistentes de Terapia Ocupacional
+31-2012,Auxiliares de Terapia Ocupacional
+31-2021,Asistentes de Fisioterapeutas
+31-2022,Auxiliares de Fisioterapeutas 
+31-9011,Terapistas de Masajes 
+31-9091,Asistentes Dentales
+31-9092,Ayudantes de Médicos
+31-9093,Preparadores de Equipos Médicos
+31-9094,Transcriptores Médicos 
+31-9095,Auxiliares de Farmacia 
+31-9096,Asistentes de Veterinarios y Cuidadores de Animales de Laboratorio
+31-9097,Flebotomistas 
+31-9099,Todos los demás Trabajadores de Ocupaciones de Apoyo Relacionadas con el Cuidado de la Salud
+33-1011,Supervisores Directos de Oficiales Correccionales
+33-1012,Supervisores Directos de Policías y Detectives
+33-1021,Supervisores Directos de Trabajadores de Extinción y Prevención de Incendios   
+33-1099,Todos los demás Supervisores Directos de Trabajadores de Servicios de Protección
+33-2011,Bomberos 
+33-2021,Inspectores e Investigadores de Incendios 
+33-2022,Inspectores y Especialistas en Prevención de Incendios Forestales
+33-3011,Alguaciles
+33-3012,Oficiales Correccionales y Carceleros
+33-3021,Detectives e Investigadores Criminales
+33-3031,Guardianes de Caza y Pesca
+33-3041,Guardias Controladores de Reglas de Estacionamiento
+33-3051,Agentes y Patrulleros Policiales 
+33-3052,Policías de Tránsito y Policías Ferroviarios 
+33-9011,Trabajadores de Control de Animales 
+33-9021,Detectives e Investigadores Privados
+33-9031,Agentes de Vigilancia de Salas de Juego e Investigadores de Juego
+33-9032,Guardias de Seguridad
+33-9091,Guardias de Cruce Peatonal y Vehicular
+33-9092,"Guardavidas, Patrullas de Esquí y Otros Trabajadores de Servicios de Protección en Espacios Recreativos"
+33-9093,Agentes de la Seguridad en el Transporte
+33-9099,Todos los demás Trabajadores de Servicios de Protección
+35-1011,Chefs y Primeros Chefs
+35-1012,Supervisores Directos de Trabajadores de Preparación y Servicio de Comidas 
+35-2011,Cocineros de Comidas Rápidas 
+35-2012,Cocineros de Institución y Cafetería
+35-2013,Cocineros de Residencias Privadas
+35-2014,Cocineros de Restaurante
+35-2015,Cocineros de Platos de Preparación Sencilla
+35-2019,Todos los demás Cocineros
+35-2021,Trabajadores de Preparación de Comidas
+35-3011,Cantineros
+35-3021,"Trabajadores de Tareas Combinadas de Preparación y Servicio de Comidas, Incluye Comidas Rápidas "
+35-3022,"Dependientes de Mostrador, Cafetería, Concesión de Servicio de Comidas y Establecimiento de Servicio de Café"
+35-3031,Camareros y Camareras
+35-3041,"Servidores de Comidas, Excepto Restaurante "
+35-9011,"Auxiliares de Salón Comedor y Cafetería, y Ayudantes de Cantineros"
+35-9021,Lavaplatos 
+35-9031,"Anfitriones de Restaurante, Bar y Establecimiento de Servicio de Café"
+35-9099,Todos los demás Trabajadores Relacionados con la Preparación y Servicio de Comidas
+37-1011,Supervisores Directos de Empleados Domésticos y de Limpieza
+37-1012,"Supervisores Directos de Trabajadores de Jardinería, Mantenimiento de Césped y Terrenos   "
+37-2011,"Ordenanzas y Empleados de Limpieza, Excepto Empleados Domésticos y Personal de Limpieza de Casas Privadas"
+37-2012,Empleados Domésticos y Personal de Limpieza de Casas Privadas
+37-2019,Todos los demás Trabajadores de Limpieza de Edificios
+37-2021,Trabajadores de Control y Exterminación de Plagas
+37-3011,Trabajadores de Jardinería y Áreas Verdes
+37-3012,"Operadores, Fumigadores y Aplicadores de Pesticidas, Vegetación"
+37-3013,Podadores y Cortadores de Árboles 
+37-3019,Todos los demás Trabajadores de Mantenimiento de Áreas Verdes
+39-1011,Supervisores de Salas de Juego
+39-1012,Supervisores de Máquinas Tragamonedas 
+39-1021,Supervisores Directos de Trabajadores de Servicios Personales
+39-2011,Adiestradores de Animales 
+39-2021,"Cuidadores de Animales, Excepto de Animales de Granja "
+39-3011,Operadores de Mesas de Juego 
+39-3012,Receptores y Corredores de Apuestas de Juego y Deportes
+39-3019,Todos los demás Trabajadores de Servicios de Juego
+39-3021,Operadores de Proyectores de Cine 
+39-3031,Acomodadores y Controladores de Boletos de Admisión
+39-3091,Asistentes de Establecimientos de Diversión y Recreación
+39-3092,Asistentes de Vestuario
+39-3093,"Asistentes del Área de Armarios, Guardarropa y Vestidor"
+39-3099,Todos los demás Asistentes de Establecimientos de Entretenimiento y Trabajadores Relacionados
+39-4011,Embalsamadores
+39-4021,Asistentes de Servicios Fúnebres
+39-4031,"Enterradores, Sepultureros y Directores de Ceremonias Fúnebres"
+39-5011,Barberos 
+39-5012,"Peluqueros, Estilistas de Cabello y Cosmetólogos"
+39-5091,"Maquilladores Artísticos, Teatrales y de Actores"
+39-5092,Manicuristas y Pedicuristas
+39-5093,Lavadores de Cabello 
+39-5094,Especialistas en Cuidados de la Piel 
+39-6011,Maleteros y Botones
+39-6012,Porteros
+39-7011,Guías y Escoltas de Excursiones
+39-7012,Guías de Viajes
+39-9011,Trabajadores de Cuidado de Niños
+39-9021,Auxiliares de Cuidado Personal 
+39-9031,Entrenadores de Acondicionamiento Físico e Instructores de Ejercicios Aeróbicos
+39-9032,Trabajadores de Actividades Recreativas
+39-9041,Coordinadores de Residencias Comunitarias   
+39-9099,Todos los demás Trabajadores de Ocupaciones Relacionadas con el Cuidado y Servicio Personal
+41-1011,Supervisores Directos de Trabajadores de Ventas Minoristas
+41-1012,"Supervisores Directos de Trabajadores de Ventas, Excepto Ventas Minoristas"
+41-2011,Cajeros
+41-2012,Encargados de Cambio y Cajeros de Cabina de Salas de Juego
+41-2021,Empleados de Mostrador y de Alquiler
+41-2022,Vendedores de Piezas 
+41-2031,Vendedores Minoristas 
+41-3011,Agentes de Venta de Publicidad 
+41-3021,Agentes de Venta de Seguros
+41-3031,"Agentes de Venta de Valores, Productos Básicos y Servicios Financieros "
+41-3041,Agentes de Viajes 
+41-3099,Todos  los demás Representantes de Venta de Servicios 
+41-4011,Representantes de Ventas Mayoristas y de Productos Manufacturados Técnicos y Científicos
+41-4012,"Representantes de Ventas Mayoristas y de Productos Manufacturados, Excepto de Productos Técnicos y Científicos"
+41-9011,Demostradores y Promotores de Producto 
+41-9012,Modelos 
+41-9021,Corredores de Bienes Raíces 
+41-9022,Agentes  de Venta de Bienes Raíces
+41-9031,Ingenieros de Ventas
+41-9041,Representantes de Telemercadeo
+41-9091,"Trabajadores de Venta a Domicilio, Vendedores de Periódicos y Ambulantes y Trabajadores Relacionados"
+41-9099,Todos los demás Trabajadores de Ventas y Ocupaciones Relacionadas
+43-1011,Supervisores Directos de Empleados de Oficina y de Apoyo Administrativo
+43-2011,"Operadores de Sistema Telefónico Central, Incluye Servicio de Contestación de Llamadas"
+43-2021,Operadores Telefónicos 
+43-2099,Todos los demás Operadores de Equipos de Comunicaciones
+43-3011,Cobradores de Cuentas y Facturas
+43-3021,Oficinistas de Facturación y Registro de Facturas
+43-3031,"Empleados de Teneduría de Libros, Contabilidad y Auditoría"
+43-3041,Tesoreros de Salas de Juego
+43-3051,Oficinistas de Nómina y de Registro de Horas Trabajadas
+43-3061,Oficinistas Auxiliares de Compras
+43-3071,Cajeros de Instituciones Financieras
+43-3099,Todos los demás Empleados de Oficina de Servicios Financieros 
+43-4011,Oficinistas de Corretaje 
+43-4021,Oficinistas de Correspondencia
+43-4031,"Oficinistas Judiciales, Municipales y de Otorgamiento de Licencias  "
+43-4041,"Autorizadores, Verificadores y Empleados de Crédito"
+43-4051,Representantes del Servicio al Cliente
+43-4061,Entrevistadores de Determinación de Elegibilidad para Programas del Gobierno
+43-4071,Oficinistas de Archivo
+43-4081,"Empleados de Recepción de Hotel, Motel y Centro Turístico"
+43-4111,"Entrevistadores, Excepto de Determinación de Elegibilidad y Otorgamiento de Préstamos"
+43-4121,Asistentes de Oficina de Biblioteca
+43-4131,Entrevistadores y Empleados de Préstamos Financieros
+43-4141,Oficinistas de Apertura de Cuentas
+43-4151,Empleados de Órdenes de Pedido
+43-4161,"Asistentes de Recursos Humanos, Excepto de Nómina y de Registro de Horas Trabajadas"
+43-4171,Recepcionistas y Oficinistas de Información 
+43-4181,Agentes de Reservación y Venta de Boletos de Transporte y Empleados de Oficina de Viajes
+43-4199,Todos los demás Empleados de Información y Registro
+43-5011,Agentes de Carga y Flete
+43-5021,Mensajeros y Repartidores
+43-5031,"Despachadores de Policía, Bomberos y Ambulancia"
+43-5032,"Despachadores, Excepto Policía, Bomberos y Ambulancia"
+43-5041,Lectores de Medidores de Servicios Públicos
+43-5051,Oficinistas del Servicio Postal
+43-5052,Carteros del Servicio Postal
+43-5053,Clasificadores y Procesadores de Correo y Operadores de Máquinas de Procesamiento de Correo del Servicio Postal
+43-5061,"Oficinistas de Producción, Planificación y Expedición"
+43-5071,"Oficinistas de Despacho, Recibo y Tráfico "
+43-5081,Oficinistas de Inventario y Preparadores de Órdenes de Pedido
+43-5111,"Controladores y Verificadores de Peso, Medidas y Muestras, Mantenimiento de Registros"
+43-6011,Secretarios Ejecutivos y Asistentes Administrativos Ejecutivos
+43-6012,Secretarios Legales
+43-6013,Secretarios de Médicos
+43-6014,"Secretarios y Asistentes Administrativos, Excepto Legales, Médicos y Ejecutivos"
+43-9011,Operadores de Computadora
+43-9021,Operadores de Equipos de Ingreso de Datos 
+43-9022,Procesadores de Texto y Dactilógrafos 
+43-9031,Autoeditores
+43-9041,Oficinistas de Procesamiento de Reclamaciones y Pólizas de Seguro
+43-9051,"Empleados de Correspondencia y Operadores de Máquinas de Correspondencia, Excepto del Servicio Postal"
+43-9061,"Empleados de Oficina, Tareas Generales  "
+43-9071,"Operadores de Máquinas de Oficina, Excepto Computadoras"
+43-9081,Correctores de Pruebas y Marcadores de Copias
+43-9111,Asistentes de Estadísticas
+43-9199,Todos los demás Empleados de Oficina y de Apoyo Administrativo
+45-1011,"Supervisores Directos de Trabajadores de Ocupaciones Relacionadas con la Agricultura, la Pesca y la Silvicultura"
+45-2011,Inspectores Agrícolas
+45-2021,Criadores de Animales
+45-2041,Evaluadores y Clasificadores de Productos Agrícolas
+45-2091,Operadores de Equipo Agrícola
+45-2092,"Trabajadores y Jornaleros Agrícolas, de Cultivos, de Viveros y de Invernaderos"
+45-2093,"Trabajadores Agrícolas de Animales de Granja, Ganado y Animales Acuáticos"
+45-2099,Todos los demás Trabajadores Agrícolas 
+45-3011,Pescadores y Trabajadores Relacionados con la Pesca
+45-3021,Cazadores y Tramperos de Animales
+45-4011,Trabajadores Forestales y de Conservación
+45-4021,Derribadores
+45-4022,Operadores de Equipo de Tala Forestal
+45-4023,Evaluadores y Tasadores de Árboles Talados
+45-4029,Todos los demás Trabajadores de Tala Forestal
+47-1011,Supervisores Directos de Trabajadores de Oficios de Construcción y Extracción
+47-2011,Caldereros
+47-2021,Albañiles de Ladrillos y Bloques
+47-2022,Albañiles de Piedras
+47-2031,Carpinteros 
+47-2041,Instaladores de Alfombras 
+47-2042,"Instaladores de Pisos, Excepto Alfombras, Pisos de Madera y Losas "
+47-2043,Pulidores y Terminadores de Pisos 
+47-2044,Instaladores de Losas y Mármol
+47-2051,Albañiles de Trabajos en Cemento y Terminadores de Concreto
+47-2053,Trabajadores de Aplicación y Terminación de Terrazo
+47-2061,Obreros de la Construcción
+47-2071,"Operadores de Equipos de Pavimentación, Aplanamiento y Compactación"
+47-2072,Operadores de Martinetes de Pilotes
+47-2073,Mecánicos Operadores y Otros Operadores de Equipo Pesado y Maquinaria de Construcción 
+47-2081,Instaladores de Paneles de Yeso y Paneles Acústicos de Techo
+47-2082,Selladores de Paneles
+47-2111,Electricistas 
+47-2121,Cristaleros 
+47-2131,"Trabajadores de Instalación de Pisos, Techos y Paredes Aislantes   "
+47-2132,Trabajadores de Instalación de Materiales Aislantes de Sistemas Mecánicos
+47-2141,"Pintores, Construcción y Mantenimiento"
+47-2142,Empapeladores 
+47-2151,Instaladores de Tuberías 
+47-2152,"Plomeros, Instaladores y Ajustadores de Tuberías de Agua y de Vapor"
+47-2161,Yeseros y Estucadores
+47-2171,Trabajadores de Colocación de Refuerzos de Hierro y Varillas
+47-2181,Techadores
+47-2211,Trabajadores de Chapa Metálica 
+47-2221,Trabajadores de Piezas de Hierro y Acero Estructural
+47-2231,Instaladores de Sistema Solar Fotovoltaico 
+47-3011,"Ayudantes de Albañiles de Ladrillos, Bloques y Piedras, e Instaladores de Losas y Mármol "
+47-3012,Ayudantes de Carpinteros 
+47-3013,Ayudantes de Electricistas
+47-3014,"Ayudantes de Pintores, Empapeladores, Yeseros y Estucadores"
+47-3015,"Ayudantes de Instaladores de Tuberías, Plomeros e Instaladores y Ajustadores de Tuberías de Agua y de Vapor"
+47-3016,Ayudantes de Techadores
+47-3019,Todos los demás Ayudantes de Oficios de la Construcción
+47-4011,Inspectores de Construcción y Edificios 
+47-4021,Instaladores y Reparadores de Ascensores 
+47-4031,Constructores de Cercos
+47-4041,Trabajadores de Remoción de Materiales Peligrosos
+47-4051,Trabajadores de Mantenimiento de Carreteras
+47-4061,Instaladores de Rieles y Operadores de Equipo de Mantenimiento de Rieles
+47-4071,Operadores de Servicio de Tanques Sépticos y Limpiadores de Cañerías Cloacales
+47-4091,Trabajadores de Pavimento Segmentado
+47-4099,Todos los demás Trabajadores de la Construcción y Trabajadores Relacionados
+47-5011,"Operadores de Torres de Perforación, Petróleo y Gas"
+47-5012,"Operadores de Perforadoras Giratorias, Petróleo y Gas"
+47-5013,"Operadores de Unidad de Servicio, Petróleo, Gas y Minería "
+47-5021,"Operadores de Perforadoras de Tierra, Excepto Petróleo y Gas "
+47-5031,"Trabajadores de Explosivos, Expertos en el Manejo de Artillería y Dinamiteros"
+47-5041,Operadores de Máquinas de Minería de Operación Continua
+47-5042,Operadores de Máquinas de Corte y Canalización de Minas
+47-5049,Todos los demás Operadores de Máquinas de Minería
+47-5051,"Picapedreros, Cantera"
+47-5061,"Instaladores de Pernos en Techos, Minería"
+47-5071,"Obreros No Especializados, Petróleo y Gas   "
+47-5081,Ayudantes de Trabajadores de Ocupaciones Relacionadas con la Extracción
+47-5099,Todos los demás Trabajadores de Ocupaciones Relacionadas con la Extracción
+49-1011,"Supervisores Directos de Mecánicos, Instaladores y Reparadores"
+49-2011,"Reparadores de Computadoras, Cajeros Automáticos y Máquinas de Oficina"
+49-2021,"Instaladores y Reparadores de Equipos de Radio, Telefonía Celular y Torres"
+49-2022,"Instaladores y Reparadores de Equipo de Telecomunicaciones, Excepto Instaladores de Líneas"
+49-2091,Técnicos de Aviónica 
+49-2092,"Reparadores de Motores Eléctricos, Herramientas Eléctricas y Otros Reparadores Relacionados "
+49-2093,Instaladores y Reparadores de Equipo Eléctrico y Electrónico de Transporte 
+49-2094,Reparadores de Equipo Eléctrico y Electrónico Comercial e Industrial
+49-2095,"Reparadores de Equipo Eléctrico y Electrónico de Estación Eléctrica, Subestación y Base de Retransmisión Eléctrica"
+49-2096,Instaladores y Reparadores de Equipo Eléctrico y Electrónico de Vehículos de Motor
+49-2097,Instaladores y Reparadores de Equipo Electrónico de Entretenimiento de Uso Doméstico
+49-2098,Instaladores de Sistemas de Alarma de Seguridad e Incendio
+49-3011,Mecánicos y Técnicos de Servicio de Aeronaves
+49-3021,Reparadores de Carrocerías y Componentes Automotrices Relacionados
+49-3022,Instaladores y Reparadores de Cristales Automotrices
+49-3023,Técnicos y Mecánicos de Servicio Automotriz
+49-3031,Mecánicos de Autobuses y Camiones y Especialistas en Motores Diesel
+49-3041,Mecánicos y Técnicos de Servicio de Equipo Agrícola
+49-3042,"Mecánicos de Equipo Pesado Móvil, Excepto de Motores"
+49-3043,Reparadores de Carros Ferroviarios
+49-3051,Mecánicos y Técnicos de Servicio de Motores de Lancha
+49-3052,Mecánicos de Motocicletas 
+49-3053,Mecánicos de Equipo de Uso en Exteriores y de Otros Motores Pequeños 
+49-3091,Reparadores de Bicicletas 
+49-3092,Técnicos de Servicio de Vehículos Recreativos
+49-3093,Reparadores y Cambiadores de Neumáticos
+49-9011,Reparadores de Puertas Mecánicas
+49-9012,"Instaladores y Reparadores de Válvulas y Mecanismos de Control, Excepto de Puertas Mecánicas"
+49-9021,"Mecánicos e Instaladores de Calefacción, Aire Acondicionado y Refrigeración"
+49-9031,Reparadores de Equipos Electrodomésticos
+49-9041,Mecánicos de Maquinaria Industrial   
+49-9043,Trabajadores de Mantenimiento de Maquinaria
+49-9044,Armadores y Desarmadores de Maquinaria
+49-9045,"Reparadores de Materiales Refractarios, Excepto Albañiles de Ladrillos"
+49-9051,Instaladores y Reparadores de Tendido de Líneas de Energía Eléctrica
+49-9052,Instaladores y Reparadores de Tendido de Líneas de Telecomunicaciones
+49-9061,Reparadores de Cámaras y Equipo Fotográfico
+49-9062,Reparadores de Equipos Médicos
+49-9063,Reparadores y Afinadores de Instrumentos Musicales
+49-9064,Relojeros 
+49-9069,Todos los demás Reparadores de Instrumentos y Equipo de Precisión 
+49-9071,"Trabajadores de Mantenimiento y Reparación, General "
+49-9081,Técnicos de Servicio de Turbinas de Viento 
+49-9091,"Reparadores y Encargados de Servicio de Máquinas a Monedas, Expendedoras y Máquinas de Entretenimiento"
+49-9092,Buzos Comerciales
+49-9093,"Zurcidores de Tela, Excepto de Prendas de Vestir"
+49-9094,Cerrajeros y Reparadores de Cajas de Seguridad
+49-9095,Instaladores de Estructuras Prefabricadas y de Casas Rodantes
+49-9096,Aparejadores
+49-9097,Reparadores de Señales y Sistemas de Cambio de Vías de Ferrocarril
+49-9098,"Ayudantes de Trabajadores de Ocupaciones Relacionadas con la Instalación, Mantenimiento y Reparación"
+49-9099,"Todos los demás Trabajadores de Ocupaciones Relacionadas con la Instalación, Mantenimiento y Reparación"
+51-1011,Supervisores Directos de Trabajadores de Producción y Operación
+51-2011,"Ensambladores de Estructuras, Superficies, Aparejos y Sistemas de Aeronaves"
+51-2021,"Bobinadores, Encintadores y Terminadores de Bobinas"
+51-2022,Ensambladores de Equipo Eléctrico y Electrónico
+51-2023,Ensambladores de Equipo Electromecánico 
+51-2031,Ensambladores de Motores y Otras Máquinas 
+51-2041,Ajustadores y Fabricadores de Metal Estructural
+51-2091,Laminadores y Fabricadores de Productos de Fibra de Vidrio
+51-2092,Ensambladores en Equipo 
+51-2093,Ensambladores y Ajustadores de Dispositivos de Tiempo 
+51-2099,Todos los demás Ensambladores y Fabricadores 
+51-3011,Panaderos y Reposteros 
+51-3021,Carniceros y Cortadores de Carne 
+51-3022,"Cortadores y Fileteadores de Carne, Aves y Pescados en Crudo  "
+51-3023,Matarifes y Empacadores de Carne
+51-3091,"Operadores y Encargados de Máquinas de Tostar, Hornear y Secar Alimentos y Tabaco"
+51-3092,Preparadores de Mezclas de Productos Alimenticios
+51-3093,Operadores y Encargados de Máquinas de Cocción de Alimentos
+51-3099,Todos los demás Trabajadores Relacionados con el Procesamiento de Alimentos
+51-4011,"Operadores de Máquina Herramienta Controlada por Computadora, Metal y Plástico"
+51-4012,"Programadores de Máquina Herramienta de Control Numérico por Computadora, Metal y Plástico"
+51-4021,"Preparadores, Operadores y Encargados de Máquina de Extrusión y Estirado, Metal y Plástico "
+51-4022,"Preparadores, Operadores y Encargados de Máquina de Forjado, Metal y Plástico "
+51-4023,"Preparadores, Operadores y Encargados de Máquina de Laminado, Metal y Plástico"
+51-4031,"Preparadores, Operadores y Encargados de Máquina de Corte, Punzón y Prensado, Metal y Plástico"
+51-4032,"Preparadores, Operadores y Encargados de Máquina Herramienta de Taladrar y Perforar, Metal y Plástico"
+51-4033,"Preparadores, Operadores y Encargados de Máquina Herramienta de Lijar, Facetear, Pulir y Lustrar, Metal y Plástico"
+51-4034,"Preparadores, Operadores y Encargados de Máquina Herramienta de Tornear, Metal y Plástico"
+51-4035,"Preparadores, Operadores y Encargados de Máquina Fresadora y Alisadora, Metal y Plástico"
+51-4041,Maquinistas
+51-4051,Operadores y Encargados de Hornos de Refinación de Metal
+51-4052,Vertedores y Fundidores de Metal
+51-4061,"Fabricadores de Moldes, Metal y Plástico "
+51-4062,"Fabricadores de Patrones, Metal y Plástico "
+51-4071,Fabricantes de Moldes de Fundición y Hormas Matrices
+51-4072,"Preparadores, Operadores y Encargados de Máquinas para Matrices y Moldes de Fundición, Metal y Plástico"
+51-4081,"Preparadores, Operadores y Encargados de Diversas Máquinas Herramienta, Metal y Plástico "
+51-4111,Fabricadores de Herramientas y Troqueles 
+51-4121,"Soldadores, Cortadores, Estañadores y Soldadores de Latón"
+51-4122,"Preparadores, Operadores y Encargados de Máquinas de Soldadura de Metal, Estaño y Latón "
+51-4191,"Preparadores, Operadores y Encargados de Equipo de Tratamiento Térmico, Metal y Plástico "
+51-4192,"Trazadores, Metal y Plástico "
+51-4193,"Preparadores, Operadores y Encargados de Máquina de Enchapado y Revestido, Metal y Plástico  "
+51-4194,"Rectificadores, Limadores y Afiladores de Herramientas"
+51-4199,Todos los demás Trabajadores Relacionados con la Producción de Metal y Plástico
+51-5111,Técnicos y Trabajadores de Preimpresión
+51-5112,Operadores de Máquina de Impresión 
+51-5113,Trabajadores de Encuadernación y Acabado Final de Imprenta
+51-6011,Trabajadores de Lavandería y Tintorería 
+51-6021,"Planchadores Textiles, de Indumentaria y Materiales Relacionados"
+51-6031,Operadores de Máquinas de Coser 
+51-6041,Trabajadores y Reparadores de Calzado y Cuero 
+51-6042,Operadores y Encargados de Máquinas de Calzado 
+51-6051,Costureros Manuales 
+51-6052,"Sastres, Modistos y Costureros a Medida"
+51-6061,Operadores y Encargados de Máquinas Textiles de Blanqueado y Teñido
+51-6062,"Preparadores, Operadores y Encargados de Máquinas Textiles de Corte"
+51-6063,"Preparadores, Operadores y Encargados de Máquinas Textiles de Tejido y Tramado"
+51-6064,"Preparadores, Operadores y Encargados de Máquinas Textiles de Devanado, Torsión y Cardado"
+51-6091,"Preparadores, Operadores y Encargados de Máquinas de Extrusión y Moldeado de Fibras Sintéticas y de Vidrio"
+51-6092,Modelistas de Telas e Indumentaria
+51-6093,Tapiceros 
+51-6099,"Todos los demás Trabajadores Textiles, de Indumentaria y Accesorios"
+51-7011,Ebanistas y Carpinteros de Banco 
+51-7021,Ebanistas Encargados del Acabado de Muebles 
+51-7031,"Fabricadores de Modelos, Madera "
+51-7032,"Fabricadores de Patrones, Madera"
+51-7041,"Preparadores, Operadores y Encargados de Máquinas Aserradoras de Madera"
+51-7042,"Preparadores, Operadores y Encargados de Máquinas de Ebanistería y Carpintería, Excepto Aserradoras"
+51-7099,Todos los demás Trabajadores de Ebanistería y Carpintería
+51-8011,Operadores de Reactor de Energía Nuclear
+51-8012,Distribuidores y Despachadores de Energía
+51-8013,Operadores de Planta de Energía Eléctrica
+51-8021,Operadores de Caldera y Mecánicos de Maquinaria Fija
+51-8031,Operadores de Planta y Sistema de Tratamiento de Aguas y Aguas Residuales
+51-8091,Operadores de Planta y Sistema de Procesos Químicos
+51-8092,Operadores de Planta de Gas
+51-8093,"Operadores de Sistema de Bombeo de Petróleo, Operadores de Refinería y Calibradores"
+51-8099,Todos los demás Operadores de Planta y Sistema   
+51-9011,Operadores y Encargados de Equipo Químico
+51-9012,"Preparadores, Operadores y Encargados de Máquinas de Separación, Filtro, Depuración, Precipitación y Destilación"
+51-9021,"Preparadores, Operadores y Encargados de Máquinas de Molido, Trituración y Pulido "
+51-9022,Trabajadores de Molido y Pulido Manual 
+51-9023,"Preparadores, Operadores y Encargados de Máquinas de Mezcla y Licuado "
+51-9031,Cortadores y Rebanadores Manuales 
+51-9032,"Preparadores, Operadores y Encargados de Máquinas de Cortar y Rebanar "
+51-9041,"Preparadores, Operadores y Encargados de Máquinas de Extrusión, Moldeado, Prensado y Compactación "
+51-9051,"Operadores y Encargados de Quemadores, Incineradores, Hornos, Estufas, Secadoras y Calderos"
+51-9061,"Inspectores, Examinadores, Clasificadores, Tomadores de Muestras y Pesadores"
+51-9071,Joyeros y Trabajadores de Piedras y Metales Preciosos
+51-9081,Técnicos de Laboratorio Dental
+51-9082,Técnicos de Aparatos Médicos 
+51-9083,Técnicos de Laboratorio Oftálmico 
+51-9111,Operadores y Encargados de Máquinas de Empaque y Envasado
+51-9121,"Preparadores, Operadores y Encargados de Máquinas de Revestir, Pintar y Rociar"
+51-9122,Pintores de Equipo de Transporte
+51-9123,"Trabajadores de Pintura, Esmaltado y Decoración "
+51-9141,Procesadores de Semiconductores 
+51-9151,Trabajadores de Proceso Fotográfico y Operadores de Máquina de Procesamiento Fotográfico 
+51-9191,Operadores y Encargados de Máquinas de Cemento Adhesivo
+51-9192,"Operadores y Encargados de Equipos de Limpieza, Lavado y Decapado Metálico"
+51-9193,Operadores y Encargados de Equipos de Enfriamiento y Congelamiento
+51-9194,Grabadores y Talladores
+51-9195,"Moldeadores, Modeladores y Fundidores, Excepto Metal y Plástico"
+51-9196,"Preparadores, Operadores y Encargados de Máquinas de Fabricación de Artículos de Papel"
+51-9197,Trabajadores de Fabricación de Neumáticos
+51-9198,Ayudantes de Trabajadores de Ocupaciones Relacionadas con la Producción
+51-9199,Todos los demás Trabajadores de Ocupaciones Relacionadas con la Producción
+53-1011,Supervisores de Transporte Aéreo de Carga
+53-1021,"Supervisores Directos de Ayudantes, Obreros y Acarreadores Manuales de Materiales"
+53-1031,Supervisores Directos de Operadores de Máquinas y Vehículos de Transporte y de Traslado de Materiales   
+53-2011,"Pilotos, Copilotos e Ingenieros de Vuelo de Aerolínea"
+53-2012,Pilotos Comerciales
+53-2021,Controladores de Tráfico Aéreo
+53-2022,Especialistas en Operaciones de Aeropuerto 
+53-2031,Auxiliares de Vuelo 
+53-3011,"Conductores y Asistentes de Ambulancia, Excepto Técnicos de Emergencia Médica"
+53-3021,"Conductores de Autobús, Tránsito e Interurbano"
+53-3022,"Conductores de Autobús, Escolar o de Cliente Especial "
+53-3031,Conductores/Vendedores 
+53-3032,Conductores de Camión Pesado y Tractocamión
+53-3033,Conductores de Camión Liviano o de Servicio de Entrega 
+53-3041,Conductores de Taxi y Choferes 
+53-3099,Todos los demás Operadores de Vehículos de Motor 
+53-4011,Maquinistas de Locomotoras 
+53-4012,Fogoneros 
+53-4013,"Maquinistas Ferroviarios, Operadores de Locomotoras Pequeñas y Obreros de Servicio de Locomotoras"
+53-4021,"Operadores de Frenos, Señales y Cambios de Vías de Ferrocarril"
+53-4031,Coordinadores y Encargados Ferroviarios
+53-4041,Operadores de Subterráneos y Tranvías 
+53-4099,Todos los demás Trabajadores de Transporte Ferroviario 
+53-5011,Marineros y Engrasadores 
+53-5021,"Capitanes, Oficiales y Pilotos de Navíos"
+53-5022,Operadores de Lanchas a Motor
+53-5031,Maquinistas de Barcos
+53-6011,Encargados de Puentes y Compuertas 
+53-6021,Empleados de Áreas de Estacionamiento 
+53-6031,Empleados de Servicio de Vehículos de Motor y Embarcaciones
+53-6041,Técnicos de Tráfico
+53-6051,Inspectores de Transporte
+53-6061,"Auxiliares de Transporte, Excepto Auxiliares de Vuelo"
+53-6099,Todos los demás Trabajadores Relacionados con el Transporte 
+53-7011,Operadores y Encargados de Máquinas Transportadoras 
+53-7021,Operadores de Grúas y Torres
+53-7031,Operadores de Dragadora
+53-7032,"Operadores de Excavadora, Cargadora y Draga de Línea de Baldes"
+53-7033,"Operadores de Máquinas de Carga, Minería Subterránea"
+53-7041,Operadores de Montacargas y Cabrestantes
+53-7051,Operadores de Camiones y Tractores Industriales
+53-7061,Limpiadores de Vehículos y Equipo
+53-7062,"Obreros y Trabajadores Manuales de Traslado de Carga, Mercaderías y Materiales   "
+53-7063,Alimentadores y Descargadores de Máquinas
+53-7064,Empacadores y Embaladores Manuales
+53-7071,Operadores de Compresores de Gas y de Estaciones de Bombeo de Gas
+53-7072,"Operadores de Bombas, Excepto de Sistemas de Bombeo de Pozos"
+53-7073,Operadores de Sistemas de Bombeo de Pozos
+53-7081,Recolectores de Residuos y Materiales Reciclables
+53-7111,Operadores de Carros de Minería 
+53-7121,"Cargadores de Vagones, Camiones y Barcos Tanque"
+53-7199,Todos los demás Trabajadores Relacionados con el Traslado de Materiales
+55-1011,Oficiales de Tripulación Aérea 
+55-1012,Oficiales de Lanzamiento y Recuperación de Aeronaves
+55-1013,Oficiales de Vehículos Blindados de Asalto 
+55-1014,Oficiales de Artillería y Misiles 
+55-1015,Oficiales de Centro de Comando y Control 
+55-1016,Oficiales de Infantería 
+55-1017,Oficiales de Fuerzas Especiales
+55-1019,Todos los demás Oficiales Superiores de las Fuerzas Armadas de Operaciones Especiales y Tácticas
+55-2011,Supervisores Directos de Miembros de Tripulación Aérea
+55-2012,Supervisores Directos de Especialistas en Armas/Miembros de Tripulación 
+55-2013,Supervisores Directos de todos los demás Especialistas en Operaciones Tácticas
+55-3011,Miembros de Tripulación Aérea
+55-3012,Especialistas de Lanzamiento y Recuperación de Aeronaves
+55-3013,Miembros de Tripulación de Vehículos Blindados de Asalto 
+55-3014,Miembros de Tripulación de Artillería y Misiles
+55-3015,Especialistas de Centro de Comando y Control
+55-3016,Infantería
+55-3017,Técnicos de Radar y Sonar
+55-3018,Fuerzas Especiales 
+55-3019,Todos los demás Especialistas en Operaciones Tácticas y Aéreas /Armas y Miembros de Tripulación Enlistados en las Fuerzas Armadas         
