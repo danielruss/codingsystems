@@ -231,7 +231,7 @@
       "soc2010": "11-9199",
       "soc2010_title": "Managers, All Other",
       "soc2018": "13-1082",
-      "soc2018_title": "Project Management Specialists (##)"
+      "soc2018_title": "Project Management Specialists"
    },
    {
       "soc2010": "13-1011",
@@ -345,7 +345,7 @@
       "soc2010": "13-1199",
       "soc2010_title": "Business Operations Specialists, All Other",
       "soc2018": "13-1082",
-      "soc2018_title": "Project Management Specialists (##)"
+      "soc2018_title": "Project Management Specialists"
    },
    {
       "soc2010": "13-1199",
@@ -393,7 +393,7 @@
       "soc2010": "13-2051",
       "soc2010_title": "Financial Analysts",
       "soc2018": "13-2054",
-      "soc2018_title": "Financial Risk Specialists (##)"
+      "soc2018_title": "Financial Risk Specialists"
    },
    {
       "soc2010": "13-2052",
@@ -441,7 +441,7 @@
       "soc2010": "13-2099",
       "soc2010_title": "Financial Specialists, All Other",
       "soc2018": "13-2054",
-      "soc2018_title": "Financial Risk Specialists (##)"
+      "soc2018_title": "Financial Risk Specialists"
    },
    {
       "soc2010": "13-2099",
@@ -477,25 +477,25 @@
       "soc2010": "15-1132",
       "soc2010_title": "Software Developers, Applications",
       "soc2018": "15-1252",
-      "soc2018_title": "Software Developers (##)"
+      "soc2018_title": "Software Developers"
    },
    {
       "soc2010": "15-1132",
       "soc2010_title": "Software Developers, Applications",
       "soc2018": "15-1253",
-      "soc2018_title": "Software Quality Assurance Analysts and Testers (##)"
+      "soc2018_title": "Software Quality Assurance Analysts and Testers"
    },
    {
       "soc2010": "15-1133",
       "soc2010_title": "Software Developers, Systems Software",
       "soc2018": "15-1252",
-      "soc2018_title": "Software Developers (##)"
+      "soc2018_title": "Software Developers"
    },
    {
       "soc2010": "15-1133",
       "soc2010_title": "Software Developers, Systems Software",
       "soc2018": "15-1253",
-      "soc2018_title": "Software Quality Assurance Analysts and Testers (##)"
+      "soc2018_title": "Software Quality Assurance Analysts and Testers"
    },
    {
       "soc2010": "15-1134",
@@ -507,7 +507,7 @@
       "soc2010": "15-1134",
       "soc2010_title": "Web Developers",
       "soc2018": "15-1255",
-      "soc2018_title": "Web and Digital Interface Designers (##)"
+      "soc2018_title": "Web and Digital Interface Designers"
    },
    {
       "soc2010": "15-1141",
@@ -519,7 +519,7 @@
       "soc2010": "15-1141",
       "soc2010_title": "Database Administrators",
       "soc2018": "15-1243",
-      "soc2018_title": "Database Architects (##)"
+      "soc2018_title": "Database Architects"
    },
    {
       "soc2010": "15-1142",
@@ -549,31 +549,31 @@
       "soc2010": "15-1199",
       "soc2010_title": "Computer Occupations, All Other",
       "soc2018": "13-1082",
-      "soc2018_title": "Project Management Specialists (##)"
+      "soc2018_title": "Project Management Specialists"
    },
    {
       "soc2010": "15-1199",
       "soc2010_title": "Computer Occupations, All Other",
       "soc2018": "15-1243",
-      "soc2018_title": "Database Architects (##)"
+      "soc2018_title": "Database Architects"
    },
    {
       "soc2010": "15-1199",
       "soc2010_title": "Computer Occupations, All Other",
       "soc2018": "15-1253",
-      "soc2018_title": "Software Quality Assurance Analysts and Testers (##)"
+      "soc2018_title": "Software Quality Assurance Analysts and Testers"
    },
    {
       "soc2010": "15-1199",
       "soc2010_title": "Computer Occupations, All Other",
       "soc2018": "15-1255",
-      "soc2018_title": "Web and Digital Interface Designers (##)"
+      "soc2018_title": "Web and Digital Interface Designers"
    },
    {
       "soc2010": "15-1199",
       "soc2010_title": "Computer Occupations, All Other",
       "soc2018": "15-1299",
-      "soc2018_title": "Computer Occupations, All Other (##)"
+      "soc2018_title": "Computer Occupations, All Other"
    },
    {
       "soc2010": "15-2011",
@@ -603,7 +603,7 @@
       "soc2010": "15-2091",
       "soc2010_title": "Mathematical Technicians",
       "soc2018": "15-2099",
-      "soc2018_title": "Mathematical Science Occupations, All Other (##)"
+      "soc2018_title": "Mathematical Science Occupations, All Other"
    },
    {
       "soc2010": "15-2099",
@@ -615,7 +615,7 @@
       "soc2010": "15-2099",
       "soc2010_title": "Mathematical Science Occupations, All Other",
       "soc2018": "15-2099",
-      "soc2018_title": "Mathematical Science Occupations, All Other (##)"
+      "soc2018_title": "Mathematical Science Occupations, All Other"
    },
    {
       "soc2010": "17-1011",
@@ -825,7 +825,7 @@
       "soc2010": "17-3029",
       "soc2010_title": "Engineering Technicians, Except Drafters, All Other",
       "soc2018": "17-3029",
-      "soc2018_title": "Engineering Technologists and Technicians, Except Drafters, All Other (##)"
+      "soc2018_title": "Engineering Technologists and Technicians, Except Drafters, All Other"
    },
    {
       "soc2010": "17-3031",
@@ -1071,7 +1071,7 @@
       "soc2010": "19-4041",
       "soc2010_title": "Geological and Petroleum Technicians",
       "soc2018": "19-4044",
-      "soc2018_title": "Hydrologic Technicians (##)"
+      "soc2018_title": "Hydrologic Technicians"
    },
    {
       "soc2010": "19-4051",
@@ -1107,7 +1107,7 @@
       "soc2010": "19-4099",
       "soc2010_title": "Life, Physical, and Social Science Technicians, All Other",
       "soc2018": "19-4044",
-      "soc2018_title": "Hydrologic Technicians (##)"
+      "soc2018_title": "Hydrologic Technicians"
    },
    {
       "soc2010": "19-4099",
@@ -1635,7 +1635,7 @@
       "soc2010": "25-4021",
       "soc2010_title": "Librarians",
       "soc2018": "25-4022",
-      "soc2018_title": "Librarians and Media Collections Specialists (##)"
+      "soc2018_title": "Librarians and Media Collections Specialists"
    },
    {
       "soc2010": "25-4031",
@@ -1647,7 +1647,7 @@
       "soc2010": "25-9011",
       "soc2010_title": "Audio-Visual and Multimedia Collections Specialists",
       "soc2018": "25-4022",
-      "soc2018_title": "Librarians and Media Collections Specialists (##)"
+      "soc2018_title": "Librarians and Media Collections Specialists"
    },
    {
       "soc2010": "25-9021",
@@ -1839,19 +1839,19 @@
       "soc2010": "27-3012",
       "soc2010_title": "Public Address System and Other Announcers",
       "soc2018": "27-3099",
-      "soc2018_title": "Media and Communication Workers, All Other (##)"
+      "soc2018_title": "Media and Communication Workers, All Other"
    },
    {
       "soc2010": "27-3021",
       "soc2010_title": "Broadcast News Analysts",
       "soc2018": "27-3023",
-      "soc2018_title": "News Analysts, Reporters, and Journalists (##)"
+      "soc2018_title": "News Analysts, Reporters, and Journalists"
    },
    {
       "soc2010": "27-3022",
       "soc2010_title": "Reporters and Correspondents",
       "soc2018": "27-3023",
-      "soc2018_title": "News Analysts, Reporters, and Journalists (##)"
+      "soc2018_title": "News Analysts, Reporters, and Journalists"
    },
    {
       "soc2010": "27-3031",
@@ -1887,7 +1887,7 @@
       "soc2010": "27-3099",
       "soc2010_title": "Media and Communication Workers, All Other",
       "soc2018": "27-3099",
-      "soc2018_title": "Media and Communication Workers, All Other (##)"
+      "soc2018_title": "Media and Communication Workers, All Other"
    },
    {
       "soc2010": "27-4011",
@@ -1905,7 +1905,7 @@
       "soc2010": "27-4013",
       "soc2010_title": "Radio Operators",
       "soc2018": "43-2099",
-      "soc2018_title": "Communications Equipment Operators, All Other (##)"
+      "soc2018_title": "Communications Equipment Operators, All Other"
    },
    {
       "soc2010": "27-4014",
@@ -2289,7 +2289,7 @@
       "soc2010": "29-2054",
       "soc2010_title": "Respiratory Therapy Technicians",
       "soc2018": "29-2099",
-      "soc2018_title": "Health Technologists and Technicians, All Other (##)"
+      "soc2018_title": "Health Technologists and Technicians, All Other"
    },
    {
       "soc2010": "29-2055",
@@ -2325,7 +2325,7 @@
       "soc2010": "29-2071",
       "soc2010_title": "Medical Records and Health Information Technicians",
       "soc2018": "29-9021",
-      "soc2018_title": "Health Information Technologists and Medical Registrars (##)"
+      "soc2018_title": "Health Information Technologists and Medical Registrars"
    },
    {
       "soc2010": "29-2081",
@@ -2355,7 +2355,7 @@
       "soc2010": "29-2099",
       "soc2010_title": "Health Technologists and Technicians, All Other",
       "soc2018": "29-2099",
-      "soc2018_title": "Health Technologists and Technicians, All Other (##)"
+      "soc2018_title": "Health Technologists and Technicians, All Other"
    },
    {
       "soc2010": "29-9011",
@@ -2385,7 +2385,7 @@
       "soc2010": "29-9099",
       "soc2010_title": "Healthcare Practitioners and Technical Workers, All Other",
       "soc2018": "29-9021",
-      "soc2018_title": "Health Information Technologists and Medical Registrars (##)"
+      "soc2018_title": "Health Information Technologists and Medical Registrars"
    },
    {
       "soc2010": "29-9099",
@@ -2709,13 +2709,13 @@
       "soc2010": "35-3021",
       "soc2010_title": "Combined Food Preparation and Serving Workers, Including Fast Food",
       "soc2018": "35-3023",
-      "soc2018_title": "Fast Food and Counter Workers (##)"
+      "soc2018_title": "Fast Food and Counter Workers"
    },
    {
       "soc2010": "35-3022",
       "soc2010_title": "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",
       "soc2018": "35-3023",
-      "soc2018_title": "Fast Food and Counter Workers (##)"
+      "soc2018_title": "Fast Food and Counter Workers"
    },
    {
       "soc2010": "35-3031",
@@ -2817,13 +2817,13 @@
       "soc2010": "39-1011",
       "soc2010_title": "Gaming Supervisors",
       "soc2018": "39-1013",
-      "soc2018_title": "First-line Supervisors of Gambling Services Workers (##)"
+      "soc2018_title": "First-line Supervisors of Gambling Services Workers"
    },
    {
       "soc2010": "39-1012",
       "soc2010_title": "Slot Supervisors",
       "soc2018": "39-1013",
-      "soc2018_title": "First-line Supervisors of Gambling Services Workers (##)"
+      "soc2018_title": "First-line Supervisors of Gambling Services Workers"
    },
    {
       "soc2010": "39-1021",
@@ -2841,7 +2841,7 @@
       "soc2010": "39-1021",
       "soc2010_title": "First-Line Supervisors of Personal Service Workers",
       "soc2018": "53-1044",
-      "soc2018_title": "First-line Supervisors of Passenger Attendants (##)"
+      "soc2018_title": "First-line Supervisors of Passenger Attendants"
    },
    {
       "soc2010": "39-2011",
@@ -3183,7 +3183,7 @@
       "soc2010": "43-2099",
       "soc2010_title": "Communications Equipment Operators, All Other",
       "soc2018": "43-2099",
-      "soc2018_title": "Communications Equipment Operators, All Other (##)"
+      "soc2018_title": "Communications Equipment Operators, All Other"
    },
    {
       "soc2010": "43-3011",
@@ -3435,7 +3435,7 @@
       "soc2010": "43-9011",
       "soc2010_title": "Computer Operators",
       "soc2018": "15-1299",
-      "soc2018_title": "Computer Occupations, All Other (##)"
+      "soc2018_title": "Computer Occupations, All Other"
    },
    {
       "soc2010": "43-9021",
@@ -3549,13 +3549,13 @@
       "soc2010": "45-3011",
       "soc2010_title": "Fishers and Related Fishing Workers",
       "soc2018": "45-3031",
-      "soc2018_title": "Fishing and Hunting Workers (##)"
+      "soc2018_title": "Fishing and Hunting Workers"
    },
    {
       "soc2010": "45-3021",
       "soc2010_title": "Hunters and Trappers",
       "soc2018": "45-3031",
-      "soc2018_title": "Fishing and Hunting Workers (##)"
+      "soc2018_title": "Fishing and Hunting Workers"
    },
    {
       "soc2010": "45-4011",
@@ -3897,13 +3897,13 @@
       "soc2010": "47-5021",
       "soc2010_title": "Earth Drillers, Except Oil and Gas",
       "soc2018": "47-5032",
-      "soc2018_title": "Explosives Workers, Ordnance Handling Experts, and Blasters (##)"
+      "soc2018_title": "Explosives Workers, Ordnance Handling Experts, and Blasters"
    },
    {
       "soc2010": "47-5031",
       "soc2010_title": "Explosives Workers, Ordnance Handling Experts, and Blasters",
       "soc2018": "47-5032",
-      "soc2018_title": "Explosives Workers, Ordnance Handling Experts, and Blasters (##)"
+      "soc2018_title": "Explosives Workers, Ordnance Handling Experts, and Blasters"
    },
    {
       "soc2010": "47-5041",
@@ -3915,19 +3915,19 @@
       "soc2010": "47-5042",
       "soc2010_title": "Mine Cutting and Channeling Machine Operators",
       "soc2018": "47-5049",
-      "soc2018_title": "Underground Mining Machine Operators, All Other (##)"
+      "soc2018_title": "Underground Mining Machine Operators, All Other"
    },
    {
       "soc2010": "47-5049",
       "soc2010_title": "Mining Machine Operators, All Other",
       "soc2018": "47-5049",
-      "soc2018_title": "Underground Mining Machine Operators, All Other (##)"
+      "soc2018_title": "Underground Mining Machine Operators, All Other"
    },
    {
       "soc2010": "47-5049",
       "soc2010_title": "Mining Machine Operators, All Other",
       "soc2018": "47-5099",
-      "soc2018_title": "Extraction Workers, All Other (##)"
+      "soc2018_title": "Extraction Workers, All Other"
    },
    {
       "soc2010": "47-5051",
@@ -3957,7 +3957,7 @@
       "soc2010": "47-5099",
       "soc2010_title": "Extraction Workers, All Other",
       "soc2018": "47-5099",
-      "soc2018_title": "Extraction Workers, All Other (##)"
+      "soc2018_title": "Extraction Workers, All Other"
    },
    {
       "soc2010": "49-1011",
@@ -4233,7 +4233,7 @@
       "soc2010": "49-9093",
       "soc2010_title": "Fabric Menders, Except Garment",
       "soc2018": "49-9099",
-      "soc2018_title": "Installation, Maintenance, and Repair Workers, All Other (##)"
+      "soc2018_title": "Installation, Maintenance, and Repair Workers, All Other"
    },
    {
       "soc2010": "49-9094",
@@ -4269,7 +4269,7 @@
       "soc2010": "49-9099",
       "soc2010_title": "Installation, Maintenance, and Repair Workers, All Other",
       "soc2018": "49-9099",
-      "soc2018_title": "Installation, Maintenance, and Repair Workers, All Other (##)"
+      "soc2018_title": "Installation, Maintenance, and Repair Workers, All Other"
    },
    {
       "soc2010": "51-1011",
@@ -4389,13 +4389,13 @@
       "soc2010": "51-4011",
       "soc2010_title": "Computer-Controlled Machine Tool Operators, Metal and Plastic",
       "soc2018": "51-9161",
-      "soc2018_title": "Computer Numerically Controlled Tool Operators (##)"
+      "soc2018_title": "Computer Numerically Controlled Tool Operators"
    },
    {
       "soc2010": "51-4012",
       "soc2010_title": "Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
       "soc2018": "51-9162",
-      "soc2018_title": "Computer Numerically Controlled Tool Programmers (##)"
+      "soc2018_title": "Computer Numerically Controlled Tool Programmers"
    },
    {
       "soc2010": "51-4021",
@@ -4839,13 +4839,13 @@
       "soc2010": "51-9121",
       "soc2010_title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
       "soc2018": "51-9124",
-      "soc2018_title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders (##)"
+      "soc2018_title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
    },
    {
       "soc2010": "51-9122",
       "soc2010_title": "Painters, Transportation Equipment",
       "soc2018": "51-9124",
-      "soc2018_title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders (##)"
+      "soc2018_title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
    },
    {
       "soc2010": "51-9123",
@@ -4917,13 +4917,13 @@
       "soc2010": "51-9199",
       "soc2010_title": "Production Workers, All Other",
       "soc2018": "51-9161",
-      "soc2018_title": "Computer Numerically Controlled Tool Operators (##)"
+      "soc2018_title": "Computer Numerically Controlled Tool Operators"
    },
    {
       "soc2010": "51-9199",
       "soc2010_title": "Production Workers, All Other",
       "soc2018": "51-9162",
-      "soc2018_title": "Computer Numerically Controlled Tool Programmers (##)"
+      "soc2018_title": "Computer Numerically Controlled Tool Programmers"
    },
    {
       "soc2010": "51-9199",
@@ -4953,7 +4953,7 @@
       "soc2010": "53-1031",
       "soc2010_title": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators",
       "soc2018": "53-1044",
-      "soc2018_title": "First-line Supervisors of Passenger Attendants (##)"
+      "soc2018_title": "First-line Supervisors of Passenger Attendants"
    },
    {
       "soc2010": "53-1031",
@@ -5013,7 +5013,7 @@
       "soc2010": "53-3022",
       "soc2010_title": "Bus Drivers, School or Special Client",
       "soc2018": "53-3053",
-      "soc2018_title": "Shuttle Drivers and Chauffeurs (##)"
+      "soc2018_title": "Shuttle Drivers and Chauffeurs"
    },
    {
       "soc2010": "53-3031",
@@ -5037,7 +5037,7 @@
       "soc2010": "53-3041",
       "soc2010_title": "Taxi Drivers and Chauffeurs",
       "soc2018": "53-3053",
-      "soc2018_title": "Shuttle Drivers and Chauffeurs (##)"
+      "soc2018_title": "Shuttle Drivers and Chauffeurs"
    },
    {
       "soc2010": "53-3041",
@@ -5061,7 +5061,7 @@
       "soc2010": "53-4012",
       "soc2010_title": "Locomotive Firers",
       "soc2018": "53-4022",
-      "soc2018_title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers (##)"
+      "soc2018_title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
    },
    {
       "soc2010": "53-4013",
@@ -5073,7 +5073,7 @@
       "soc2010": "53-4021",
       "soc2010_title": "Railroad Brake, Signal, and Switch Operators",
       "soc2018": "53-4022",
-      "soc2018_title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers (##)"
+      "soc2018_title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
    },
    {
       "soc2010": "53-4031",
@@ -5193,13 +5193,13 @@
       "soc2010": "53-7032",
       "soc2010_title": "Excavating and Loading Machine and Dragline Operators",
       "soc2018": "53-7199",
-      "soc2018_title": "Material Moving Workers, All Other (##)"
+      "soc2018_title": "Material Moving Workers, All Other"
    },
    {
       "soc2010": "53-7033",
       "soc2010_title": "Loading Machine Operators, Underground Mining",
       "soc2018": "47-5044",
-      "soc2018_title": "Loading and Moving Machine Operators, Underground Mining (##)"
+      "soc2018_title": "Loading and Moving Machine Operators, Underground Mining"
    },
    {
       "soc2010": "53-7041",
@@ -5265,7 +5265,7 @@
       "soc2010": "53-7111",
       "soc2010_title": "Mine Shuttle Car Operators",
       "soc2018": "47-5044",
-      "soc2018_title": "Loading and Moving Machine Operators, Underground Mining (##)"
+      "soc2018_title": "Loading and Moving Machine Operators, Underground Mining"
    },
    {
       "soc2010": "53-7121",
@@ -5277,7 +5277,7 @@
       "soc2010": "53-7199",
       "soc2010_title": "Material Moving Workers, All Other",
       "soc2018": "53-7199",
-      "soc2018_title": "Material Moving Workers, All Other (##)"
+      "soc2018_title": "Material Moving Workers, All Other"
    },
    {
       "soc2010": "55-1011",
@@ -5385,7 +5385,7 @@
       "soc2010": "55-3017",
       "soc2010_title": "Radar and Sonar Technicians",
       "soc2018": "17-3029",
-      "soc2018_title": "Engineering Technologists and Technicians, Except Drafters, All Other (##)"
+      "soc2018_title": "Engineering Technologists and Technicians, Except Drafters, All Other"
    },
    {
       "soc2010": "55-3018",
