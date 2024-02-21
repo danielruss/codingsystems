@@ -1,0 +1,5403 @@
+[
+   {
+      "soc2010": "11-1011",
+      "soc2010_title": "Chief Executives",
+      "soc2018": "11-1011",
+      "soc2018_title": "Chief Executives"
+   },
+   {
+      "soc2010": "11-1021",
+      "soc2010_title": "General and Operations Managers",
+      "soc2018": "11-1021",
+      "soc2018_title": "General and Operations Managers"
+   },
+   {
+      "soc2010": "11-1031",
+      "soc2010_title": "Legislators",
+      "soc2018": "11-1031",
+      "soc2018_title": "Legislators"
+   },
+   {
+      "soc2010": "11-2011",
+      "soc2010_title": "Advertising and Promotions Managers",
+      "soc2018": "11-2011",
+      "soc2018_title": "Advertising and Promotions Managers"
+   },
+   {
+      "soc2010": "11-2021",
+      "soc2010_title": "Marketing Managers",
+      "soc2018": "11-2021",
+      "soc2018_title": "Marketing Managers"
+   },
+   {
+      "soc2010": "11-2022",
+      "soc2010_title": "Sales Managers",
+      "soc2018": "11-2022",
+      "soc2018_title": "Sales Managers"
+   },
+   {
+      "soc2010": "11-2031",
+      "soc2010_title": "Public Relations and Fundraising Managers",
+      "soc2018": "11-2032",
+      "soc2018_title": "Public Relations Managers"
+   },
+   {
+      "soc2010": "11-2031",
+      "soc2010_title": "Public Relations and Fundraising Managers",
+      "soc2018": "11-2033",
+      "soc2018_title": "Fundraising Managers"
+   },
+   {
+      "soc2010": "11-3011",
+      "soc2010_title": "Administrative Services Managers",
+      "soc2018": "11-3012",
+      "soc2018_title": "Administrative Services Managers"
+   },
+   {
+      "soc2010": "11-3011",
+      "soc2010_title": "Administrative Services Managers",
+      "soc2018": "11-3013",
+      "soc2018_title": "Facilities Managers"
+   },
+   {
+      "soc2010": "11-3021",
+      "soc2010_title": "Computer and Information Systems Managers",
+      "soc2018": "11-3021",
+      "soc2018_title": "Computer and Information Systems Managers"
+   },
+   {
+      "soc2010": "11-3031",
+      "soc2010_title": "Financial Managers",
+      "soc2018": "11-3031",
+      "soc2018_title": "Financial Managers"
+   },
+   {
+      "soc2010": "11-3051",
+      "soc2010_title": "Industrial Production Managers",
+      "soc2018": "11-3051",
+      "soc2018_title": "Industrial Production Managers"
+   },
+   {
+      "soc2010": "11-3061",
+      "soc2010_title": "Purchasing Managers",
+      "soc2018": "11-3061",
+      "soc2018_title": "Purchasing Managers"
+   },
+   {
+      "soc2010": "11-3071",
+      "soc2010_title": "Transportation, Storage, and Distribution Managers",
+      "soc2018": "11-3071",
+      "soc2018_title": "Transportation, Storage, and Distribution Managers"
+   },
+   {
+      "soc2010": "11-3111",
+      "soc2010_title": "Compensation and Benefits Managers",
+      "soc2018": "11-3111",
+      "soc2018_title": "Compensation and Benefits Managers"
+   },
+   {
+      "soc2010": "11-3121",
+      "soc2010_title": "Human Resources Managers",
+      "soc2018": "11-3121",
+      "soc2018_title": "Human Resources Managers"
+   },
+   {
+      "soc2010": "11-3131",
+      "soc2010_title": "Training and Development Managers",
+      "soc2018": "11-3131",
+      "soc2018_title": "Training and Development Managers"
+   },
+   {
+      "soc2010": "11-9013",
+      "soc2010_title": "Farmers, Ranchers, and Other Agricultural Managers",
+      "soc2018": "11-9013",
+      "soc2018_title": "Farmers, Ranchers, and Other Agricultural Managers"
+   },
+   {
+      "soc2010": "11-9021",
+      "soc2010_title": "Construction Managers",
+      "soc2018": "11-9021",
+      "soc2018_title": "Construction Managers"
+   },
+   {
+      "soc2010": "11-9031",
+      "soc2010_title": "Education Administrators, Preschool and Childcare Center/Program",
+      "soc2018": "11-9031",
+      "soc2018_title": "Education and Childcare Administrators, Preschool and Daycare"
+   },
+   {
+      "soc2010": "11-9032",
+      "soc2010_title": "Education Administrators, Elementary and Secondary School",
+      "soc2018": "11-9032",
+      "soc2018_title": "Education Administrators, Kindergarten through Secondary"
+   },
+   {
+      "soc2010": "11-9033",
+      "soc2010_title": "Education Administrators, Postsecondary",
+      "soc2018": "11-9033",
+      "soc2018_title": "Education Administrators, Postsecondary"
+   },
+   {
+      "soc2010": "11-9039",
+      "soc2010_title": "Education Administrators, All Other",
+      "soc2018": "11-9039",
+      "soc2018_title": "Education Administrators, All Other"
+   },
+   {
+      "soc2010": "11-9041",
+      "soc2010_title": "Architectural and Engineering Managers",
+      "soc2018": "11-9041",
+      "soc2018_title": "Architectural and Engineering Managers"
+   },
+   {
+      "soc2010": "11-9051",
+      "soc2010_title": "Food Service Managers",
+      "soc2018": "11-9051",
+      "soc2018_title": "Food Service Managers"
+   },
+   {
+      "soc2010": "11-9061",
+      "soc2010_title": "Funeral Service Managers",
+      "soc2018": "11-9171",
+      "soc2018_title": "Funeral Home Managers"
+   },
+   {
+      "soc2010": "11-9071",
+      "soc2010_title": "Gaming Managers",
+      "soc2018": "11-9071",
+      "soc2018_title": "Gambling Managers"
+   },
+   {
+      "soc2010": "11-9081",
+      "soc2010_title": "Lodging Managers",
+      "soc2018": "11-9081",
+      "soc2018_title": "Lodging Managers"
+   },
+   {
+      "soc2010": "11-9111",
+      "soc2010_title": "Medical and Health Services Managers",
+      "soc2018": "11-9111",
+      "soc2018_title": "Medical and Health Services Managers"
+   },
+   {
+      "soc2010": "11-9121",
+      "soc2010_title": "Natural Sciences Managers",
+      "soc2018": "11-9121",
+      "soc2018_title": "Natural Sciences Managers"
+   },
+   {
+      "soc2010": "11-9131",
+      "soc2010_title": "Postmasters and Mail Superintendents",
+      "soc2018": "11-9131",
+      "soc2018_title": "Postmasters and Mail Superintendents"
+   },
+   {
+      "soc2010": "11-9141",
+      "soc2010_title": "Property, Real Estate, and Community Association Managers",
+      "soc2018": "11-9141",
+      "soc2018_title": "Property, Real Estate, and Community Association Managers"
+   },
+   {
+      "soc2010": "11-9151",
+      "soc2010_title": "Social and Community Service Managers",
+      "soc2018": "11-9151",
+      "soc2018_title": "Social and Community Service Managers"
+   },
+   {
+      "soc2010": "11-9161",
+      "soc2010_title": "Emergency Management Directors",
+      "soc2018": "11-9161",
+      "soc2018_title": "Emergency Management Directors"
+   },
+   {
+      "soc2010": "11-9199",
+      "soc2010_title": "Managers, All Other",
+      "soc2018": "11-9072",
+      "soc2018_title": "Entertainment and Recreation Managers, Except Gambling"
+   },
+   {
+      "soc2010": "11-9199",
+      "soc2010_title": "Managers, All Other",
+      "soc2018": "11-9179",
+      "soc2018_title": "Personal Service Managers, All Other"
+   },
+   {
+      "soc2010": "11-9199",
+      "soc2010_title": "Managers, All Other",
+      "soc2018": "11-9199",
+      "soc2018_title": "Managers, All Other"
+   },
+   {
+      "soc2010": "11-9199",
+      "soc2010_title": "Managers, All Other",
+      "soc2018": "13-1082",
+      "soc2018_title": "Project Management Specialists (##)"
+   },
+   {
+      "soc2010": "13-1011",
+      "soc2010_title": "Agents and Business Managers of Artists, Performers, and Athletes",
+      "soc2018": "13-1011",
+      "soc2018_title": "Agents and Business Managers of Artists, Performers, and Athletes"
+   },
+   {
+      "soc2010": "13-1021",
+      "soc2010_title": "Buyers and Purchasing Agents, Farm Products",
+      "soc2018": "13-1021",
+      "soc2018_title": "Buyers and Purchasing Agents, Farm Products"
+   },
+   {
+      "soc2010": "13-1022",
+      "soc2010_title": "Wholesale and Retail Buyers, Except Farm Products",
+      "soc2018": "13-1022",
+      "soc2018_title": "Wholesale and Retail Buyers, Except Farm Products"
+   },
+   {
+      "soc2010": "13-1023",
+      "soc2010_title": "Purchasing Agents, Except Wholesale, Retail, and Farm Products",
+      "soc2018": "13-1023",
+      "soc2018_title": "Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+   },
+   {
+      "soc2010": "13-1031",
+      "soc2010_title": "Claims Adjusters, Examiners, and Investigators",
+      "soc2018": "13-1031",
+      "soc2018_title": "Claims Adjusters, Examiners, and Investigators"
+   },
+   {
+      "soc2010": "13-1032",
+      "soc2010_title": "Insurance Appraisers, Auto Damage",
+      "soc2018": "13-1032",
+      "soc2018_title": "Insurance Appraisers, Auto Damage"
+   },
+   {
+      "soc2010": "13-1041",
+      "soc2010_title": "Compliance Officers",
+      "soc2018": "13-1041",
+      "soc2018_title": "Compliance Officers"
+   },
+   {
+      "soc2010": "13-1051",
+      "soc2010_title": "Cost Estimators",
+      "soc2018": "13-1051",
+      "soc2018_title": "Cost Estimators"
+   },
+   {
+      "soc2010": "13-1071",
+      "soc2010_title": "Human Resources Specialists",
+      "soc2018": "13-1071",
+      "soc2018_title": "Human Resources Specialists"
+   },
+   {
+      "soc2010": "13-1074",
+      "soc2010_title": "Farm Labor Contractors",
+      "soc2018": "13-1074",
+      "soc2018_title": "Farm Labor Contractors"
+   },
+   {
+      "soc2010": "13-1075",
+      "soc2010_title": "Labor Relations Specialists",
+      "soc2018": "13-1075",
+      "soc2018_title": "Labor Relations Specialists"
+   },
+   {
+      "soc2010": "13-1081",
+      "soc2010_title": "Logisticians",
+      "soc2018": "13-1081",
+      "soc2018_title": "Logisticians"
+   },
+   {
+      "soc2010": "13-1111",
+      "soc2010_title": "Management Analysts",
+      "soc2018": "13-1111",
+      "soc2018_title": "Management Analysts"
+   },
+   {
+      "soc2010": "13-1121",
+      "soc2010_title": "Meeting, Convention, and Event Planners",
+      "soc2018": "13-1121",
+      "soc2018_title": "Meeting, Convention, and Event Planners"
+   },
+   {
+      "soc2010": "13-1131",
+      "soc2010_title": "Fundraisers",
+      "soc2018": "13-1131",
+      "soc2018_title": "Fundraisers"
+   },
+   {
+      "soc2010": "13-1141",
+      "soc2010_title": "Compensation, Benefits, and Job Analysis Specialists",
+      "soc2018": "13-1141",
+      "soc2018_title": "Compensation, Benefits, and Job Analysis Specialists"
+   },
+   {
+      "soc2010": "13-1151",
+      "soc2010_title": "Training and Development Specialists",
+      "soc2018": "13-1151",
+      "soc2018_title": "Training and Development Specialists"
+   },
+   {
+      "soc2010": "13-1161",
+      "soc2010_title": "Market Research Analysts and Marketing Specialists",
+      "soc2018": "13-1161",
+      "soc2018_title": "Market Research Analysts and Marketing Specialists"
+   },
+   {
+      "soc2010": "13-1199",
+      "soc2010_title": "Business Operations Specialists, All Other",
+      "soc2018": "13-1082",
+      "soc2018_title": "Project Management Specialists (##)"
+   },
+   {
+      "soc2010": "13-1199",
+      "soc2010_title": "Business Operations Specialists, All Other",
+      "soc2018": "13-1199",
+      "soc2018_title": "Business Operations Specialists, All Other"
+   },
+   {
+      "soc2010": "13-2011",
+      "soc2010_title": "Accountants and Auditors",
+      "soc2018": "13-2011",
+      "soc2018_title": "Accountants and Auditors"
+   },
+   {
+      "soc2010": "13-2021",
+      "soc2010_title": "Appraisers and Assessors of Real Estate",
+      "soc2018": "13-2022",
+      "soc2018_title": "Appraisers of Personal and Business Property"
+   },
+   {
+      "soc2010": "13-2021",
+      "soc2010_title": "Appraisers and Assessors of Real Estate",
+      "soc2018": "13-2023",
+      "soc2018_title": "Appraisers and Assessors of Real Estate"
+   },
+   {
+      "soc2010": "13-2031",
+      "soc2010_title": "Budget Analysts",
+      "soc2018": "13-2031",
+      "soc2018_title": "Budget Analysts"
+   },
+   {
+      "soc2010": "13-2041",
+      "soc2010_title": "Credit Analysts",
+      "soc2018": "13-2041",
+      "soc2018_title": "Credit Analysts"
+   },
+   {
+      "soc2010": "13-2051",
+      "soc2010_title": "Financial Analysts",
+      "soc2018": "13-2051",
+      "soc2018_title": "Financial and Investment Analysts"
+   },
+   {
+      "soc2010": "13-2051",
+      "soc2010_title": "Financial Analysts",
+      "soc2018": "13-2054",
+      "soc2018_title": "Financial Risk Specialists (##)"
+   },
+   {
+      "soc2010": "13-2052",
+      "soc2010_title": "Personal Financial Advisors",
+      "soc2018": "13-2052",
+      "soc2018_title": "Personal Financial Advisors"
+   },
+   {
+      "soc2010": "13-2053",
+      "soc2010_title": "Insurance Underwriters",
+      "soc2018": "13-2053",
+      "soc2018_title": "Insurance Underwriters"
+   },
+   {
+      "soc2010": "13-2061",
+      "soc2010_title": "Financial Examiners",
+      "soc2018": "13-2061",
+      "soc2018_title": "Financial Examiners"
+   },
+   {
+      "soc2010": "13-2071",
+      "soc2010_title": "Credit Counselors",
+      "soc2018": "13-2071",
+      "soc2018_title": "Credit Counselors"
+   },
+   {
+      "soc2010": "13-2072",
+      "soc2010_title": "Loan Officers",
+      "soc2018": "13-2072",
+      "soc2018_title": "Loan Officers"
+   },
+   {
+      "soc2010": "13-2081",
+      "soc2010_title": "Tax Examiners and Collectors, and Revenue Agents",
+      "soc2018": "13-2081",
+      "soc2018_title": "Tax Examiners and Collectors, and Revenue Agents"
+   },
+   {
+      "soc2010": "13-2082",
+      "soc2010_title": "Tax Preparers",
+      "soc2018": "13-2082",
+      "soc2018_title": "Tax Preparers"
+   },
+   {
+      "soc2010": "13-2099",
+      "soc2010_title": "Financial Specialists, All Other",
+      "soc2018": "13-2054",
+      "soc2018_title": "Financial Risk Specialists (##)"
+   },
+   {
+      "soc2010": "13-2099",
+      "soc2010_title": "Financial Specialists, All Other",
+      "soc2018": "13-2099",
+      "soc2018_title": "Financial Specialists, All Other"
+   },
+   {
+      "soc2010": "15-1111",
+      "soc2010_title": "Computer and Information Research Scientists",
+      "soc2018": "15-1221",
+      "soc2018_title": "Computer and Information Research Scientists"
+   },
+   {
+      "soc2010": "15-1121",
+      "soc2010_title": "Computer Systems Analysts",
+      "soc2018": "15-1211",
+      "soc2018_title": "Computer Systems Analysts"
+   },
+   {
+      "soc2010": "15-1122",
+      "soc2010_title": "Information Security Analysts",
+      "soc2018": "15-1212",
+      "soc2018_title": "Information Security Analysts"
+   },
+   {
+      "soc2010": "15-1131",
+      "soc2010_title": "Computer Programmers",
+      "soc2018": "15-1251",
+      "soc2018_title": "Computer Programmers"
+   },
+   {
+      "soc2010": "15-1132",
+      "soc2010_title": "Software Developers, Applications",
+      "soc2018": "15-1252",
+      "soc2018_title": "Software Developers (##)"
+   },
+   {
+      "soc2010": "15-1132",
+      "soc2010_title": "Software Developers, Applications",
+      "soc2018": "15-1253",
+      "soc2018_title": "Software Quality Assurance Analysts and Testers (##)"
+   },
+   {
+      "soc2010": "15-1133",
+      "soc2010_title": "Software Developers, Systems Software",
+      "soc2018": "15-1252",
+      "soc2018_title": "Software Developers (##)"
+   },
+   {
+      "soc2010": "15-1133",
+      "soc2010_title": "Software Developers, Systems Software",
+      "soc2018": "15-1253",
+      "soc2018_title": "Software Quality Assurance Analysts and Testers (##)"
+   },
+   {
+      "soc2010": "15-1134",
+      "soc2010_title": "Web Developers",
+      "soc2018": "15-1254",
+      "soc2018_title": "Web Developers"
+   },
+   {
+      "soc2010": "15-1134",
+      "soc2010_title": "Web Developers",
+      "soc2018": "15-1255",
+      "soc2018_title": "Web and Digital Interface Designers (##)"
+   },
+   {
+      "soc2010": "15-1141",
+      "soc2010_title": "Database Administrators",
+      "soc2018": "15-1242",
+      "soc2018_title": "Database Administrators"
+   },
+   {
+      "soc2010": "15-1141",
+      "soc2010_title": "Database Administrators",
+      "soc2018": "15-1243",
+      "soc2018_title": "Database Architects (##)"
+   },
+   {
+      "soc2010": "15-1142",
+      "soc2010_title": "Network and Computer Systems Administrators",
+      "soc2018": "15-1244",
+      "soc2018_title": "Network and Computer Systems Administrators"
+   },
+   {
+      "soc2010": "15-1143",
+      "soc2010_title": "Computer Network Architects",
+      "soc2018": "15-1241",
+      "soc2018_title": "Computer Network Architects"
+   },
+   {
+      "soc2010": "15-1151",
+      "soc2010_title": "Computer User Support Specialists",
+      "soc2018": "15-1232",
+      "soc2018_title": "Computer User Support Specialists"
+   },
+   {
+      "soc2010": "15-1152",
+      "soc2010_title": "Computer Network Support Specialists",
+      "soc2018": "15-1231",
+      "soc2018_title": "Computer Network Support Specialists"
+   },
+   {
+      "soc2010": "15-1199",
+      "soc2010_title": "Computer Occupations, All Other",
+      "soc2018": "13-1082",
+      "soc2018_title": "Project Management Specialists (##)"
+   },
+   {
+      "soc2010": "15-1199",
+      "soc2010_title": "Computer Occupations, All Other",
+      "soc2018": "15-1243",
+      "soc2018_title": "Database Architects (##)"
+   },
+   {
+      "soc2010": "15-1199",
+      "soc2010_title": "Computer Occupations, All Other",
+      "soc2018": "15-1253",
+      "soc2018_title": "Software Quality Assurance Analysts and Testers (##)"
+   },
+   {
+      "soc2010": "15-1199",
+      "soc2010_title": "Computer Occupations, All Other",
+      "soc2018": "15-1255",
+      "soc2018_title": "Web and Digital Interface Designers (##)"
+   },
+   {
+      "soc2010": "15-1199",
+      "soc2010_title": "Computer Occupations, All Other",
+      "soc2018": "15-1299",
+      "soc2018_title": "Computer Occupations, All Other (##)"
+   },
+   {
+      "soc2010": "15-2011",
+      "soc2010_title": "Actuaries",
+      "soc2018": "15-2011",
+      "soc2018_title": "Actuaries"
+   },
+   {
+      "soc2010": "15-2021",
+      "soc2010_title": "Mathematicians",
+      "soc2018": "15-2021",
+      "soc2018_title": "Mathematicians"
+   },
+   {
+      "soc2010": "15-2031",
+      "soc2010_title": "Operations Research Analysts",
+      "soc2018": "15-2031",
+      "soc2018_title": "Operations Research Analysts"
+   },
+   {
+      "soc2010": "15-2041",
+      "soc2010_title": "Statisticians",
+      "soc2018": "15-2041",
+      "soc2018_title": "Statisticians"
+   },
+   {
+      "soc2010": "15-2091",
+      "soc2010_title": "Mathematical Technicians",
+      "soc2018": "15-2099",
+      "soc2018_title": "Mathematical Science Occupations, All Other (##)"
+   },
+   {
+      "soc2010": "15-2099",
+      "soc2010_title": "Mathematical Science Occupations, All Other",
+      "soc2018": "15-2051",
+      "soc2018_title": "Data Scientists"
+   },
+   {
+      "soc2010": "15-2099",
+      "soc2010_title": "Mathematical Science Occupations, All Other",
+      "soc2018": "15-2099",
+      "soc2018_title": "Mathematical Science Occupations, All Other (##)"
+   },
+   {
+      "soc2010": "17-1011",
+      "soc2010_title": "Architects, Except Landscape and Naval",
+      "soc2018": "17-1011",
+      "soc2018_title": "Architects, Except Landscape and Naval"
+   },
+   {
+      "soc2010": "17-1012",
+      "soc2010_title": "Landscape Architects",
+      "soc2018": "17-1012",
+      "soc2018_title": "Landscape Architects"
+   },
+   {
+      "soc2010": "17-1021",
+      "soc2010_title": "Cartographers and Photogrammetrists",
+      "soc2018": "17-1021",
+      "soc2018_title": "Cartographers and Photogrammetrists"
+   },
+   {
+      "soc2010": "17-1022",
+      "soc2010_title": "Surveyors",
+      "soc2018": "17-1022",
+      "soc2018_title": "Surveyors"
+   },
+   {
+      "soc2010": "17-2011",
+      "soc2010_title": "Aerospace Engineers",
+      "soc2018": "17-2011",
+      "soc2018_title": "Aerospace Engineers"
+   },
+   {
+      "soc2010": "17-2021",
+      "soc2010_title": "Agricultural Engineers",
+      "soc2018": "17-2021",
+      "soc2018_title": "Agricultural Engineers"
+   },
+   {
+      "soc2010": "17-2031",
+      "soc2010_title": "Biomedical Engineers",
+      "soc2018": "17-2031",
+      "soc2018_title": "Bioengineers and Biomedical Engineers"
+   },
+   {
+      "soc2010": "17-2041",
+      "soc2010_title": "Chemical Engineers",
+      "soc2018": "17-2041",
+      "soc2018_title": "Chemical Engineers"
+   },
+   {
+      "soc2010": "17-2051",
+      "soc2010_title": "Civil Engineers",
+      "soc2018": "17-2051",
+      "soc2018_title": "Civil Engineers"
+   },
+   {
+      "soc2010": "17-2061",
+      "soc2010_title": "Computer Hardware Engineers",
+      "soc2018": "17-2061",
+      "soc2018_title": "Computer Hardware Engineers"
+   },
+   {
+      "soc2010": "17-2071",
+      "soc2010_title": "Electrical Engineers",
+      "soc2018": "17-2071",
+      "soc2018_title": "Electrical Engineers"
+   },
+   {
+      "soc2010": "17-2072",
+      "soc2010_title": "Electronics Engineers, Except Computer",
+      "soc2018": "17-2072",
+      "soc2018_title": "Electronics Engineers, Except Computer"
+   },
+   {
+      "soc2010": "17-2081",
+      "soc2010_title": "Environmental Engineers",
+      "soc2018": "17-2081",
+      "soc2018_title": "Environmental Engineers"
+   },
+   {
+      "soc2010": "17-2111",
+      "soc2010_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "soc2018": "17-2111",
+      "soc2018_title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+   },
+   {
+      "soc2010": "17-2112",
+      "soc2010_title": "Industrial Engineers",
+      "soc2018": "17-2112",
+      "soc2018_title": "Industrial Engineers"
+   },
+   {
+      "soc2010": "17-2121",
+      "soc2010_title": "Marine Engineers and Naval Architects",
+      "soc2018": "17-2121",
+      "soc2018_title": "Marine Engineers and Naval Architects"
+   },
+   {
+      "soc2010": "17-2131",
+      "soc2010_title": "Materials Engineers",
+      "soc2018": "17-2131",
+      "soc2018_title": "Materials Engineers"
+   },
+   {
+      "soc2010": "17-2141",
+      "soc2010_title": "Mechanical Engineers",
+      "soc2018": "17-2141",
+      "soc2018_title": "Mechanical Engineers"
+   },
+   {
+      "soc2010": "17-2151",
+      "soc2010_title": "Mining and Geological Engineers, Including Mining Safety Engineers",
+      "soc2018": "17-2151",
+      "soc2018_title": "Mining and Geological Engineers, Including Mining Safety Engineers"
+   },
+   {
+      "soc2010": "17-2161",
+      "soc2010_title": "Nuclear Engineers",
+      "soc2018": "17-2161",
+      "soc2018_title": "Nuclear Engineers"
+   },
+   {
+      "soc2010": "17-2171",
+      "soc2010_title": "Petroleum Engineers",
+      "soc2018": "17-2171",
+      "soc2018_title": "Petroleum Engineers"
+   },
+   {
+      "soc2010": "17-2199",
+      "soc2010_title": "Engineers, All Other",
+      "soc2018": "17-2199",
+      "soc2018_title": "Engineers, All Other"
+   },
+   {
+      "soc2010": "17-3011",
+      "soc2010_title": "Architectural and Civil Drafters",
+      "soc2018": "17-3011",
+      "soc2018_title": "Architectural and Civil Drafters"
+   },
+   {
+      "soc2010": "17-3012",
+      "soc2010_title": "Electrical and Electronics Drafters",
+      "soc2018": "17-3012",
+      "soc2018_title": "Electrical and Electronics Drafters"
+   },
+   {
+      "soc2010": "17-3013",
+      "soc2010_title": "Mechanical Drafters",
+      "soc2018": "17-3013",
+      "soc2018_title": "Mechanical Drafters"
+   },
+   {
+      "soc2010": "17-3019",
+      "soc2010_title": "Drafters, All Other",
+      "soc2018": "17-3019",
+      "soc2018_title": "Drafters, All Other"
+   },
+   {
+      "soc2010": "17-3021",
+      "soc2010_title": "Aerospace Engineering and Operations Technicians",
+      "soc2018": "17-3021",
+      "soc2018_title": "Aerospace Engineering and Operations Technologists and Technicians"
+   },
+   {
+      "soc2010": "17-3022",
+      "soc2010_title": "Civil Engineering Technicians",
+      "soc2018": "17-3022",
+      "soc2018_title": "Civil Engineering Technologists and Technicians"
+   },
+   {
+      "soc2010": "17-3023",
+      "soc2010_title": "Electrical and Electronics Engineering Technicians",
+      "soc2018": "17-3023",
+      "soc2018_title": "Electrical and Electronic Engineering Technologists and Technicians"
+   },
+   {
+      "soc2010": "17-3024",
+      "soc2010_title": "Electro-Mechanical Technicians",
+      "soc2018": "17-3024",
+      "soc2018_title": "Electro-Mechanical and Mechatronics Technologists and Technicians"
+   },
+   {
+      "soc2010": "17-3025",
+      "soc2010_title": "Environmental Engineering Technicians",
+      "soc2018": "17-3025",
+      "soc2018_title": "Environmental Engineering Technologists and Technicians"
+   },
+   {
+      "soc2010": "17-3026",
+      "soc2010_title": "Industrial Engineering Technicians",
+      "soc2018": "17-3026",
+      "soc2018_title": "Industrial Engineering Technologists and Technicians"
+   },
+   {
+      "soc2010": "17-3027",
+      "soc2010_title": "Mechanical Engineering Technicians",
+      "soc2018": "17-3027",
+      "soc2018_title": "Mechanical Engineering Technologists and Technicians"
+   },
+   {
+      "soc2010": "17-3029",
+      "soc2010_title": "Engineering Technicians, Except Drafters, All Other",
+      "soc2018": "17-3028",
+      "soc2018_title": "Calibration Technologists and Technicians"
+   },
+   {
+      "soc2010": "17-3029",
+      "soc2010_title": "Engineering Technicians, Except Drafters, All Other",
+      "soc2018": "17-3029",
+      "soc2018_title": "Engineering Technologists and Technicians, Except Drafters, All Other (##)"
+   },
+   {
+      "soc2010": "17-3031",
+      "soc2010_title": "Surveying and Mapping Technicians",
+      "soc2018": "17-3031",
+      "soc2018_title": "Surveying and Mapping Technicians"
+   },
+   {
+      "soc2010": "19-1011",
+      "soc2010_title": "Animal Scientists",
+      "soc2018": "19-1011",
+      "soc2018_title": "Animal Scientists"
+   },
+   {
+      "soc2010": "19-1012",
+      "soc2010_title": "Food Scientists and Technologists",
+      "soc2018": "19-1012",
+      "soc2018_title": "Food Scientists and Technologists"
+   },
+   {
+      "soc2010": "19-1013",
+      "soc2010_title": "Soil and Plant Scientists",
+      "soc2018": "19-1013",
+      "soc2018_title": "Soil and Plant Scientists"
+   },
+   {
+      "soc2010": "19-1021",
+      "soc2010_title": "Biochemists and Biophysicists",
+      "soc2018": "19-1021",
+      "soc2018_title": "Biochemists and Biophysicists"
+   },
+   {
+      "soc2010": "19-1022",
+      "soc2010_title": "Microbiologists",
+      "soc2018": "19-1022",
+      "soc2018_title": "Microbiologists"
+   },
+   {
+      "soc2010": "19-1023",
+      "soc2010_title": "Zoologists and Wildlife Biologists",
+      "soc2018": "19-1023",
+      "soc2018_title": "Zoologists and Wildlife Biologists"
+   },
+   {
+      "soc2010": "19-1029",
+      "soc2010_title": "Biological Scientists, All Other",
+      "soc2018": "19-1029",
+      "soc2018_title": "Biological Scientists, All Other"
+   },
+   {
+      "soc2010": "19-1031",
+      "soc2010_title": "Conservation Scientists",
+      "soc2018": "19-1031",
+      "soc2018_title": "Conservation Scientists"
+   },
+   {
+      "soc2010": "19-1032",
+      "soc2010_title": "Foresters",
+      "soc2018": "19-1032",
+      "soc2018_title": "Foresters"
+   },
+   {
+      "soc2010": "19-1041",
+      "soc2010_title": "Epidemiologists",
+      "soc2018": "19-1041",
+      "soc2018_title": "Epidemiologists"
+   },
+   {
+      "soc2010": "19-1042",
+      "soc2010_title": "Medical Scientists, Except Epidemiologists",
+      "soc2018": "19-1042",
+      "soc2018_title": "Medical Scientists, Except Epidemiologists"
+   },
+   {
+      "soc2010": "19-1099",
+      "soc2010_title": "Life Scientists, All Other",
+      "soc2018": "19-1099",
+      "soc2018_title": "Life Scientists, All Other"
+   },
+   {
+      "soc2010": "19-2011",
+      "soc2010_title": "Astronomers",
+      "soc2018": "19-2011",
+      "soc2018_title": "Astronomers"
+   },
+   {
+      "soc2010": "19-2012",
+      "soc2010_title": "Physicists",
+      "soc2018": "19-2012",
+      "soc2018_title": "Physicists"
+   },
+   {
+      "soc2010": "19-2021",
+      "soc2010_title": "Atmospheric and Space Scientists",
+      "soc2018": "19-2021",
+      "soc2018_title": "Atmospheric and Space Scientists"
+   },
+   {
+      "soc2010": "19-2031",
+      "soc2010_title": "Chemists",
+      "soc2018": "19-2031",
+      "soc2018_title": "Chemists"
+   },
+   {
+      "soc2010": "19-2032",
+      "soc2010_title": "Materials Scientists",
+      "soc2018": "19-2032",
+      "soc2018_title": "Materials Scientists"
+   },
+   {
+      "soc2010": "19-2041",
+      "soc2010_title": "Environmental Scientists and Specialists, Including Health",
+      "soc2018": "19-2041",
+      "soc2018_title": "Environmental Scientists and Specialists, Including Health"
+   },
+   {
+      "soc2010": "19-2042",
+      "soc2010_title": "Geoscientists, Except Hydrologists and Geographers",
+      "soc2018": "19-2042",
+      "soc2018_title": "Geoscientists, Except Hydrologists and Geographers"
+   },
+   {
+      "soc2010": "19-2043",
+      "soc2010_title": "Hydrologists",
+      "soc2018": "19-2043",
+      "soc2018_title": "Hydrologists"
+   },
+   {
+      "soc2010": "19-2099",
+      "soc2010_title": "Physical Scientists, All Other",
+      "soc2018": "19-2099",
+      "soc2018_title": "Physical Scientists, All Other"
+   },
+   {
+      "soc2010": "19-3011",
+      "soc2010_title": "Economists",
+      "soc2018": "19-3011",
+      "soc2018_title": "Economists"
+   },
+   {
+      "soc2010": "19-3022",
+      "soc2010_title": "Survey Researchers",
+      "soc2018": "19-3022",
+      "soc2018_title": "Survey Researchers"
+   },
+   {
+      "soc2010": "19-3031",
+      "soc2010_title": "Clinical, Counseling, and School Psychologists",
+      "soc2018": "19-3033",
+      "soc2018_title": "Clinical and Counseling Psychologists"
+   },
+   {
+      "soc2010": "19-3031",
+      "soc2010_title": "Clinical, Counseling, and School Psychologists",
+      "soc2018": "19-3034",
+      "soc2018_title": "School Psychologists"
+   },
+   {
+      "soc2010": "19-3032",
+      "soc2010_title": "Industrial-Organizational Psychologists",
+      "soc2018": "19-3032",
+      "soc2018_title": "Industrial-Organizational Psychologists"
+   },
+   {
+      "soc2010": "19-3039",
+      "soc2010_title": "Psychologists, All Other",
+      "soc2018": "19-3039",
+      "soc2018_title": "Psychologists, All Other"
+   },
+   {
+      "soc2010": "19-3041",
+      "soc2010_title": "Sociologists",
+      "soc2018": "19-3041",
+      "soc2018_title": "Sociologists"
+   },
+   {
+      "soc2010": "19-3051",
+      "soc2010_title": "Urban and Regional Planners",
+      "soc2018": "19-3051",
+      "soc2018_title": "Urban and Regional Planners"
+   },
+   {
+      "soc2010": "19-3091",
+      "soc2010_title": "Anthropologists and Archeologists",
+      "soc2018": "19-3091",
+      "soc2018_title": "Anthropologists and Archeologists"
+   },
+   {
+      "soc2010": "19-3092",
+      "soc2010_title": "Geographers",
+      "soc2018": "19-3092",
+      "soc2018_title": "Geographers"
+   },
+   {
+      "soc2010": "19-3093",
+      "soc2010_title": "Historians",
+      "soc2018": "19-3093",
+      "soc2018_title": "Historians"
+   },
+   {
+      "soc2010": "19-3094",
+      "soc2010_title": "Political Scientists",
+      "soc2018": "19-3094",
+      "soc2018_title": "Political Scientists"
+   },
+   {
+      "soc2010": "19-3099",
+      "soc2010_title": "Social Scientists and Related Workers, All Other",
+      "soc2018": "19-3099",
+      "soc2018_title": "Social Scientists and Related Workers, All Other"
+   },
+   {
+      "soc2010": "19-4011",
+      "soc2010_title": "Agricultural and Food Science Technicians",
+      "soc2018": "19-4012",
+      "soc2018_title": "Agricultural Technicians"
+   },
+   {
+      "soc2010": "19-4011",
+      "soc2010_title": "Agricultural and Food Science Technicians",
+      "soc2018": "19-4013",
+      "soc2018_title": "Food Science Technicians"
+   },
+   {
+      "soc2010": "19-4021",
+      "soc2010_title": "Biological Technicians",
+      "soc2018": "19-4021",
+      "soc2018_title": "Biological Technicians"
+   },
+   {
+      "soc2010": "19-4031",
+      "soc2010_title": "Chemical Technicians",
+      "soc2018": "19-4031",
+      "soc2018_title": "Chemical Technicians"
+   },
+   {
+      "soc2010": "19-4041",
+      "soc2010_title": "Geological and Petroleum Technicians",
+      "soc2018": "19-4043",
+      "soc2018_title": "Geological Technicians, Except Hydrologic Technicians"
+   },
+   {
+      "soc2010": "19-4041",
+      "soc2010_title": "Geological and Petroleum Technicians",
+      "soc2018": "19-4044",
+      "soc2018_title": "Hydrologic Technicians (##)"
+   },
+   {
+      "soc2010": "19-4051",
+      "soc2010_title": "Nuclear Technicians",
+      "soc2018": "19-4051",
+      "soc2018_title": "Nuclear Technicians"
+   },
+   {
+      "soc2010": "19-4061",
+      "soc2010_title": "Social Science Research Assistants",
+      "soc2018": "19-4061",
+      "soc2018_title": "Social Science Research Assistants"
+   },
+   {
+      "soc2010": "19-4091",
+      "soc2010_title": "Environmental Science and Protection Technicians, Including Health",
+      "soc2018": "19-4042",
+      "soc2018_title": "Environmental Science and Protection Technicians, Including Health"
+   },
+   {
+      "soc2010": "19-4092",
+      "soc2010_title": "Forensic Science Technicians",
+      "soc2018": "19-4092",
+      "soc2018_title": "Forensic Science Technicians"
+   },
+   {
+      "soc2010": "19-4093",
+      "soc2010_title": "Forest and Conservation Technicians",
+      "soc2018": "19-4071",
+      "soc2018_title": "Forest and Conservation Technicians"
+   },
+   {
+      "soc2010": "19-4099",
+      "soc2010_title": "Life, Physical, and Social Science Technicians, All Other",
+      "soc2018": "19-4044",
+      "soc2018_title": "Hydrologic Technicians (##)"
+   },
+   {
+      "soc2010": "19-4099",
+      "soc2010_title": "Life, Physical, and Social Science Technicians, All Other",
+      "soc2018": "19-4099",
+      "soc2018_title": "Life, Physical, and Social Science Technicians, All Other"
+   },
+   {
+      "soc2010": "21-1011",
+      "soc2010_title": "Substance Abuse and Behavioral Disorder Counselors",
+      "soc2018": "21-1011",
+      "soc2018_title": "Substance Abuse and Behavioral Disorder Counselors"
+   },
+   {
+      "soc2010": "21-1012",
+      "soc2010_title": "Educational, Guidance, School, and Vocational Counselors",
+      "soc2018": "21-1012",
+      "soc2018_title": "Educational, Guidance, and Career Counselors and Advisors"
+   },
+   {
+      "soc2010": "21-1013",
+      "soc2010_title": "Marriage and Family Therapists",
+      "soc2018": "21-1013",
+      "soc2018_title": "Marriage and Family Therapists"
+   },
+   {
+      "soc2010": "21-1014",
+      "soc2010_title": "Mental Health Counselors",
+      "soc2018": "21-1014",
+      "soc2018_title": "Mental Health Counselors"
+   },
+   {
+      "soc2010": "21-1015",
+      "soc2010_title": "Rehabilitation Counselors",
+      "soc2018": "21-1015",
+      "soc2018_title": "Rehabilitation Counselors"
+   },
+   {
+      "soc2010": "21-1019",
+      "soc2010_title": "Counselors, All Other",
+      "soc2018": "21-1019",
+      "soc2018_title": "Counselors, All Other"
+   },
+   {
+      "soc2010": "21-1021",
+      "soc2010_title": "Child, Family, and School Social Workers",
+      "soc2018": "21-1021",
+      "soc2018_title": "Child, Family, and School Social Workers"
+   },
+   {
+      "soc2010": "21-1022",
+      "soc2010_title": "Healthcare Social Workers",
+      "soc2018": "21-1022",
+      "soc2018_title": "Healthcare Social Workers"
+   },
+   {
+      "soc2010": "21-1023",
+      "soc2010_title": "Mental Health and Substance Abuse Social Workers",
+      "soc2018": "21-1023",
+      "soc2018_title": "Mental Health and Substance Abuse Social Workers"
+   },
+   {
+      "soc2010": "21-1029",
+      "soc2010_title": "Social Workers, All Other",
+      "soc2018": "21-1029",
+      "soc2018_title": "Social Workers, All Other"
+   },
+   {
+      "soc2010": "21-1091",
+      "soc2010_title": "Health Educators",
+      "soc2018": "21-1091",
+      "soc2018_title": "Health Education Specialists"
+   },
+   {
+      "soc2010": "21-1092",
+      "soc2010_title": "Probation Officers and Correctional Treatment Specialists",
+      "soc2018": "21-1092",
+      "soc2018_title": "Probation Officers and Correctional Treatment Specialists"
+   },
+   {
+      "soc2010": "21-1093",
+      "soc2010_title": "Social and Human Service Assistants",
+      "soc2018": "21-1093",
+      "soc2018_title": "Social and Human Service Assistants"
+   },
+   {
+      "soc2010": "21-1094",
+      "soc2010_title": "Community Health Workers",
+      "soc2018": "21-1094",
+      "soc2018_title": "Community Health Workers"
+   },
+   {
+      "soc2010": "21-1099",
+      "soc2010_title": "Community and Social Service Specialists, All Other",
+      "soc2018": "21-1099",
+      "soc2018_title": "Community and Social Service Specialists, All Other"
+   },
+   {
+      "soc2010": "21-2011",
+      "soc2010_title": "Clergy",
+      "soc2018": "21-2011",
+      "soc2018_title": "Clergy"
+   },
+   {
+      "soc2010": "21-2021",
+      "soc2010_title": "Directors, Religious Activities and Education",
+      "soc2018": "21-2021",
+      "soc2018_title": "Directors, Religious Activities and Education"
+   },
+   {
+      "soc2010": "21-2099",
+      "soc2010_title": "Religious Workers, All Other",
+      "soc2018": "21-2099",
+      "soc2018_title": "Religious Workers, All Other"
+   },
+   {
+      "soc2010": "23-1011",
+      "soc2010_title": "Lawyers",
+      "soc2018": "23-1011",
+      "soc2018_title": "Lawyers"
+   },
+   {
+      "soc2010": "23-1012",
+      "soc2010_title": "Judicial Law Clerks",
+      "soc2018": "23-1012",
+      "soc2018_title": "Judicial Law Clerks"
+   },
+   {
+      "soc2010": "23-1021",
+      "soc2010_title": "Administrative Law Judges, Adjudicators, and Hearing Officers",
+      "soc2018": "23-1021",
+      "soc2018_title": "Administrative Law Judges, Adjudicators, and Hearing Officers"
+   },
+   {
+      "soc2010": "23-1022",
+      "soc2010_title": "Arbitrators, Mediators, and Conciliators",
+      "soc2018": "23-1022",
+      "soc2018_title": "Arbitrators, Mediators, and Conciliators"
+   },
+   {
+      "soc2010": "23-1023",
+      "soc2010_title": "Judges, Magistrate Judges, and Magistrates",
+      "soc2018": "23-1023",
+      "soc2018_title": "Judges, Magistrate Judges, and Magistrates"
+   },
+   {
+      "soc2010": "23-2011",
+      "soc2010_title": "Paralegals and Legal Assistants",
+      "soc2018": "23-2011",
+      "soc2018_title": "Paralegals and Legal Assistants"
+   },
+   {
+      "soc2010": "23-2091",
+      "soc2010_title": "Court Reporters",
+      "soc2018": "27-3092",
+      "soc2018_title": "Court Reporters and Simultaneous Captioners"
+   },
+   {
+      "soc2010": "23-2093",
+      "soc2010_title": "Title Examiners, Abstractors, and Searchers",
+      "soc2018": "23-2093",
+      "soc2018_title": "Title Examiners, Abstractors, and Searchers"
+   },
+   {
+      "soc2010": "23-2099",
+      "soc2010_title": "Legal Support Workers, All Other",
+      "soc2018": "23-2099",
+      "soc2018_title": "Legal Support Workers, All Other"
+   },
+   {
+      "soc2010": "25-1011",
+      "soc2010_title": "Business Teachers, Postsecondary",
+      "soc2018": "25-1011",
+      "soc2018_title": "Business Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1021",
+      "soc2010_title": "Computer Science Teachers, Postsecondary",
+      "soc2018": "25-1021",
+      "soc2018_title": "Computer Science Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1022",
+      "soc2010_title": "Mathematical Science Teachers, Postsecondary",
+      "soc2018": "25-1022",
+      "soc2018_title": "Mathematical Science Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1031",
+      "soc2010_title": "Architecture Teachers, Postsecondary",
+      "soc2018": "25-1031",
+      "soc2018_title": "Architecture Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1032",
+      "soc2010_title": "Engineering Teachers, Postsecondary",
+      "soc2018": "25-1032",
+      "soc2018_title": "Engineering Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1041",
+      "soc2010_title": "Agricultural Sciences Teachers, Postsecondary",
+      "soc2018": "25-1041",
+      "soc2018_title": "Agricultural Sciences Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1042",
+      "soc2010_title": "Biological Science Teachers, Postsecondary",
+      "soc2018": "25-1042",
+      "soc2018_title": "Biological Science Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1043",
+      "soc2010_title": "Forestry and Conservation Science Teachers, Postsecondary",
+      "soc2018": "25-1043",
+      "soc2018_title": "Forestry and Conservation Science Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1051",
+      "soc2010_title": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+      "soc2018": "25-1051",
+      "soc2018_title": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1052",
+      "soc2010_title": "Chemistry Teachers, Postsecondary",
+      "soc2018": "25-1052",
+      "soc2018_title": "Chemistry Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1053",
+      "soc2010_title": "Environmental Science Teachers, Postsecondary",
+      "soc2018": "25-1053",
+      "soc2018_title": "Environmental Science Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1054",
+      "soc2010_title": "Physics Teachers, Postsecondary",
+      "soc2018": "25-1054",
+      "soc2018_title": "Physics Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1061",
+      "soc2010_title": "Anthropology and Archeology Teachers, Postsecondary",
+      "soc2018": "25-1061",
+      "soc2018_title": "Anthropology and Archeology Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1062",
+      "soc2010_title": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary",
+      "soc2018": "25-1062",
+      "soc2018_title": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1063",
+      "soc2010_title": "Economics Teachers, Postsecondary",
+      "soc2018": "25-1063",
+      "soc2018_title": "Economics Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1064",
+      "soc2010_title": "Geography Teachers, Postsecondary",
+      "soc2018": "25-1064",
+      "soc2018_title": "Geography Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1065",
+      "soc2010_title": "Political Science Teachers, Postsecondary",
+      "soc2018": "25-1065",
+      "soc2018_title": "Political Science Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1066",
+      "soc2010_title": "Psychology Teachers, Postsecondary",
+      "soc2018": "25-1066",
+      "soc2018_title": "Psychology Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1067",
+      "soc2010_title": "Sociology Teachers, Postsecondary",
+      "soc2018": "25-1067",
+      "soc2018_title": "Sociology Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1069",
+      "soc2010_title": "Social Sciences Teachers, Postsecondary, All Other",
+      "soc2018": "25-1069",
+      "soc2018_title": "Social Sciences Teachers, Postsecondary, All Other"
+   },
+   {
+      "soc2010": "25-1071",
+      "soc2010_title": "Health Specialties Teachers, Postsecondary",
+      "soc2018": "25-1071",
+      "soc2018_title": "Health Specialties Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1072",
+      "soc2010_title": "Nursing Instructors and Teachers, Postsecondary",
+      "soc2018": "25-1072",
+      "soc2018_title": "Nursing Instructors and Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1081",
+      "soc2010_title": "Education Teachers, Postsecondary",
+      "soc2018": "25-1081",
+      "soc2018_title": "Education Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1082",
+      "soc2010_title": "Library Science Teachers, Postsecondary",
+      "soc2018": "25-1082",
+      "soc2018_title": "Library Science Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1111",
+      "soc2010_title": "Criminal Justice and Law Enforcement Teachers, Postsecondary",
+      "soc2018": "25-1111",
+      "soc2018_title": "Criminal Justice and Law Enforcement Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1112",
+      "soc2010_title": "Law Teachers, Postsecondary",
+      "soc2018": "25-1112",
+      "soc2018_title": "Law Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1113",
+      "soc2010_title": "Social Work Teachers, Postsecondary",
+      "soc2018": "25-1113",
+      "soc2018_title": "Social Work Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1121",
+      "soc2010_title": "Art, Drama, and Music Teachers, Postsecondary",
+      "soc2018": "25-1121",
+      "soc2018_title": "Art, Drama, and Music Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1122",
+      "soc2010_title": "Communications Teachers, Postsecondary",
+      "soc2018": "25-1122",
+      "soc2018_title": "Communications Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1123",
+      "soc2010_title": "English Language and Literature Teachers, Postsecondary",
+      "soc2018": "25-1123",
+      "soc2018_title": "English Language and Literature Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1124",
+      "soc2010_title": "Foreign Language and Literature Teachers, Postsecondary",
+      "soc2018": "25-1124",
+      "soc2018_title": "Foreign Language and Literature Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1125",
+      "soc2010_title": "History Teachers, Postsecondary",
+      "soc2018": "25-1125",
+      "soc2018_title": "History Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1126",
+      "soc2010_title": "Philosophy and Religion Teachers, Postsecondary",
+      "soc2018": "25-1126",
+      "soc2018_title": "Philosophy and Religion Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1191",
+      "soc2010_title": "Graduate Teaching Assistants",
+      "soc2018": "25-9044",
+      "soc2018_title": "Teaching Assistants, Postsecondary"
+   },
+   {
+      "soc2010": "25-1192",
+      "soc2010_title": "Home Economics Teachers, Postsecondary",
+      "soc2018": "25-1192",
+      "soc2018_title": "Family and Consumer Sciences Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1193",
+      "soc2010_title": "Recreation and Fitness Studies Teachers, Postsecondary",
+      "soc2018": "25-1193",
+      "soc2018_title": "Recreation and Fitness Studies Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1194",
+      "soc2010_title": "Vocational Education Teachers, Postsecondary",
+      "soc2018": "25-1194",
+      "soc2018_title": "Career/Technical Education Teachers, Postsecondary"
+   },
+   {
+      "soc2010": "25-1199",
+      "soc2010_title": "Postsecondary Teachers, All Other",
+      "soc2018": "25-1199",
+      "soc2018_title": "Postsecondary Teachers, All Other"
+   },
+   {
+      "soc2010": "25-2011",
+      "soc2010_title": "Preschool Teachers, Except Special Education",
+      "soc2018": "25-2011",
+      "soc2018_title": "Preschool Teachers, Except Special Education"
+   },
+   {
+      "soc2010": "25-2012",
+      "soc2010_title": "Kindergarten Teachers, Except Special Education",
+      "soc2018": "25-2012",
+      "soc2018_title": "Kindergarten Teachers, Except Special Education"
+   },
+   {
+      "soc2010": "25-2021",
+      "soc2010_title": "Elementary School Teachers, Except Special Education",
+      "soc2018": "25-2021",
+      "soc2018_title": "Elementary School Teachers, Except Special Education"
+   },
+   {
+      "soc2010": "25-2022",
+      "soc2010_title": "Middle School Teachers, Except Special and Career/Technical Education",
+      "soc2018": "25-2022",
+      "soc2018_title": "Middle School Teachers, Except Special and Career/Technical Education"
+   },
+   {
+      "soc2010": "25-2023",
+      "soc2010_title": "Career/Technical Education Teachers, Middle School",
+      "soc2018": "25-2023",
+      "soc2018_title": "Career/Technical Education Teachers, Middle School"
+   },
+   {
+      "soc2010": "25-2031",
+      "soc2010_title": "Secondary School Teachers, Except Special and Career/Technical Education",
+      "soc2018": "25-2031",
+      "soc2018_title": "Secondary School Teachers, Except Special and Career/Technical Education"
+   },
+   {
+      "soc2010": "25-2032",
+      "soc2010_title": "Career/Technical Education Teachers, Secondary School",
+      "soc2018": "25-2032",
+      "soc2018_title": "Career/Technical Education Teachers, Secondary School"
+   },
+   {
+      "soc2010": "25-2051",
+      "soc2010_title": "Special Education Teachers, Preschool",
+      "soc2018": "25-2051",
+      "soc2018_title": "Special Education Teachers, Preschool"
+   },
+   {
+      "soc2010": "25-2052",
+      "soc2010_title": "Special Education Teachers, Kindergarten and Elementary School",
+      "soc2018": "25-2055",
+      "soc2018_title": "Special Education Teachers, Kindergarten"
+   },
+   {
+      "soc2010": "25-2052",
+      "soc2010_title": "Special Education Teachers, Kindergarten and Elementary School",
+      "soc2018": "25-2056",
+      "soc2018_title": "Special Education Teachers, Elementary School"
+   },
+   {
+      "soc2010": "25-2053",
+      "soc2010_title": "Special Education Teachers, Middle School",
+      "soc2018": "25-2057",
+      "soc2018_title": "Special Education Teachers, Middle School"
+   },
+   {
+      "soc2010": "25-2054",
+      "soc2010_title": "Special Education Teachers, Secondary School",
+      "soc2018": "25-2058",
+      "soc2018_title": "Special Education Teachers, Secondary School"
+   },
+   {
+      "soc2010": "25-2059",
+      "soc2010_title": "Special Education Teachers, All Other",
+      "soc2018": "25-2059",
+      "soc2018_title": "Special Education Teachers, All Other"
+   },
+   {
+      "soc2010": "25-3011",
+      "soc2010_title": "Adult Basic and Secondary Education and Literacy Teachers and Instructors",
+      "soc2018": "25-3011",
+      "soc2018_title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
+   },
+   {
+      "soc2010": "25-3021",
+      "soc2010_title": "Self-Enrichment Education Teachers",
+      "soc2018": "25-3021",
+      "soc2018_title": "Self-Enrichment Teachers"
+   },
+   {
+      "soc2010": "25-3099",
+      "soc2010_title": "Teachers and Instructors, All Other",
+      "soc2018": "25-3031",
+      "soc2018_title": "Substitute Teachers, Short-Term"
+   },
+   {
+      "soc2010": "25-3099",
+      "soc2010_title": "Teachers and Instructors, All Other",
+      "soc2018": "25-3041",
+      "soc2018_title": "Tutors"
+   },
+   {
+      "soc2010": "25-3099",
+      "soc2010_title": "Teachers and Instructors, All Other",
+      "soc2018": "25-3099",
+      "soc2018_title": "Teachers and Instructors, All Other"
+   },
+   {
+      "soc2010": "25-4011",
+      "soc2010_title": "Archivists",
+      "soc2018": "25-4011",
+      "soc2018_title": "Archivists"
+   },
+   {
+      "soc2010": "25-4012",
+      "soc2010_title": "Curators",
+      "soc2018": "25-4012",
+      "soc2018_title": "Curators"
+   },
+   {
+      "soc2010": "25-4013",
+      "soc2010_title": "Museum Technicians and Conservators",
+      "soc2018": "25-4013",
+      "soc2018_title": "Museum Technicians and Conservators"
+   },
+   {
+      "soc2010": "25-4021",
+      "soc2010_title": "Librarians",
+      "soc2018": "25-4022",
+      "soc2018_title": "Librarians and Media Collections Specialists (##)"
+   },
+   {
+      "soc2010": "25-4031",
+      "soc2010_title": "Library Technicians",
+      "soc2018": "25-4031",
+      "soc2018_title": "Library Technicians"
+   },
+   {
+      "soc2010": "25-9011",
+      "soc2010_title": "Audio-Visual and Multimedia Collections Specialists",
+      "soc2018": "25-4022",
+      "soc2018_title": "Librarians and Media Collections Specialists (##)"
+   },
+   {
+      "soc2010": "25-9021",
+      "soc2010_title": "Farm and Home Management Advisors",
+      "soc2018": "25-9021",
+      "soc2018_title": "Farm and Home Management Educators"
+   },
+   {
+      "soc2010": "25-9031",
+      "soc2010_title": "Instructional Coordinators",
+      "soc2018": "25-9031",
+      "soc2018_title": "Instructional Coordinators"
+   },
+   {
+      "soc2010": "25-9041",
+      "soc2010_title": "Teacher Assistants",
+      "soc2018": "25-9042",
+      "soc2018_title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education"
+   },
+   {
+      "soc2010": "25-9041",
+      "soc2010_title": "Teacher Assistants",
+      "soc2018": "25-9043",
+      "soc2018_title": "Teaching Assistants, Special Education"
+   },
+   {
+      "soc2010": "25-9041",
+      "soc2010_title": "Teacher Assistants",
+      "soc2018": "25-9049",
+      "soc2018_title": "Teaching Assistants, All Other"
+   },
+   {
+      "soc2010": "25-9099",
+      "soc2010_title": "Education, Training, and Library Workers, All Other",
+      "soc2018": "25-9099",
+      "soc2018_title": "Educational Instruction and Library Workers, All Other"
+   },
+   {
+      "soc2010": "27-1011",
+      "soc2010_title": "Art Directors",
+      "soc2018": "27-1011",
+      "soc2018_title": "Art Directors"
+   },
+   {
+      "soc2010": "27-1012",
+      "soc2010_title": "Craft Artists",
+      "soc2018": "27-1012",
+      "soc2018_title": "Craft Artists"
+   },
+   {
+      "soc2010": "27-1013",
+      "soc2010_title": "Fine Artists, Including Painters, Sculptors, and Illustrators",
+      "soc2018": "27-1013",
+      "soc2018_title": "Fine Artists, Including Painters, Sculptors, and Illustrators"
+   },
+   {
+      "soc2010": "27-1014",
+      "soc2010_title": "Multimedia Artists and Animators",
+      "soc2018": "27-1014",
+      "soc2018_title": "Special Effects Artists and Animators"
+   },
+   {
+      "soc2010": "27-1019",
+      "soc2010_title": "Artists and Related Workers, All Other",
+      "soc2018": "27-1019",
+      "soc2018_title": "Artists and Related Workers, All Other"
+   },
+   {
+      "soc2010": "27-1021",
+      "soc2010_title": "Commercial and Industrial Designers",
+      "soc2018": "27-1021",
+      "soc2018_title": "Commercial and Industrial Designers"
+   },
+   {
+      "soc2010": "27-1022",
+      "soc2010_title": "Fashion Designers",
+      "soc2018": "27-1022",
+      "soc2018_title": "Fashion Designers"
+   },
+   {
+      "soc2010": "27-1023",
+      "soc2010_title": "Floral Designers",
+      "soc2018": "27-1023",
+      "soc2018_title": "Floral Designers"
+   },
+   {
+      "soc2010": "27-1024",
+      "soc2010_title": "Graphic Designers",
+      "soc2018": "27-1024",
+      "soc2018_title": "Graphic Designers"
+   },
+   {
+      "soc2010": "27-1025",
+      "soc2010_title": "Interior Designers",
+      "soc2018": "27-1025",
+      "soc2018_title": "Interior Designers"
+   },
+   {
+      "soc2010": "27-1026",
+      "soc2010_title": "Merchandise Displayers and Window Trimmers",
+      "soc2018": "27-1026",
+      "soc2018_title": "Merchandise Displayers and Window Trimmers"
+   },
+   {
+      "soc2010": "27-1027",
+      "soc2010_title": "Set and Exhibit Designers",
+      "soc2018": "27-1027",
+      "soc2018_title": "Set and Exhibit Designers"
+   },
+   {
+      "soc2010": "27-1029",
+      "soc2010_title": "Designers, All Other",
+      "soc2018": "27-1029",
+      "soc2018_title": "Designers, All Other"
+   },
+   {
+      "soc2010": "27-2011",
+      "soc2010_title": "Actors",
+      "soc2018": "27-2011",
+      "soc2018_title": "Actors"
+   },
+   {
+      "soc2010": "27-2012",
+      "soc2010_title": "Producers and Directors",
+      "soc2018": "27-2012",
+      "soc2018_title": "Producers and Directors"
+   },
+   {
+      "soc2010": "27-2021",
+      "soc2010_title": "Athletes and Sports Competitors",
+      "soc2018": "27-2021",
+      "soc2018_title": "Athletes and Sports Competitors"
+   },
+   {
+      "soc2010": "27-2022",
+      "soc2010_title": "Coaches and Scouts",
+      "soc2018": "27-2022",
+      "soc2018_title": "Coaches and Scouts"
+   },
+   {
+      "soc2010": "27-2023",
+      "soc2010_title": "Umpires, Referees, and Other Sports Officials",
+      "soc2018": "27-2023",
+      "soc2018_title": "Umpires, Referees, and Other Sports Officials"
+   },
+   {
+      "soc2010": "27-2031",
+      "soc2010_title": "Dancers",
+      "soc2018": "27-2031",
+      "soc2018_title": "Dancers"
+   },
+   {
+      "soc2010": "27-2032",
+      "soc2010_title": "Choreographers",
+      "soc2018": "27-2032",
+      "soc2018_title": "Choreographers"
+   },
+   {
+      "soc2010": "27-2041",
+      "soc2010_title": "Music Directors and Composers",
+      "soc2018": "27-2041",
+      "soc2018_title": "Music Directors and Composers"
+   },
+   {
+      "soc2010": "27-2042",
+      "soc2010_title": "Musicians and Singers",
+      "soc2018": "27-2042",
+      "soc2018_title": "Musicians and Singers"
+   },
+   {
+      "soc2010": "27-2099",
+      "soc2010_title": "Entertainers and Performers, Sports and Related Workers, All Other",
+      "soc2018": "27-2091",
+      "soc2018_title": "Disc Jockeys, Except Radio"
+   },
+   {
+      "soc2010": "27-2099",
+      "soc2010_title": "Entertainers and Performers, Sports and Related Workers, All Other",
+      "soc2018": "27-2099",
+      "soc2018_title": "Entertainers and Performers, Sports and Related Workers, All Other"
+   },
+   {
+      "soc2010": "27-3011",
+      "soc2010_title": "Radio and Television Announcers",
+      "soc2018": "27-3011",
+      "soc2018_title": "Broadcast Announcers and Radio Disc Jockeys"
+   },
+   {
+      "soc2010": "27-3012",
+      "soc2010_title": "Public Address System and Other Announcers",
+      "soc2018": "27-3099",
+      "soc2018_title": "Media and Communication Workers, All Other (##)"
+   },
+   {
+      "soc2010": "27-3021",
+      "soc2010_title": "Broadcast News Analysts",
+      "soc2018": "27-3023",
+      "soc2018_title": "News Analysts, Reporters, and Journalists (##)"
+   },
+   {
+      "soc2010": "27-3022",
+      "soc2010_title": "Reporters and Correspondents",
+      "soc2018": "27-3023",
+      "soc2018_title": "News Analysts, Reporters, and Journalists (##)"
+   },
+   {
+      "soc2010": "27-3031",
+      "soc2010_title": "Public Relations Specialists",
+      "soc2018": "27-3031",
+      "soc2018_title": "Public Relations Specialists"
+   },
+   {
+      "soc2010": "27-3041",
+      "soc2010_title": "Editors",
+      "soc2018": "27-3041",
+      "soc2018_title": "Editors"
+   },
+   {
+      "soc2010": "27-3042",
+      "soc2010_title": "Technical Writers",
+      "soc2018": "27-3042",
+      "soc2018_title": "Technical Writers"
+   },
+   {
+      "soc2010": "27-3043",
+      "soc2010_title": "Writers and Authors",
+      "soc2018": "27-3043",
+      "soc2018_title": "Writers and Authors"
+   },
+   {
+      "soc2010": "27-3091",
+      "soc2010_title": "Interpreters and Translators",
+      "soc2018": "27-3091",
+      "soc2018_title": "Interpreters and Translators"
+   },
+   {
+      "soc2010": "27-3099",
+      "soc2010_title": "Media and Communication Workers, All Other",
+      "soc2018": "27-3099",
+      "soc2018_title": "Media and Communication Workers, All Other (##)"
+   },
+   {
+      "soc2010": "27-4011",
+      "soc2010_title": "Audio and Video Equipment Technicians",
+      "soc2018": "27-4011",
+      "soc2018_title": "Audio and Video Technicians"
+   },
+   {
+      "soc2010": "27-4012",
+      "soc2010_title": "Broadcast Technicians",
+      "soc2018": "27-4012",
+      "soc2018_title": "Broadcast Technicians"
+   },
+   {
+      "soc2010": "27-4013",
+      "soc2010_title": "Radio Operators",
+      "soc2018": "43-2099",
+      "soc2018_title": "Communications Equipment Operators, All Other (##)"
+   },
+   {
+      "soc2010": "27-4014",
+      "soc2010_title": "Sound Engineering Technicians",
+      "soc2018": "27-4014",
+      "soc2018_title": "Sound Engineering Technicians"
+   },
+   {
+      "soc2010": "27-4021",
+      "soc2010_title": "Photographers",
+      "soc2018": "27-4021",
+      "soc2018_title": "Photographers"
+   },
+   {
+      "soc2010": "27-4031",
+      "soc2010_title": "Camera Operators, Television, Video, and Motion Picture",
+      "soc2018": "27-4031",
+      "soc2018_title": "Camera Operators, Television, Video, and Film"
+   },
+   {
+      "soc2010": "27-4032",
+      "soc2010_title": "Film and Video Editors",
+      "soc2018": "27-4032",
+      "soc2018_title": "Film and Video Editors"
+   },
+   {
+      "soc2010": "27-4099",
+      "soc2010_title": "Media and Communication Equipment Workers, All Other",
+      "soc2018": "27-4015",
+      "soc2018_title": "Lighting Technicians"
+   },
+   {
+      "soc2010": "27-4099",
+      "soc2010_title": "Media and Communication Equipment Workers, All Other",
+      "soc2018": "27-4099",
+      "soc2018_title": "Media and Communication Equipment Workers, All Other"
+   },
+   {
+      "soc2010": "29-1011",
+      "soc2010_title": "Chiropractors",
+      "soc2018": "29-1011",
+      "soc2018_title": "Chiropractors"
+   },
+   {
+      "soc2010": "29-1021",
+      "soc2010_title": "Dentists, General",
+      "soc2018": "29-1021",
+      "soc2018_title": "Dentists, General"
+   },
+   {
+      "soc2010": "29-1022",
+      "soc2010_title": "Oral and Maxillofacial Surgeons",
+      "soc2018": "29-1022",
+      "soc2018_title": "Oral and Maxillofacial Surgeons"
+   },
+   {
+      "soc2010": "29-1023",
+      "soc2010_title": "Orthodontists",
+      "soc2018": "29-1023",
+      "soc2018_title": "Orthodontists"
+   },
+   {
+      "soc2010": "29-1024",
+      "soc2010_title": "Prosthodontists",
+      "soc2018": "29-1024",
+      "soc2018_title": "Prosthodontists"
+   },
+   {
+      "soc2010": "29-1029",
+      "soc2010_title": "Dentists, All Other Specialists",
+      "soc2018": "29-1029",
+      "soc2018_title": "Dentists, All Other Specialists"
+   },
+   {
+      "soc2010": "29-1031",
+      "soc2010_title": "Dietitians and Nutritionists",
+      "soc2018": "29-1031",
+      "soc2018_title": "Dietitians and Nutritionists"
+   },
+   {
+      "soc2010": "29-1041",
+      "soc2010_title": "Optometrists",
+      "soc2018": "29-1041",
+      "soc2018_title": "Optometrists"
+   },
+   {
+      "soc2010": "29-1051",
+      "soc2010_title": "Pharmacists",
+      "soc2018": "29-1051",
+      "soc2018_title": "Pharmacists"
+   },
+   {
+      "soc2010": "29-1061",
+      "soc2010_title": "Anesthesiologists",
+      "soc2018": "29-1211",
+      "soc2018_title": "Anesthesiologists"
+   },
+   {
+      "soc2010": "29-1062",
+      "soc2010_title": "Family and General Practitioners",
+      "soc2018": "29-1215",
+      "soc2018_title": "Family Medicine Physicians"
+   },
+   {
+      "soc2010": "29-1063",
+      "soc2010_title": "Internists, General",
+      "soc2018": "29-1216",
+      "soc2018_title": "General Internal Medicine Physicians"
+   },
+   {
+      "soc2010": "29-1064",
+      "soc2010_title": "Obstetricians and Gynecologists",
+      "soc2018": "29-1218",
+      "soc2018_title": "Obstetricians and Gynecologists"
+   },
+   {
+      "soc2010": "29-1065",
+      "soc2010_title": "Pediatricians, General",
+      "soc2018": "29-1221",
+      "soc2018_title": "Pediatricians, General"
+   },
+   {
+      "soc2010": "29-1066",
+      "soc2010_title": "Psychiatrists",
+      "soc2018": "29-1223",
+      "soc2018_title": "Psychiatrists"
+   },
+   {
+      "soc2010": "29-1067",
+      "soc2010_title": "Surgeons",
+      "soc2018": "29-1242",
+      "soc2018_title": "Orthopedic Surgeons, Except Pediatric"
+   },
+   {
+      "soc2010": "29-1067",
+      "soc2010_title": "Surgeons",
+      "soc2018": "29-1243",
+      "soc2018_title": "Pediatric Surgeons"
+   },
+   {
+      "soc2010": "29-1067",
+      "soc2010_title": "Surgeons",
+      "soc2018": "29-1249",
+      "soc2018_title": "Surgeons, All Other"
+   },
+   {
+      "soc2010": "29-1069",
+      "soc2010_title": "Physicians and Surgeons, All Other",
+      "soc2018": "29-1212",
+      "soc2018_title": "Cardiologists"
+   },
+   {
+      "soc2010": "29-1069",
+      "soc2010_title": "Physicians and Surgeons, All Other",
+      "soc2018": "29-1213",
+      "soc2018_title": "Dermatologists"
+   },
+   {
+      "soc2010": "29-1069",
+      "soc2010_title": "Physicians and Surgeons, All Other",
+      "soc2018": "29-1214",
+      "soc2018_title": "Emergency Medicine Physicians"
+   },
+   {
+      "soc2010": "29-1069",
+      "soc2010_title": "Physicians and Surgeons, All Other",
+      "soc2018": "29-1217",
+      "soc2018_title": "Neurologists"
+   },
+   {
+      "soc2010": "29-1069",
+      "soc2010_title": "Physicians and Surgeons, All Other",
+      "soc2018": "29-1222",
+      "soc2018_title": "Physicians, Pathologists"
+   },
+   {
+      "soc2010": "29-1069",
+      "soc2010_title": "Physicians and Surgeons, All Other",
+      "soc2018": "29-1224",
+      "soc2018_title": "Radiologists"
+   },
+   {
+      "soc2010": "29-1069",
+      "soc2010_title": "Physicians and Surgeons, All Other",
+      "soc2018": "29-1229",
+      "soc2018_title": "Physicians, All Other"
+   },
+   {
+      "soc2010": "29-1069",
+      "soc2010_title": "Physicians and Surgeons, All Other",
+      "soc2018": "29-1241",
+      "soc2018_title": "Ophthalmologists, Except Pediatric"
+   },
+   {
+      "soc2010": "29-1071",
+      "soc2010_title": "Physician Assistants",
+      "soc2018": "29-1071",
+      "soc2018_title": "Physician Assistants"
+   },
+   {
+      "soc2010": "29-1081",
+      "soc2010_title": "Podiatrists",
+      "soc2018": "29-1081",
+      "soc2018_title": "Podiatrists"
+   },
+   {
+      "soc2010": "29-1122",
+      "soc2010_title": "Occupational Therapists",
+      "soc2018": "29-1122",
+      "soc2018_title": "Occupational Therapists"
+   },
+   {
+      "soc2010": "29-1123",
+      "soc2010_title": "Physical Therapists",
+      "soc2018": "29-1123",
+      "soc2018_title": "Physical Therapists"
+   },
+   {
+      "soc2010": "29-1124",
+      "soc2010_title": "Radiation Therapists",
+      "soc2018": "29-1124",
+      "soc2018_title": "Radiation Therapists"
+   },
+   {
+      "soc2010": "29-1125",
+      "soc2010_title": "Recreational Therapists",
+      "soc2018": "29-1125",
+      "soc2018_title": "Recreational Therapists"
+   },
+   {
+      "soc2010": "29-1126",
+      "soc2010_title": "Respiratory Therapists",
+      "soc2018": "29-1126",
+      "soc2018_title": "Respiratory Therapists"
+   },
+   {
+      "soc2010": "29-1127",
+      "soc2010_title": "Speech-Language Pathologists",
+      "soc2018": "29-1127",
+      "soc2018_title": "Speech-Language Pathologists"
+   },
+   {
+      "soc2010": "29-1128",
+      "soc2010_title": "Exercise Physiologists",
+      "soc2018": "29-1128",
+      "soc2018_title": "Exercise Physiologists"
+   },
+   {
+      "soc2010": "29-1129",
+      "soc2010_title": "Therapists, All Other",
+      "soc2018": "29-1129",
+      "soc2018_title": "Therapists, All Other"
+   },
+   {
+      "soc2010": "29-1131",
+      "soc2010_title": "Veterinarians",
+      "soc2018": "29-1131",
+      "soc2018_title": "Veterinarians"
+   },
+   {
+      "soc2010": "29-1141",
+      "soc2010_title": "Registered Nurses",
+      "soc2018": "29-1141",
+      "soc2018_title": "Registered Nurses"
+   },
+   {
+      "soc2010": "29-1151",
+      "soc2010_title": "Nurse Anesthetists",
+      "soc2018": "29-1151",
+      "soc2018_title": "Nurse Anesthetists"
+   },
+   {
+      "soc2010": "29-1161",
+      "soc2010_title": "Nurse Midwives",
+      "soc2018": "29-1161",
+      "soc2018_title": "Nurse Midwives"
+   },
+   {
+      "soc2010": "29-1171",
+      "soc2010_title": "Nurse Practitioners",
+      "soc2018": "29-1171",
+      "soc2018_title": "Nurse Practitioners"
+   },
+   {
+      "soc2010": "29-1181",
+      "soc2010_title": "Audiologists",
+      "soc2018": "29-1181",
+      "soc2018_title": "Audiologists"
+   },
+   {
+      "soc2010": "29-1199",
+      "soc2010_title": "Health Diagnosing and Treating Practitioners, All Other",
+      "soc2018": "29-1291",
+      "soc2018_title": "Acupuncturists"
+   },
+   {
+      "soc2010": "29-1199",
+      "soc2010_title": "Health Diagnosing and Treating Practitioners, All Other",
+      "soc2018": "29-1299",
+      "soc2018_title": "Healthcare Diagnosing or Treating Practitioners, All Other"
+   },
+   {
+      "soc2010": "29-2011",
+      "soc2010_title": "Medical and Clinical Laboratory Technologists",
+      "soc2018": "29-2011",
+      "soc2018_title": "Medical and Clinical Laboratory Technologists"
+   },
+   {
+      "soc2010": "29-2012",
+      "soc2010_title": "Medical and Clinical Laboratory Technicians",
+      "soc2018": "29-2012",
+      "soc2018_title": "Medical and Clinical Laboratory Technicians"
+   },
+   {
+      "soc2010": "29-2021",
+      "soc2010_title": "Dental Hygienists",
+      "soc2018": "29-1292",
+      "soc2018_title": "Dental Hygienists"
+   },
+   {
+      "soc2010": "29-2031",
+      "soc2010_title": "Cardiovascular Technologists and Technicians",
+      "soc2018": "29-2031",
+      "soc2018_title": "Cardiovascular Technologists and Technicians"
+   },
+   {
+      "soc2010": "29-2032",
+      "soc2010_title": "Diagnostic Medical Sonographers",
+      "soc2018": "29-2032",
+      "soc2018_title": "Diagnostic Medical Sonographers"
+   },
+   {
+      "soc2010": "29-2033",
+      "soc2010_title": "Nuclear Medicine Technologists",
+      "soc2018": "29-2033",
+      "soc2018_title": "Nuclear Medicine Technologists"
+   },
+   {
+      "soc2010": "29-2034",
+      "soc2010_title": "Radiologic Technologists",
+      "soc2018": "29-2034",
+      "soc2018_title": "Radiologic Technologists and Technicians"
+   },
+   {
+      "soc2010": "29-2035",
+      "soc2010_title": "Magnetic Resonance Imaging Technologists",
+      "soc2018": "29-2035",
+      "soc2018_title": "Magnetic Resonance Imaging Technologists"
+   },
+   {
+      "soc2010": "29-2041",
+      "soc2010_title": "Emergency Medical Technicians and Paramedics",
+      "soc2018": "29-2042",
+      "soc2018_title": "Emergency Medical Technicians"
+   },
+   {
+      "soc2010": "29-2041",
+      "soc2010_title": "Emergency Medical Technicians and Paramedics",
+      "soc2018": "29-2043",
+      "soc2018_title": "Paramedics"
+   },
+   {
+      "soc2010": "29-2051",
+      "soc2010_title": "Dietetic Technicians",
+      "soc2018": "29-2051",
+      "soc2018_title": "Dietetic Technicians"
+   },
+   {
+      "soc2010": "29-2052",
+      "soc2010_title": "Pharmacy Technicians",
+      "soc2018": "29-2052",
+      "soc2018_title": "Pharmacy Technicians"
+   },
+   {
+      "soc2010": "29-2053",
+      "soc2010_title": "Psychiatric Technicians",
+      "soc2018": "29-2053",
+      "soc2018_title": "Psychiatric Technicians"
+   },
+   {
+      "soc2010": "29-2054",
+      "soc2010_title": "Respiratory Therapy Technicians",
+      "soc2018": "29-2099",
+      "soc2018_title": "Health Technologists and Technicians, All Other (##)"
+   },
+   {
+      "soc2010": "29-2055",
+      "soc2010_title": "Surgical Technologists",
+      "soc2018": "29-2055",
+      "soc2018_title": "Surgical Technologists"
+   },
+   {
+      "soc2010": "29-2056",
+      "soc2010_title": "Veterinary Technologists and Technicians",
+      "soc2018": "29-2056",
+      "soc2018_title": "Veterinary Technologists and Technicians"
+   },
+   {
+      "soc2010": "29-2057",
+      "soc2010_title": "Ophthalmic Medical Technicians",
+      "soc2018": "29-2057",
+      "soc2018_title": "Ophthalmic Medical Technicians"
+   },
+   {
+      "soc2010": "29-2061",
+      "soc2010_title": "Licensed Practical and Licensed Vocational Nurses",
+      "soc2018": "29-2061",
+      "soc2018_title": "Licensed Practical and Licensed Vocational Nurses"
+   },
+   {
+      "soc2010": "29-2071",
+      "soc2010_title": "Medical Records and Health Information Technicians",
+      "soc2018": "29-2072",
+      "soc2018_title": "Medical Records Specialists"
+   },
+   {
+      "soc2010": "29-2071",
+      "soc2010_title": "Medical Records and Health Information Technicians",
+      "soc2018": "29-9021",
+      "soc2018_title": "Health Information Technologists and Medical Registrars (##)"
+   },
+   {
+      "soc2010": "29-2081",
+      "soc2010_title": "Opticians, Dispensing",
+      "soc2018": "29-2081",
+      "soc2018_title": "Opticians, Dispensing"
+   },
+   {
+      "soc2010": "29-2091",
+      "soc2010_title": "Orthotists and Prosthetists",
+      "soc2018": "29-2091",
+      "soc2018_title": "Orthotists and Prosthetists"
+   },
+   {
+      "soc2010": "29-2092",
+      "soc2010_title": "Hearing Aid Specialists",
+      "soc2018": "29-2092",
+      "soc2018_title": "Hearing Aid Specialists"
+   },
+   {
+      "soc2010": "29-2099",
+      "soc2010_title": "Health Technologists and Technicians, All Other",
+      "soc2018": "29-2036",
+      "soc2018_title": "Medical Dosimetrists"
+   },
+   {
+      "soc2010": "29-2099",
+      "soc2010_title": "Health Technologists and Technicians, All Other",
+      "soc2018": "29-2099",
+      "soc2018_title": "Health Technologists and Technicians, All Other (##)"
+   },
+   {
+      "soc2010": "29-9011",
+      "soc2010_title": "Occupational Health and Safety Specialists",
+      "soc2018": "19-5011",
+      "soc2018_title": "Occupational Health and Safety Specialists"
+   },
+   {
+      "soc2010": "29-9012",
+      "soc2010_title": "Occupational Health and Safety Technicians",
+      "soc2018": "19-5012",
+      "soc2018_title": "Occupational Health and Safety Technicians"
+   },
+   {
+      "soc2010": "29-9091",
+      "soc2010_title": "Athletic Trainers",
+      "soc2018": "29-9091",
+      "soc2018_title": "Athletic Trainers"
+   },
+   {
+      "soc2010": "29-9092",
+      "soc2010_title": "Genetic Counselors",
+      "soc2018": "29-9092",
+      "soc2018_title": "Genetic Counselors"
+   },
+   {
+      "soc2010": "29-9099",
+      "soc2010_title": "Healthcare Practitioners and Technical Workers, All Other",
+      "soc2018": "29-9021",
+      "soc2018_title": "Health Information Technologists and Medical Registrars (##)"
+   },
+   {
+      "soc2010": "29-9099",
+      "soc2010_title": "Healthcare Practitioners and Technical Workers, All Other",
+      "soc2018": "29-9093",
+      "soc2018_title": "Surgical Assistants"
+   },
+   {
+      "soc2010": "29-9099",
+      "soc2010_title": "Healthcare Practitioners and Technical Workers, All Other",
+      "soc2018": "29-9099",
+      "soc2018_title": "Healthcare Practitioners and Technical Workers, All Other"
+   },
+   {
+      "soc2010": "31-1011",
+      "soc2010_title": "Home Health Aides",
+      "soc2018": "31-1121",
+      "soc2018_title": "Home Health Aides"
+   },
+   {
+      "soc2010": "31-1013",
+      "soc2010_title": "Psychiatric Aides",
+      "soc2018": "31-1133",
+      "soc2018_title": "Psychiatric Aides"
+   },
+   {
+      "soc2010": "31-1014",
+      "soc2010_title": "Nursing Assistants",
+      "soc2018": "31-1131",
+      "soc2018_title": "Nursing Assistants"
+   },
+   {
+      "soc2010": "31-1015",
+      "soc2010_title": "Orderlies",
+      "soc2018": "31-1132",
+      "soc2018_title": "Orderlies"
+   },
+   {
+      "soc2010": "31-2011",
+      "soc2010_title": "Occupational Therapy Assistants",
+      "soc2018": "31-2011",
+      "soc2018_title": "Occupational Therapy Assistants"
+   },
+   {
+      "soc2010": "31-2012",
+      "soc2010_title": "Occupational Therapy Aides",
+      "soc2018": "31-2012",
+      "soc2018_title": "Occupational Therapy Aides"
+   },
+   {
+      "soc2010": "31-2021",
+      "soc2010_title": "Physical Therapist Assistants",
+      "soc2018": "31-2021",
+      "soc2018_title": "Physical Therapist Assistants"
+   },
+   {
+      "soc2010": "31-2022",
+      "soc2010_title": "Physical Therapist Aides",
+      "soc2018": "31-2022",
+      "soc2018_title": "Physical Therapist Aides"
+   },
+   {
+      "soc2010": "31-9011",
+      "soc2010_title": "Massage Therapists",
+      "soc2018": "31-9011",
+      "soc2018_title": "Massage Therapists"
+   },
+   {
+      "soc2010": "31-9091",
+      "soc2010_title": "Dental Assistants",
+      "soc2018": "31-9091",
+      "soc2018_title": "Dental Assistants"
+   },
+   {
+      "soc2010": "31-9092",
+      "soc2010_title": "Medical Assistants",
+      "soc2018": "31-9092",
+      "soc2018_title": "Medical Assistants"
+   },
+   {
+      "soc2010": "31-9093",
+      "soc2010_title": "Medical Equipment Preparers",
+      "soc2018": "31-9093",
+      "soc2018_title": "Medical Equipment Preparers"
+   },
+   {
+      "soc2010": "31-9094",
+      "soc2010_title": "Medical Transcriptionists",
+      "soc2018": "31-9094",
+      "soc2018_title": "Medical Transcriptionists"
+   },
+   {
+      "soc2010": "31-9095",
+      "soc2010_title": "Pharmacy Aides",
+      "soc2018": "31-9095",
+      "soc2018_title": "Pharmacy Aides"
+   },
+   {
+      "soc2010": "31-9096",
+      "soc2010_title": "Veterinary Assistants and Laboratory Animal Caretakers",
+      "soc2018": "31-9096",
+      "soc2018_title": "Veterinary Assistants and Laboratory Animal Caretakers"
+   },
+   {
+      "soc2010": "31-9097",
+      "soc2010_title": "Phlebotomists",
+      "soc2018": "31-9097",
+      "soc2018_title": "Phlebotomists"
+   },
+   {
+      "soc2010": "31-9099",
+      "soc2010_title": "Healthcare Support Workers, All Other",
+      "soc2018": "31-9099",
+      "soc2018_title": "Healthcare Support Workers, All Other"
+   },
+   {
+      "soc2010": "33-1011",
+      "soc2010_title": "First-Line Supervisors of Correctional Officers",
+      "soc2018": "33-1011",
+      "soc2018_title": "First-Line Supervisors of Correctional Officers"
+   },
+   {
+      "soc2010": "33-1012",
+      "soc2010_title": "First-Line Supervisors of Police and Detectives",
+      "soc2018": "33-1012",
+      "soc2018_title": "First-Line Supervisors of Police and Detectives"
+   },
+   {
+      "soc2010": "33-1021",
+      "soc2010_title": "First-Line Supervisors of Fire Fighting and Prevention Workers",
+      "soc2018": "33-1021",
+      "soc2018_title": "First-Line Supervisors of Fire Fighting and Prevention Workers"
+   },
+   {
+      "soc2010": "33-1099",
+      "soc2010_title": "First-Line Supervisors of Protective Service Workers, All Other",
+      "soc2018": "33-1091",
+      "soc2018_title": "First-Line Supervisors of Security Workers"
+   },
+   {
+      "soc2010": "33-1099",
+      "soc2010_title": "First-Line Supervisors of Protective Service Workers, All Other",
+      "soc2018": "33-1099",
+      "soc2018_title": "First-Line Supervisors of Protective Service Workers, All Other"
+   },
+   {
+      "soc2010": "33-2011",
+      "soc2010_title": "Firefighters",
+      "soc2018": "33-2011",
+      "soc2018_title": "Firefighters"
+   },
+   {
+      "soc2010": "33-2021",
+      "soc2010_title": "Fire Inspectors and Investigators",
+      "soc2018": "33-2021",
+      "soc2018_title": "Fire Inspectors and Investigators"
+   },
+   {
+      "soc2010": "33-2022",
+      "soc2010_title": "Forest Fire Inspectors and Prevention Specialists",
+      "soc2018": "33-2022",
+      "soc2018_title": "Forest Fire Inspectors and Prevention Specialists"
+   },
+   {
+      "soc2010": "33-3011",
+      "soc2010_title": "Bailiffs",
+      "soc2018": "33-3011",
+      "soc2018_title": "Bailiffs"
+   },
+   {
+      "soc2010": "33-3012",
+      "soc2010_title": "Correctional Officers and Jailers",
+      "soc2018": "33-3012",
+      "soc2018_title": "Correctional Officers and Jailers"
+   },
+   {
+      "soc2010": "33-3021",
+      "soc2010_title": "Detectives and Criminal Investigators",
+      "soc2018": "33-3021",
+      "soc2018_title": "Detectives and Criminal Investigators"
+   },
+   {
+      "soc2010": "33-3031",
+      "soc2010_title": "Fish and Game Wardens",
+      "soc2018": "33-3031",
+      "soc2018_title": "Fish and Game Wardens"
+   },
+   {
+      "soc2010": "33-3041",
+      "soc2010_title": "Parking Enforcement Workers",
+      "soc2018": "33-3041",
+      "soc2018_title": "Parking Enforcement Workers"
+   },
+   {
+      "soc2010": "33-3051",
+      "soc2010_title": "Police and Sheriff's Patrol Officers",
+      "soc2018": "33-3051",
+      "soc2018_title": "Police and Sheriff's Patrol Officers"
+   },
+   {
+      "soc2010": "33-3052",
+      "soc2010_title": "Transit and Railroad Police",
+      "soc2018": "33-3052",
+      "soc2018_title": "Transit and Railroad Police"
+   },
+   {
+      "soc2010": "33-9011",
+      "soc2010_title": "Animal Control Workers",
+      "soc2018": "33-9011",
+      "soc2018_title": "Animal Control Workers"
+   },
+   {
+      "soc2010": "33-9021",
+      "soc2010_title": "Private Detectives and Investigators",
+      "soc2018": "33-9021",
+      "soc2018_title": "Private Detectives and Investigators"
+   },
+   {
+      "soc2010": "33-9031",
+      "soc2010_title": "Gaming Surveillance Officers and Gaming Investigators",
+      "soc2018": "33-9031",
+      "soc2018_title": "Gambling Surveillance Officers and Gambling Investigators"
+   },
+   {
+      "soc2010": "33-9032",
+      "soc2010_title": "Security Guards",
+      "soc2018": "33-9032",
+      "soc2018_title": "Security Guards"
+   },
+   {
+      "soc2010": "33-9091",
+      "soc2010_title": "Crossing Guards",
+      "soc2018": "33-9091",
+      "soc2018_title": "Crossing Guards and Flaggers"
+   },
+   {
+      "soc2010": "33-9092",
+      "soc2010_title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",
+      "soc2018": "33-9092",
+      "soc2018_title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+   },
+   {
+      "soc2010": "33-9093",
+      "soc2010_title": "Transportation Security Screeners",
+      "soc2018": "33-9093",
+      "soc2018_title": "Transportation Security Screeners"
+   },
+   {
+      "soc2010": "33-9099",
+      "soc2010_title": "Protective Service Workers, All Other",
+      "soc2018": "33-9094",
+      "soc2018_title": "School Bus Monitors"
+   },
+   {
+      "soc2010": "33-9099",
+      "soc2010_title": "Protective Service Workers, All Other",
+      "soc2018": "33-9099",
+      "soc2018_title": "Protective Service Workers, All Other"
+   },
+   {
+      "soc2010": "35-1011",
+      "soc2010_title": "Chefs and Head Cooks",
+      "soc2018": "35-1011",
+      "soc2018_title": "Chefs and Head Cooks"
+   },
+   {
+      "soc2010": "35-1012",
+      "soc2010_title": "First-Line Supervisors of Food Preparation and Serving Workers",
+      "soc2018": "35-1012",
+      "soc2018_title": "First-Line Supervisors of Food Preparation and Serving Workers"
+   },
+   {
+      "soc2010": "35-2011",
+      "soc2010_title": "Cooks, Fast Food",
+      "soc2018": "35-2011",
+      "soc2018_title": "Cooks, Fast Food"
+   },
+   {
+      "soc2010": "35-2012",
+      "soc2010_title": "Cooks, Institution and Cafeteria",
+      "soc2018": "35-2012",
+      "soc2018_title": "Cooks, Institution and Cafeteria"
+   },
+   {
+      "soc2010": "35-2013",
+      "soc2010_title": "Cooks, Private Household",
+      "soc2018": "35-2013",
+      "soc2018_title": "Cooks, Private Household"
+   },
+   {
+      "soc2010": "35-2014",
+      "soc2010_title": "Cooks, Restaurant",
+      "soc2018": "35-2014",
+      "soc2018_title": "Cooks, Restaurant"
+   },
+   {
+      "soc2010": "35-2015",
+      "soc2010_title": "Cooks, Short Order",
+      "soc2018": "35-2015",
+      "soc2018_title": "Cooks, Short Order"
+   },
+   {
+      "soc2010": "35-2019",
+      "soc2010_title": "Cooks, All Other",
+      "soc2018": "35-2019",
+      "soc2018_title": "Cooks, All Other"
+   },
+   {
+      "soc2010": "35-2021",
+      "soc2010_title": "Food Preparation Workers",
+      "soc2018": "35-2021",
+      "soc2018_title": "Food Preparation Workers"
+   },
+   {
+      "soc2010": "35-3011",
+      "soc2010_title": "Bartenders",
+      "soc2018": "35-3011",
+      "soc2018_title": "Bartenders"
+   },
+   {
+      "soc2010": "35-3021",
+      "soc2010_title": "Combined Food Preparation and Serving Workers, Including Fast Food",
+      "soc2018": "35-3023",
+      "soc2018_title": "Fast Food and Counter Workers (##)"
+   },
+   {
+      "soc2010": "35-3022",
+      "soc2010_title": "Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",
+      "soc2018": "35-3023",
+      "soc2018_title": "Fast Food and Counter Workers (##)"
+   },
+   {
+      "soc2010": "35-3031",
+      "soc2010_title": "Waiters and Waitresses",
+      "soc2018": "35-3031",
+      "soc2018_title": "Waiters and Waitresses"
+   },
+   {
+      "soc2010": "35-3041",
+      "soc2010_title": "Food Servers, Nonrestaurant",
+      "soc2018": "35-3041",
+      "soc2018_title": "Food Servers, Nonrestaurant"
+   },
+   {
+      "soc2010": "35-9011",
+      "soc2010_title": "Dining Room and Cafeteria Attendants and Bartender Helpers",
+      "soc2018": "35-9011",
+      "soc2018_title": "Dining Room and Cafeteria Attendants and Bartender Helpers"
+   },
+   {
+      "soc2010": "35-9021",
+      "soc2010_title": "Dishwashers",
+      "soc2018": "35-9021",
+      "soc2018_title": "Dishwashers"
+   },
+   {
+      "soc2010": "35-9031",
+      "soc2010_title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",
+      "soc2018": "35-9031",
+      "soc2018_title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+   },
+   {
+      "soc2010": "35-9099",
+      "soc2010_title": "Food Preparation and Serving Related Workers, All Other",
+      "soc2018": "35-9099",
+      "soc2018_title": "Food Preparation and Serving Related Workers, All Other"
+   },
+   {
+      "soc2010": "37-1011",
+      "soc2010_title": "First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "soc2018": "37-1011",
+      "soc2018_title": "First-Line Supervisors of Housekeeping and Janitorial Workers"
+   },
+   {
+      "soc2010": "37-1012",
+      "soc2010_title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "soc2018": "37-1012",
+      "soc2018_title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+   },
+   {
+      "soc2010": "37-2011",
+      "soc2010_title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners",
+      "soc2018": "37-2011",
+      "soc2018_title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+   },
+   {
+      "soc2010": "37-2012",
+      "soc2010_title": "Maids and Housekeeping Cleaners",
+      "soc2018": "37-2012",
+      "soc2018_title": "Maids and Housekeeping Cleaners"
+   },
+   {
+      "soc2010": "37-2019",
+      "soc2010_title": "Building Cleaning Workers, All Other",
+      "soc2018": "37-2019",
+      "soc2018_title": "Building Cleaning Workers, All Other"
+   },
+   {
+      "soc2010": "37-2021",
+      "soc2010_title": "Pest Control Workers",
+      "soc2018": "37-2021",
+      "soc2018_title": "Pest Control Workers"
+   },
+   {
+      "soc2010": "37-3011",
+      "soc2010_title": "Landscaping and Groundskeeping Workers",
+      "soc2018": "37-3011",
+      "soc2018_title": "Landscaping and Groundskeeping Workers"
+   },
+   {
+      "soc2010": "37-3012",
+      "soc2010_title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+      "soc2018": "37-3012",
+      "soc2018_title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+   },
+   {
+      "soc2010": "37-3013",
+      "soc2010_title": "Tree Trimmers and Pruners",
+      "soc2018": "37-3013",
+      "soc2018_title": "Tree Trimmers and Pruners"
+   },
+   {
+      "soc2010": "37-3019",
+      "soc2010_title": "Grounds Maintenance Workers, All Other",
+      "soc2018": "37-3019",
+      "soc2018_title": "Grounds Maintenance Workers, All Other"
+   },
+   {
+      "soc2010": "39-1011",
+      "soc2010_title": "Gaming Supervisors",
+      "soc2018": "39-1013",
+      "soc2018_title": "First-line Supervisors of Gambling Services Workers (##)"
+   },
+   {
+      "soc2010": "39-1012",
+      "soc2010_title": "Slot Supervisors",
+      "soc2018": "39-1013",
+      "soc2018_title": "First-line Supervisors of Gambling Services Workers (##)"
+   },
+   {
+      "soc2010": "39-1021",
+      "soc2010_title": "First-Line Supervisors of Personal Service Workers",
+      "soc2018": "39-1014",
+      "soc2018_title": "First-line Supervisors of Entertainment and Recreation Workers, Except Gambling Services"
+   },
+   {
+      "soc2010": "39-1021",
+      "soc2010_title": "First-Line Supervisors of Personal Service Workers",
+      "soc2018": "39-1022",
+      "soc2018_title": "First-Line Supervisors of Personal Service Workers"
+   },
+   {
+      "soc2010": "39-1021",
+      "soc2010_title": "First-Line Supervisors of Personal Service Workers",
+      "soc2018": "53-1044",
+      "soc2018_title": "First-line Supervisors of Passenger Attendants (##)"
+   },
+   {
+      "soc2010": "39-2011",
+      "soc2010_title": "Animal Trainers",
+      "soc2018": "39-2011",
+      "soc2018_title": "Animal Trainers"
+   },
+   {
+      "soc2010": "39-2021",
+      "soc2010_title": "Nonfarm Animal Caretakers",
+      "soc2018": "39-2021",
+      "soc2018_title": "Animal Caretakers"
+   },
+   {
+      "soc2010": "39-3011",
+      "soc2010_title": "Gaming Dealers",
+      "soc2018": "39-3011",
+      "soc2018_title": "Gambling Dealers"
+   },
+   {
+      "soc2010": "39-3012",
+      "soc2010_title": "Gaming and Sports Book Writers and Runners",
+      "soc2018": "39-3012",
+      "soc2018_title": "Gambling and Sports Book Writers and Runners"
+   },
+   {
+      "soc2010": "39-3019",
+      "soc2010_title": "Gaming Service Workers, All Other",
+      "soc2018": "39-3019",
+      "soc2018_title": "Gambling Service Workers, All Other"
+   },
+   {
+      "soc2010": "39-3021",
+      "soc2010_title": "Motion Picture Projectionists",
+      "soc2018": "39-3021",
+      "soc2018_title": "Motion Picture Projectionists"
+   },
+   {
+      "soc2010": "39-3031",
+      "soc2010_title": "Ushers, Lobby Attendants, and Ticket Takers",
+      "soc2018": "39-3031",
+      "soc2018_title": "Ushers, Lobby Attendants, and Ticket Takers"
+   },
+   {
+      "soc2010": "39-3091",
+      "soc2010_title": "Amusement and Recreation Attendants",
+      "soc2018": "39-3091",
+      "soc2018_title": "Amusement and Recreation Attendants"
+   },
+   {
+      "soc2010": "39-3092",
+      "soc2010_title": "Costume Attendants",
+      "soc2018": "39-3092",
+      "soc2018_title": "Costume Attendants"
+   },
+   {
+      "soc2010": "39-3093",
+      "soc2010_title": "Locker Room, Coatroom, and Dressing Room Attendants",
+      "soc2018": "39-3093",
+      "soc2018_title": "Locker Room, Coatroom, and Dressing Room Attendants"
+   },
+   {
+      "soc2010": "39-3099",
+      "soc2010_title": "Entertainment Attendants and Related Workers, All Other",
+      "soc2018": "39-3099",
+      "soc2018_title": "Entertainment Attendants and Related Workers, All Other"
+   },
+   {
+      "soc2010": "39-4011",
+      "soc2010_title": "Embalmers",
+      "soc2018": "39-4011",
+      "soc2018_title": "Embalmers"
+   },
+   {
+      "soc2010": "39-4021",
+      "soc2010_title": "Funeral Attendants",
+      "soc2018": "39-4021",
+      "soc2018_title": "Funeral Attendants"
+   },
+   {
+      "soc2010": "39-4031",
+      "soc2010_title": "Morticians, Undertakers, and Funeral Directors",
+      "soc2018": "39-4031",
+      "soc2018_title": "Morticians, Undertakers, and Funeral Arrangers"
+   },
+   {
+      "soc2010": "39-5011",
+      "soc2010_title": "Barbers",
+      "soc2018": "39-5011",
+      "soc2018_title": "Barbers"
+   },
+   {
+      "soc2010": "39-5012",
+      "soc2010_title": "Hairdressers, Hairstylists, and Cosmetologists",
+      "soc2018": "39-5012",
+      "soc2018_title": "Hairdressers, Hairstylists, and Cosmetologists"
+   },
+   {
+      "soc2010": "39-5091",
+      "soc2010_title": "Makeup Artists, Theatrical and Performance",
+      "soc2018": "39-5091",
+      "soc2018_title": "Makeup Artists, Theatrical and Performance"
+   },
+   {
+      "soc2010": "39-5092",
+      "soc2010_title": "Manicurists and Pedicurists",
+      "soc2018": "39-5092",
+      "soc2018_title": "Manicurists and Pedicurists"
+   },
+   {
+      "soc2010": "39-5093",
+      "soc2010_title": "Shampooers",
+      "soc2018": "39-5093",
+      "soc2018_title": "Shampooers"
+   },
+   {
+      "soc2010": "39-5094",
+      "soc2010_title": "Skincare Specialists",
+      "soc2018": "39-5094",
+      "soc2018_title": "Skincare Specialists"
+   },
+   {
+      "soc2010": "39-6011",
+      "soc2010_title": "Baggage Porters and Bellhops",
+      "soc2018": "39-6011",
+      "soc2018_title": "Baggage Porters and Bellhops"
+   },
+   {
+      "soc2010": "39-6012",
+      "soc2010_title": "Concierges",
+      "soc2018": "39-6012",
+      "soc2018_title": "Concierges"
+   },
+   {
+      "soc2010": "39-7011",
+      "soc2010_title": "Tour Guides and Escorts",
+      "soc2018": "39-7011",
+      "soc2018_title": "Tour Guides and Escorts"
+   },
+   {
+      "soc2010": "39-7012",
+      "soc2010_title": "Travel Guides",
+      "soc2018": "39-7012",
+      "soc2018_title": "Travel Guides"
+   },
+   {
+      "soc2010": "39-9011",
+      "soc2010_title": "Childcare Workers",
+      "soc2018": "39-9011",
+      "soc2018_title": "Childcare Workers"
+   },
+   {
+      "soc2010": "39-9021",
+      "soc2010_title": "Personal Care Aides",
+      "soc2018": "31-1122",
+      "soc2018_title": "Personal Care Aides"
+   },
+   {
+      "soc2010": "39-9031",
+      "soc2010_title": "Fitness Trainers and Aerobics Instructors",
+      "soc2018": "39-9031",
+      "soc2018_title": "Exercise Trainers and Group Fitness Instructors"
+   },
+   {
+      "soc2010": "39-9032",
+      "soc2010_title": "Recreation Workers",
+      "soc2018": "39-9032",
+      "soc2018_title": "Recreation Workers"
+   },
+   {
+      "soc2010": "39-9041",
+      "soc2010_title": "Residential Advisors",
+      "soc2018": "39-9041",
+      "soc2018_title": "Residential Advisors"
+   },
+   {
+      "soc2010": "39-9099",
+      "soc2010_title": "Personal Care and Service Workers, All Other",
+      "soc2018": "39-4012",
+      "soc2018_title": "Crematory Operators"
+   },
+   {
+      "soc2010": "39-9099",
+      "soc2010_title": "Personal Care and Service Workers, All Other",
+      "soc2018": "39-9099",
+      "soc2018_title": "Personal Care and Service Workers, All Other"
+   },
+   {
+      "soc2010": "41-1011",
+      "soc2010_title": "First-Line Supervisors of Retail Sales Workers",
+      "soc2018": "41-1011",
+      "soc2018_title": "First-Line Supervisors of Retail Sales Workers"
+   },
+   {
+      "soc2010": "41-1012",
+      "soc2010_title": "First-Line Supervisors of Non-Retail Sales Workers",
+      "soc2018": "41-1012",
+      "soc2018_title": "First-Line Supervisors of Non-Retail Sales Workers"
+   },
+   {
+      "soc2010": "41-2011",
+      "soc2010_title": "Cashiers",
+      "soc2018": "41-2011",
+      "soc2018_title": "Cashiers"
+   },
+   {
+      "soc2010": "41-2012",
+      "soc2010_title": "Gaming Change Persons and Booth Cashiers",
+      "soc2018": "41-2012",
+      "soc2018_title": "Gambling Change Persons and Booth Cashiers"
+   },
+   {
+      "soc2010": "41-2021",
+      "soc2010_title": "Counter and Rental Clerks",
+      "soc2018": "41-2021",
+      "soc2018_title": "Counter and Rental Clerks"
+   },
+   {
+      "soc2010": "41-2022",
+      "soc2010_title": "Parts Salespersons",
+      "soc2018": "41-2022",
+      "soc2018_title": "Parts Salespersons"
+   },
+   {
+      "soc2010": "41-2031",
+      "soc2010_title": "Retail Salespersons",
+      "soc2018": "41-2031",
+      "soc2018_title": "Retail Salespersons"
+   },
+   {
+      "soc2010": "41-3011",
+      "soc2010_title": "Advertising Sales Agents",
+      "soc2018": "41-3011",
+      "soc2018_title": "Advertising Sales Agents"
+   },
+   {
+      "soc2010": "41-3021",
+      "soc2010_title": "Insurance Sales Agents",
+      "soc2018": "41-3021",
+      "soc2018_title": "Insurance Sales Agents"
+   },
+   {
+      "soc2010": "41-3031",
+      "soc2010_title": "Securities, Commodities, and Financial Services Sales Agents",
+      "soc2018": "41-3031",
+      "soc2018_title": "Securities, Commodities, and Financial Services Sales Agents"
+   },
+   {
+      "soc2010": "41-3041",
+      "soc2010_title": "Travel Agents",
+      "soc2018": "41-3041",
+      "soc2018_title": "Travel Agents"
+   },
+   {
+      "soc2010": "41-3099",
+      "soc2010_title": "Sales Representatives, Services, All Other",
+      "soc2018": "41-3091",
+      "soc2018_title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"
+   },
+   {
+      "soc2010": "41-4011",
+      "soc2010_title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "soc2018": "41-4011",
+      "soc2018_title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+   },
+   {
+      "soc2010": "41-4012",
+      "soc2010_title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+      "soc2018": "41-4012",
+      "soc2018_title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+   },
+   {
+      "soc2010": "41-9011",
+      "soc2010_title": "Demonstrators and Product Promoters",
+      "soc2018": "41-9011",
+      "soc2018_title": "Demonstrators and Product Promoters"
+   },
+   {
+      "soc2010": "41-9012",
+      "soc2010_title": "Models",
+      "soc2018": "41-9012",
+      "soc2018_title": "Models"
+   },
+   {
+      "soc2010": "41-9021",
+      "soc2010_title": "Real Estate Brokers",
+      "soc2018": "41-9021",
+      "soc2018_title": "Real Estate Brokers"
+   },
+   {
+      "soc2010": "41-9022",
+      "soc2010_title": "Real Estate Sales Agents",
+      "soc2018": "41-9022",
+      "soc2018_title": "Real Estate Sales Agents"
+   },
+   {
+      "soc2010": "41-9031",
+      "soc2010_title": "Sales Engineers",
+      "soc2018": "41-9031",
+      "soc2018_title": "Sales Engineers"
+   },
+   {
+      "soc2010": "41-9041",
+      "soc2010_title": "Telemarketers",
+      "soc2018": "41-9041",
+      "soc2018_title": "Telemarketers"
+   },
+   {
+      "soc2010": "41-9091",
+      "soc2010_title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+      "soc2018": "41-9091",
+      "soc2018_title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+   },
+   {
+      "soc2010": "41-9099",
+      "soc2010_title": "Sales and Related Workers, All Other",
+      "soc2018": "41-9099",
+      "soc2018_title": "Sales and Related Workers, All Other"
+   },
+   {
+      "soc2010": "43-1011",
+      "soc2010_title": "First-Line Supervisors of Office and Administrative Support Workers",
+      "soc2018": "43-1011",
+      "soc2018_title": "First-Line Supervisors of Office and Administrative Support Workers"
+   },
+   {
+      "soc2010": "43-2011",
+      "soc2010_title": "Switchboard Operators, Including Answering Service",
+      "soc2018": "43-2011",
+      "soc2018_title": "Switchboard Operators, Including Answering Service"
+   },
+   {
+      "soc2010": "43-2021",
+      "soc2010_title": "Telephone Operators",
+      "soc2018": "43-2021",
+      "soc2018_title": "Telephone Operators"
+   },
+   {
+      "soc2010": "43-2099",
+      "soc2010_title": "Communications Equipment Operators, All Other",
+      "soc2018": "43-2099",
+      "soc2018_title": "Communications Equipment Operators, All Other (##)"
+   },
+   {
+      "soc2010": "43-3011",
+      "soc2010_title": "Bill and Account Collectors",
+      "soc2018": "43-3011",
+      "soc2018_title": "Bill and Account Collectors"
+   },
+   {
+      "soc2010": "43-3021",
+      "soc2010_title": "Billing and Posting Clerks",
+      "soc2018": "43-3021",
+      "soc2018_title": "Billing and Posting Clerks"
+   },
+   {
+      "soc2010": "43-3031",
+      "soc2010_title": "Bookkeeping, Accounting, and Auditing Clerks",
+      "soc2018": "43-3031",
+      "soc2018_title": "Bookkeeping, Accounting, and Auditing Clerks"
+   },
+   {
+      "soc2010": "43-3041",
+      "soc2010_title": "Gaming Cage Workers",
+      "soc2018": "43-3041",
+      "soc2018_title": "Gambling Cage Workers"
+   },
+   {
+      "soc2010": "43-3051",
+      "soc2010_title": "Payroll and Timekeeping Clerks",
+      "soc2018": "43-3051",
+      "soc2018_title": "Payroll and Timekeeping Clerks"
+   },
+   {
+      "soc2010": "43-3061",
+      "soc2010_title": "Procurement Clerks",
+      "soc2018": "43-3061",
+      "soc2018_title": "Procurement Clerks"
+   },
+   {
+      "soc2010": "43-3071",
+      "soc2010_title": "Tellers",
+      "soc2018": "43-3071",
+      "soc2018_title": "Tellers"
+   },
+   {
+      "soc2010": "43-3099",
+      "soc2010_title": "Financial Clerks, All Other",
+      "soc2018": "43-3099",
+      "soc2018_title": "Financial Clerks, All Other"
+   },
+   {
+      "soc2010": "43-4011",
+      "soc2010_title": "Brokerage Clerks",
+      "soc2018": "43-4011",
+      "soc2018_title": "Brokerage Clerks"
+   },
+   {
+      "soc2010": "43-4021",
+      "soc2010_title": "Correspondence Clerks",
+      "soc2018": "43-4021",
+      "soc2018_title": "Correspondence Clerks"
+   },
+   {
+      "soc2010": "43-4031",
+      "soc2010_title": "Court, Municipal, and License Clerks",
+      "soc2018": "43-4031",
+      "soc2018_title": "Court, Municipal, and License Clerks"
+   },
+   {
+      "soc2010": "43-4041",
+      "soc2010_title": "Credit Authorizers, Checkers, and Clerks",
+      "soc2018": "43-4041",
+      "soc2018_title": "Credit Authorizers, Checkers, and Clerks"
+   },
+   {
+      "soc2010": "43-4051",
+      "soc2010_title": "Customer Service Representatives",
+      "soc2018": "43-4051",
+      "soc2018_title": "Customer Service Representatives"
+   },
+   {
+      "soc2010": "43-4061",
+      "soc2010_title": "Eligibility Interviewers, Government Programs",
+      "soc2018": "43-4061",
+      "soc2018_title": "Eligibility Interviewers, Government Programs"
+   },
+   {
+      "soc2010": "43-4071",
+      "soc2010_title": "File Clerks",
+      "soc2018": "43-4071",
+      "soc2018_title": "File Clerks"
+   },
+   {
+      "soc2010": "43-4081",
+      "soc2010_title": "Hotel, Motel, and Resort Desk Clerks",
+      "soc2018": "43-4081",
+      "soc2018_title": "Hotel, Motel, and Resort Desk Clerks"
+   },
+   {
+      "soc2010": "43-4111",
+      "soc2010_title": "Interviewers, Except Eligibility and Loan",
+      "soc2018": "43-4111",
+      "soc2018_title": "Interviewers, Except Eligibility and Loan"
+   },
+   {
+      "soc2010": "43-4121",
+      "soc2010_title": "Library Assistants, Clerical",
+      "soc2018": "43-4121",
+      "soc2018_title": "Library Assistants, Clerical"
+   },
+   {
+      "soc2010": "43-4131",
+      "soc2010_title": "Loan Interviewers and Clerks",
+      "soc2018": "43-4131",
+      "soc2018_title": "Loan Interviewers and Clerks"
+   },
+   {
+      "soc2010": "43-4141",
+      "soc2010_title": "New Accounts Clerks",
+      "soc2018": "43-4141",
+      "soc2018_title": "New Accounts Clerks"
+   },
+   {
+      "soc2010": "43-4151",
+      "soc2010_title": "Order Clerks",
+      "soc2018": "43-4151",
+      "soc2018_title": "Order Clerks"
+   },
+   {
+      "soc2010": "43-4161",
+      "soc2010_title": "Human Resources Assistants, Except Payroll and Timekeeping",
+      "soc2018": "43-4161",
+      "soc2018_title": "Human Resources Assistants, Except Payroll and Timekeeping"
+   },
+   {
+      "soc2010": "43-4171",
+      "soc2010_title": "Receptionists and Information Clerks",
+      "soc2018": "43-4171",
+      "soc2018_title": "Receptionists and Information Clerks"
+   },
+   {
+      "soc2010": "43-4181",
+      "soc2010_title": "Reservation and Transportation Ticket Agents and Travel Clerks",
+      "soc2018": "43-4181",
+      "soc2018_title": "Reservation and Transportation Ticket Agents and Travel Clerks"
+   },
+   {
+      "soc2010": "43-4199",
+      "soc2010_title": "Information and Record Clerks, All Other",
+      "soc2018": "43-4199",
+      "soc2018_title": "Information and Record Clerks, All Other"
+   },
+   {
+      "soc2010": "43-5011",
+      "soc2010_title": "Cargo and Freight Agents",
+      "soc2018": "43-5011",
+      "soc2018_title": "Cargo and Freight Agents"
+   },
+   {
+      "soc2010": "43-5021",
+      "soc2010_title": "Couriers and Messengers",
+      "soc2018": "43-5021",
+      "soc2018_title": "Couriers and Messengers"
+   },
+   {
+      "soc2010": "43-5031",
+      "soc2010_title": "Police, Fire, and Ambulance Dispatchers",
+      "soc2018": "43-5031",
+      "soc2018_title": "Public Safety Telecommunicators"
+   },
+   {
+      "soc2010": "43-5032",
+      "soc2010_title": "Dispatchers, Except Police, Fire, and Ambulance",
+      "soc2018": "43-5032",
+      "soc2018_title": "Dispatchers, Except Police, Fire, and Ambulance"
+   },
+   {
+      "soc2010": "43-5041",
+      "soc2010_title": "Meter Readers, Utilities",
+      "soc2018": "43-5041",
+      "soc2018_title": "Meter Readers, Utilities"
+   },
+   {
+      "soc2010": "43-5051",
+      "soc2010_title": "Postal Service Clerks",
+      "soc2018": "43-5051",
+      "soc2018_title": "Postal Service Clerks"
+   },
+   {
+      "soc2010": "43-5052",
+      "soc2010_title": "Postal Service Mail Carriers",
+      "soc2018": "43-5052",
+      "soc2018_title": "Postal Service Mail Carriers"
+   },
+   {
+      "soc2010": "43-5053",
+      "soc2010_title": "Postal Service Mail Sorters, Processors, and Processing Machine Operators",
+      "soc2018": "43-5053",
+      "soc2018_title": "Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+   },
+   {
+      "soc2010": "43-5061",
+      "soc2010_title": "Production, Planning, and Expediting Clerks",
+      "soc2018": "43-5061",
+      "soc2018_title": "Production, Planning, and Expediting Clerks"
+   },
+   {
+      "soc2010": "43-5071",
+      "soc2010_title": "Shipping, Receiving, and Traffic Clerks",
+      "soc2018": "43-5071",
+      "soc2018_title": "Shipping, Receiving, and Inventory Clerks"
+   },
+   {
+      "soc2010": "43-5081",
+      "soc2010_title": "Stock Clerks and Order Fillers",
+      "soc2018": "53-7065",
+      "soc2018_title": "Stockers and Order Fillers"
+   },
+   {
+      "soc2010": "43-5111",
+      "soc2010_title": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+      "soc2018": "43-5111",
+      "soc2018_title": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+   },
+   {
+      "soc2010": "43-6011",
+      "soc2010_title": "Executive Secretaries and Executive Administrative Assistants",
+      "soc2018": "43-6011",
+      "soc2018_title": "Executive Secretaries and Executive Administrative Assistants"
+   },
+   {
+      "soc2010": "43-6012",
+      "soc2010_title": "Legal Secretaries",
+      "soc2018": "43-6012",
+      "soc2018_title": "Legal Secretaries and Administrative Assistants"
+   },
+   {
+      "soc2010": "43-6013",
+      "soc2010_title": "Medical Secretaries",
+      "soc2018": "43-6013",
+      "soc2018_title": "Medical Secretaries and Administrative Assistants"
+   },
+   {
+      "soc2010": "43-6014",
+      "soc2010_title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "soc2018": "43-6014",
+      "soc2018_title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+   },
+   {
+      "soc2010": "43-9011",
+      "soc2010_title": "Computer Operators",
+      "soc2018": "15-1299",
+      "soc2018_title": "Computer Occupations, All Other (##)"
+   },
+   {
+      "soc2010": "43-9021",
+      "soc2010_title": "Data Entry Keyers",
+      "soc2018": "43-9021",
+      "soc2018_title": "Data Entry Keyers"
+   },
+   {
+      "soc2010": "43-9022",
+      "soc2010_title": "Word Processors and Typists",
+      "soc2018": "43-9022",
+      "soc2018_title": "Word Processors and Typists"
+   },
+   {
+      "soc2010": "43-9031",
+      "soc2010_title": "Desktop Publishers",
+      "soc2018": "43-9031",
+      "soc2018_title": "Desktop Publishers"
+   },
+   {
+      "soc2010": "43-9041",
+      "soc2010_title": "Insurance Claims and Policy Processing Clerks",
+      "soc2018": "43-9041",
+      "soc2018_title": "Insurance Claims and Policy Processing Clerks"
+   },
+   {
+      "soc2010": "43-9051",
+      "soc2010_title": "Mail Clerks and Mail Machine Operators, Except Postal Service",
+      "soc2018": "43-9051",
+      "soc2018_title": "Mail Clerks and Mail Machine Operators, Except Postal Service"
+   },
+   {
+      "soc2010": "43-9061",
+      "soc2010_title": "Office Clerks, General",
+      "soc2018": "43-9061",
+      "soc2018_title": "Office Clerks, General"
+   },
+   {
+      "soc2010": "43-9071",
+      "soc2010_title": "Office Machine Operators, Except Computer",
+      "soc2018": "43-9071",
+      "soc2018_title": "Office Machine Operators, Except Computer"
+   },
+   {
+      "soc2010": "43-9081",
+      "soc2010_title": "Proofreaders and Copy Markers",
+      "soc2018": "43-9081",
+      "soc2018_title": "Proofreaders and Copy Markers"
+   },
+   {
+      "soc2010": "43-9111",
+      "soc2010_title": "Statistical Assistants",
+      "soc2018": "43-9111",
+      "soc2018_title": "Statistical Assistants"
+   },
+   {
+      "soc2010": "43-9199",
+      "soc2010_title": "Office and Administrative Support Workers, All Other",
+      "soc2018": "43-9199",
+      "soc2018_title": "Office and Administrative Support Workers, All Other"
+   },
+   {
+      "soc2010": "45-1011",
+      "soc2010_title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers",
+      "soc2018": "45-1011",
+      "soc2018_title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+   },
+   {
+      "soc2010": "45-2011",
+      "soc2010_title": "Agricultural Inspectors",
+      "soc2018": "45-2011",
+      "soc2018_title": "Agricultural Inspectors"
+   },
+   {
+      "soc2010": "45-2021",
+      "soc2010_title": "Animal Breeders",
+      "soc2018": "45-2021",
+      "soc2018_title": "Animal Breeders"
+   },
+   {
+      "soc2010": "45-2041",
+      "soc2010_title": "Graders and Sorters, Agricultural Products",
+      "soc2018": "45-2041",
+      "soc2018_title": "Graders and Sorters, Agricultural Products"
+   },
+   {
+      "soc2010": "45-2091",
+      "soc2010_title": "Agricultural Equipment Operators",
+      "soc2018": "45-2091",
+      "soc2018_title": "Agricultural Equipment Operators"
+   },
+   {
+      "soc2010": "45-2092",
+      "soc2010_title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "soc2018": "45-2092",
+      "soc2018_title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+   },
+   {
+      "soc2010": "45-2093",
+      "soc2010_title": "Farmworkers, Farm, Ranch, and Aquacultural Animals",
+      "soc2018": "45-2093",
+      "soc2018_title": "Farmworkers, Farm, Ranch, and Aquacultural Animals"
+   },
+   {
+      "soc2010": "45-2099",
+      "soc2010_title": "Agricultural Workers, All Other",
+      "soc2018": "45-2099",
+      "soc2018_title": "Agricultural Workers, All Other"
+   },
+   {
+      "soc2010": "45-3011",
+      "soc2010_title": "Fishers and Related Fishing Workers",
+      "soc2018": "45-3031",
+      "soc2018_title": "Fishing and Hunting Workers (##)"
+   },
+   {
+      "soc2010": "45-3021",
+      "soc2010_title": "Hunters and Trappers",
+      "soc2018": "45-3031",
+      "soc2018_title": "Fishing and Hunting Workers (##)"
+   },
+   {
+      "soc2010": "45-4011",
+      "soc2010_title": "Forest and Conservation Workers",
+      "soc2018": "45-4011",
+      "soc2018_title": "Forest and Conservation Workers"
+   },
+   {
+      "soc2010": "45-4021",
+      "soc2010_title": "Fallers",
+      "soc2018": "45-4021",
+      "soc2018_title": "Fallers"
+   },
+   {
+      "soc2010": "45-4022",
+      "soc2010_title": "Logging Equipment Operators",
+      "soc2018": "45-4022",
+      "soc2018_title": "Logging Equipment Operators"
+   },
+   {
+      "soc2010": "45-4023",
+      "soc2010_title": "Log Graders and Scalers",
+      "soc2018": "45-4023",
+      "soc2018_title": "Log Graders and Scalers"
+   },
+   {
+      "soc2010": "45-4029",
+      "soc2010_title": "Logging Workers, All Other",
+      "soc2018": "45-4029",
+      "soc2018_title": "Logging Workers, All Other"
+   },
+   {
+      "soc2010": "47-1011",
+      "soc2010_title": "First-Line Supervisors of Construction Trades and Extraction Workers",
+      "soc2018": "47-1011",
+      "soc2018_title": "First-Line Supervisors of Construction Trades and Extraction Workers"
+   },
+   {
+      "soc2010": "47-2011",
+      "soc2010_title": "Boilermakers",
+      "soc2018": "47-2011",
+      "soc2018_title": "Boilermakers"
+   },
+   {
+      "soc2010": "47-2021",
+      "soc2010_title": "Brickmasons and Blockmasons",
+      "soc2018": "47-2021",
+      "soc2018_title": "Brickmasons and Blockmasons"
+   },
+   {
+      "soc2010": "47-2022",
+      "soc2010_title": "Stonemasons",
+      "soc2018": "47-2022",
+      "soc2018_title": "Stonemasons"
+   },
+   {
+      "soc2010": "47-2031",
+      "soc2010_title": "Carpenters",
+      "soc2018": "47-2031",
+      "soc2018_title": "Carpenters"
+   },
+   {
+      "soc2010": "47-2041",
+      "soc2010_title": "Carpet Installers",
+      "soc2018": "47-2041",
+      "soc2018_title": "Carpet Installers"
+   },
+   {
+      "soc2010": "47-2042",
+      "soc2010_title": "Floor Layers, Except Carpet, Wood, and Hard Tiles",
+      "soc2018": "47-2042",
+      "soc2018_title": "Floor Layers, Except Carpet, Wood, and Hard Tiles"
+   },
+   {
+      "soc2010": "47-2043",
+      "soc2010_title": "Floor Sanders and Finishers",
+      "soc2018": "47-2043",
+      "soc2018_title": "Floor Sanders and Finishers"
+   },
+   {
+      "soc2010": "47-2044",
+      "soc2010_title": "Tile and Marble Setters",
+      "soc2018": "47-2044",
+      "soc2018_title": "Tile and Stone Setters"
+   },
+   {
+      "soc2010": "47-2051",
+      "soc2010_title": "Cement Masons and Concrete Finishers",
+      "soc2018": "47-2051",
+      "soc2018_title": "Cement Masons and Concrete Finishers"
+   },
+   {
+      "soc2010": "47-2053",
+      "soc2010_title": "Terrazzo Workers and Finishers",
+      "soc2018": "47-2053",
+      "soc2018_title": "Terrazzo Workers and Finishers"
+   },
+   {
+      "soc2010": "47-2061",
+      "soc2010_title": "Construction Laborers",
+      "soc2018": "47-2061",
+      "soc2018_title": "Construction Laborers"
+   },
+   {
+      "soc2010": "47-2071",
+      "soc2010_title": "Paving, Surfacing, and Tamping Equipment Operators",
+      "soc2018": "47-2071",
+      "soc2018_title": "Paving, Surfacing, and Tamping Equipment Operators"
+   },
+   {
+      "soc2010": "47-2072",
+      "soc2010_title": "Pile Driver Operators",
+      "soc2018": "47-2072",
+      "soc2018_title": "Pile Driver Operators"
+   },
+   {
+      "soc2010": "47-2073",
+      "soc2010_title": "Operating Engineers and Other Construction Equipment Operators",
+      "soc2018": "47-2073",
+      "soc2018_title": "Operating Engineers and Other Construction Equipment Operators"
+   },
+   {
+      "soc2010": "47-2081",
+      "soc2010_title": "Drywall and Ceiling Tile Installers",
+      "soc2018": "47-2081",
+      "soc2018_title": "Drywall and Ceiling Tile Installers"
+   },
+   {
+      "soc2010": "47-2082",
+      "soc2010_title": "Tapers",
+      "soc2018": "47-2082",
+      "soc2018_title": "Tapers"
+   },
+   {
+      "soc2010": "47-2111",
+      "soc2010_title": "Electricians",
+      "soc2018": "47-2111",
+      "soc2018_title": "Electricians"
+   },
+   {
+      "soc2010": "47-2121",
+      "soc2010_title": "Glaziers",
+      "soc2018": "47-2121",
+      "soc2018_title": "Glaziers"
+   },
+   {
+      "soc2010": "47-2131",
+      "soc2010_title": "Insulation Workers, Floor, Ceiling, and Wall",
+      "soc2018": "47-2131",
+      "soc2018_title": "Insulation Workers, Floor, Ceiling, and Wall"
+   },
+   {
+      "soc2010": "47-2132",
+      "soc2010_title": "Insulation Workers, Mechanical",
+      "soc2018": "47-2132",
+      "soc2018_title": "Insulation Workers, Mechanical"
+   },
+   {
+      "soc2010": "47-2141",
+      "soc2010_title": "Painters, Construction and Maintenance",
+      "soc2018": "47-2141",
+      "soc2018_title": "Painters, Construction and Maintenance"
+   },
+   {
+      "soc2010": "47-2142",
+      "soc2010_title": "Paperhangers",
+      "soc2018": "47-2142",
+      "soc2018_title": "Paperhangers"
+   },
+   {
+      "soc2010": "47-2151",
+      "soc2010_title": "Pipelayers",
+      "soc2018": "47-2151",
+      "soc2018_title": "Pipelayers"
+   },
+   {
+      "soc2010": "47-2152",
+      "soc2010_title": "Plumbers, Pipefitters, and Steamfitters",
+      "soc2018": "47-2152",
+      "soc2018_title": "Plumbers, Pipefitters, and Steamfitters"
+   },
+   {
+      "soc2010": "47-2161",
+      "soc2010_title": "Plasterers and Stucco Masons",
+      "soc2018": "47-2161",
+      "soc2018_title": "Plasterers and Stucco Masons"
+   },
+   {
+      "soc2010": "47-2171",
+      "soc2010_title": "Reinforcing Iron and Rebar Workers",
+      "soc2018": "47-2171",
+      "soc2018_title": "Reinforcing Iron and Rebar Workers"
+   },
+   {
+      "soc2010": "47-2181",
+      "soc2010_title": "Roofers",
+      "soc2018": "47-2181",
+      "soc2018_title": "Roofers"
+   },
+   {
+      "soc2010": "47-2211",
+      "soc2010_title": "Sheet Metal Workers",
+      "soc2018": "47-2211",
+      "soc2018_title": "Sheet Metal Workers"
+   },
+   {
+      "soc2010": "47-2221",
+      "soc2010_title": "Structural Iron and Steel Workers",
+      "soc2018": "47-2221",
+      "soc2018_title": "Structural Iron and Steel Workers"
+   },
+   {
+      "soc2010": "47-2231",
+      "soc2010_title": "Solar Photovoltaic Installers",
+      "soc2018": "47-2231",
+      "soc2018_title": "Solar Photovoltaic Installers"
+   },
+   {
+      "soc2010": "47-3011",
+      "soc2010_title": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",
+      "soc2018": "47-3011",
+      "soc2018_title": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+   },
+   {
+      "soc2010": "47-3012",
+      "soc2010_title": "Helpers--Carpenters",
+      "soc2018": "47-3012",
+      "soc2018_title": "Helpers--Carpenters"
+   },
+   {
+      "soc2010": "47-3013",
+      "soc2010_title": "Helpers--Electricians",
+      "soc2018": "47-3013",
+      "soc2018_title": "Helpers--Electricians"
+   },
+   {
+      "soc2010": "47-3014",
+      "soc2010_title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",
+      "soc2018": "47-3014",
+      "soc2018_title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+   },
+   {
+      "soc2010": "47-3015",
+      "soc2010_title": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",
+      "soc2018": "47-3015",
+      "soc2018_title": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+   },
+   {
+      "soc2010": "47-3016",
+      "soc2010_title": "Helpers--Roofers",
+      "soc2018": "47-3016",
+      "soc2018_title": "Helpers--Roofers"
+   },
+   {
+      "soc2010": "47-3019",
+      "soc2010_title": "Helpers, Construction Trades, All Other",
+      "soc2018": "47-3019",
+      "soc2018_title": "Helpers, Construction Trades, All Other"
+   },
+   {
+      "soc2010": "47-4011",
+      "soc2010_title": "Construction and Building Inspectors",
+      "soc2018": "47-4011",
+      "soc2018_title": "Construction and Building Inspectors"
+   },
+   {
+      "soc2010": "47-4021",
+      "soc2010_title": "Elevator Installers and Repairers",
+      "soc2018": "47-4021",
+      "soc2018_title": "Elevator and Escalator Installers and Repairers"
+   },
+   {
+      "soc2010": "47-4031",
+      "soc2010_title": "Fence Erectors",
+      "soc2018": "47-4031",
+      "soc2018_title": "Fence Erectors"
+   },
+   {
+      "soc2010": "47-4041",
+      "soc2010_title": "Hazardous Materials Removal Workers",
+      "soc2018": "47-4041",
+      "soc2018_title": "Hazardous Materials Removal Workers"
+   },
+   {
+      "soc2010": "47-4051",
+      "soc2010_title": "Highway Maintenance Workers",
+      "soc2018": "47-4051",
+      "soc2018_title": "Highway Maintenance Workers"
+   },
+   {
+      "soc2010": "47-4061",
+      "soc2010_title": "Rail-Track Laying and Maintenance Equipment Operators",
+      "soc2018": "47-4061",
+      "soc2018_title": "Rail-Track Laying and Maintenance Equipment Operators"
+   },
+   {
+      "soc2010": "47-4071",
+      "soc2010_title": "Septic Tank Servicers and Sewer Pipe Cleaners",
+      "soc2018": "47-4071",
+      "soc2018_title": "Septic Tank Servicers and Sewer Pipe Cleaners"
+   },
+   {
+      "soc2010": "47-4091",
+      "soc2010_title": "Segmental Pavers",
+      "soc2018": "47-4091",
+      "soc2018_title": "Segmental Pavers"
+   },
+   {
+      "soc2010": "47-4099",
+      "soc2010_title": "Construction and Related Workers, All Other",
+      "soc2018": "47-4099",
+      "soc2018_title": "Construction and Related Workers, All Other"
+   },
+   {
+      "soc2010": "47-5011",
+      "soc2010_title": "Derrick Operators, Oil and Gas",
+      "soc2018": "47-5011",
+      "soc2018_title": "Derrick Operators, Oil and Gas"
+   },
+   {
+      "soc2010": "47-5012",
+      "soc2010_title": "Rotary Drill Operators, Oil and Gas",
+      "soc2018": "47-5012",
+      "soc2018_title": "Rotary Drill Operators, Oil and Gas"
+   },
+   {
+      "soc2010": "47-5013",
+      "soc2010_title": "Service Unit Operators, Oil, Gas, and Mining",
+      "soc2018": "47-5013",
+      "soc2018_title": "Service Unit Operators, Oil and Gas"
+   },
+   {
+      "soc2010": "47-5021",
+      "soc2010_title": "Earth Drillers, Except Oil and Gas",
+      "soc2018": "47-5023",
+      "soc2018_title": "Earth Drillers, Except Oil and Gas"
+   },
+   {
+      "soc2010": "47-5021",
+      "soc2010_title": "Earth Drillers, Except Oil and Gas",
+      "soc2018": "47-5032",
+      "soc2018_title": "Explosives Workers, Ordnance Handling Experts, and Blasters (##)"
+   },
+   {
+      "soc2010": "47-5031",
+      "soc2010_title": "Explosives Workers, Ordnance Handling Experts, and Blasters",
+      "soc2018": "47-5032",
+      "soc2018_title": "Explosives Workers, Ordnance Handling Experts, and Blasters (##)"
+   },
+   {
+      "soc2010": "47-5041",
+      "soc2010_title": "Continuous Mining Machine Operators",
+      "soc2018": "47-5041",
+      "soc2018_title": "Continuous Mining Machine Operators"
+   },
+   {
+      "soc2010": "47-5042",
+      "soc2010_title": "Mine Cutting and Channeling Machine Operators",
+      "soc2018": "47-5049",
+      "soc2018_title": "Underground Mining Machine Operators, All Other (##)"
+   },
+   {
+      "soc2010": "47-5049",
+      "soc2010_title": "Mining Machine Operators, All Other",
+      "soc2018": "47-5049",
+      "soc2018_title": "Underground Mining Machine Operators, All Other (##)"
+   },
+   {
+      "soc2010": "47-5049",
+      "soc2010_title": "Mining Machine Operators, All Other",
+      "soc2018": "47-5099",
+      "soc2018_title": "Extraction Workers, All Other (##)"
+   },
+   {
+      "soc2010": "47-5051",
+      "soc2010_title": "Rock Splitters, Quarry",
+      "soc2018": "47-5051",
+      "soc2018_title": "Rock Splitters, Quarry"
+   },
+   {
+      "soc2010": "47-5061",
+      "soc2010_title": "Roof Bolters, Mining",
+      "soc2018": "47-5043",
+      "soc2018_title": "Roof Bolters, Mining"
+   },
+   {
+      "soc2010": "47-5071",
+      "soc2010_title": "Roustabouts, Oil and Gas",
+      "soc2018": "47-5071",
+      "soc2018_title": "Roustabouts, Oil and Gas"
+   },
+   {
+      "soc2010": "47-5081",
+      "soc2010_title": "Helpers--Extraction Workers",
+      "soc2018": "47-5081",
+      "soc2018_title": "Helpers--Extraction Workers"
+   },
+   {
+      "soc2010": "47-5099",
+      "soc2010_title": "Extraction Workers, All Other",
+      "soc2018": "47-5099",
+      "soc2018_title": "Extraction Workers, All Other (##)"
+   },
+   {
+      "soc2010": "49-1011",
+      "soc2010_title": "First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "soc2018": "49-1011",
+      "soc2018_title": "First-Line Supervisors of Mechanics, Installers, and Repairers"
+   },
+   {
+      "soc2010": "49-2011",
+      "soc2010_title": "Computer, Automated Teller, and Office Machine Repairers",
+      "soc2018": "49-2011",
+      "soc2018_title": "Computer, Automated Teller, and Office Machine Repairers"
+   },
+   {
+      "soc2010": "49-2021",
+      "soc2010_title": "Radio, Cellular, and Tower Equipment Installers and Repairers",
+      "soc2018": "49-2021",
+      "soc2018_title": "Radio, Cellular, and Tower Equipment Installers and Repairers"
+   },
+   {
+      "soc2010": "49-2022",
+      "soc2010_title": "Telecommunications Equipment Installers and Repairers, Except Line Installers",
+      "soc2018": "49-2022",
+      "soc2018_title": "Telecommunications Equipment Installers and Repairers, Except Line Installers"
+   },
+   {
+      "soc2010": "49-2091",
+      "soc2010_title": "Avionics Technicians",
+      "soc2018": "49-2091",
+      "soc2018_title": "Avionics Technicians"
+   },
+   {
+      "soc2010": "49-2092",
+      "soc2010_title": "Electric Motor, Power Tool, and Related Repairers",
+      "soc2018": "49-2092",
+      "soc2018_title": "Electric Motor, Power Tool, and Related Repairers"
+   },
+   {
+      "soc2010": "49-2093",
+      "soc2010_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "soc2018": "49-2093",
+      "soc2018_title": "Electrical and Electronics Installers and Repairers, Transportation Equipment"
+   },
+   {
+      "soc2010": "49-2094",
+      "soc2010_title": "Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+      "soc2018": "49-2094",
+      "soc2018_title": "Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+   },
+   {
+      "soc2010": "49-2095",
+      "soc2010_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "soc2018": "49-2095",
+      "soc2018_title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+   },
+   {
+      "soc2010": "49-2096",
+      "soc2010_title": "Electronic Equipment Installers and Repairers, Motor Vehicles",
+      "soc2018": "49-2096",
+      "soc2018_title": "Electronic Equipment Installers and Repairers, Motor Vehicles"
+   },
+   {
+      "soc2010": "49-2097",
+      "soc2010_title": "Electronic Home Entertainment Equipment Installers and Repairers",
+      "soc2018": "49-2097",
+      "soc2018_title": "Audiovisual Equipment Installers and Repairers"
+   },
+   {
+      "soc2010": "49-2098",
+      "soc2010_title": "Security and Fire Alarm Systems Installers",
+      "soc2018": "49-2098",
+      "soc2018_title": "Security and Fire Alarm Systems Installers"
+   },
+   {
+      "soc2010": "49-3011",
+      "soc2010_title": "Aircraft Mechanics and Service Technicians",
+      "soc2018": "49-3011",
+      "soc2018_title": "Aircraft Mechanics and Service Technicians"
+   },
+   {
+      "soc2010": "49-3021",
+      "soc2010_title": "Automotive Body and Related Repairers",
+      "soc2018": "49-3021",
+      "soc2018_title": "Automotive Body and Related Repairers"
+   },
+   {
+      "soc2010": "49-3022",
+      "soc2010_title": "Automotive Glass Installers and Repairers",
+      "soc2018": "49-3022",
+      "soc2018_title": "Automotive Glass Installers and Repairers"
+   },
+   {
+      "soc2010": "49-3023",
+      "soc2010_title": "Automotive Service Technicians and Mechanics",
+      "soc2018": "49-3023",
+      "soc2018_title": "Automotive Service Technicians and Mechanics"
+   },
+   {
+      "soc2010": "49-3031",
+      "soc2010_title": "Bus and Truck Mechanics and Diesel Engine Specialists",
+      "soc2018": "49-3031",
+      "soc2018_title": "Bus and Truck Mechanics and Diesel Engine Specialists"
+   },
+   {
+      "soc2010": "49-3041",
+      "soc2010_title": "Farm Equipment Mechanics and Service Technicians",
+      "soc2018": "49-3041",
+      "soc2018_title": "Farm Equipment Mechanics and Service Technicians"
+   },
+   {
+      "soc2010": "49-3042",
+      "soc2010_title": "Mobile Heavy Equipment Mechanics, Except Engines",
+      "soc2018": "49-3042",
+      "soc2018_title": "Mobile Heavy Equipment Mechanics, Except Engines"
+   },
+   {
+      "soc2010": "49-3043",
+      "soc2010_title": "Rail Car Repairers",
+      "soc2018": "49-3043",
+      "soc2018_title": "Rail Car Repairers"
+   },
+   {
+      "soc2010": "49-3051",
+      "soc2010_title": "Motorboat Mechanics and Service Technicians",
+      "soc2018": "49-3051",
+      "soc2018_title": "Motorboat Mechanics and Service Technicians"
+   },
+   {
+      "soc2010": "49-3052",
+      "soc2010_title": "Motorcycle Mechanics",
+      "soc2018": "49-3052",
+      "soc2018_title": "Motorcycle Mechanics"
+   },
+   {
+      "soc2010": "49-3053",
+      "soc2010_title": "Outdoor Power Equipment and Other Small Engine Mechanics",
+      "soc2018": "49-3053",
+      "soc2018_title": "Outdoor Power Equipment and Other Small Engine Mechanics"
+   },
+   {
+      "soc2010": "49-3091",
+      "soc2010_title": "Bicycle Repairers",
+      "soc2018": "49-3091",
+      "soc2018_title": "Bicycle Repairers"
+   },
+   {
+      "soc2010": "49-3092",
+      "soc2010_title": "Recreational Vehicle Service Technicians",
+      "soc2018": "49-3092",
+      "soc2018_title": "Recreational Vehicle Service Technicians"
+   },
+   {
+      "soc2010": "49-3093",
+      "soc2010_title": "Tire Repairers and Changers",
+      "soc2018": "49-3093",
+      "soc2018_title": "Tire Repairers and Changers"
+   },
+   {
+      "soc2010": "49-9011",
+      "soc2010_title": "Mechanical Door Repairers",
+      "soc2018": "49-9011",
+      "soc2018_title": "Mechanical Door Repairers"
+   },
+   {
+      "soc2010": "49-9012",
+      "soc2010_title": "Control and Valve Installers and Repairers, Except Mechanical Door",
+      "soc2018": "49-9012",
+      "soc2018_title": "Control and Valve Installers and Repairers, Except Mechanical Door"
+   },
+   {
+      "soc2010": "49-9021",
+      "soc2010_title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers",
+      "soc2018": "49-9021",
+      "soc2018_title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+   },
+   {
+      "soc2010": "49-9031",
+      "soc2010_title": "Home Appliance Repairers",
+      "soc2018": "49-9031",
+      "soc2018_title": "Home Appliance Repairers"
+   },
+   {
+      "soc2010": "49-9041",
+      "soc2010_title": "Industrial Machinery Mechanics",
+      "soc2018": "49-9041",
+      "soc2018_title": "Industrial Machinery Mechanics"
+   },
+   {
+      "soc2010": "49-9043",
+      "soc2010_title": "Maintenance Workers, Machinery",
+      "soc2018": "49-9043",
+      "soc2018_title": "Maintenance Workers, Machinery"
+   },
+   {
+      "soc2010": "49-9044",
+      "soc2010_title": "Millwrights",
+      "soc2018": "49-9044",
+      "soc2018_title": "Millwrights"
+   },
+   {
+      "soc2010": "49-9045",
+      "soc2010_title": "Refractory Materials Repairers, Except Brickmasons",
+      "soc2018": "49-9045",
+      "soc2018_title": "Refractory Materials Repairers, Except Brickmasons"
+   },
+   {
+      "soc2010": "49-9051",
+      "soc2010_title": "Electrical Power-Line Installers and Repairers",
+      "soc2018": "49-9051",
+      "soc2018_title": "Electrical Power-Line Installers and Repairers"
+   },
+   {
+      "soc2010": "49-9052",
+      "soc2010_title": "Telecommunications Line Installers and Repairers",
+      "soc2018": "49-9052",
+      "soc2018_title": "Telecommunications Line Installers and Repairers"
+   },
+   {
+      "soc2010": "49-9061",
+      "soc2010_title": "Camera and Photographic Equipment Repairers",
+      "soc2018": "49-9061",
+      "soc2018_title": "Camera and Photographic Equipment Repairers"
+   },
+   {
+      "soc2010": "49-9062",
+      "soc2010_title": "Medical Equipment Repairers",
+      "soc2018": "49-9062",
+      "soc2018_title": "Medical Equipment Repairers"
+   },
+   {
+      "soc2010": "49-9063",
+      "soc2010_title": "Musical Instrument Repairers and Tuners",
+      "soc2018": "49-9063",
+      "soc2018_title": "Musical Instrument Repairers and Tuners"
+   },
+   {
+      "soc2010": "49-9064",
+      "soc2010_title": "Watch Repairers",
+      "soc2018": "49-9064",
+      "soc2018_title": "Watch and Clock Repairers"
+   },
+   {
+      "soc2010": "49-9069",
+      "soc2010_title": "Precision Instrument and Equipment Repairers, All Other",
+      "soc2018": "49-9069",
+      "soc2018_title": "Precision Instrument and Equipment Repairers, All Other"
+   },
+   {
+      "soc2010": "49-9071",
+      "soc2010_title": "Maintenance and Repair Workers, General",
+      "soc2018": "49-9071",
+      "soc2018_title": "Maintenance and Repair Workers, General"
+   },
+   {
+      "soc2010": "49-9081",
+      "soc2010_title": "Wind Turbine Service Technicians",
+      "soc2018": "49-9081",
+      "soc2018_title": "Wind Turbine Service Technicians"
+   },
+   {
+      "soc2010": "49-9091",
+      "soc2010_title": "Coin, Vending, and Amusement Machine Servicers and Repairers",
+      "soc2018": "49-9091",
+      "soc2018_title": "Coin, Vending, and Amusement Machine Servicers and Repairers"
+   },
+   {
+      "soc2010": "49-9092",
+      "soc2010_title": "Commercial Divers",
+      "soc2018": "49-9092",
+      "soc2018_title": "Commercial Divers"
+   },
+   {
+      "soc2010": "49-9093",
+      "soc2010_title": "Fabric Menders, Except Garment",
+      "soc2018": "49-9099",
+      "soc2018_title": "Installation, Maintenance, and Repair Workers, All Other (##)"
+   },
+   {
+      "soc2010": "49-9094",
+      "soc2010_title": "Locksmiths and Safe Repairers",
+      "soc2018": "49-9094",
+      "soc2018_title": "Locksmiths and Safe Repairers"
+   },
+   {
+      "soc2010": "49-9095",
+      "soc2010_title": "Manufactured Building and Mobile Home Installers",
+      "soc2018": "49-9095",
+      "soc2018_title": "Manufactured Building and Mobile Home Installers"
+   },
+   {
+      "soc2010": "49-9096",
+      "soc2010_title": "Riggers",
+      "soc2018": "49-9096",
+      "soc2018_title": "Riggers"
+   },
+   {
+      "soc2010": "49-9097",
+      "soc2010_title": "Signal and Track Switch Repairers",
+      "soc2018": "49-9097",
+      "soc2018_title": "Signal and Track Switch Repairers"
+   },
+   {
+      "soc2010": "49-9098",
+      "soc2010_title": "Helpers--Installation, Maintenance, and Repair Workers",
+      "soc2018": "49-9098",
+      "soc2018_title": "Helpers--Installation, Maintenance, and Repair Workers"
+   },
+   {
+      "soc2010": "49-9099",
+      "soc2010_title": "Installation, Maintenance, and Repair Workers, All Other",
+      "soc2018": "49-9099",
+      "soc2018_title": "Installation, Maintenance, and Repair Workers, All Other (##)"
+   },
+   {
+      "soc2010": "51-1011",
+      "soc2010_title": "First-Line Supervisors of Production and Operating Workers",
+      "soc2018": "51-1011",
+      "soc2018_title": "First-Line Supervisors of Production and Operating Workers"
+   },
+   {
+      "soc2010": "51-2011",
+      "soc2010_title": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+      "soc2018": "51-2011",
+      "soc2018_title": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+   },
+   {
+      "soc2010": "51-2021",
+      "soc2010_title": "Coil Winders, Tapers, and Finishers",
+      "soc2018": "51-2021",
+      "soc2018_title": "Coil Winders, Tapers, and Finishers"
+   },
+   {
+      "soc2010": "51-2022",
+      "soc2010_title": "Electrical and Electronic Equipment Assemblers",
+      "soc2018": "51-2022",
+      "soc2018_title": "Electrical and Electronic Equipment Assemblers"
+   },
+   {
+      "soc2010": "51-2023",
+      "soc2010_title": "Electromechanical Equipment Assemblers",
+      "soc2018": "51-2023",
+      "soc2018_title": "Electromechanical Equipment Assemblers"
+   },
+   {
+      "soc2010": "51-2031",
+      "soc2010_title": "Engine and Other Machine Assemblers",
+      "soc2018": "51-2031",
+      "soc2018_title": "Engine and Other Machine Assemblers"
+   },
+   {
+      "soc2010": "51-2041",
+      "soc2010_title": "Structural Metal Fabricators and Fitters",
+      "soc2018": "51-2041",
+      "soc2018_title": "Structural Metal Fabricators and Fitters"
+   },
+   {
+      "soc2010": "51-2091",
+      "soc2010_title": "Fiberglass Laminators and Fabricators",
+      "soc2018": "51-2051",
+      "soc2018_title": "Fiberglass Laminators and Fabricators"
+   },
+   {
+      "soc2010": "51-2092",
+      "soc2010_title": "Team Assemblers",
+      "soc2018": "51-2092",
+      "soc2018_title": "Team Assemblers"
+   },
+   {
+      "soc2010": "51-2093",
+      "soc2010_title": "Timing Device Assemblers and Adjusters",
+      "soc2018": "51-2061",
+      "soc2018_title": "Timing Device Assemblers and Adjusters"
+   },
+   {
+      "soc2010": "51-2099",
+      "soc2010_title": "Assemblers and Fabricators, All Other",
+      "soc2018": "51-2099",
+      "soc2018_title": "Assemblers and Fabricators, All Other"
+   },
+   {
+      "soc2010": "51-3011",
+      "soc2010_title": "Bakers",
+      "soc2018": "51-3011",
+      "soc2018_title": "Bakers"
+   },
+   {
+      "soc2010": "51-3021",
+      "soc2010_title": "Butchers and Meat Cutters",
+      "soc2018": "51-3021",
+      "soc2018_title": "Butchers and Meat Cutters"
+   },
+   {
+      "soc2010": "51-3022",
+      "soc2010_title": "Meat, Poultry, and Fish Cutters and Trimmers",
+      "soc2018": "51-3022",
+      "soc2018_title": "Meat, Poultry, and Fish Cutters and Trimmers"
+   },
+   {
+      "soc2010": "51-3023",
+      "soc2010_title": "Slaughterers and Meat Packers",
+      "soc2018": "51-3023",
+      "soc2018_title": "Slaughterers and Meat Packers"
+   },
+   {
+      "soc2010": "51-3091",
+      "soc2010_title": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",
+      "soc2018": "51-3091",
+      "soc2018_title": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+   },
+   {
+      "soc2010": "51-3092",
+      "soc2010_title": "Food Batchmakers",
+      "soc2018": "51-3092",
+      "soc2018_title": "Food Batchmakers"
+   },
+   {
+      "soc2010": "51-3093",
+      "soc2010_title": "Food Cooking Machine Operators and Tenders",
+      "soc2018": "51-3093",
+      "soc2018_title": "Food Cooking Machine Operators and Tenders"
+   },
+   {
+      "soc2010": "51-3099",
+      "soc2010_title": "Food Processing Workers, All Other",
+      "soc2018": "51-3099",
+      "soc2018_title": "Food Processing Workers, All Other"
+   },
+   {
+      "soc2010": "51-4011",
+      "soc2010_title": "Computer-Controlled Machine Tool Operators, Metal and Plastic",
+      "soc2018": "51-9161",
+      "soc2018_title": "Computer Numerically Controlled Tool Operators (##)"
+   },
+   {
+      "soc2010": "51-4012",
+      "soc2010_title": "Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
+      "soc2018": "51-9162",
+      "soc2018_title": "Computer Numerically Controlled Tool Programmers (##)"
+   },
+   {
+      "soc2010": "51-4021",
+      "soc2010_title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4021",
+      "soc2018_title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4022",
+      "soc2010_title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4022",
+      "soc2018_title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4023",
+      "soc2010_title": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4023",
+      "soc2018_title": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4031",
+      "soc2010_title": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4031",
+      "soc2018_title": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4032",
+      "soc2010_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4032",
+      "soc2018_title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4033",
+      "soc2010_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4033",
+      "soc2018_title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4034",
+      "soc2010_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4034",
+      "soc2018_title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4035",
+      "soc2010_title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4035",
+      "soc2018_title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4041",
+      "soc2010_title": "Machinists",
+      "soc2018": "51-4041",
+      "soc2018_title": "Machinists"
+   },
+   {
+      "soc2010": "51-4051",
+      "soc2010_title": "Metal-Refining Furnace Operators and Tenders",
+      "soc2018": "51-4051",
+      "soc2018_title": "Metal-Refining Furnace Operators and Tenders"
+   },
+   {
+      "soc2010": "51-4052",
+      "soc2010_title": "Pourers and Casters, Metal",
+      "soc2018": "51-4052",
+      "soc2018_title": "Pourers and Casters, Metal"
+   },
+   {
+      "soc2010": "51-4061",
+      "soc2010_title": "Model Makers, Metal and Plastic",
+      "soc2018": "51-4061",
+      "soc2018_title": "Model Makers, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4062",
+      "soc2010_title": "Patternmakers, Metal and Plastic",
+      "soc2018": "51-4062",
+      "soc2018_title": "Patternmakers, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4071",
+      "soc2010_title": "Foundry Mold and Coremakers",
+      "soc2018": "51-4071",
+      "soc2018_title": "Foundry Mold and Coremakers"
+   },
+   {
+      "soc2010": "51-4072",
+      "soc2010_title": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4072",
+      "soc2018_title": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4081",
+      "soc2010_title": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4081",
+      "soc2018_title": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4111",
+      "soc2010_title": "Tool and Die Makers",
+      "soc2018": "51-4111",
+      "soc2018_title": "Tool and Die Makers"
+   },
+   {
+      "soc2010": "51-4121",
+      "soc2010_title": "Welders, Cutters, Solderers, and Brazers",
+      "soc2018": "51-4121",
+      "soc2018_title": "Welders, Cutters, Solderers, and Brazers"
+   },
+   {
+      "soc2010": "51-4122",
+      "soc2010_title": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",
+      "soc2018": "51-4122",
+      "soc2018_title": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-4191",
+      "soc2010_title": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4191",
+      "soc2018_title": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4192",
+      "soc2010_title": "Layout Workers, Metal and Plastic",
+      "soc2018": "51-4192",
+      "soc2018_title": "Layout Workers, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4193",
+      "soc2010_title": "Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",
+      "soc2018": "51-4193",
+      "soc2018_title": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic"
+   },
+   {
+      "soc2010": "51-4194",
+      "soc2010_title": "Tool Grinders, Filers, and Sharpeners",
+      "soc2018": "51-4194",
+      "soc2018_title": "Tool Grinders, Filers, and Sharpeners"
+   },
+   {
+      "soc2010": "51-4199",
+      "soc2010_title": "Metal Workers and Plastic Workers, All Other",
+      "soc2018": "51-4199",
+      "soc2018_title": "Metal Workers and Plastic Workers, All Other"
+   },
+   {
+      "soc2010": "51-5111",
+      "soc2010_title": "Prepress Technicians and Workers",
+      "soc2018": "51-5111",
+      "soc2018_title": "Prepress Technicians and Workers"
+   },
+   {
+      "soc2010": "51-5112",
+      "soc2010_title": "Printing Press Operators",
+      "soc2018": "51-5112",
+      "soc2018_title": "Printing Press Operators"
+   },
+   {
+      "soc2010": "51-5113",
+      "soc2010_title": "Print Binding and Finishing Workers",
+      "soc2018": "51-5113",
+      "soc2018_title": "Print Binding and Finishing Workers"
+   },
+   {
+      "soc2010": "51-6011",
+      "soc2010_title": "Laundry and Dry-Cleaning Workers",
+      "soc2018": "51-6011",
+      "soc2018_title": "Laundry and Dry-Cleaning Workers"
+   },
+   {
+      "soc2010": "51-6021",
+      "soc2010_title": "Pressers, Textile, Garment, and Related Materials",
+      "soc2018": "51-6021",
+      "soc2018_title": "Pressers, Textile, Garment, and Related Materials"
+   },
+   {
+      "soc2010": "51-6031",
+      "soc2010_title": "Sewing Machine Operators",
+      "soc2018": "51-6031",
+      "soc2018_title": "Sewing Machine Operators"
+   },
+   {
+      "soc2010": "51-6041",
+      "soc2010_title": "Shoe and Leather Workers and Repairers",
+      "soc2018": "51-6041",
+      "soc2018_title": "Shoe and Leather Workers and Repairers"
+   },
+   {
+      "soc2010": "51-6042",
+      "soc2010_title": "Shoe Machine Operators and Tenders",
+      "soc2018": "51-6042",
+      "soc2018_title": "Shoe Machine Operators and Tenders"
+   },
+   {
+      "soc2010": "51-6051",
+      "soc2010_title": "Sewers, Hand",
+      "soc2018": "51-6051",
+      "soc2018_title": "Sewers, Hand"
+   },
+   {
+      "soc2010": "51-6052",
+      "soc2010_title": "Tailors, Dressmakers, and Custom Sewers",
+      "soc2018": "51-6052",
+      "soc2018_title": "Tailors, Dressmakers, and Custom Sewers"
+   },
+   {
+      "soc2010": "51-6061",
+      "soc2010_title": "Textile Bleaching and Dyeing Machine Operators and Tenders",
+      "soc2018": "51-6061",
+      "soc2018_title": "Textile Bleaching and Dyeing Machine Operators and Tenders"
+   },
+   {
+      "soc2010": "51-6062",
+      "soc2010_title": "Textile Cutting Machine Setters, Operators, and Tenders",
+      "soc2018": "51-6062",
+      "soc2018_title": "Textile Cutting Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-6063",
+      "soc2010_title": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders",
+      "soc2018": "51-6063",
+      "soc2018_title": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-6064",
+      "soc2010_title": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",
+      "soc2018": "51-6064",
+      "soc2018_title": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-6091",
+      "soc2010_title": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",
+      "soc2018": "51-6091",
+      "soc2018_title": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+   },
+   {
+      "soc2010": "51-6092",
+      "soc2010_title": "Fabric and Apparel Patternmakers",
+      "soc2018": "51-6092",
+      "soc2018_title": "Fabric and Apparel Patternmakers"
+   },
+   {
+      "soc2010": "51-6093",
+      "soc2010_title": "Upholsterers",
+      "soc2018": "51-6093",
+      "soc2018_title": "Upholsterers"
+   },
+   {
+      "soc2010": "51-6099",
+      "soc2010_title": "Textile, Apparel, and Furnishings Workers, All Other",
+      "soc2018": "51-6099",
+      "soc2018_title": "Textile, Apparel, and Furnishings Workers, All Other"
+   },
+   {
+      "soc2010": "51-7011",
+      "soc2010_title": "Cabinetmakers and Bench Carpenters",
+      "soc2018": "51-7011",
+      "soc2018_title": "Cabinetmakers and Bench Carpenters"
+   },
+   {
+      "soc2010": "51-7021",
+      "soc2010_title": "Furniture Finishers",
+      "soc2018": "51-7021",
+      "soc2018_title": "Furniture Finishers"
+   },
+   {
+      "soc2010": "51-7031",
+      "soc2010_title": "Model Makers, Wood",
+      "soc2018": "51-7031",
+      "soc2018_title": "Model Makers, Wood"
+   },
+   {
+      "soc2010": "51-7032",
+      "soc2010_title": "Patternmakers, Wood",
+      "soc2018": "51-7032",
+      "soc2018_title": "Patternmakers, Wood"
+   },
+   {
+      "soc2010": "51-7041",
+      "soc2010_title": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "soc2018": "51-7041",
+      "soc2018_title": "Sawing Machine Setters, Operators, and Tenders, Wood"
+   },
+   {
+      "soc2010": "51-7042",
+      "soc2010_title": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing",
+      "soc2018": "51-7042",
+      "soc2018_title": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+   },
+   {
+      "soc2010": "51-7099",
+      "soc2010_title": "Woodworkers, All Other",
+      "soc2018": "51-7099",
+      "soc2018_title": "Woodworkers, All Other"
+   },
+   {
+      "soc2010": "51-8011",
+      "soc2010_title": "Nuclear Power Reactor Operators",
+      "soc2018": "51-8011",
+      "soc2018_title": "Nuclear Power Reactor Operators"
+   },
+   {
+      "soc2010": "51-8012",
+      "soc2010_title": "Power Distributors and Dispatchers",
+      "soc2018": "51-8012",
+      "soc2018_title": "Power Distributors and Dispatchers"
+   },
+   {
+      "soc2010": "51-8013",
+      "soc2010_title": "Power Plant Operators",
+      "soc2018": "51-8013",
+      "soc2018_title": "Power Plant Operators"
+   },
+   {
+      "soc2010": "51-8021",
+      "soc2010_title": "Stationary Engineers and Boiler Operators",
+      "soc2018": "51-8021",
+      "soc2018_title": "Stationary Engineers and Boiler Operators"
+   },
+   {
+      "soc2010": "51-8031",
+      "soc2010_title": "Water and Wastewater Treatment Plant and System Operators",
+      "soc2018": "51-8031",
+      "soc2018_title": "Water and Wastewater Treatment Plant and System Operators"
+   },
+   {
+      "soc2010": "51-8091",
+      "soc2010_title": "Chemical Plant and System Operators",
+      "soc2018": "51-8091",
+      "soc2018_title": "Chemical Plant and System Operators"
+   },
+   {
+      "soc2010": "51-8092",
+      "soc2010_title": "Gas Plant Operators",
+      "soc2018": "51-8092",
+      "soc2018_title": "Gas Plant Operators"
+   },
+   {
+      "soc2010": "51-8093",
+      "soc2010_title": "Petroleum Pump System Operators, Refinery Operators, and Gaugers",
+      "soc2018": "51-8093",
+      "soc2018_title": "Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+   },
+   {
+      "soc2010": "51-8099",
+      "soc2010_title": "Plant and System Operators, All Other",
+      "soc2018": "51-8099",
+      "soc2018_title": "Plant and System Operators, All Other"
+   },
+   {
+      "soc2010": "51-9011",
+      "soc2010_title": "Chemical Equipment Operators and Tenders",
+      "soc2018": "51-9011",
+      "soc2018_title": "Chemical Equipment Operators and Tenders"
+   },
+   {
+      "soc2010": "51-9012",
+      "soc2010_title": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",
+      "soc2018": "51-9012",
+      "soc2018_title": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-9021",
+      "soc2010_title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",
+      "soc2018": "51-9021",
+      "soc2018_title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-9022",
+      "soc2010_title": "Grinding and Polishing Workers, Hand",
+      "soc2018": "51-9022",
+      "soc2018_title": "Grinding and Polishing Workers, Hand"
+   },
+   {
+      "soc2010": "51-9023",
+      "soc2010_title": "Mixing and Blending Machine Setters, Operators, and Tenders",
+      "soc2018": "51-9023",
+      "soc2018_title": "Mixing and Blending Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-9031",
+      "soc2010_title": "Cutters and Trimmers, Hand",
+      "soc2018": "51-9031",
+      "soc2018_title": "Cutters and Trimmers, Hand"
+   },
+   {
+      "soc2010": "51-9032",
+      "soc2010_title": "Cutting and Slicing Machine Setters, Operators, and Tenders",
+      "soc2018": "51-9032",
+      "soc2018_title": "Cutting and Slicing Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-9041",
+      "soc2010_title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",
+      "soc2018": "51-9041",
+      "soc2018_title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-9051",
+      "soc2010_title": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",
+      "soc2018": "51-9051",
+      "soc2018_title": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+   },
+   {
+      "soc2010": "51-9061",
+      "soc2010_title": "Inspectors, Testers, Sorters, Samplers, and Weighers",
+      "soc2018": "51-9061",
+      "soc2018_title": "Inspectors, Testers, Sorters, Samplers, and Weighers"
+   },
+   {
+      "soc2010": "51-9071",
+      "soc2010_title": "Jewelers and Precious Stone and Metal Workers",
+      "soc2018": "51-9071",
+      "soc2018_title": "Jewelers and Precious Stone and Metal Workers"
+   },
+   {
+      "soc2010": "51-9081",
+      "soc2010_title": "Dental Laboratory Technicians",
+      "soc2018": "51-9081",
+      "soc2018_title": "Dental Laboratory Technicians"
+   },
+   {
+      "soc2010": "51-9082",
+      "soc2010_title": "Medical Appliance Technicians",
+      "soc2018": "51-9082",
+      "soc2018_title": "Medical Appliance Technicians"
+   },
+   {
+      "soc2010": "51-9083",
+      "soc2010_title": "Ophthalmic Laboratory Technicians",
+      "soc2018": "51-9083",
+      "soc2018_title": "Ophthalmic Laboratory Technicians"
+   },
+   {
+      "soc2010": "51-9111",
+      "soc2010_title": "Packaging and Filling Machine Operators and Tenders",
+      "soc2018": "51-9111",
+      "soc2018_title": "Packaging and Filling Machine Operators and Tenders"
+   },
+   {
+      "soc2010": "51-9121",
+      "soc2010_title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",
+      "soc2018": "51-9124",
+      "soc2018_title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders (##)"
+   },
+   {
+      "soc2010": "51-9122",
+      "soc2010_title": "Painters, Transportation Equipment",
+      "soc2018": "51-9124",
+      "soc2018_title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders (##)"
+   },
+   {
+      "soc2010": "51-9123",
+      "soc2010_title": "Painting, Coating, and Decorating Workers",
+      "soc2018": "51-9123",
+      "soc2018_title": "Painting, Coating, and Decorating Workers"
+   },
+   {
+      "soc2010": "51-9141",
+      "soc2010_title": "Semiconductor Processors",
+      "soc2018": "51-9141",
+      "soc2018_title": "Semiconductor Processing Technicians"
+   },
+   {
+      "soc2010": "51-9151",
+      "soc2010_title": "Photographic Process Workers and Processing Machine Operators",
+      "soc2018": "51-9151",
+      "soc2018_title": "Photographic Process Workers and Processing Machine Operators"
+   },
+   {
+      "soc2010": "51-9191",
+      "soc2010_title": "Adhesive Bonding Machine Operators and Tenders",
+      "soc2018": "51-9191",
+      "soc2018_title": "Adhesive Bonding Machine Operators and Tenders"
+   },
+   {
+      "soc2010": "51-9192",
+      "soc2010_title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",
+      "soc2018": "51-9192",
+      "soc2018_title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+   },
+   {
+      "soc2010": "51-9193",
+      "soc2010_title": "Cooling and Freezing Equipment Operators and Tenders",
+      "soc2018": "51-9193",
+      "soc2018_title": "Cooling and Freezing Equipment Operators and Tenders"
+   },
+   {
+      "soc2010": "51-9194",
+      "soc2010_title": "Etchers and Engravers",
+      "soc2018": "51-9194",
+      "soc2018_title": "Etchers and Engravers"
+   },
+   {
+      "soc2010": "51-9195",
+      "soc2010_title": "Molders, Shapers, and Casters, Except Metal and Plastic",
+      "soc2018": "51-9195",
+      "soc2018_title": "Molders, Shapers, and Casters, Except Metal and Plastic"
+   },
+   {
+      "soc2010": "51-9196",
+      "soc2010_title": "Paper Goods Machine Setters, Operators, and Tenders",
+      "soc2018": "51-9196",
+      "soc2018_title": "Paper Goods Machine Setters, Operators, and Tenders"
+   },
+   {
+      "soc2010": "51-9197",
+      "soc2010_title": "Tire Builders",
+      "soc2018": "51-9197",
+      "soc2018_title": "Tire Builders"
+   },
+   {
+      "soc2010": "51-9198",
+      "soc2010_title": "Helpers--Production Workers",
+      "soc2018": "51-9198",
+      "soc2018_title": "Helpers--Production Workers"
+   },
+   {
+      "soc2010": "51-9199",
+      "soc2010_title": "Production Workers, All Other",
+      "soc2018": "51-9161",
+      "soc2018_title": "Computer Numerically Controlled Tool Operators (##)"
+   },
+   {
+      "soc2010": "51-9199",
+      "soc2010_title": "Production Workers, All Other",
+      "soc2018": "51-9162",
+      "soc2018_title": "Computer Numerically Controlled Tool Programmers (##)"
+   },
+   {
+      "soc2010": "51-9199",
+      "soc2010_title": "Production Workers, All Other",
+      "soc2018": "51-9199",
+      "soc2018_title": "Production Workers, All Other"
+   },
+   {
+      "soc2010": "53-1011",
+      "soc2010_title": "Aircraft Cargo Handling Supervisors",
+      "soc2018": "53-1041",
+      "soc2018_title": "Aircraft Cargo Handling Supervisors"
+   },
+   {
+      "soc2010": "53-1021",
+      "soc2010_title": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand",
+      "soc2018": "53-1042",
+      "soc2018_title": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+   },
+   {
+      "soc2010": "53-1031",
+      "soc2010_title": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators",
+      "soc2018": "53-1043",
+      "soc2018_title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"
+   },
+   {
+      "soc2010": "53-1031",
+      "soc2010_title": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators",
+      "soc2018": "53-1044",
+      "soc2018_title": "First-line Supervisors of Passenger Attendants (##)"
+   },
+   {
+      "soc2010": "53-1031",
+      "soc2010_title": "First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators",
+      "soc2018": "53-1049",
+      "soc2018_title": "First Line Supervisors of Transportation Workers, All Other"
+   },
+   {
+      "soc2010": "53-2011",
+      "soc2010_title": "Airline Pilots, Copilots, and Flight Engineers",
+      "soc2018": "53-2011",
+      "soc2018_title": "Airline Pilots, Copilots, and Flight Engineers"
+   },
+   {
+      "soc2010": "53-2012",
+      "soc2010_title": "Commercial Pilots",
+      "soc2018": "53-2012",
+      "soc2018_title": "Commercial Pilots"
+   },
+   {
+      "soc2010": "53-2021",
+      "soc2010_title": "Air Traffic Controllers",
+      "soc2018": "53-2021",
+      "soc2018_title": "Air Traffic Controllers"
+   },
+   {
+      "soc2010": "53-2022",
+      "soc2010_title": "Airfield Operations Specialists",
+      "soc2018": "53-2022",
+      "soc2018_title": "Airfield Operations Specialists"
+   },
+   {
+      "soc2010": "53-2031",
+      "soc2010_title": "Flight Attendants",
+      "soc2018": "53-2031",
+      "soc2018_title": "Flight Attendants"
+   },
+   {
+      "soc2010": "53-3011",
+      "soc2010_title": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians",
+      "soc2018": "53-3011",
+      "soc2018_title": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+   },
+   {
+      "soc2010": "53-3021",
+      "soc2010_title": "Bus Drivers, Transit and Intercity",
+      "soc2018": "53-3052",
+      "soc2018_title": "Bus Drivers, Transit and Intercity"
+   },
+   {
+      "soc2010": "53-3022",
+      "soc2010_title": "Bus Drivers, School or Special Client",
+      "soc2018": "53-3051",
+      "soc2018_title": "Bus Drivers, School"
+   },
+   {
+      "soc2010": "53-3022",
+      "soc2010_title": "Bus Drivers, School or Special Client",
+      "soc2018": "53-3053",
+      "soc2018_title": "Shuttle Drivers and Chauffeurs (##)"
+   },
+   {
+      "soc2010": "53-3031",
+      "soc2010_title": "Driver/Sales Workers",
+      "soc2018": "53-3031",
+      "soc2018_title": "Driver/Sales Workers"
+   },
+   {
+      "soc2010": "53-3032",
+      "soc2010_title": "Heavy and Tractor-Trailer Truck Drivers",
+      "soc2018": "53-3032",
+      "soc2018_title": "Heavy and Tractor-Trailer Truck Drivers"
+   },
+   {
+      "soc2010": "53-3033",
+      "soc2010_title": "Light Truck or Delivery Services Drivers",
+      "soc2018": "53-3033",
+      "soc2018_title": "Light Truck Drivers"
+   },
+   {
+      "soc2010": "53-3041",
+      "soc2010_title": "Taxi Drivers and Chauffeurs",
+      "soc2018": "53-3053",
+      "soc2018_title": "Shuttle Drivers and Chauffeurs (##)"
+   },
+   {
+      "soc2010": "53-3041",
+      "soc2010_title": "Taxi Drivers and Chauffeurs",
+      "soc2018": "53-3054",
+      "soc2018_title": "Taxi Drivers"
+   },
+   {
+      "soc2010": "53-3099",
+      "soc2010_title": "Motor Vehicle Operators, All Other",
+      "soc2018": "53-3099",
+      "soc2018_title": "Motor Vehicle Operators, All Other"
+   },
+   {
+      "soc2010": "53-4011",
+      "soc2010_title": "Locomotive Engineers",
+      "soc2018": "53-4011",
+      "soc2018_title": "Locomotive Engineers"
+   },
+   {
+      "soc2010": "53-4012",
+      "soc2010_title": "Locomotive Firers",
+      "soc2018": "53-4022",
+      "soc2018_title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers (##)"
+   },
+   {
+      "soc2010": "53-4013",
+      "soc2010_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers",
+      "soc2018": "53-4013",
+      "soc2018_title": "Rail Yard Engineers, Dinkey Operators, and Hostlers"
+   },
+   {
+      "soc2010": "53-4021",
+      "soc2010_title": "Railroad Brake, Signal, and Switch Operators",
+      "soc2018": "53-4022",
+      "soc2018_title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers (##)"
+   },
+   {
+      "soc2010": "53-4031",
+      "soc2010_title": "Railroad Conductors and Yardmasters",
+      "soc2018": "53-4031",
+      "soc2018_title": "Railroad Conductors and Yardmasters"
+   },
+   {
+      "soc2010": "53-4041",
+      "soc2010_title": "Subway and Streetcar Operators",
+      "soc2018": "53-4041",
+      "soc2018_title": "Subway and Streetcar Operators"
+   },
+   {
+      "soc2010": "53-4099",
+      "soc2010_title": "Rail Transportation Workers, All Other",
+      "soc2018": "53-4099",
+      "soc2018_title": "Rail Transportation Workers, All Other"
+   },
+   {
+      "soc2010": "53-5011",
+      "soc2010_title": "Sailors and Marine Oilers",
+      "soc2018": "53-5011",
+      "soc2018_title": "Sailors and Marine Oilers"
+   },
+   {
+      "soc2010": "53-5021",
+      "soc2010_title": "Captains, Mates, and Pilots of Water Vessels",
+      "soc2018": "53-5021",
+      "soc2018_title": "Captains, Mates, and Pilots of Water Vessels"
+   },
+   {
+      "soc2010": "53-5022",
+      "soc2010_title": "Motorboat Operators",
+      "soc2018": "53-5022",
+      "soc2018_title": "Motorboat Operators"
+   },
+   {
+      "soc2010": "53-5031",
+      "soc2010_title": "Ship Engineers",
+      "soc2018": "53-5031",
+      "soc2018_title": "Ship Engineers"
+   },
+   {
+      "soc2010": "53-6011",
+      "soc2010_title": "Bridge and Lock Tenders",
+      "soc2018": "53-6011",
+      "soc2018_title": "Bridge and Lock Tenders"
+   },
+   {
+      "soc2010": "53-6021",
+      "soc2010_title": "Parking Lot Attendants",
+      "soc2018": "53-6021",
+      "soc2018_title": "Parking Attendants"
+   },
+   {
+      "soc2010": "53-6031",
+      "soc2010_title": "Automotive and Watercraft Service Attendants",
+      "soc2018": "53-6031",
+      "soc2018_title": "Automotive and Watercraft Service Attendants"
+   },
+   {
+      "soc2010": "53-6041",
+      "soc2010_title": "Traffic Technicians",
+      "soc2018": "53-6041",
+      "soc2018_title": "Traffic Technicians"
+   },
+   {
+      "soc2010": "53-6051",
+      "soc2010_title": "Transportation Inspectors",
+      "soc2018": "53-6051",
+      "soc2018_title": "Transportation Inspectors"
+   },
+   {
+      "soc2010": "53-6061",
+      "soc2010_title": "Transportation Attendants, Except Flight Attendants",
+      "soc2018": "53-6061",
+      "soc2018_title": "Passenger Attendants"
+   },
+   {
+      "soc2010": "53-6099",
+      "soc2010_title": "Transportation Workers, All Other",
+      "soc2018": "53-6032",
+      "soc2018_title": "Aircraft Service Attendants"
+   },
+   {
+      "soc2010": "53-6099",
+      "soc2010_title": "Transportation Workers, All Other",
+      "soc2018": "53-6099",
+      "soc2018_title": "Transportation Workers, All Other"
+   },
+   {
+      "soc2010": "53-7011",
+      "soc2010_title": "Conveyor Operators and Tenders",
+      "soc2018": "53-7011",
+      "soc2018_title": "Conveyor Operators and Tenders"
+   },
+   {
+      "soc2010": "53-7021",
+      "soc2010_title": "Crane and Tower Operators",
+      "soc2018": "53-7021",
+      "soc2018_title": "Crane and Tower Operators"
+   },
+   {
+      "soc2010": "53-7031",
+      "soc2010_title": "Dredge Operators",
+      "soc2018": "53-7031",
+      "soc2018_title": "Dredge Operators"
+   },
+   {
+      "soc2010": "53-7032",
+      "soc2010_title": "Excavating and Loading Machine and Dragline Operators",
+      "soc2018": "47-5022",
+      "soc2018_title": "Excavating and Loading Machine and Dragline Operators, Surface Mining"
+   },
+   {
+      "soc2010": "53-7032",
+      "soc2010_title": "Excavating and Loading Machine and Dragline Operators",
+      "soc2018": "53-7199",
+      "soc2018_title": "Material Moving Workers, All Other (##)"
+   },
+   {
+      "soc2010": "53-7033",
+      "soc2010_title": "Loading Machine Operators, Underground Mining",
+      "soc2018": "47-5044",
+      "soc2018_title": "Loading and Moving Machine Operators, Underground Mining (##)"
+   },
+   {
+      "soc2010": "53-7041",
+      "soc2010_title": "Hoist and Winch Operators",
+      "soc2018": "53-7041",
+      "soc2018_title": "Hoist and Winch Operators"
+   },
+   {
+      "soc2010": "53-7051",
+      "soc2010_title": "Industrial Truck and Tractor Operators",
+      "soc2018": "53-7051",
+      "soc2018_title": "Industrial Truck and Tractor Operators"
+   },
+   {
+      "soc2010": "53-7061",
+      "soc2010_title": "Cleaners of Vehicles and Equipment",
+      "soc2018": "53-7061",
+      "soc2018_title": "Cleaners of Vehicles and Equipment"
+   },
+   {
+      "soc2010": "53-7062",
+      "soc2010_title": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "soc2018": "53-7062",
+      "soc2018_title": "Laborers and Freight, Stock, and Material Movers, Hand"
+   },
+   {
+      "soc2010": "53-7063",
+      "soc2010_title": "Machine Feeders and Offbearers",
+      "soc2018": "53-7063",
+      "soc2018_title": "Machine Feeders and Offbearers"
+   },
+   {
+      "soc2010": "53-7064",
+      "soc2010_title": "Packers and Packagers, Hand",
+      "soc2018": "53-7064",
+      "soc2018_title": "Packers and Packagers, Hand"
+   },
+   {
+      "soc2010": "53-7071",
+      "soc2010_title": "Gas Compressor and Gas Pumping Station Operators",
+      "soc2018": "53-7071",
+      "soc2018_title": "Gas Compressor and Gas Pumping Station Operators"
+   },
+   {
+      "soc2010": "53-7072",
+      "soc2010_title": "Pump Operators, Except Wellhead Pumpers",
+      "soc2018": "53-7072",
+      "soc2018_title": "Pump Operators, Except Wellhead Pumpers"
+   },
+   {
+      "soc2010": "53-7073",
+      "soc2010_title": "Wellhead Pumpers",
+      "soc2018": "53-7073",
+      "soc2018_title": "Wellhead Pumpers"
+   },
+   {
+      "soc2010": "53-7081",
+      "soc2010_title": "Refuse and Recyclable Material Collectors",
+      "soc2018": "53-7081",
+      "soc2018_title": "Refuse and Recyclable Material Collectors"
+   },
+   {
+      "soc2010": "53-7111",
+      "soc2010_title": "Mine Shuttle Car Operators",
+      "soc2018": "47-5044",
+      "soc2018_title": "Loading and Moving Machine Operators, Underground Mining (##)"
+   },
+   {
+      "soc2010": "53-7121",
+      "soc2010_title": "Tank Car, Truck, and Ship Loaders",
+      "soc2018": "53-7121",
+      "soc2018_title": "Tank Car, Truck, and Ship Loaders"
+   },
+   {
+      "soc2010": "53-7199",
+      "soc2010_title": "Material Moving Workers, All Other",
+      "soc2018": "53-7199",
+      "soc2018_title": "Material Moving Workers, All Other (##)"
+   },
+   {
+      "soc2010": "55-1011",
+      "soc2010_title": "Air Crew Officers",
+      "soc2018": "55-1011",
+      "soc2018_title": "Air Crew Officers"
+   },
+   {
+      "soc2010": "55-1012",
+      "soc2010_title": "Aircraft Launch and Recovery Officers",
+      "soc2018": "55-1012",
+      "soc2018_title": "Aircraft Launch and Recovery Officers"
+   },
+   {
+      "soc2010": "55-1013",
+      "soc2010_title": "Armored Assault Vehicle Officers",
+      "soc2018": "55-1013",
+      "soc2018_title": "Armored Assault Vehicle Officers"
+   },
+   {
+      "soc2010": "55-1014",
+      "soc2010_title": "Artillery and Missile Officers",
+      "soc2018": "55-1014",
+      "soc2018_title": "Artillery and Missile Officers"
+   },
+   {
+      "soc2010": "55-1015",
+      "soc2010_title": "Command and Control Center Officers",
+      "soc2018": "55-1015",
+      "soc2018_title": "Command and Control Center Officers"
+   },
+   {
+      "soc2010": "55-1016",
+      "soc2010_title": "Infantry Officers",
+      "soc2018": "55-1016",
+      "soc2018_title": "Infantry Officers"
+   },
+   {
+      "soc2010": "55-1017",
+      "soc2010_title": "Special Forces Officers",
+      "soc2018": "55-1017",
+      "soc2018_title": "Special Forces Officers"
+   },
+   {
+      "soc2010": "55-1019",
+      "soc2010_title": "Military Officer Special and Tactical Operations Leaders, All Other",
+      "soc2018": "55-1019",
+      "soc2018_title": "Military Officer Special and Tactical Operations Leaders, All Other"
+   },
+   {
+      "soc2010": "55-2011",
+      "soc2010_title": "First-Line Supervisors of Air Crew Members",
+      "soc2018": "55-2011",
+      "soc2018_title": "First-Line Supervisors of Air Crew Members"
+   },
+   {
+      "soc2010": "55-2012",
+      "soc2010_title": "First-Line Supervisors of Weapons Specialists/Crew Members",
+      "soc2018": "55-2012",
+      "soc2018_title": "First-Line Supervisors of Weapons Specialists/Crew Members"
+   },
+   {
+      "soc2010": "55-2013",
+      "soc2010_title": "First-Line Supervisors of All Other Tactical Operations Specialists",
+      "soc2018": "55-2013",
+      "soc2018_title": "First-Line Supervisors of All Other Tactical Operations Specialists"
+   },
+   {
+      "soc2010": "55-3011",
+      "soc2010_title": "Air Crew Members",
+      "soc2018": "55-3011",
+      "soc2018_title": "Air Crew Members"
+   },
+   {
+      "soc2010": "55-3012",
+      "soc2010_title": "Aircraft Launch and Recovery Specialists",
+      "soc2018": "55-3012",
+      "soc2018_title": "Aircraft Launch and Recovery Specialists"
+   },
+   {
+      "soc2010": "55-3013",
+      "soc2010_title": "Armored Assault Vehicle Crew Members",
+      "soc2018": "55-3013",
+      "soc2018_title": "Armored Assault Vehicle Crew Members"
+   },
+   {
+      "soc2010": "55-3014",
+      "soc2010_title": "Artillery and Missile Crew Members",
+      "soc2018": "55-3014",
+      "soc2018_title": "Artillery and Missile Crew Members"
+   },
+   {
+      "soc2010": "55-3015",
+      "soc2010_title": "Command and Control Center Specialists",
+      "soc2018": "55-3015",
+      "soc2018_title": "Command and Control Center Specialists"
+   },
+   {
+      "soc2010": "55-3016",
+      "soc2010_title": "Infantry",
+      "soc2018": "55-3016",
+      "soc2018_title": "Infantry"
+   },
+   {
+      "soc2010": "55-3017",
+      "soc2010_title": "Radar and Sonar Technicians",
+      "soc2018": "17-3029",
+      "soc2018_title": "Engineering Technologists and Technicians, Except Drafters, All Other (##)"
+   },
+   {
+      "soc2010": "55-3018",
+      "soc2010_title": "Special Forces",
+      "soc2018": "55-3018",
+      "soc2018_title": "Special Forces"
+   },
+   {
+      "soc2010": "55-3019",
+      "soc2010_title": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",
+      "soc2018": "55-3019",
+      "soc2018_title": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other"
+   }
+]
+
