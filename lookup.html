@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+
+<body>
+    <h1>Occupational Code Lookup</h1>
+    <select id="csElement">
+        <option value="soc1980">soc 1980</option>
+        <option value="soc2010">soc 2010</option>
+        <option value="noc2011">noc 2011</option>
+    </select>
+    <input id="codeElement" type="text"><button type="button" value="lookup" id="lookup">lookup</button>
+    <table>
+        <thead>
+            <tr>
+                <th>System</th>
+                <th>Code</th>
+                <th>Title</th>
+                <th>Level</th>
+                <th>Parent</th>
+            </tr>
+        </thead>
+    </table>
+</body>
+
+<script type="module">
+    import x from "./lookup.js"
+    window.x = x
+    document.getElementById("lookup").addEventListener("click", () => {
+        let codingSystem = document.getElementById("csElement").value
+        let code = document.getElementById("codeElement").value
+        if (code.length < 1) return
+        let z = x[codingSystem].lookup(code)
+        let table = document.querySelector("table")
+        if (z) {
+            table.insertRow().innerHTML = `<td>${codingSystem}</td><td>${z.code}</td><td>${z.title}</td><td>${z.Level}</td><td>${z.parent}</td>`
+            console.log(`${codingSystem}: ${code} ==> `, z.code)
+        }
+    });
+</script>
+
+</html>
