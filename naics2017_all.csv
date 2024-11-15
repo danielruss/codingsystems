@@ -130,7 +130,6 @@ code,title,Level,naics2d,naics3d,naics4d,naics5d
 1153,Support Activities for Forestry,4,11,115,1153,NA
 11531,Support Activities for Forestry,5,11,115,1153,11531
 115310,Support Activities for Forestry,6,11,115,1153,11531
-NA,NA,NA,NA,NA,NA,NA
 21,"Mining, Quarrying, and Oil and Gas Extraction",2,21,NA,NA,NA
 211,Oil and Gas Extraction,3,21,211,NA,NA
 2111,Oil and Gas Extraction,4,21,211,2111,NA
@@ -179,7 +178,6 @@ NA,NA,NA,NA,NA,NA,NA
 213113,Support Activities for Coal Mining,6,21,213,2131,21311
 213114,Support Activities for Metal Mining,6,21,213,2131,21311
 213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining,6,21,213,2131,21311
-NA,NA,NA,NA,NA,NA,NA
 22,Utilities,2,22,NA,NA,NA
 221,Utilities,3,22,221,NA,NA
 2211,"Electric Power Generation, Transmission and Distribution",4,22,221,2211,NA
@@ -205,7 +203,6 @@ NA,NA,NA,NA,NA,NA,NA
 221320,Sewage Treatment Facilities,6,22,221,2213,22132
 22133,Steam and Air-Conditioning Supply,5,22,221,2213,22133
 221330,Steam and Air-Conditioning Supply,6,22,221,2213,22133
-NA,NA,NA,NA,NA,NA,NA
 23,Construction,2,23,NA,NA,NA
 236,Construction of Buildings,3,23,236,NA,NA
 2361,Residential Building Construction,4,23,236,2361,NA
@@ -279,7 +276,6 @@ NA,NA,NA,NA,NA,NA,NA
 238910,Site Preparation Contractors,6,23,238,2389,23891
 23899,All Other Specialty Trade Contractors,5,23,238,2389,23899
 238990,All Other Specialty Trade Contractors,6,23,238,2389,23899
-NA,NA,NA,NA,NA,NA,NA
 31-33,Manufacturing,5,31,31-,31-3,31-33
 311,Food Manufacturing,3,31,311,NA,NA
 3111,Animal Food Manufacturing,4,31,311,3111,NA
@@ -928,7 +924,6 @@ NA,NA,NA,NA,NA,NA,NA
 339994,"Broom, Brush, and Mop Manufacturing",6,33,339,3399,33999
 339995,Burial Casket Manufacturing,6,33,339,3399,33999
 339999,All Other Miscellaneous Manufacturing,6,33,339,3399,33999
-NA,NA,NA,NA,NA,NA,NA
 42,Wholesale Trade,2,42,NA,NA,NA
 423,"Merchant Wholesalers, Durable Goods",3,42,423,NA,NA
 4231,Motor Vehicle and Motor Vehicle Parts and Supplies Merchant Wholesalers,4,42,423,4231,NA
@@ -1094,7 +1089,6 @@ NA,NA,NA,NA,NA,NA,NA
 425110,Business to Business Electronic Markets,6,42,425,4251,42511
 42512,Wholesale Trade Agents and Brokers,5,42,425,4251,42512
 425120,Wholesale Trade Agents and Brokers,6,42,425,4251,42512
-NA,NA,NA,NA,NA,NA,NA
 44-45,Retail Trade,5,44,44-,44-4,44-45
 441,Motor Vehicle and Parts Dealers,3,44,441,NA,NA
 4411,Automobile Dealers,4,44,441,4411,NA
@@ -1258,7 +1252,6 @@ NA,NA,NA,NA,NA,NA,NA
 454310,Fuel Dealers,6,45,454,4543,45431
 45439,Other Direct Selling Establishments,5,45,454,4543,45439
 454390,Other Direct Selling Establishments,6,45,454,4543,45439
-NA,NA,NA,NA,NA,NA,NA
 48-49,Transportation and Warehousing,5,48,48-,48-4,48-49
 481,Air Transportation,3,48,481,NA,NA
 4811,Scheduled Air Transportation,4,48,481,4811,NA
@@ -1399,7 +1392,6 @@ NA,NA,NA,NA,NA,NA,NA
 493130,Farm Product Warehousing and Storage,6,49,493,4931,49313
 49319,Other Warehousing and Storage,5,49,493,4931,49319
 493190,Other Warehousing and Storage,6,49,493,4931,49319
-NA,NA,NA,NA,NA,NA,NA
 51,Information,2,51,NA,NA,NA
 511,Publishing Industries (except Internet),3,51,511,NA,NA
 5111,"Newspaper, Periodical, Book, and Directory Publishers",4,51,511,5111,NA
@@ -1474,7 +1466,6 @@ NA,NA,NA,NA,NA,NA,NA
 519130,Internet Publishing and Broadcasting and Web Search Portals,6,51,519,5191,51913
 51919,All Other Information Services,5,51,519,5191,51919
 519190,All Other Information Services,6,51,519,5191,51919
-NA,NA,NA,NA,NA,NA,NA
 52,Finance and Insurance,2,52,NA,NA,NA
 521,Monetary Authorities-Central Bank,3,52,521,NA,NA
 5211,Monetary Authorities-Central Bank,4,52,521,5211,NA
@@ -1564,7 +1555,6 @@ NA,NA,NA,NA,NA,NA,NA
 525920,"Trusts, Estates, and Agency Accounts",6,52,525,5259,52592
 52599,Other Financial Vehicles,5,52,525,5259,52599
 525990,Other Financial Vehicles,6,52,525,5259,52599
-NA,NA,NA,NA,NA,NA,NA
 53,Real Estate and Rental and Leasing,2,53,NA,NA,NA
 531,Real Estate,3,53,531,NA,NA
 5311,Lessors of Real Estate,4,53,531,5311,NA
@@ -1618,7 +1608,6 @@ NA,NA,NA,NA,NA,NA,NA
 5331,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),4,53,533,5331,NA
 53311,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),5,53,533,5331,53311
 533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),6,53,533,5331,53311
-NA,NA,NA,NA,NA,NA,NA
 54,"Professional, Scientific, and Technical Services",2,54,NA,NA,NA
 541,"Professional, Scientific, and Technical Services",3,54,541,NA,NA
 5411,Legal Services,4,54,541,5411,NA
@@ -1714,7 +1703,6 @@ NA,NA,NA,NA,NA,NA,NA
 541940,Veterinary Services,6,54,541,5419,54194
 54199,"All Other Professional, Scientific, and Technical Services",5,54,541,5419,54199
 541990,"All Other Professional, Scientific, and Technical Services",6,54,541,5419,54199
-NA,NA,NA,NA,NA,NA,NA
 55,Management of Companies and Enterprises,2,55,NA,NA,NA
 551,Management of Companies and Enterprises,3,55,551,NA,NA
 5511,Management of Companies and Enterprises,4,55,551,5511,NA
@@ -1722,7 +1710,6 @@ NA,NA,NA,NA,NA,NA,NA
 551111,Offices of Bank Holding Companies,6,55,551,5511,55111
 551112,Offices of Other Holding Companies,6,55,551,5511,55111
 551114,"Corporate, Subsidiary, and Regional Managing Offices",6,55,551,5511,55111
-NA,NA,NA,NA,NA,NA,NA
 56,Administrative and Support and Waste Management and Remediation Services,2,56,NA,NA,NA
 561,Administrative and Support Services,3,56,561,NA,NA
 5611,Office Administrative Services,4,56,561,5611,NA
@@ -1810,7 +1797,6 @@ NA,NA,NA,NA,NA,NA,NA
 56299,All Other Waste Management Services,5,56,562,5629,56299
 562991,Septic Tank and Related Services,6,56,562,5629,56299
 562998,All Other Miscellaneous Waste Management Services,6,56,562,5629,56299
-NA,NA,NA,NA,NA,NA,NA
 61,Educational Services,2,61,NA,NA,NA
 611,Educational Services,3,61,611,NA,NA
 6111,Elementary and Secondary Schools,4,61,611,6111,NA
@@ -1849,7 +1835,6 @@ NA,NA,NA,NA,NA,NA,NA
 6117,Educational Support Services,4,61,611,6117,NA
 61171,Educational Support Services,5,61,611,6117,61171
 611710,Educational Support Services,6,61,611,6117,61171
-NA,NA,NA,NA,NA,NA,NA
 62,Health Care and Social Assistance,2,62,NA,NA,NA
 621,Ambulatory Health Care Services,3,62,621,NA,NA
 6211,Offices of Physicians,4,62,621,6211,NA
@@ -1942,7 +1927,6 @@ NA,NA,NA,NA,NA,NA,NA
 6244,Child Day Care Services,4,62,624,6244,NA
 62441,Child Day Care Services,5,62,624,6244,62441
 624410,Child Day Care Services,6,62,624,6244,62441
-NA,NA,NA,NA,NA,NA,NA
 71,"Arts, Entertainment, and Recreation",2,71,NA,NA,NA
 711,"Performing Arts, Spectator Sports, and Related Industries",3,71,711,NA,NA
 7111,Performing Arts Companies,4,71,711,7111,NA
@@ -2004,7 +1988,6 @@ NA,NA,NA,NA,NA,NA,NA
 713950,Bowling Centers,6,71,713,7139,71395
 71399,All Other Amusement and Recreation Industries,5,71,713,7139,71399
 713990,All Other Amusement and Recreation Industries,6,71,713,7139,71399
-NA,NA,NA,NA,NA,NA,NA
 72,Accommodation and Food Services,2,72,NA,NA,NA
 721,Accommodation,3,72,721,NA,NA
 7211,Traveler Accommodation,4,72,721,7211,NA
@@ -2039,7 +2022,6 @@ NA,NA,NA,NA,NA,NA,NA
 722513,Limited-Service Restaurants,6,72,722,7225,72251
 722514,"Cafeterias, Grill Buffets, and Buffets",6,72,722,7225,72251
 722515,Snack and Nonalcoholic Beverage Bars,6,72,722,7225,72251
-NA,NA,NA,NA,NA,NA,NA
 81,Other Services (except Public Administration),2,81,NA,NA,NA
 811,Repair and Maintenance,3,81,811,NA,NA
 8111,Automotive Repair and Maintenance,4,81,811,8111,NA
@@ -2138,7 +2120,6 @@ NA,NA,NA,NA,NA,NA,NA
 8141,Private Households,4,81,814,8141,NA
 81411,Private Households,5,81,814,8141,81411
 814110,Private Households,6,81,814,8141,81411
-NA,NA,NA,NA,NA,NA,NA
 92,Public Administration,2,92,NA,NA,NA
 921,"Executive, Legislative, and Other General Government Support",3,92,921,NA,NA
 9211,"Executive, Legislative, and Other General Government Support",4,92,921,9211,NA
