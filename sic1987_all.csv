@@ -1451,64 +1451,64 @@ I,Division I Services,1,I,NA,NA,NA
 88,Private Households,2,I,88,880,8800
 881,Private Households,3,I,88,881,8810
 8811,Private Households,4,I,88,881,8811
-89,Miscellaneous Services,NA,I,89,890,8900
-899,Miscellaneous Services,NA,I,89,899,8990
-8999,Miscellaneous Services,NA,I,89,899,8999
-91,"Executive, Legislative, And General Government, Except Finance",NA,J,91,910,9100
-911,Executive Offices,NA,J,91,911,9110
-9111,Executive Offices,NA,J,91,911,9111
-912,Legislative Bodies,NA,J,91,912,9120
-9121,Legislative Bodies,NA,J,91,912,9121
-913,Executive And Legislative Offices Combined,NA,J,91,913,9130
-9131,Executive And Legislative Offices Combined,NA,J,91,913,9131
-919,"General Government, Not Elsewhere Classified",NA,J,91,919,9190
-9199,"General Government, Not Elsewhere Classified",NA,J,91,919,9199
-92,"Justice, Public Order, And Safety",NA,J,92,920,9200
-921,Courts,NA,J,92,921,9210
-9211,Courts,NA,J,92,921,9211
-922,Public Order And Safety,NA,J,92,922,9220
-9221,Police Protection,NA,J,92,922,9221
-9222,Legal Counsel and Prosecution,NA,J,92,922,9222
-9223,Correctional Institutions,NA,J,92,922,9223
-9224,Fire Protection,NA,J,92,922,9224
-9229,"Public Order and Safety, Not Elsewhere Classified",NA,J,92,922,9229
-93,"Public Finance, Taxation, And Monetary Policy",NA,J,93,930,9300
-931,"Public Finance, Taxation, And Monetary Policy",NA,J,93,931,9310
-9311,"Public Finance, Taxation, And Monetary Policy",NA,J,93,931,9311
-94,Administration Of Human Resource Programs,NA,J,94,940,9400
-941,Administration Of Educational Programs,NA,J,94,941,9410
-9411,Administration Of Educational Programs,NA,J,94,941,9411
-943,Administration Of Public Health Programs,NA,J,94,943,9430
-9431,Administration Of Public Health Programs,NA,J,94,943,9431
-944,"Administration of Social, Human Resource and Income Maintenance Programs",NA,J,94,944,9440
-9441,"Administration of Social, Human Resource and Income Maintenance Programs",NA,J,94,944,9441
-945,"Administration of Veterans' Affairs, Except Health and Insurance",NA,J,94,945,9450
-9451,"Administration of Veterans' Affairs, Except Health and Insurance",NA,J,94,945,9451
-95,Administration Of Environmental Quality And Housing Programs,NA,J,95,950,9500
-951,Administration Of Environmental Quality,NA,J,95,951,9510
-9511,Air and Water Resource and Solid Waste Management,NA,J,95,951,9511
-9512,"Land, Mineral, Wildlife, and Forest Conservation",NA,J,95,951,9512
-953,Administration Of Housing And Urban,NA,J,95,953,9530
-9531,Administration of Housing Programs,NA,J,95,953,9531
-9532, Administration of Urban Planning and Community and Rural Development,NA,J,95,953,9532
-96,Administration Of Economic Programs,NA,J,96,960,9600
-961,Administration Of General Economic Programs,NA,J,96,961,9610
-9611,Administration Of General Economic Programs,NA,J,96,961,9611
-962,Regulation And Administration Of Transportation,NA,J,96,961,9620
-9621,Regulation And Administration Of Transportation,NA,J,96,961,9621
-963,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",NA,J,96,961,9630
-9631,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",NA,J,96,961,9631
-964,Regulation of Agricultural Marketing and Commodities,NA,J,96,961,9640
-9641,Regulation of Agricultural Marketing and Commodities,NA,J,96,961,9641
-965,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",NA,J,96,961,9650
-9651,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",NA,J,96,961,9651
-966,Space Research And Technology,NA,J,96,961,9660
-9661,Space Research And Technology,NA,J,96,961,9661
-97,National Security And International Affairs,NA,J,97,970,9700
-971,National Security,NA,J,97,971,9710
-9711,National Security,NA,J,97,971,9711
-972,International Affairs,NA,J,97,972,9720
-9721,International Affairs,NA,J,97,972,9721
-99,Nonclassifiable Establishments,NA,J,99,990,9900
-999,Nonclassifiable Establishments,NA,J,99,999,9990
-9999,Nonclassifiable Establishments,NA,J,99,999,9999
+89,Miscellaneous Services,2,I,89,890,8900
+899,Miscellaneous Services,3,I,89,899,8990
+8999,Miscellaneous Services,4,I,89,899,8999
+91,"Executive, Legislative, And General Government, Except Finance",2,J,91,910,9100
+911,Executive Offices,3,J,91,911,9110
+9111,Executive Offices,4,J,91,911,9111
+912,Legislative Bodies,3,J,91,912,9120
+9121,Legislative Bodies,4,J,91,912,9121
+913,Executive And Legislative Offices Combined,3,J,91,913,9130
+9131,Executive And Legislative Offices Combined,4,J,91,913,9131
+919,"General Government, Not Elsewhere Classified",3,J,91,919,9190
+9199,"General Government, Not Elsewhere Classified",4,J,91,919,9199
+92,"Justice, Public Order, And Safety",2,J,92,920,9200
+921,Courts,3,J,92,921,9210
+9211,Courts,4,J,92,921,9211
+922,Public Order And Safety,3,J,92,922,9220
+9221,Police Protection,4,J,92,922,9221
+9222,Legal Counsel and Prosecution,4,J,92,922,9222
+9223,Correctional Institutions,4,J,92,922,9223
+9224,Fire Protection,4,J,92,922,9224
+9229,"Public Order and Safety, Not Elsewhere Classified",4,J,92,922,9229
+93,"Public Finance, Taxation, And Monetary Policy",2,J,93,930,9300
+931,"Public Finance, Taxation, And Monetary Policy",3,J,93,931,9310
+9311,"Public Finance, Taxation, And Monetary Policy",4,J,93,931,9311
+94,Administration Of Human Resource Programs,2,J,94,940,9400
+941,Administration Of Educational Programs,3,J,94,941,9410
+9411,Administration Of Educational Programs,4,J,94,941,9411
+943,Administration Of Public Health Programs,3,J,94,943,9430
+9431,Administration Of Public Health Programs,4,J,94,943,9431
+944,"Administration of Social, Human Resource and Income Maintenance Programs",3,J,94,944,9440
+9441,"Administration of Social, Human Resource and Income Maintenance Programs",4,J,94,944,9441
+945,"Administration of Veterans' Affairs, Except Health and Insurance",3,J,94,945,9450
+9451,"Administration of Veterans' Affairs, Except Health and Insurance",4,J,94,945,9451
+95,Administration Of Environmental Quality And Housing Programs,2,J,95,950,9500
+951,Administration Of Environmental Quality,3,J,95,951,9510
+9511,Air and Water Resource and Solid Waste Management,4,J,95,951,9511
+9512,"Land, Mineral, Wildlife, and Forest Conservation",4,J,95,951,9512
+953,Administration Of Housing And Urban,3,J,95,953,9530
+9531,Administration of Housing Programs,4,J,95,953,9531
+9532, Administration of Urban Planning and Community and Rural Development,4,J,95,953,9532
+96,Administration Of Economic Programs,2,J,96,960,9600
+961,Administration Of General Economic Programs,3,J,96,961,9610
+9611,Administration Of General Economic Programs,4,J,96,961,9611
+962,Regulation And Administration Of Transportation,3,J,96,961,9620
+9621,Regulation And Administration Of Transportation,4,J,96,961,9621
+963,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",3,J,96,961,9630
+9631,"Regulation and Administration of Communications, Electric, Gas, and Other Utilities",4,J,96,961,9631
+964,Regulation of Agricultural Marketing and Commodities,3,J,96,961,9640
+9641,Regulation of Agricultural Marketing and Commodities,4,J,96,961,9641
+965,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",3,J,96,961,9650
+9651,"Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors",4,J,96,961,9651
+966,Space Research And Technology,3,J,96,961,9660
+9661,Space Research And Technology,4,J,96,961,9661
+97,National Security And International Affairs,2,J,97,970,9700
+971,National Security,3,J,97,971,9710
+9711,National Security,4,J,97,971,9711
+972,International Affairs,3,J,97,972,9720
+9721,International Affairs,4,J,97,972,9721
+99,Nonclassifiable Establishments,2,J,99,990,9900
+999,Nonclassifiable Establishments,3,J,99,999,9990
+9999,Nonclassifiable Establishments,4,J,99,999,9999
