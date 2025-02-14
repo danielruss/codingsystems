@@ -1,0 +1,718 @@
+code,title,Level,Hierarchical_structure,parent,noc1d,noc2d,noc3d,noc4d
+A,Management Occupations,1,Broad occupational category,NA,A,NA,NA,NA
+A0,Senior Management Occupations,2,Major group,A,A,A0,NA,NA
+A01,Legislators and Senior Management,3,Minor group,A0,A,A0,A01,NA
+A011,Legislators,4,Unit group,A01,A,A0,A01,A011
+A012,Senior Government Managers and Officials,4,Unit group,A01,A,A0,A01,A012
+A013,"Senior Managers - Financial, Communications and Other Business Services",4,Unit group,A01,A,A0,A01,A013
+A014,"Senior Managers - Health, Education, Social and Community Services and Membership Organizations",4,Unit group,A01,A,A0,A01,A014
+A015,"Senior Managers - Trade, Broadcasting and Other Services, n.e.c.",4,Unit group,A01,A,A0,A01,A015
+A016,"Senior Managers - Goods Production, Utilities, Transportation and Construction",4,Unit group,A01,A,A0,A01,A016
+A1,Specialist Managers,2,Major group,A,A,A1,NA,NA
+A11,Administrative Services Managers,3,Minor group,A1,A,A1,A11,NA
+A111,Financial Managers,4,Unit group,A11,A,A1,A11,A111
+A112,Human Resources Managers,4,Unit group,A11,A,A1,A11,A112
+A113,Purchasing Managers,4,Unit group,A11,A,A1,A11,A113
+A114,Other Administrative Services Managers,4,Unit group,A11,A,A1,A11,A114
+A12,"Managers in Engineering, Architecture, Science and Information Systems",3,Minor group,A1,A,A1,A12,NA
+A121,Engineering Managers,4,Unit group,A12,A,A1,A12,A121
+A122,Computer and Information Systems Managers,4,Unit group,A12,A,A1,A12,A122
+A123,Architecture and Science Managers,4,Unit group,A12,A,A1,A12,A123
+A13,"Sales, Marketing and Advertising Managers",3,Minor group,A1,A,A1,A13,NA
+A131,"Sales, Marketing and Advertising Managers",4,Unit group,A13,A,A1,A13,A131
+A14,Facility Operation and Maintenance Managers,3,Minor group,A1,A,A1,A14,NA
+A141,Facility Operation and Maintenance Managers,4,Unit group,A14,A,A1,A14,A141
+A2,"Managers in Retail Trade, Food and Accommodation Services",2,Major group,A,A,A2,NA,NA
+A21,Managers in Retail Trade,3,Minor group,A2,A,A2,A21,NA
+A211,Retail Trade Managers,4,Unit group,A21,A,A2,A21,A211
+A22,Managers in Food Service and Accommodation,3,Minor group,A2,A,A2,A22,NA
+A221,Restaurant and Food Service Managers,4,Unit group,A22,A,A2,A22,A221
+A222,Accommodation Service Managers,4,Unit group,A22,A,A2,A22,A222
+A3,Other Managers n.e.c.,2,Major group,A,A,A3,NA,NA
+A30,Managers in Financial and Business Services,3,Minor group,A3,A,A3,A30,NA
+A301,"Insurance, Real Estate and Financial Brokerage Managers",4,Unit group,A30,A,A3,A30,A301
+A302,"Banking, Credit and Other Investment Managers",4,Unit group,A30,A,A3,A30,A302
+A303,Other Business Services Managers,4,Unit group,A30,A,A3,A30,A303
+A31,Managers in Communication (Except Broadcasting),3,Minor group,A3,A,A3,A31,NA
+A311,Telecommunication Carriers Managers,4,Unit group,A31,A,A3,A31,A311
+A312,Postal and Courier Services Managers,4,Unit group,A31,A,A3,A31,A312
+A32,"Managers in Health, Education, Social and Community Services",3,Minor group,A3,A,A3,A32,NA
+A321,Managers in Health Care,4,Unit group,A32,A,A3,A32,A321
+A322,Administrators - Post-Secondary Education and Vocational Training,4,Unit group,A32,A,A3,A32,A322
+A323,School Principals and Administrators of Elementary and Secondary Education,4,Unit group,A32,A,A3,A32,A323
+A324,"Managers in Social, Community and Correctional Services",4,Unit group,A32,A,A3,A32,A324
+A33,Managers in Public Administration,3,Minor group,A3,A,A3,A33,NA
+A331,Government Managers - Health and Social Policy Development and Program Administration,4,Unit group,A33,A,A3,A33,A331
+A332,"Government Managers - Economic Analysis, Policy Development and Program Administration",4,Unit group,A33,A,A3,A33,A332
+A333,Government Managers - Education Policy Development and Program Administration,4,Unit group,A33,A,A3,A33,A333
+A334,Other Managers in Public Administration,4,Unit group,A33,A,A3,A33,A334
+A34,"Managers in Art, Culture, Recreation and Sport",3,Minor group,A3,A,A3,A34,NA
+A341,"Library, Archive, Museum and Art Gallery Managers",4,Unit group,A34,A,A3,A34,A341
+A342,"Managers - Publishing, Motion Pictures, Broadcasting and Performing Arts",4,Unit group,A34,A,A3,A34,A342
+A343,"Recreation, Sports and Fitness Program and Service Directors",4,Unit group,A34,A,A3,A34,A343
+A35,Managers in Protective Service,3,Minor group,A3,A,A3,A35,NA
+A351,Commissioned Police Officers,4,Unit group,A35,A,A3,A35,A351
+A352,Fire Chiefs and Senior Firefighting Officers,4,Unit group,A35,A,A3,A35,A352
+A353,"Commissioned Officers, Armed Forces",4,Unit group,A35,A,A3,A35,A353
+A36,Managers in Other Services,3,Minor group,A3,A,A3,A36,NA
+A361,Other Services Managers,4,Unit group,A36,A,A3,A36,A361
+A37,Managers in Construction and Transportation,3,Minor group,A3,A,A3,A37,NA
+A371,Construction Managers,4,Unit group,A37,A,A3,A37,A371
+A372,Residential Home Builders and Renovators,4,Unit group,A37,A,A3,A37,A372
+A373,Transportation Managers,4,Unit group,A37,A,A3,A37,A373
+A38,Managers in Primary Production (Except Agriculture),3,Minor group,A3,A,A3,A38,NA
+A381,Primary Production Managers (Except Agriculture),4,Unit group,A38,A,A3,A38,A381
+A39,Managers in Manufacturing and Utilities,3,Minor group,A3,A,A3,A39,NA
+A391,Manufacturing Managers,4,Unit group,A39,A,A3,A39,A391
+A392,Utilities Managers,4,Unit group,A39,A,A3,A39,A392
+B,"Business, Finance and Administrative Occupations",1,Broad occupational category,NA,B,NA,NA,NA
+B0,Professional Occupations in Business and Finance,2,Major group,B,B,B0,NA,NA
+B01,"Auditors, Accountants and Investment Professionals",3,Minor group,B0,B,B0,B01,NA
+B011,Financial Auditors and Accountants,4,Unit group,B01,B,B0,B01,B011
+B012,Financial and Investment Analysts,4,Unit group,B01,B,B0,B01,B012
+B013,"Securities Agents, Investment Dealers and Brokers",4,Unit group,B01,B,B0,B01,B013
+B014,Other Financial Officers,4,Unit group,B01,B,B0,B01,B014
+B02,Human Resources and Business Service Professionals,3,Minor group,B0,B,B0,B02,NA
+B021,Specialists in Human Resources,4,Unit group,B02,B,B0,B02,B021
+B022,Professional Occupations in Business Services to Management,4,Unit group,B02,B,B0,B02,B022
+B1,Finance and Insurance Administration Occupations,2,Major group,B,B,B1,NA,NA
+B11,Finance and Insurance Administrative Occupations,3,Minor group,B1,B,B1,B11,NA
+B111,Bookkeepers,4,Unit group,B11,B,B1,B11,B111
+B112,Loan Officers,4,Unit group,B11,B,B1,B11,B112
+B113,Insurance Adjusters and Claims Examiners,4,Unit group,B11,B,B1,B11,B113
+B114,Insurance Underwriters,4,Unit group,B11,B,B1,B11,B114
+B115,"Assessors, Valuators and Appraisers",4,Unit group,B11,B,B1,B11,B115
+B116,"Customs, Ship and Other Brokers",4,Unit group,B11,B,B1,B11,B116
+B2,Secretaries,2,Major group,B,B,B2,NA,NA
+B21,"Secretaries, Recorders and Transcriptionists",3,Minor group,B2,B,B2,B21,NA
+B211,Secretaries (Except Legal and Medical),4,Unit group,B21,B,B2,B21,B211
+B212,Legal Secretaries,4,Unit group,B21,B,B2,B21,B212
+B213,Medical Secretaries,4,Unit group,B21,B,B2,B21,B213
+B214,Court Recorders and Medical Transcriptionists,4,Unit group,B21,B,B2,B21,B214
+B3,Administrative and Regulatory Occupations,2,Major group,B,B,B3,NA,NA
+B31,Administrative and Regulatory Occupations,3,Minor group,B3,B,B3,B31,NA
+B311,Administrative Officers,4,Unit group,B31,B,B3,B31,B311
+B312,Executive Assistants,4,Unit group,B31,B,B3,B31,B312
+B313,Personnel and Recruitment Officers,4,Unit group,B31,B,B3,B31,B313
+B314,Property Administrators,4,Unit group,B31,B,B3,B31,B314
+B315,Purchasing Agents and Officers,4,Unit group,B31,B,B3,B31,B315
+B316,Conference and Event Planners,4,Unit group,B31,B,B3,B31,B316
+B317,Court Officers and Justices of the Peace,4,Unit group,B31,B,B3,B31,B317
+B318,"Immigration, Employment Insurance and Revenue Officers",4,Unit group,B31,B,B3,B31,B318
+B4,Clerical Supervisors,2,Major group,B,B,B4,NA,NA
+B41,Clerical Supervisors,3,Minor group,B4,B,B4,B41,NA
+B411,"Supervisors, General Office and Administrative Support Clerks",4,Unit group,B41,B,B4,B41,B411
+B412,"Supervisors, Finance and Insurance Clerks",4,Unit group,B41,B,B4,B41,B412
+B413,"Supervisors, Library, Correspondence and Related Information Clerks",4,Unit group,B41,B,B4,B41,B413
+B414,"Supervisors, Mail and Message Distribution Occupations",4,Unit group,B41,B,B4,B41,B414
+B415,"Supervisors, Recording, Distributing and Scheduling Occupations",4,Unit group,B41,B,B4,B41,B415
+B5,Clerical Occupations,2,Major group,B,B,B5,NA,NA
+B51,"Clerical Occupations, General Office Skills",3,Minor group,B5,B,B5,B51,NA
+B511,General Office Clerks,4,Unit group,B51,B,B5,B51,B511
+B513,Records Management and Filing Clerks,4,Unit group,B51,B,B5,B51,B513
+B514,Receptionists and Switchboard Operators,4,Unit group,B51,B,B5,B51,B514
+B52,Office Equipment Operators,3,Minor group,B5,B,B5,B52,NA
+B522,Data Entry Clerks,4,Unit group,B52,B,B5,B52,B522
+B523,Desktop Publishing Operators and Related Occupations,4,Unit group,B52,B,B5,B52,B523
+B524,Telephone Operators,4,Unit group,B52,B,B5,B52,B524
+B53,Finance and Insurance Clerks,3,Minor group,B5,B,B5,B53,NA
+B531,Accounting and Related Clerks,4,Unit group,B53,B,B5,B53,B531
+B532,Payroll Clerks,4,Unit group,B53,B,B5,B53,B532
+B533,Customer Service Representatives - Financial Services,4,Unit group,B53,B,B5,B53,B533
+B534,"Banking, Insurance and Other Financial Clerks",4,Unit group,B53,B,B5,B53,B534
+B535,Collectors,4,Unit group,B53,B,B5,B53,B535
+B54,Administrative Support Clerks,3,Minor group,B5,B,B5,B54,NA
+B541,Administrative Clerks,4,Unit group,B54,B,B5,B54,B541
+B542,Personnel Clerks,4,Unit group,B54,B,B5,B54,B542
+B543,Court Clerks,4,Unit group,B54,B,B5,B54,B543
+B55,"Library, Correspondence and Related Information Clerks",3,Minor group,B5,B,B5,B55,NA
+B551,Library Clerks,4,Unit group,B55,B,B5,B55,B551
+B552,"Correspondence, Publication and Related Clerks",4,Unit group,B55,B,B5,B55,B552
+B553,"Customer Service, Information and Related Clerks",4,Unit group,B55,B,B5,B55,B553
+B554,Survey Interviewers and Statistical Clerks,4,Unit group,B55,B,B5,B55,B554
+B56,Mail and Message Distribution Occupations,3,Minor group,B5,B,B5,B56,NA
+B561,"Mail, Postal and Related Clerks",4,Unit group,B56,B,B5,B56,B561
+B562,Letter Carriers,4,Unit group,B56,B,B5,B56,B562
+B563,"Couriers, Messengers and Door-to-Door Distributors",4,Unit group,B56,B,B5,B56,B563
+B57,"Recording, Scheduling and Distributing Occupations",3,Minor group,B5,B,B5,B57,NA
+B571,Shippers and Receivers,4,Unit group,B57,B,B5,B57,B571
+B572,Storekeepers and Parts Clerks,4,Unit group,B57,B,B5,B57,B572
+B573,Production Clerks,4,Unit group,B57,B,B5,B57,B573
+B574,Purchasing and Inventory Clerks,4,Unit group,B57,B,B5,B57,B574
+B575,Dispatchers and Radio Operators,4,Unit group,B57,B,B5,B57,B575
+B576,Transportation Route and Crew Schedulers,4,Unit group,B57,B,B5,B57,B576
+C,Natural and Applied Sciences and Related Occupations,1,Broad occupational category,NA,C,NA,NA,NA
+C0,Professional Occupations in Natural and Applied Sciences,2,Major group,C,C,C0,NA,NA
+C01,Physical Science Professionals,3,Minor group,C0,C,C0,C01,NA
+C011,Physicists and Astronomers,4,Unit group,C01,C,C0,C01,C011
+C012,Chemists,4,Unit group,C01,C,C0,C01,C012
+C013,"Geologists, Geochemists and Geophysicists",4,Unit group,C01,C,C0,C01,C013
+C014,Meteorologists,4,Unit group,C01,C,C0,C01,C014
+C015,Other Professional Occupations in Physical Sciences,4,Unit group,C01,C,C0,C01,C015
+C02,Life Science Professionals,3,Minor group,C0,C,C0,C02,NA
+C021,Biologists and Related Scientists,4,Unit group,C02,C,C0,C02,C021
+C022,Forestry Professionals,4,Unit group,C02,C,C0,C02,C022
+C023,"Agricultural Representatives, Consultants and Specialists",4,Unit group,C02,C,C0,C02,C023
+C03,"Civil, Mechanical, Electrical and Chemical Engineers",3,Minor group,C0,C,C0,C03,NA
+C031,Civil Engineers,4,Unit group,C03,C,C0,C03,C031
+C032,Mechanical Engineers,4,Unit group,C03,C,C0,C03,C032
+C033,Electrical and Electronics Engineers,4,Unit group,C03,C,C0,C03,C033
+C034,Chemical Engineers,4,Unit group,C03,C,C0,C03,C034
+C04,Other Engineers,3,Minor group,C0,C,C0,C04,NA
+C041,Industrial and Manufacturing Engineers,4,Unit group,C04,C,C0,C04,C041
+C042,Metallurgical and Materials Engineers,4,Unit group,C04,C,C0,C04,C042
+C043,Mining Engineers,4,Unit group,C04,C,C0,C04,C043
+C044,Geological Engineers,4,Unit group,C04,C,C0,C04,C044
+C045,Petroleum Engineers,4,Unit group,C04,C,C0,C04,C045
+C046,Aerospace Engineers,4,Unit group,C04,C,C0,C04,C046
+C047,Computer Engineers (Except Software Engineers and Designers),4,Unit group,C04,C,C0,C04,C047
+C048,"Other Professional Engineers, n.e.c.",4,Unit group,C04,C,C0,C04,C048
+C05,"Architects, Urban Planners and Land Surveyors",3,Minor group,C0,C,C0,C05,NA
+C051,Architects,4,Unit group,C05,C,C0,C05,C051
+C052,Landscape Architects,4,Unit group,C05,C,C0,C05,C052
+C053,Urban and Land Use Planners,4,Unit group,C05,C,C0,C05,C053
+C054,Land Surveyors,4,Unit group,C05,C,C0,C05,C054
+C06,"Mathematicians, Statisticians and Actuaries",3,Minor group,C0,C,C0,C06,NA
+C061,"Mathematicians, Statisticians and Actuaries",4,Unit group,C06,C,C0,C06,C061
+C07,Computer and Information Systems Professionals,3,Minor group,C0,C,C0,C07,NA
+C071,Information Systems Analysts and Consultants,4,Unit group,C07,C,C0,C07,C071
+C072,Database Analysts and Data Administrators,4,Unit group,C07,C,C0,C07,C072
+C073,Software Engineers and Designers,4,Unit group,C07,C,C0,C07,C073
+C074,Computer Programmers and Interactive Media Developers,4,Unit group,C07,C,C0,C07,C074
+C075,Web Designers and Developers,4,Unit group,C07,C,C0,C07,C075
+C1,Technical Occupations Related to Natural and Applied Sciences,2,Major group,C,C,C1,NA,NA
+C11,Technical Occupations in Physical Sciences,3,Minor group,C1,C,C1,C11,NA
+C111,Chemical Technologists and Technicians,4,Unit group,C11,C,C1,C11,C111
+C112,Geological and Mineral Technologists and Technicians,4,Unit group,C11,C,C1,C11,C112
+C113,Meteorological Technicians,4,Unit group,C11,C,C1,C11,C113
+C12,Technical Occupations in Life Sciences,3,Minor group,C1,C,C1,C12,NA
+C121,Biological Technologists and Technicians,4,Unit group,C12,C,C1,C12,C121
+C122,Agricultural and Fish Products Inspectors,4,Unit group,C12,C,C1,C12,C122
+C123,Forestry Technologists and Technicians,4,Unit group,C12,C,C1,C12,C123
+C124,Conservation and Fishery Officers,4,Unit group,C12,C,C1,C12,C124
+C125,Landscape and Horticulture Technicians and Specialists,4,Unit group,C12,C,C1,C12,C125
+C13,"Technical Occupations in Civil, Mechanical and Industrial Engineering",3,Minor group,C1,C,C1,C13,NA
+C131,Civil Engineering Technologists and Technicians,4,Unit group,C13,C,C1,C13,C131
+C132,Mechanical Engineering Technologists and Technicians,4,Unit group,C13,C,C1,C13,C132
+C133,Industrial Engineering and Manufacturing Technologists and Technicians,4,Unit group,C13,C,C1,C13,C133
+C134,Construction Estimators,4,Unit group,C13,C,C1,C13,C134
+C14,Technical Occupations in Electronics and Electrical Engineering,3,Minor group,C1,C,C1,C14,NA
+C141,Electrical and Electronics Engineering Technologists and Technicians,4,Unit group,C14,C,C1,C14,C141
+C142,Electronic Service Technicians (Household and Business Equipment),4,Unit group,C14,C,C1,C14,C142
+C143,Industrial Instrument Technicians and Mechanics,4,Unit group,C14,C,C1,C14,C143
+C144,"Aircraft Instrument, Electrical and Avionics Mechanics, Technicians and Inspectors",4,Unit group,C14,C,C1,C14,C144
+C15,"Technical Occupations in Architecture, Drafting, Surveying and Mapping",3,Minor group,C1,C,C1,C15,NA
+C151,Architectural Technologists and Technicians,4,Unit group,C15,C,C1,C15,C151
+C152,Industrial Designers,4,Unit group,C15,C,C1,C15,C152
+C153,Drafting Technologists and Technicians,4,Unit group,C15,C,C1,C15,C153
+C154,Land Survey Technologists and Technicians,4,Unit group,C15,C,C1,C15,C154
+C155,Mapping and Related Technologists and Technicians,4,Unit group,C15,C,C1,C15,C155
+C16,Other Technical Inspectors and Regulatory Officers,3,Minor group,C1,C,C1,C16,NA
+C161,Non-destructive Testers and Inspectors,4,Unit group,C16,C,C1,C16,C161
+C162,Engineering Inspectors and Regulatory Officers,4,Unit group,C16,C,C1,C16,C162
+C163,Inspectors in Public and Environmental Health and Occupational Health and Safety,4,Unit group,C16,C,C1,C16,C163
+C164,Construction Inspectors,4,Unit group,C16,C,C1,C16,C164
+C17,Transportation Officers and Controllers,3,Minor group,C1,C,C1,C17,NA
+C171,"Air Pilots, Flight Engineers and Flying Instructors",4,Unit group,C17,C,C1,C17,C171
+C172,Air Traffic Control and Related Occupations,4,Unit group,C17,C,C1,C17,C172
+C173,"Deck Officers, Water Transport",4,Unit group,C17,C,C1,C17,C173
+C174,"Engineer Officers, Water Transport",4,Unit group,C17,C,C1,C17,C174
+C175,Railway Traffic Controllers and Marine Traffic Regulators,4,Unit group,C17,C,C1,C17,C175
+C18,Technical Occupations in Computer and Information Systems,3,Minor group,C1,C,C1,C18,NA
+C181,Computer Network Technicians,4,Unit group,C18,C,C1,C18,C181
+C182,User Support Technicians,4,Unit group,C18,C,C1,C18,C182
+C183,Systems Testing Technicians,4,Unit group,C18,C,C1,C18,C183
+D,Health Occupations,1,Broad occupational category,NA,D,NA,NA,NA
+D0,Professional Occupations in Health,2,Major group,D,D,D0,NA,NA
+D01,"Physicians, Dentists and Veterinarians",3,Minor group,D0,D,D0,D01,NA
+D011,Specialist Physicians,4,Unit group,D01,D,D0,D01,D011
+D012,General Practitioners and Family Physicians,4,Unit group,D01,D,D0,D01,D012
+D013,Dentists,4,Unit group,D01,D,D0,D01,D013
+D014,Veterinarians,4,Unit group,D01,D,D0,D01,D014
+D02,"Optometrists, Chiropractors and Other Health Diagnosing and Treating Professionals",3,Minor group,D0,D,D0,D02,NA
+D021,Optometrists,4,Unit group,D02,D,D0,D02,D021
+D022,Chiropractors,4,Unit group,D02,D,D0,D02,D022
+D023,Other Professional Occupations in Health Diagnosing and Treating,4,Unit group,D02,D,D0,D02,D023
+D03,"Pharmacists, Dietitians and Nutritionists",3,Minor group,D0,D,D0,D03,NA
+D031,Pharmacists,4,Unit group,D03,D,D0,D03,D031
+D032,Dietitians and Nutritionists,4,Unit group,D03,D,D0,D03,D032
+D04,Therapy and Assessment Professionals,3,Minor group,D0,D,D0,D04,NA
+D041,Audiologists and Speech-Language Pathologists,4,Unit group,D04,D,D0,D04,D041
+D042,Physiotherapists,4,Unit group,D04,D,D0,D04,D042
+D043,Occupational Therapists,4,Unit group,D04,D,D0,D04,D043
+D044,Other Professional Occupations in Therapy and Assessment,4,Unit group,D04,D,D0,D04,D044
+D1,Nurse Supervisors and Registered Nurses,2,Major group,D,D,D1,NA,NA
+D11,Nurse Supervisors and Registered Nurses,3,Minor group,D1,D,D1,D11,NA
+D111,Head Nurses and Supervisors,4,Unit group,D11,D,D1,D11,D111
+D112,Registered Nurses,4,Unit group,D11,D,D1,D11,D112
+D2,Technical and Related Occupations in Health,2,Major group,D,D,D2,NA,NA
+D21,Medical Technologists and Technicians (Except Dental Health),3,Minor group,D2,D,D2,D21,NA
+D211,Medical Laboratory Technologists and Pathologists' Assistants,4,Unit group,D21,D,D2,D21,D211
+D212,Medical Laboratory Technicians,4,Unit group,D21,D,D2,D21,D212
+D213,Veterinary and Animal Health Technologists and Technicians,4,Unit group,D21,D,D2,D21,D213
+D214,"Respiratory Therapists, Clinical Perfusionists and Cardiopulmonary Technologists",4,Unit group,D21,D,D2,D21,D214
+D215,Medical Radiation Technologists,4,Unit group,D21,D,D2,D21,D215
+D216,Medical Sonographers,4,Unit group,D21,D,D2,D21,D216
+D217,Cardiology Technologists,4,Unit group,D21,D,D2,D21,D217
+D218,"Electroencephalographic and Other Diagnostic Technologists, n.e.c.",4,Unit group,D21,D,D2,D21,D218
+D219,Other Medical Technologists and Technicians (Except Dental Health),4,Unit group,D21,D,D2,D21,D219
+D22,Technical Occupations in Dental Health Care,3,Minor group,D2,D,D2,D22,NA
+D221,Denturists,4,Unit group,D22,D,D2,D22,D221
+D222,Dental Hygienists and Dental Therapists,4,Unit group,D22,D,D2,D22,D222
+D223,"Dental Technologists, Technicians and Laboratory Bench Workers",4,Unit group,D22,D,D2,D22,D223
+D23,Other Technical Occupations in Health Care (Except Dental),3,Minor group,D2,D,D2,D23,NA
+D231,Opticians,4,Unit group,D23,D,D2,D23,D231
+D232,Midwives and Practitioners of Natural Healing,4,Unit group,D23,D,D2,D23,D232
+D233,Licensed Practical Nurses,4,Unit group,D23,D,D2,D23,D233
+D234,Ambulance Attendants and Other Paramedical Occupations,4,Unit group,D23,D,D2,D23,D234
+D235,Other Technical Occupations in Therapy and Assessment,4,Unit group,D23,D,D2,D23,D235
+D3,Assisting Occupations in Support of Health Services,2,Major group,D,D,D3,NA,NA
+D31,Assisting Occupations in Support of Health Services,3,Minor group,D3,D,D3,D31,NA
+D311,Dental Assistants,4,Unit group,D31,D,D3,D31,D311
+D312,"Nurse Aides, Orderlies and Patient Service Associates",4,Unit group,D31,D,D3,D31,D312
+D313,Other Assisting Occupations in Support of Health Services,4,Unit group,D31,D,D3,D31,D313
+E,"Occupations in Social Science, Education, Government Service and Religion",1,Broad occupational category,NA,E,NA,NA,NA
+E0,"Judges, Lawyers, Psychologists, Social Workers, Ministers of Religion, and Policy and Program Officers",2,Major group,E,E,E0,NA,NA
+E01,"Judges, Lawyers and Quebec Notaries",3,Minor group,E0,E,E0,E01,NA
+E011,Judges,4,Unit group,E01,E,E0,E01,E011
+E012,Lawyers and Quebec Notaries,4,Unit group,E01,E,E0,E01,E012
+E02,"Psychologists, Social Workers, Counsellors, Clergy and Probation Officers",3,Minor group,E0,E,E0,E02,NA
+E021,Psychologists,4,Unit group,E02,E,E0,E02,E021
+E022,Social Workers,4,Unit group,E02,E,E0,E02,E022
+E023,"Family, Marriage and Other Related Counsellors",4,Unit group,E02,E,E0,E02,E023
+E024,Ministers of Religion,4,Unit group,E02,E,E0,E02,E024
+E025,Probation and Parole Officers and Related Occupations,4,Unit group,E02,E,E0,E02,E025
+E03,"Policy and Program Officers, Researchers and Consultants",3,Minor group,E0,E,E0,E03,NA
+E031,"Natural and Applied Science Policy Researchers, Consultants and Program Officers",4,Unit group,E03,E,E0,E03,E031
+E032,Economists and Economic Policy Researchers and Analysts,4,Unit group,E03,E,E0,E03,E032
+E033,Business Development Officers and Marketing Researchers and Consultants,4,Unit group,E03,E,E0,E03,E033
+E034,"Social Policy Researchers, Consultants and Program Officers",4,Unit group,E03,E,E0,E03,E034
+E035,"Education Policy Researchers, Consultants and Program Officers",4,Unit group,E03,E,E0,E03,E035
+E036,"Recreation, Sports and Fitness Program Supervisors and Consultants",4,Unit group,E03,E,E0,E03,E036
+E037,Program Officers Unique to Government,4,Unit group,E03,E,E0,E03,E037
+E038,"Other Professional Occupations in Social Science, n.e.c.",4,Unit group,E03,E,E0,E03,E038
+E039,"Health Policy Researchers, Consultants and Program Officers",4,Unit group,E03,E,E0,E03,E039
+E1,Teachers and Professors,2,Major group,E,E,E1,NA,NA
+E11,University Professors and Assistants,3,Minor group,E1,E,E1,E11,NA
+E111,University Professors,4,Unit group,E11,E,E1,E11,E111
+E112,Post-Secondary Teaching and Research Assistants,4,Unit group,E11,E,E1,E11,E112
+E12,College and Other Vocational Instructors,3,Minor group,E1,E,E1,E12,NA
+E121,College and Other Vocational Instructors,4,Unit group,E12,E,E1,E12,E121
+E13,Secondary and Elementary School Teachers and Educational Counsellors,3,Minor group,E1,E,E1,E13,NA
+E131,Secondary School Teachers,4,Unit group,E13,E,E1,E13,E131
+E132,Elementary School and Kindergarten Teachers,4,Unit group,E13,E,E1,E13,E132
+E133,Educational Counsellors,4,Unit group,E13,E,E1,E13,E133
+E2,"Paralegals, Social Services Workers and Occupations in Education and Religion, n.e.c.",2,Major group,E,E,E2,NA,NA
+E21,"Paralegals, Social Services Workers and Occupations in Education and Religion, n.e.c.",3,Minor group,E2,E,E2,E21,NA
+E211,Paralegal and Related Occupations,4,Unit group,E21,E,E2,E21,E211
+E212,Community and Social Service Workers,4,Unit group,E21,E,E2,E21,E212
+E213,Employment Counsellors,4,Unit group,E21,E,E2,E21,E213
+E214,Instructors and Teachers of Persons with Disabilities,4,Unit group,E21,E,E2,E21,E214
+E215,Other Instructors,4,Unit group,E21,E,E2,E21,E215
+E216,Other Religious Occupations,4,Unit group,E21,E,E2,E21,E216
+E217,Early Childhood Educators and Assistants,4,Unit group,E21,E,E2,E21,E217
+F,"Occupations in Art, Culture, Recreation and Sport",1,Broad occupational category,NA,F,NA,NA,NA
+F0,Professional Occupations in Art and Culture,2,Major group,F,F,F0,NA,NA
+F01,"Librarians, Archivists, Conservators and Curators",3,Minor group,F0,F,F0,F01,NA
+F011,Librarians,4,Unit group,F01,F,F0,F01,F011
+F012,Conservators and Curators,4,Unit group,F01,F,F0,F01,F012
+F013,Archivists,4,Unit group,F01,F,F0,F01,F013
+F02,"Writing, Translating and Public Relations Professionals",3,Minor group,F0,F,F0,F02,NA
+F021,Authors and Writers,4,Unit group,F02,F,F0,F02,F021
+F022,Editors,4,Unit group,F02,F,F0,F02,F022
+F023,Journalists,4,Unit group,F02,F,F0,F02,F023
+F024,Professional Occupations in Public Relations and Communications,4,Unit group,F02,F,F0,F02,F024
+F025,"Translators, Terminologists and Interpreters",4,Unit group,F02,F,F0,F02,F025
+F03,Creative and Performing Artists,3,Minor group,F0,F,F0,F03,NA
+F031,"Producers, Directors, Choreographers and Related Occupations",4,Unit group,F03,F,F0,F03,F031
+F032,"Conductors, Composers and Arrangers",4,Unit group,F03,F,F0,F03,F032
+F033,Musicians and Singers,4,Unit group,F03,F,F0,F03,F033
+F034,Dancers,4,Unit group,F03,F,F0,F03,F034
+F035,Actors and Comedians,4,Unit group,F03,F,F0,F03,F035
+F036,"Painters, Sculptors and Other Visual Artists",4,Unit group,F03,F,F0,F03,F036
+F1,"Technical Occupations in Art, Culture, Recreation and Sport",2,Major group,F,F,F1,NA,NA
+F11,"Technical Occupations in Libraries, Archives, Museums and Art Galleries",3,Minor group,F1,F,F1,F11,NA
+F111,Library and Archive Technicians and Assistants,4,Unit group,F11,F,F1,F11,F111
+F112,Technical Occupations Related to Museums and Art Galleries,4,Unit group,F11,F,F1,F11,F112
+F12,"Photographers, Graphic Arts Technicians and Technical and Co-ordinating Occupations in Motion Pictures, Broadcasting and the Performing Arts",3,Minor group,F1,F,F1,F12,NA
+F121,Photographers,4,Unit group,F12,F,F1,F12,F121
+F122,Film and Video Camera Operators,4,Unit group,F12,F,F1,F12,F122
+F123,Graphic Arts Technicians,4,Unit group,F12,F,F1,F12,F123
+F124,Broadcast Technicians,4,Unit group,F12,F,F1,F12,F124
+F125,Audio and Video Recording Technicians,4,Unit group,F12,F,F1,F12,F125
+F126,"Other Technical and Co-ordinating Occupations in Motion Pictures, Broadcasting and the Performing Arts",4,Unit group,F12,F,F1,F12,F126
+F127,"Support Occupations in Motion Pictures, Broadcasting and the Performing Arts",4,Unit group,F12,F,F1,F12,F127
+F13,Announcers and Other Performers,3,Minor group,F1,F,F1,F13,NA
+F131,Announcers and Other Broadcasters,4,Unit group,F13,F,F1,F13,F131
+F132,Other Performers,4,Unit group,F13,F,F1,F13,F132
+F14,Creative Designers and Craftspersons,3,Minor group,F1,F,F1,F14,NA
+F141,Graphic Designers and Illustrators,4,Unit group,F14,F,F1,F14,F141
+F142,Interior Designers,4,Unit group,F14,F,F1,F14,F142
+F143,"Theatre, Fashion, Exhibit and Other Creative Designers",4,Unit group,F14,F,F1,F14,F143
+F144,Artisans and Craftspersons,4,Unit group,F14,F,F1,F14,F144
+F145,"Patternmakers - Textile, Leather and Fur Products",4,Unit group,F14,F,F1,F14,F145
+F15,"Athletes, Coaches, Referees and Related Occupations",3,Minor group,F1,F,F1,F15,NA
+F151,Athletes,4,Unit group,F15,F,F1,F15,F151
+F152,Coaches,4,Unit group,F15,F,F1,F15,F152
+F153,Sports Officials and Referees,4,Unit group,F15,F,F1,F15,F153
+F154,"Program Leaders and Instructors in Recreation, Sport and Fitness",4,Unit group,F15,F,F1,F15,F154
+G,Sales and Service Occupations,1,Broad occupational category,NA,G,NA,NA,NA
+G0,Sales and Service Supervisors,2,Major group,G,G,G0,NA,NA
+G01,Sales and Service Supervisors,3,Minor group,G0,G,G0,G01,NA
+G011,Retail Trade Supervisors,4,Unit group,G01,G,G0,G01,G011
+G012,Food Service Supervisors,4,Unit group,G01,G,G0,G01,G012
+G013,Executive Housekeepers,4,Unit group,G01,G,G0,G01,G013
+G014,Dry Cleaning and Laundry Supervisors,4,Unit group,G01,G,G0,G01,G014
+G015,Cleaning Supervisors,4,Unit group,G01,G,G0,G01,G015
+G016,Other Service Supervisors,4,Unit group,G01,G,G0,G01,G016
+G1,"Wholesale, Technical, Insurance, Real Estate Sales Specialists, and Retail, Wholesale and Grain Buyers",2,Major group,G,G,G1,NA,NA
+G11,"Sales Representatives, Wholesale Trade",3,Minor group,G1,G,G1,G11,NA
+G111,Sales Representatives - Wholesale Trade (Non-Technical),4,Unit group,G11,G,G1,G11,G111
+G12,"Technical Sales Specialists, Wholesale Trade",3,Minor group,G1,G,G1,G12,NA
+G121,Technical Sales Specialists - Wholesale Trade,4,Unit group,G12,G,G1,G12,G121
+G13,Insurance and Real Estate Sales Occupations and Buyers,3,Minor group,G1,G,G1,G13,NA
+G131,Insurance Agents and Brokers,4,Unit group,G13,G,G1,G13,G131
+G132,Real Estate Agents and Salespersons,4,Unit group,G13,G,G1,G13,G132
+G133,Retail and Wholesale Buyers,4,Unit group,G13,G,G1,G13,G133
+G134,Grain Elevator Operators,4,Unit group,G13,G,G1,G13,G134
+G2,Retail Salespersons and Sales Clerks,2,Major group,G,G,G2,NA,NA
+G21,Retail Salespersons and Sales Clerks,3,Minor group,G2,G,G2,G21,NA
+G211,Retail Salespersons and Sales Clerks,4,Unit group,G21,G,G2,G21,G211
+G3,Cashiers,2,Major group,G,G,G3,NA,NA
+G31,Cashiers,3,Minor group,G3,G,G3,G31,NA
+G311,Cashiers,4,Unit group,G31,G,G3,G31,G311
+G4,Chefs and Cooks,2,Major group,G,G,G4,NA,NA
+G41,Chefs and Cooks,3,Minor group,G4,G,G4,G41,NA
+G411,Chefs,4,Unit group,G41,G,G4,G41,G411
+G412,Cooks,4,Unit group,G41,G,G4,G41,G412
+G5,Occupations in Food and Beverage Service,2,Major group,G,G,G5,NA,NA
+G51,Occupations in Food and Beverage Service,3,Minor group,G5,G,G5,G51,NA
+G511,Maîtres d'hôtel and Hosts / Hostesses,4,Unit group,G51,G,G5,G51,G511
+G512,Bartenders,4,Unit group,G51,G,G5,G51,G512
+G513,Food and Beverage Servers,4,Unit group,G51,G,G5,G51,G513
+G6,Occupations in Protective Services,2,Major group,G,G,G6,NA,NA
+G61,Police Officers and Firefighters,3,Minor group,G6,G,G6,G61,NA
+G611,Police Officers (Except Commissioned),4,Unit group,G61,G,G6,G61,G611
+G612,Firefighters,4,Unit group,G61,G,G6,G61,G612
+G62,Other Occupations in Protective Service,3,Minor group,G6,G,G6,G62,NA
+G621,Sheriffs and Bailiffs,4,Unit group,G62,G,G6,G62,G621
+G622,Correctional Service Officers,4,Unit group,G62,G,G6,G62,G622
+G623,"By-Law Enforcement and Other Regulatory Officers, n.e.c.",4,Unit group,G62,G,G6,G62,G623
+G624,"Other Ranks, Armed Forces",4,Unit group,G62,G,G6,G62,G624
+G625,Other Protective Service Occupations,4,Unit group,G62,G,G6,G62,G625
+G63,Security Guards and Related Occupations,3,Minor group,G6,G,G6,G63,NA
+G631,Security Guards and Related Occupations,4,Unit group,G63,G,G6,G63,G631
+G7,Occupations in Travel and Accommodation Including Attendants in Recreation and Sport,2,Major group,G,G,G7,NA,NA
+G71,Occupations in Travel and Accommodation,3,Minor group,G7,G,G7,G71,NA
+G711,Travel Counsellors,4,Unit group,G71,G,G7,G71,G711
+G712,Pursers and Flight Attendants,4,Unit group,G71,G,G7,G71,G712
+G713,Airline Sales and Service Agents,4,Unit group,G71,G,G7,G71,G713
+G714,"Ticket Agents, Cargo Service Representatives and Related Clerks (Except Airline)",4,Unit group,G71,G,G7,G71,G714
+G715,Hotel Front Desk Clerks,4,Unit group,G71,G,G7,G71,G715
+G72,Tour and Recreational Guides and Casino Occupations,3,Minor group,G7,G,G7,G72,NA
+G721,Tour and Travel Guides,4,Unit group,G72,G,G7,G72,G721
+G722,Outdoor Sport and Recreational Guides,4,Unit group,G72,G,G7,G72,G722
+G723,Casino Occupations,4,Unit group,G72,G,G7,G72,G723
+G73,"Other Occupations in Travel, Accommodation, Amusement and Recreation",3,Minor group,G7,G,G7,G73,NA
+G731,"Operators and Attendants in Amusement, Recreation and Sport",4,Unit group,G73,G,G7,G73,G731
+G732,Other Attendants in Accommodation and Travel,4,Unit group,G73,G,G7,G73,G732
+G8,Childcare and Home Support Workers,2,Major group,G,G,G8,NA,NA
+G81,Childcare and Home Support Workers,3,Minor group,G8,G,G8,G81,NA
+G811,"Visiting Homemakers, Housekeepers and Related Occupations",4,Unit group,G81,G,G8,G81,G811
+G812,Elementary and Secondary School Teacher Assistants,4,Unit group,G81,G,G8,G81,G812
+G814,"Babysitters, Nannies and Parents' Helpers",4,Unit group,G81,G,G8,G81,G814
+G9,Sales and Service Occupations n.e.c.,2,Major group,G,G,G9,NA,NA
+G91,Technical Occupations in Personal Service,3,Minor group,G9,G,G9,G91,NA
+G911,Hairstylists and Barbers,4,Unit group,G91,G,G9,G91,G911
+G912,Funeral Directors and Embalmers,4,Unit group,G91,G,G9,G91,G912
+G92,Other Occupations in Personal Service,3,Minor group,G9,G,G9,G92,NA
+G921,"Image, Social and Other Personal Consultants",4,Unit group,G92,G,G9,G92,G921
+G922,"Estheticians, Electrologists and Related Occupations",4,Unit group,G92,G,G9,G92,G922
+G923,Pet Groomers and Animal Care Workers,4,Unit group,G92,G,G9,G92,G923
+G924,Other Personal Service Occupations,4,Unit group,G92,G,G9,G92,G924
+G93,Cleaners,3,Minor group,G9,G,G9,G93,NA
+G931,Light Duty Cleaners,4,Unit group,G93,G,G9,G93,G931
+G932,Specialized Cleaners,4,Unit group,G93,G,G9,G93,G932
+G933,"Janitors, Caretakers and Building Superintendents",4,Unit group,G93,G,G9,G93,G933
+G94,Butchers and Bakers,3,Minor group,G9,G,G9,G94,NA
+G941,"Butchers, Meat Cutters and Fishmongers - Retail and Wholesale",4,Unit group,G94,G,G9,G94,G941
+G942,Bakers,4,Unit group,G94,G,G9,G94,G942
+G96,"Food Counter Attendants, Kitchen Helpers and Related Occupations",3,Minor group,G9,G,G9,G96,NA
+G961,"Food Counter Attendants, Kitchen Helpers and Related Occupations",4,Unit group,G96,G,G9,G96,G961
+G97,Other Sales and Related Occupations,3,Minor group,G9,G,G9,G97,NA
+G971,Service Station Attendants,4,Unit group,G97,G,G9,G97,G971
+G972,Grocery Clerks and Store Shelf Stockers,4,Unit group,G97,G,G9,G97,G972
+G973,Other Elemental Sales Occupations,4,Unit group,G97,G,G9,G97,G973
+G98,Other Elemental Service Occupations,3,Minor group,G9,G,G9,G98,NA
+G981,Dry Cleaning and Laundry Occupations,4,Unit group,G98,G,G9,G98,G981
+G982,"Ironing, Pressing and Finishing Occupations",4,Unit group,G98,G,G9,G98,G982
+G983,Other Elemental Service Occupations,4,Unit group,G98,G,G9,G98,G983
+H,"Trades, Transport and Equipment Operators and Related Occupations",1,Broad occupational category,NA,H,NA,NA,NA
+H0,Contractors and Supervisors in Trades and Transportation,2,Major group,H,H,H0,NA,NA
+H01,"Contractors and Supervisors, Trades and Related Workers",3,Minor group,H0,H,H0,H01,NA
+H011,"Supervisors, Machinists and Related Occupations",4,Unit group,H01,H,H0,H01,H011
+H012,"Contractors and Supervisors, Electrical Trades and Telecommunications Occupations",4,Unit group,H01,H,H0,H01,H012
+H013,"Contractors and Supervisors, Pipefitting Trades",4,Unit group,H01,H,H0,H01,H013
+H014,"Contractors and Supervisors, Metal Forming, Shaping and Erecting Trades",4,Unit group,H01,H,H0,H01,H014
+H015,"Contractors and Supervisors, Carpentry Trades",4,Unit group,H01,H,H0,H01,H015
+H016,"Contractors and Supervisors, Mechanic Trades",4,Unit group,H01,H,H0,H01,H016
+H017,"Contractors and Supervisors, Heavy Construction Equipment Crews",4,Unit group,H01,H,H0,H01,H017
+H018,"Supervisors, Printing and Related Occupations",4,Unit group,H01,H,H0,H01,H018
+H019,"Contractors and Supervisors, Other Construction Trades, Installers, Repairers and Servicers",4,Unit group,H01,H,H0,H01,H019
+H02,"Supervisors, Railway and Motor Transportation Occupations",3,Minor group,H0,H,H0,H02,NA
+H021,"Supervisors, Railway Transport Operations",4,Unit group,H02,H,H0,H02,H021
+H022,"Supervisors, Motor Transport and Other Ground Transit Operators",4,Unit group,H02,H,H0,H02,H022
+H1,Construction Trades,2,Major group,H,H,H1,NA,NA
+H11,"Plumbers, Pipefitters and Gas Fitters",3,Minor group,H1,H,H1,H11,NA
+H111,Plumbers,4,Unit group,H11,H,H1,H11,H111
+H112,"Steamfitters, Pipefitters and Sprinkler System Installers",4,Unit group,H11,H,H1,H11,H112
+H113,Gas Fitters,4,Unit group,H11,H,H1,H11,H113
+H12,Carpenters and Cabinetmakers,3,Minor group,H1,H,H1,H12,NA
+H121,Carpenters,4,Unit group,H12,H,H1,H12,H121
+H122,Cabinetmakers,4,Unit group,H12,H,H1,H12,H122
+H13,Masonry and Plastering Trades,3,Minor group,H1,H,H1,H13,NA
+H131,Bricklayers,4,Unit group,H13,H,H1,H13,H131
+H132,Concrete Finishers,4,Unit group,H13,H,H1,H13,H132
+H133,Tilesetters,4,Unit group,H13,H,H1,H13,H133
+H134,"Plasterers, Drywall Installers and Finishers and Lathers",4,Unit group,H13,H,H1,H13,H134
+H14,Other Construction Trades,3,Minor group,H1,H,H1,H14,NA
+H141,Roofers and Shinglers,4,Unit group,H14,H,H1,H14,H141
+H142,Glaziers,4,Unit group,H14,H,H1,H14,H142
+H143,Insulators,4,Unit group,H14,H,H1,H14,H143
+H144,Painters and Decorators,4,Unit group,H14,H,H1,H14,H144
+H145,Floor Covering Installers,4,Unit group,H14,H,H1,H14,H145
+H2,"Stationary Engineers, Power Station Operators and Electrical Trades and Telecommunications Occupations",2,Major group,H,H,H2,NA,NA
+H21,Electrical Trades and Telecommunication Occupations,3,Minor group,H2,H,H2,H21,NA
+H211,Electricians (Except Industrial and Power System),4,Unit group,H21,H,H2,H21,H211
+H212,Industrial Electricians,4,Unit group,H21,H,H2,H21,H212
+H213,Power System Electricians,4,Unit group,H21,H,H2,H21,H213
+H214,Electrical Power Line and Cable Workers,4,Unit group,H21,H,H2,H21,H214
+H215,Telecommunications Line and Cable Workers,4,Unit group,H21,H,H2,H21,H215
+H216,Telecommunications Installation and Repair Workers,4,Unit group,H21,H,H2,H21,H216
+H217,Cable Television Service and Maintenance Technicians,4,Unit group,H21,H,H2,H21,H217
+H22,Stationary Engineers and Power Station and System Operators,3,Minor group,H2,H,H2,H22,NA
+H221,Stationary Engineers and Auxiliary Equipment Operators,4,Unit group,H22,H,H2,H22,H221
+H222,Power Systems and Power Station Operators,4,Unit group,H22,H,H2,H22,H222
+H3,"Machinists, Metal Forming, Shaping and Erecting Occupations",2,Major group,H,H,H3,NA,NA
+H31,Machinists and Related Occupations,3,Minor group,H3,H,H3,H31,NA
+H311,Machinists and Machining and Tooling Inspectors,4,Unit group,H31,H,H3,H31,H311
+H312,Tool and Die Makers,4,Unit group,H31,H,H3,H31,H312
+H32,"Metal Forming, Shaping and Erecting Trades",3,Minor group,H3,H,H3,H32,NA
+H321,Sheet Metal Workers,4,Unit group,H32,H,H3,H32,H321
+H322,Boilermakers,4,Unit group,H32,H,H3,H32,H322
+H323,Structural Metal and Platework Fabricators and Fitters,4,Unit group,H32,H,H3,H32,H323
+H324,Ironworkers,4,Unit group,H32,H,H3,H32,H324
+H325,Blacksmiths and Die Setters,4,Unit group,H32,H,H3,H32,H325
+H326,Welders and Related Machine Operators,4,Unit group,H32,H,H3,H32,H326
+H4,Mechanics,2,Major group,H,H,H4,NA,NA
+H41,Machinery and Transportation Equipment Mechanics (Except Motor Vehicle),3,Minor group,H4,H,H4,H41,NA
+H411,Construction Millwrights and Industrial Mechanics (Except Textile),4,Unit group,H41,H,H4,H41,H411
+H412,Heavy-Duty Equipment Mechanics,4,Unit group,H41,H,H4,H41,H412
+H413,Refrigeration and Air Conditioning Mechanics,4,Unit group,H41,H,H4,H41,H413
+H414,Railway Carmen / women,4,Unit group,H41,H,H4,H41,H414
+H415,Aircraft Mechanics and Aircraft Inspectors,4,Unit group,H41,H,H4,H41,H415
+H416,Machine Fitters,4,Unit group,H41,H,H4,H41,H416
+H417,Textile Machinery Mechanics and Repairers,4,Unit group,H41,H,H4,H41,H417
+H418,Elevator Constructors and Mechanics,4,Unit group,H41,H,H4,H41,H418
+H42,Automotive Service Technicians,3,Minor group,H4,H,H4,H42,NA
+H421,"Automotive Service Technicians, Truck and Bus Mechanics and Mechanical Repairers",4,Unit group,H42,H,H4,H42,H421
+H422,Motor Vehicle Body Repairers,4,Unit group,H42,H,H4,H42,H422
+H43,Other Mechanics,3,Minor group,H4,H,H4,H43,NA
+H431,Oil and Solid Fuel Heating Mechanics,4,Unit group,H43,H,H4,H43,H431
+H432,Electric Appliance Servicers and Repairers,4,Unit group,H43,H,H4,H43,H432
+H433,Electrical Mechanics,4,Unit group,H43,H,H4,H43,H433
+H434,Motorcycle and Other Related Mechanics,4,Unit group,H43,H,H4,H43,H434
+H435,Other Small Engine and Equipment Mechanics,4,Unit group,H43,H,H4,H43,H435
+H5,Other Trades n.e.c.,2,Major group,H,H,H5,NA,NA
+H51,"Upholsterers, Tailors, Shoe Repairers, Jewellers and Related Occupations",3,Minor group,H5,H,H5,H51,NA
+H511,Upholsterers,4,Unit group,H51,H,H5,H51,H511
+H512,"Tailors, Dressmakers, Furriers and Milliners",4,Unit group,H51,H,H5,H51,H512
+H513,Shoe Repairers and Shoemakers,4,Unit group,H51,H,H5,H51,H513
+H514,"Jewellers, Watch Repairers and Related Occupations",4,Unit group,H51,H,H5,H51,H514
+H52,"Printing Press Operators, Commercial Divers and Other Trades and Related Occupations, n.e.c.",3,Minor group,H5,H,H5,H52,NA
+H521,Printing Press Operators,4,Unit group,H52,H,H5,H52,H521
+H522,Commercial Divers,4,Unit group,H52,H,H5,H52,H522
+H523,Other Trades and Related Occupations,4,Unit group,H52,H,H5,H52,H523
+H53,"Other Installers, Repairers and Servicers",3,Minor group,H5,H,H5,H53,NA
+H531,Residential and Commercial Installers and Servicers,4,Unit group,H53,H,H5,H53,H531
+H532,Waterworks and Gas Maintenance Workers,4,Unit group,H53,H,H5,H53,H532
+H533,Automotive Mechanical Installers and Servicers,4,Unit group,H53,H,H5,H53,H533
+H534,Pest Controllers and Fumigators,4,Unit group,H53,H,H5,H53,H534
+H535,Other Repairers and Servicers,4,Unit group,H53,H,H5,H53,H535
+H6,Heavy Equipment and Crane Operators Including Drillers,2,Major group,H,H,H6,NA,NA
+H61,Heavy Equipment Operators,3,Minor group,H6,H,H6,H61,NA
+H611,Heavy Equipment Operators (Except Crane),4,Unit group,H61,H,H6,H61,H611
+H612,Public Works Maintenance Equipment Operators,4,Unit group,H61,H,H6,H61,H612
+H62,"Crane Operators, Drillers and Blasters",3,Minor group,H6,H,H6,H62,NA
+H621,Crane Operators,4,Unit group,H62,H,H6,H62,H621
+H622,"Drillers and Blasters - Surface Mining, Quarrying and Construction",4,Unit group,H62,H,H6,H62,H622
+H623,Water Well Drillers,4,Unit group,H62,H,H6,H62,H623
+H7,"Transportation Equipment Operators and Related Workers, Excluding Labourers",2,Major group,H,H,H7,NA,NA
+H71,Motor Vehicle and Transit Drivers,3,Minor group,H7,H,H7,H71,NA
+H711,Truck Drivers,4,Unit group,H71,H,H7,H71,H711
+H712,"Bus Drivers, Subway Operators and Other Transit Operators",4,Unit group,H71,H,H7,H71,H712
+H713,Taxi and Limousine Drivers and Chauffeurs,4,Unit group,H71,H,H7,H71,H713
+H714,Delivery and Courier Service Drivers,4,Unit group,H71,H,H7,H71,H714
+H72,Train Crew Operating Occupations,3,Minor group,H7,H,H7,H72,NA
+H721,Railway and Yard Locomotive Engineers,4,Unit group,H72,H,H7,H72,H721
+H722,Railway Conductors and Brakemen / women,4,Unit group,H72,H,H7,H72,H722
+H73,Other Transport Equipment Operators and Related Workers,3,Minor group,H7,H,H7,H73,NA
+H731,Railway Yard Workers,4,Unit group,H73,H,H7,H73,H731
+H732,Railway Track Maintenance Workers,4,Unit group,H73,H,H7,H73,H732
+H733,"Deck Crew, Water Transport",4,Unit group,H73,H,H7,H73,H733
+H734,"Engine Room Crew, Water Transport",4,Unit group,H73,H,H7,H73,H734
+H735,Lock and Cable Ferry Operators and Related Occupations,4,Unit group,H73,H,H7,H73,H735
+H736,Boat Operators,4,Unit group,H73,H,H7,H73,H736
+H737,Air Transport Ramp Attendants,4,Unit group,H73,H,H7,H73,H737
+H8,"Trades Helpers, Construction and Transportation Labourers and Related Occupations",2,Major group,H,H,H8,NA,NA
+H81,Longshore Workers and Material Handlers,3,Minor group,H8,H,H8,H81,NA
+H811,Longshore Workers,4,Unit group,H81,H,H8,H81,H811
+H812,Material Handlers,4,Unit group,H81,H,H8,H81,H812
+H82,Trades Helpers and Labourers,3,Minor group,H8,H,H8,H82,NA
+H821,Construction Trades Helpers and Labourers,4,Unit group,H82,H,H8,H82,H821
+H822,Other Trades Helpers and Labourers,4,Unit group,H82,H,H8,H82,H822
+H83,"Public Works and Other Labourers, n.e.c.",3,Minor group,H8,H,H8,H83,NA
+H831,Public Works and Maintenance Labourers,4,Unit group,H83,H,H8,H83,H831
+H832,Railway and Motor Transport Labourers,4,Unit group,H83,H,H8,H83,H832
+I,Occupations Unique to Primary Industry,1,Broad occupational category,NA,I,NA,NA,NA
+I0,Occupations Unique to Agriculture Excluding Labourers,2,Major group,I,I,I0,NA,NA
+I01,"Contractors, Operators and Supervisors in Agriculture, Horticulture and Aquaculture",3,Minor group,I0,I,I0,I01,NA
+I011,Farmers and Farm Managers,4,Unit group,I01,I,I0,I01,I011
+I012,Agricultural and Related Service Contractors and Managers,4,Unit group,I01,I,I0,I01,I012
+I013,Farm Supervisors and Specialized Livestock Workers,4,Unit group,I01,I,I0,I01,I013
+I014,Nursery and Greenhouse Operators and Managers,4,Unit group,I01,I,I0,I01,I014
+I015,Landscaping and Grounds Maintenance Contractors and Managers,4,Unit group,I01,I,I0,I01,I015
+I016,"Supervisors, Landscape and Horticulture",4,Unit group,I01,I,I0,I01,I016
+I017,Aquaculture Operators and Managers,4,Unit group,I01,I,I0,I01,I017
+I02,Agriculture and Horticulture Workers,3,Minor group,I0,I,I0,I02,NA
+I021,General Farm Workers,4,Unit group,I02,I,I0,I02,I021
+I022,Nursery and Greenhouse Workers,4,Unit group,I02,I,I0,I02,I022
+I1,"Occupations Unique to Forestry Operations, Mining, Oil and Gas Extraction and Fishing, Excluding Labourers",2,Major group,I,I,I1,NA,NA
+I11,"Supervisors, Logging and Forestry",3,Minor group,I1,I,I1,I11,NA
+I111,"Supervisors, Logging and Forestry",4,Unit group,I11,I,I1,I11,I111
+I12,"Supervisors, Mining, Oil and Gas",3,Minor group,I1,I,I1,I12,NA
+I121,"Supervisors, Mining and Quarrying",4,Unit group,I12,I,I1,I12,I121
+I122,"Supervisors, Oil and Gas Drilling and Service",4,Unit group,I12,I,I1,I12,I122
+I13,"Underground Miners, Oil and Gas Drillers and Related Workers",3,Minor group,I1,I,I1,I13,NA
+I131,Underground Production and Development Miners,4,Unit group,I13,I,I1,I13,I131
+I132,"Oil and Gas Well Drillers, Servicers, Testers and Related Workers",4,Unit group,I13,I,I1,I13,I132
+I14,Mine Service Workers and Operators in Oil and Gas Drilling,3,Minor group,I1,I,I1,I14,NA
+I141,Underground Mine Service and Support Workers,4,Unit group,I14,I,I1,I14,I141
+I142,Oil and Gas Well Drilling Workers and Services Operators,4,Unit group,I14,I,I1,I14,I142
+I15,Logging Machinery Operators,3,Minor group,I1,I,I1,I15,NA
+I151,Logging Machinery Operators,4,Unit group,I15,I,I1,I15,I151
+I16,Logging and Forestry Workers,3,Minor group,I1,I,I1,I16,NA
+I161,Chain Saw and Skidder Operators,4,Unit group,I16,I,I1,I16,I161
+I162,Silviculture and Forestry Workers,4,Unit group,I16,I,I1,I16,I162
+I17,Fishing Vessel Masters and Skippers and Fishermen / women,3,Minor group,I1,I,I1,I17,NA
+I171,Fishing Masters and Officers,4,Unit group,I17,I,I1,I17,I171
+I172,Fishing Vessel Skippers and Fishermen / women,4,Unit group,I17,I,I1,I17,I172
+I18,Other Fishing and Trapping Occupations,3,Minor group,I1,I,I1,I18,NA
+I181,Fishing Vessel Deckhands,4,Unit group,I18,I,I1,I18,I181
+I182,Trappers and Hunters,4,Unit group,I18,I,I1,I18,I182
+I2,Primary Production Labourers,2,Major group,I,I,I2,NA,NA
+I21,Primary Production Labourers,3,Minor group,I2,I,I2,I21,NA
+I211,Harvesting Labourers,4,Unit group,I21,I,I2,I21,I211
+I212,Landscaping and Grounds Maintenance Labourers,4,Unit group,I21,I,I2,I21,I212
+I213,Aquaculture and Marine Harvest Labourers,4,Unit group,I21,I,I2,I21,I213
+I214,Mine Labourers,4,Unit group,I21,I,I2,I21,I214
+I215,"Oil and Gas Drilling, Servicing and Related Labourers",4,Unit group,I21,I,I2,I21,I215
+I216,Logging and Forestry Labourers,4,Unit group,I21,I,I2,I21,I216
+J,"Occupations Unique to Processing, Manufacturing and Utilities",1,Broad occupational category,NA,J,NA,NA,NA
+J0,Supervisors in Manufacturing,2,Major group,J,J,J0,NA,NA
+J01,"Supervisors, Processing Occupations",3,Minor group,J0,J,J0,J01,NA
+J011,"Supervisors, Mineral and Metal Processing",4,Unit group,J01,J,J0,J01,J011
+J012,"Supervisors, Petroleum, Gas and Chemical Processing and Utilities",4,Unit group,J01,J,J0,J01,J012
+J013,"Supervisors, Food, Beverage and Tobacco Processing",4,Unit group,J01,J,J0,J01,J013
+J014,"Supervisors, Plastic and Rubber Products Manufacturing",4,Unit group,J01,J,J0,J01,J014
+J015,"Supervisors, Forest Products Processing",4,Unit group,J01,J,J0,J01,J015
+J016,"Supervisors, Textile Processing",4,Unit group,J01,J,J0,J01,J016
+J02,"Supervisors, Assembly and Fabrication",3,Minor group,J0,J,J0,J02,NA
+J021,"Supervisors, Motor Vehicle Assembling",4,Unit group,J02,J,J0,J02,J021
+J022,"Supervisors, Electronics Manufacturing",4,Unit group,J02,J,J0,J02,J022
+J023,"Supervisors, Electrical Products Manufacturing",4,Unit group,J02,J,J0,J02,J023
+J024,"Supervisors, Furniture and Fixtures Manufacturing",4,Unit group,J02,J,J0,J02,J024
+J025,"Supervisors, Fabric, Fur and Leather Products Manufacturing",4,Unit group,J02,J,J0,J02,J025
+J026,"Supervisors, Other Mechanical and Metal Products Manufacturing",4,Unit group,J02,J,J0,J02,J026
+J027,"Supervisors, Other Products Manufacturing and Assembly",4,Unit group,J02,J,J0,J02,J027
+J1,Machine Operators in Manufacturing,2,Major group,J,J,J1,NA,NA
+J11,Central Control and Process Operators in Manufacturing and Processing,3,Minor group,J1,J,J1,J11,NA
+J111,"Central Control and Process Operators, Mineral and Metal Processing",4,Unit group,J11,J,J1,J11,J111
+J112,"Petroleum, Gas and Chemical Process Operators",4,Unit group,J11,J,J1,J11,J112
+J113,Pulping Control Operators,4,Unit group,J11,J,J1,J11,J113
+J114,Papermaking and Coating Control Operators,4,Unit group,J11,J,J1,J11,J114
+J12,Machine Operators and Related Workers in Metal and Mineral Products Processing,3,Minor group,J1,J,J1,J12,NA
+J121,"Machine Operators, Mineral and Metal Processing",4,Unit group,J12,J,J1,J12,J121
+J122,Foundry Workers,4,Unit group,J12,J,J1,J12,J122
+J123,Glass Forming and Finishing Machine Operators and Glass Cutters,4,Unit group,J12,J,J1,J12,J123
+J124,"Concrete, Clay and Stone Forming Operators",4,Unit group,J12,J,J1,J12,J124
+J125,"Inspectors and Testers, Mineral and Metal Processing",4,Unit group,J12,J,J1,J12,J125
+J13,"Machine Operators and Related Workers in Chemical, Plastic and Rubber Processing",3,Minor group,J1,J,J1,J13,NA
+J131,Chemical Plant Machine Operators,4,Unit group,J13,J,J1,J13,J131
+J132,Plastics Processing Machine Operators,4,Unit group,J13,J,J1,J13,J132
+J133,Rubber Processing Machine Operators and Related Workers,4,Unit group,J13,J,J1,J13,J133
+J134,Water and Waste Plant Operators,4,Unit group,J13,J,J1,J13,J134
+J14,Machine Operators and Related Workers in Pulp and Paper Production and Wood Processing,3,Minor group,J1,J,J1,J14,NA
+J141,Sawmill Machine Operators,4,Unit group,J14,J,J1,J14,J141
+J142,Pulp Mill Machine Operators,4,Unit group,J14,J,J1,J14,J142
+J143,Papermaking and Finishing Machine Operators,4,Unit group,J14,J,J1,J14,J143
+J144,Other Wood Processing Machine Operators,4,Unit group,J14,J,J1,J14,J144
+J145,Paper Converting Machine Operators,4,Unit group,J14,J,J1,J14,J145
+J146,Lumber Graders and Other Wood Processing Inspectors and Graders,4,Unit group,J14,J,J1,J14,J146
+J15,Machine Operators and Related Workers in Textile Processing,3,Minor group,J1,J,J1,J15,NA
+J151,Textile Fibre and Yarn Preparation Machine Operators,4,Unit group,J15,J,J1,J15,J151
+J152,"Weavers, Knitters and Other Fabric-Making Occupations",4,Unit group,J15,J,J1,J15,J152
+J153,Textile Dyeing and Finishing Machine Operators,4,Unit group,J15,J,J1,J15,J153
+J154,"Textile Inspectors, Graders and Samplers",4,Unit group,J15,J,J1,J15,J154
+J16,"Machine Operators and Related Workers in Fabric, Fur and Leather Products Manufacturing",3,Minor group,J1,J,J1,J16,NA
+J161,Sewing Machine Operators,4,Unit group,J16,J,J1,J16,J161
+J162,"Fabric, Fur and Leather Cutters",4,Unit group,J16,J,J1,J16,J162
+J163,Hide and Pelt Processing Workers,4,Unit group,J16,J,J1,J16,J163
+J164,"Inspectors and Testers, Fabric, Fur and Leather Products Manufacturing",4,Unit group,J16,J,J1,J16,J164
+J17,"Machine Operators and Related Workers in Food, Beverage and Tobacco Processing",3,Minor group,J1,J,J1,J17,NA
+J171,"Process Control and Machine Operators, Food and Beverage Processing",4,Unit group,J17,J,J1,J17,J171
+J172,"Industrial Butchers and Meat Cutters, Poultry Preparers and Related Workers",4,Unit group,J17,J,J1,J17,J172
+J173,Fish Plant Workers,4,Unit group,J17,J,J1,J17,J173
+J174,Tobacco Processing Machine Operators,4,Unit group,J17,J,J1,J17,J174
+J175,"Testers and Graders, Food and Beverage Processing",4,Unit group,J17,J,J1,J17,J175
+J18,Printing Machine Operators and Related Occupations,3,Minor group,J1,J,J1,J18,NA
+J181,Printing Machine Operators,4,Unit group,J18,J,J1,J18,J181
+J182,"Camera, Platemaking and Other Prepress Occupations",4,Unit group,J18,J,J1,J18,J182
+J183,Binding and Finishing Machine Operators,4,Unit group,J18,J,J1,J18,J183
+J184,Photographic and Film Processors,4,Unit group,J18,J,J1,J18,J184
+J19,"Machining, Metalworking, Woodworking and Related Machine Operators",3,Minor group,J1,J,J1,J19,NA
+J191,Machining Tool Operators,4,Unit group,J19,J,J1,J19,J191
+J192,Forging Machine Operators,4,Unit group,J19,J,J1,J19,J192
+J193,Woodworking Machine Operators,4,Unit group,J19,J,J1,J19,J193
+J194,Metalworking Machine Operators,4,Unit group,J19,J,J1,J19,J194
+J196,Other Metal Products Machine Operators,4,Unit group,J19,J,J1,J19,J196
+J197,Other Products Machine Operators,4,Unit group,J19,J,J1,J19,J197
+J2,Assemblers in Manufacturing,2,Major group,J,J,J2,NA,NA
+J21,"Mechanical, Electrical and Electronics Assemblers",3,Minor group,J2,J,J2,J21,NA
+J211,Aircraft Assemblers and Aircraft Assembly Inspectors,4,Unit group,J21,J,J2,J21,J211
+J212,"Motor Vehicle Assemblers, Inspectors and Testers",4,Unit group,J21,J,J2,J21,J212
+J213,"Electronics Assemblers, Fabricators, Inspectors and Testers",4,Unit group,J21,J,J2,J21,J213
+J214,"Assemblers and Inspectors, Electrical Appliance, Apparatus and Equipment Manufacturing",4,Unit group,J21,J,J2,J21,J214
+J215,"Assemblers, Fabricators and Inspectors, Industrial Electrical Motors and Transformers",4,Unit group,J21,J,J2,J21,J215
+J216,Mechanical Assemblers and Inspectors,4,Unit group,J21,J,J2,J21,J216
+J217,"Machine Operators and Inspectors, Electrical Apparatus Manufacturing",4,Unit group,J21,J,J2,J21,J217
+J22,Other Assembly and Related Occupations,3,Minor group,J2,J,J2,J22,NA
+J221,Boat Assemblers and Inspectors,4,Unit group,J22,J,J2,J22,J221
+J222,Furniture and Fixture Assemblers and Inspectors,4,Unit group,J22,J,J2,J22,J222
+J223,Other Wood Products Assemblers and Inspectors,4,Unit group,J22,J,J2,J22,J223
+J224,Furniture Finishers and Refinishers,4,Unit group,J22,J,J2,J22,J224
+J225,"Plastic Products Assemblers, Finishers and Inspectors",4,Unit group,J22,J,J2,J22,J225
+J226,Painters and Coaters - Industrial,4,Unit group,J22,J,J2,J22,J226
+J227,"Plating, Metal Spraying and Related Operators",4,Unit group,J22,J,J2,J22,J227
+J228,Other Assemblers and Inspectors,4,Unit group,J22,J,J2,J22,J228
+J3,"Labourers in Processing, Manufacturing and Utilities",2,Major group,J,J,J3,NA,NA
+J31,"Labourers in Processing, Manufacturing and Utilities",3,Minor group,J3,J,J3,J31,NA
+J311,Labourers in Mineral and Metal Processing,4,Unit group,J31,J,J3,J31,J311
+J312,Labourers in Metal Fabrication,4,Unit group,J31,J,J3,J31,J312
+J313,Labourers in Chemical Products Processing and Utilities,4,Unit group,J31,J,J3,J31,J313
+J314,"Labourers in Wood, Pulp and Paper Processing",4,Unit group,J31,J,J3,J31,J314
+J315,Labourers in Rubber and Plastic Products Manufacturing,4,Unit group,J31,J,J3,J31,J315
+J316,Labourers in Textile Processing,4,Unit group,J31,J,J3,J31,J316
+J317,"Labourers in Food, Beverage and Tobacco Processing",4,Unit group,J31,J,J3,J31,J317
+J318,Labourers in Fish Processing,4,Unit group,J31,J,J3,J31,J318
+J319,"Other Labourers in Processing, Manufacturing and Utilities",4,Unit group,J31,J,J3,J31,J319
