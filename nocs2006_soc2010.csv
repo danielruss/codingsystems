@@ -1,0 +1,1520 @@
+nocs2006,nocs2006_title,soc2010,soc2010_title
+A011,Legislators,11-1011,Chief Executives
+A011,Legislators,11-1031,Legislators
+A012,Senior government managers and officials,11-1011,Chief Executives
+A013,"Senior managers - financial, communications and other business services",11-1011,Chief Executives
+A014,"Senior managers - health, education, social and community services and membership organizations",11-1011,Chief Executives
+A014,"Senior managers - health, education, social and community services and membership organizations",11-1021,General and Operations Managers
+A014,"Senior managers - health, education, social and community services and membership organizations",11-9111,Medical and Health Services Managers
+A015,"Senior managers - trade, broadcasting and other services, n.e.c.",11-1011,Chief Executives
+A015,"Senior managers - trade, broadcasting and other services, n.e.c.",11-1021,General and Operations Managers
+A015,"Senior managers - trade, broadcasting and other services, n.e.c.",11-9111,Medical and Health Services Managers
+A016,"Senior managers - goods production, utilities, transportation and construction",11-1011,Chief Executives
+A111,Financial managers,11-3031,Financial Managers
+A112,Human resources managers,11-3111,Compensation and Benefits Managers
+A112,Human resources managers,11-3121,Human Resources Managers
+A112,Human resources managers,11-3131,Training and Development Managers
+A113,Purchasing managers,11-3061,Purchasing Managers
+A114,Other administrative services managers,11-3011,Administrative Services Managers
+A114,Other administrative services managers,11-9111,Medical and Health Services Managers
+A121,Engineering managers,11-9041,Architectural and Engineering Managers
+A122,Computer and information systems managers,11-3021,Computer and Information Systems Managers
+A122,Computer and information systems managers,11-9199,"Managers, All Other"
+A122,Computer and information systems managers,13-1199,"Business Operations Specialists, All Other"
+A122,Computer and information systems managers,15-1199,"Computer Occupations, All Other"
+A123,Architecture and science managers,11-9041,Architectural and Engineering Managers
+A123,Architecture and science managers,11-9121,Natural Sciences Managers
+A123,Architecture and science managers,19-3051,Urban and Regional Planners
+A131,"Sales, marketing and advertising managers",11-1021,General and Operations Managers
+A131,"Sales, marketing and advertising managers",11-2011,Advertising and Promotions Managers
+A131,"Sales, marketing and advertising managers",11-2021,Marketing Managers
+A131,"Sales, marketing and advertising managers",11-2022,Sales Managers
+A131,"Sales, marketing and advertising managers",11-2031,Public Relations and Fundraising Managers
+A131,"Sales, marketing and advertising managers",13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+A131,"Sales, marketing and advertising managers",13-1131,Fundraisers
+A131,"Sales, marketing and advertising managers",13-1161,Market Research Analysts and Marketing Specialists
+A131,"Sales, marketing and advertising managers",27-3031,Public Relations Specialists
+A131,"Sales, marketing and advertising managers",41-1011,First-Line Supervisors of Retail Sales Workers
+A131,"Sales, marketing and advertising managers",41-3011,Advertising Sales Agents
+A141,Facility operation and maintenance managers,11-3011,Administrative Services Managers
+A141,Facility operation and maintenance managers,11-3071,"Transportation, Storage, and Distribution Managers"
+A141,Facility operation and maintenance managers,11-9199,"Managers, All Other"
+A211,Retail trade managers,11-1021,General and Operations Managers
+A211,Retail trade managers,11-2011,Advertising and Promotions Managers
+A211,Retail trade managers,11-2021,Marketing Managers
+A211,Retail trade managers,11-2022,Sales Managers
+A211,Retail trade managers,11-2031,Public Relations and Fundraising Managers
+A211,Retail trade managers,41-1011,First-Line Supervisors of Retail Sales Workers
+A221,Restaurant and food service managers,11-9051,Food Service Managers
+A222,Accommodation service managers,11-9081,Lodging Managers
+A222,Accommodation service managers,11-9111,Medical and Health Services Managers
+A222,Accommodation service managers,11-9199,"Managers, All Other"
+A222,Accommodation service managers,39-9041,Residential Advisors
+A301,"Insurance, real estate and financial brokerage managers",11-3031,Financial Managers
+A301,"Insurance, real estate and financial brokerage managers",11-9141,"Property, Real Estate, and Community Association Managers"
+A301,"Insurance, real estate and financial brokerage managers",41-9021,Real Estate Brokers
+A302,"Banking, credit and other investment managers",11-3031,Financial Managers
+A303,Other business services managers,11-2011,Advertising and Promotions Managers
+A303,Other business services managers,11-2021,Marketing Managers
+A303,Other business services managers,11-2031,Public Relations and Fundraising Managers
+A303,Other business services managers,11-9199,"Managers, All Other"
+A311,Telecommunication carriers managers,11-1021,General and Operations Managers
+A312,Postal and courier services managers,11-3011,Administrative Services Managers
+A312,Postal and courier services managers,11-9131,Postmasters and Mail Superintendents
+A321,Managers in health care,11-9111,Medical and Health Services Managers
+A322,Administrators - post-secondary education and vocational training,11-3011,Administrative Services Managers
+A322,Administrators - post-secondary education and vocational training,11-9033,"Education Administrators, Postsecondary"
+A322,Administrators - post-secondary education and vocational training,11-9039,"Education Administrators, All Other"
+A323,School principals and administrators of elementary and secondary education,11-1011,Chief Executives
+A323,School principals and administrators of elementary and secondary education,11-9032,"Education Administrators, Elementary and Secondary School"
+A324,"Managers in social, community and correctional services",11-9031,"Education Administrators, Preschool and Childcare Center/Program"
+A324,"Managers in social, community and correctional services",11-9151,Social and Community Service Managers
+A324,"Managers in social, community and correctional services",21-2021,"Directors, Religious Activities and Education"
+A331,Government managers - health and social policy development and program administration,11-3011,Administrative Services Managers
+A332,"Government managers - economic analysis, policy development and program administration",11-3011,Administrative Services Managers
+A333,Government managers - education policy development and program administration,11-3011,Administrative Services Managers
+A334,Other managers in public administration,11-1021,General and Operations Managers
+A334,Other managers in public administration,11-3011,Administrative Services Managers
+A334,Other managers in public administration,11-9161,Emergency Management Directors
+A341,"Library, archive, museum and art gallery managers",11-1021,General and Operations Managers
+A342,"Managers - publishing, motion pictures, broadcasting and performing arts",11-1021,General and Operations Managers
+A343,"Recreation, sports and fitness program and service directors",11-9071,Gaming Managers
+A343,"Recreation, sports and fitness program and service directors",11-9199,"Managers, All Other"
+A351,Commissioned police officers,11-1021,General and Operations Managers
+A351,Commissioned police officers,33-1012,First-Line Supervisors of Police and Detectives
+A352,Fire chiefs and senior firefighting officers,11-1021,General and Operations Managers
+A352,Fire chiefs and senior firefighting officers,33-2021,Fire Inspectors and Investigators
+A353,"Commissioned officers, armed forces",11-1021,General and Operations Managers
+A353,"Commissioned officers, armed forces",55-1011,Air Crew Officers
+A353,"Commissioned officers, armed forces",55-1012,Aircraft Launch and Recovery Officers
+A353,"Commissioned officers, armed forces",55-1013,Armored Assault Vehicle Officers
+A353,"Commissioned officers, armed forces",55-1014,Artillery and Missile Officers
+A353,"Commissioned officers, armed forces",55-1015,Command and Control Center Officers
+A353,"Commissioned officers, armed forces",55-1016,Infantry Officers
+A353,"Commissioned officers, armed forces",55-1017,Special Forces Officers
+A353,"Commissioned officers, armed forces",55-1019,"Military Officer Special and Tactical Operations Leaders, All Other"
+A361,Other services managers,11-9199,"Managers, All Other"
+A371,Construction managers,11-9021,Construction Managers
+A371,Construction managers,11-9199,"Managers, All Other"
+A371,Construction managers,13-1199,"Business Operations Specialists, All Other"
+A371,Construction managers,15-1199,"Computer Occupations, All Other"
+A372,Residential home builders and renovators,11-9021,Construction Managers
+A373,Transportation managers,11-3071,"Transportation, Storage, and Distribution Managers"
+A381,Primary production managers (except agriculture),11-1021,General and Operations Managers
+A381,Primary production managers (except agriculture),11-9013,"Farmers, Ranchers, and Other Agricultural Managers"
+A391,Manufacturing managers,11-3051,Industrial Production Managers
+A391,Manufacturing managers,13-1081,Logisticians
+A392,Utilities managers,11-1021,General and Operations Managers
+A392,Utilities managers,11-3051,Industrial Production Managers
+B011,Financial auditors and accountants,13-2011,Accountants and Auditors
+B012,Financial and investment analysts,13-2051,Financial Analysts
+B012,Financial and investment analysts,13-2099,"Financial Specialists, All Other"
+B013,"Securities agents, investment dealers and brokers",41-3031,"Securities, Commodities, and Financial Services Sales Agents"
+B014,Other financial officers,13-2052,Personal Financial Advisors
+B014,Other financial officers,13-2061,Financial Examiners
+B014,Other financial officers,13-2072,Loan Officers
+B014,Other financial officers,13-2099,"Financial Specialists, All Other"
+B021,Specialists in human resources,13-1041,Compliance Officers
+B021,Specialists in human resources,13-1075,Labor Relations Specialists
+B021,Specialists in human resources,13-1141,"Compensation, Benefits, and Job Analysis Specialists"
+B021,Specialists in human resources,13-1151,Training and Development Specialists
+B021,Specialists in human resources,23-1022,"Arbitrators, Mediators, and Conciliators"
+B022,Professional occupations in business services to management,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+B022,Professional occupations in business services to management,13-1111,Management Analysts
+B022,Professional occupations in business services to management,13-1131,Fundraisers
+B022,Professional occupations in business services to management,13-1161,Market Research Analysts and Marketing Specialists
+B022,Professional occupations in business services to management,27-3031,Public Relations Specialists
+B022,Professional occupations in business services to management,41-3011,Advertising Sales Agents
+B111,Bookkeepers,43-3031,"Bookkeeping, Accounting, and Auditing Clerks"
+B112,Loan officers,13-2041,Credit Analysts
+B112,Loan officers,13-2071,Credit Counselors
+B112,Loan officers,13-2072,Loan Officers
+B112,Loan officers,43-4131,Loan Interviewers and Clerks
+B112,Loan officers,43-4141,New Accounts Clerks
+B113,Insurance adjusters and claims examiners,13-1031,"Claims Adjusters, Examiners, and Investigators"
+B113,Insurance adjusters and claims examiners,13-1032,"Insurance Appraisers, Auto Damage"
+B114,Insurance underwriters,13-2053,Insurance Underwriters
+B115,"Assessors, valuators and appraisers",13-2021,Appraisers and Assessors of Real Estate
+B116,"Customs, ship and other brokers",13-1199,"Business Operations Specialists, All Other"
+B211,Secretaries (except legal and medical),43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+B212,Legal secretaries,43-6012,Legal Secretaries
+B213,Medical secretaries,31-9094,Medical Transcriptionists
+B213,Medical secretaries,43-6013,Medical Secretaries
+B214,Court recorders and medical transcriptionists,23-2091,Court Reporters
+B214,Court recorders and medical transcriptionists,31-9094,Medical Transcriptionists
+B214,Court recorders and medical transcriptionists,43-9199,"Office and Administrative Support Workers, All Other"
+B311,Administrative officers,11-3011,Administrative Services Managers
+B311,Administrative officers,13-2031,Budget Analysts
+B311,Administrative officers,25-1191,Graduate Teaching Assistants
+B311,Administrative officers,43-1011,First-Line Supervisors of Office and Administrative Support Workers
+B311,Administrative officers,43-6011,Executive Secretaries and Executive Administrative Assistants
+B312,Executive assistants,43-6011,Executive Secretaries and Executive Administrative Assistants
+B313,Personnel and recruitment officers,13-1071,Human Resources Specialists
+B313,Personnel and recruitment officers,13-1074,Farm Labor Contractors
+B314,Property administrators,11-9141,"Property, Real Estate, and Community Association Managers"
+B314,Property administrators,41-9022,Real Estate Sales Agents
+B315,Purchasing agents and officers,13-1021,"Buyers and Purchasing Agents, Farm Products"
+B315,Purchasing agents and officers,13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+B316,Conference and event planners,13-1121,"Meeting, Convention, and Event Planners"
+B317,Court officers and justices of the peace,23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers"
+B317,Court officers and justices of the peace,43-4031,"Court, Municipal, and License Clerks"
+B318,"Immigration, employment insurance and revenue officers",13-2081,"Tax Examiners and Collectors, and Revenue Agents"
+B318,"Immigration, employment insurance and revenue officers",23-1021,"Administrative Law Judges, Adjudicators, and Hearing Officers"
+B318,"Immigration, employment insurance and revenue officers",33-3051,Police and Sheriff's Patrol Officers
+B318,"Immigration, employment insurance and revenue officers",43-4061,"Eligibility Interviewers, Government Programs"
+B411,"Supervisors, general office and administrative support clerks",29-2071,Medical Records and Health Information Technicians
+B411,"Supervisors, general office and administrative support clerks",29-9099,"Healthcare Practitioners and Technical Workers, All Other"
+B411,"Supervisors, general office and administrative support clerks",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+B412,"Supervisors, finance and insurance clerks",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+B413,"Supervisors, library, correspondence and related information clerks",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+B414,"Supervisors, mail and message distribution occupations",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+B415,"Supervisors, recording, distributing and scheduling occupations",43-1011,First-Line Supervisors of Office and Administrative Support Workers
+B415,"Supervisors, recording, distributing and scheduling occupations",53-1011,Aircraft Cargo Handling Supervisors
+B415,"Supervisors, recording, distributing and scheduling occupations",53-1021,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+B415,"Supervisors, recording, distributing and scheduling occupations",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+B511,General office clerks,43-4071,File Clerks
+B511,General office clerks,43-4111,"Interviewers, Except Eligibility and Loan"
+B511,General office clerks,43-4199,"Information and Record Clerks, All Other"
+B511,General office clerks,43-5041,"Meter Readers, Utilities"
+B511,General office clerks,43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+B511,General office clerks,43-9022,Word Processors and Typists
+B511,General office clerks,43-9061,"Office Clerks, General"
+B511,General office clerks,43-9071,"Office Machine Operators, Except Computer"
+B511,General office clerks,43-9111,Statistical Assistants
+B511,General office clerks,43-9199,"Office and Administrative Support Workers, All Other"
+B513,Records management and filing clerks,29-2071,Medical Records and Health Information Technicians
+B513,Records management and filing clerks,29-9099,"Healthcare Practitioners and Technical Workers, All Other"
+B513,Records management and filing clerks,43-4071,File Clerks
+B513,Records management and filing clerks,43-4199,"Information and Record Clerks, All Other"
+B513,Records management and filing clerks,43-9022,Word Processors and Typists
+B513,Records management and filing clerks,43-9061,"Office Clerks, General"
+B513,Records management and filing clerks,43-9071,"Office Machine Operators, Except Computer"
+B513,Records management and filing clerks,43-9199,"Office and Administrative Support Workers, All Other"
+B514,Receptionists and switchboard operators,27-4013,Radio Operators
+B514,Receptionists and switchboard operators,43-2011,"Switchboard Operators, Including Answering Service"
+B514,Receptionists and switchboard operators,43-2021,Telephone Operators
+B514,Receptionists and switchboard operators,43-2099,"Communications Equipment Operators, All Other"
+B514,Receptionists and switchboard operators,43-4171,Receptionists and Information Clerks
+B522,Data entry clerks,43-9021,Data Entry Keyers
+B523,Desktop publishing operators and related occupations,43-9031,Desktop Publishers
+B523,Desktop publishing operators and related occupations,51-5111,Prepress Technicians and Workers
+B524,Telephone operators,27-4013,Radio Operators
+B524,Telephone operators,43-2011,"Switchboard Operators, Including Answering Service"
+B524,Telephone operators,43-2021,Telephone Operators
+B524,Telephone operators,43-2099,"Communications Equipment Operators, All Other"
+B524,Telephone operators,43-4171,Receptionists and Information Clerks
+B531,Accounting and related clerks,13-2082,Tax Preparers
+B531,Accounting and related clerks,43-3021,Billing and Posting Clerks
+B531,Accounting and related clerks,43-3031,"Bookkeeping, Accounting, and Auditing Clerks"
+B532,Payroll clerks,43-3051,Payroll and Timekeeping Clerks
+B533,Customer service representatives - financial services,43-3071,Tellers
+B534,"Banking, insurance and other financial clerks",43-3021,Billing and Posting Clerks
+B534,"Banking, insurance and other financial clerks",43-3099,"Financial Clerks, All Other"
+B534,"Banking, insurance and other financial clerks",43-4011,Brokerage Clerks
+B534,"Banking, insurance and other financial clerks",43-4041,"Credit Authorizers, Checkers, and Clerks"
+B534,"Banking, insurance and other financial clerks",43-4131,Loan Interviewers and Clerks
+B534,"Banking, insurance and other financial clerks",43-9041,Insurance Claims and Policy Processing Clerks
+B535,Collectors,43-3011,Bill and Account Collectors
+B541,Administrative clerks,43-4021,Correspondence Clerks
+B541,Administrative clerks,43-4031,"Court, Municipal, and License Clerks"
+B541,Administrative clerks,43-4071,File Clerks
+B541,Administrative clerks,43-4199,"Information and Record Clerks, All Other"
+B541,Administrative clerks,43-9022,Word Processors and Typists
+B541,Administrative clerks,43-9061,"Office Clerks, General"
+B541,Administrative clerks,43-9071,"Office Machine Operators, Except Computer"
+B541,Administrative clerks,43-9081,Proofreaders and Copy Markers
+B541,Administrative clerks,43-9199,"Office and Administrative Support Workers, All Other"
+B542,Personnel clerks,43-4161,"Human Resources Assistants, Except Payroll and Timekeeping"
+B543,Court clerks,23-1012,Judicial Law Clerks
+B543,Court clerks,43-4031,"Court, Municipal, and License Clerks"
+B551,Library clerks,43-4121,"Library Assistants, Clerical"
+B552,"Correspondence, publication and related clerks",43-4021,Correspondence Clerks
+B552,"Correspondence, publication and related clerks",43-4031,"Court, Municipal, and License Clerks"
+B552,"Correspondence, publication and related clerks",43-9081,Proofreaders and Copy Markers
+B553,"Customer service, information and related clerks",43-4051,Customer Service Representatives
+B553,"Customer service, information and related clerks",43-4151,Order Clerks
+B554,Survey interviewers and statistical clerks,43-4111,"Interviewers, Except Eligibility and Loan"
+B554,Survey interviewers and statistical clerks,43-5041,"Meter Readers, Utilities"
+B554,Survey interviewers and statistical clerks,43-9111,Statistical Assistants
+B561,"Mail, postal and related clerks",43-5051,Postal Service Clerks
+B561,"Mail, postal and related clerks",43-5053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+B561,"Mail, postal and related clerks",43-9051,"Mail Clerks and Mail Machine Operators, Except Postal Service"
+B562,Letter carriers,43-5052,Postal Service Mail Carriers
+B563,"Couriers, messengers and door-to-door distributors",41-9091,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers"
+B563,"Couriers, messengers and door-to-door distributors",43-5021,Couriers and Messengers
+B571,Shippers and receivers,43-5071,"Shipping, Receiving, and Traffic Clerks"
+B572,Storekeepers and parts clerks,41-2022,Parts Salespersons
+B572,Storekeepers and parts clerks,43-5081,Stock Clerks and Order Fillers
+B573,Production clerks,43-5061,"Production, Planning, and Expediting Clerks"
+B574,Purchasing and inventory clerks,43-3061,Procurement Clerks
+B574,Purchasing and inventory clerks,43-5071,"Shipping, Receiving, and Traffic Clerks"
+B575,Dispatchers and radio operators,43-5031,"Police, Fire, and Ambulance Dispatchers"
+B575,Dispatchers and radio operators,43-5032,"Dispatchers, Except Police, Fire, and Ambulance"
+B576,Transportation route and crew schedulers,43-5032,"Dispatchers, Except Police, Fire, and Ambulance"
+C011,Physicists and astronomers,19-1021,Biochemists and Biophysicists
+C011,Physicists and astronomers,19-2011,Astronomers
+C011,Physicists and astronomers,19-2012,Physicists
+C011,Physicists and astronomers,19-2021,Atmospheric and Space Scientists
+C012,Chemists,19-1021,Biochemists and Biophysicists
+C012,Chemists,19-2021,Atmospheric and Space Scientists
+C012,Chemists,19-2031,Chemists
+C013,"Geologists, geochemists and geophysicists",19-2042,"Geoscientists, Except Hydrologists and Geographers"
+C013,"Geologists, geochemists and geophysicists",19-2043,Hydrologists
+C014,Meteorologists,19-1021,Biochemists and Biophysicists
+C014,Meteorologists,19-2011,Astronomers
+C014,Meteorologists,19-2012,Physicists
+C014,Meteorologists,19-2021,Atmospheric and Space Scientists
+C015,Other professional occupations in physical sciences,19-1013,Soil and Plant Scientists
+C015,Other professional occupations in physical sciences,19-2032,Materials Scientists
+C015,Other professional occupations in physical sciences,19-2099,"Physical Scientists, All Other"
+C021,Biologists and related scientists,19-1011,Animal Scientists
+C021,Biologists and related scientists,19-1012,Food Scientists and Technologists
+C021,Biologists and related scientists,19-1013,Soil and Plant Scientists
+C021,Biologists and related scientists,19-1022,Microbiologists
+C021,Biologists and related scientists,19-1023,Zoologists and Wildlife Biologists
+C021,Biologists and related scientists,19-1029,"Biological Scientists, All Other"
+C021,Biologists and related scientists,19-2041,"Environmental Scientists and Specialists, Including Health"
+C022,Forestry professionals,19-1032,Foresters
+C023,"Agricultural representatives, consultants and specialists",19-1031,Conservation Scientists
+C023,"Agricultural representatives, consultants and specialists",25-9021,Farm and Home Management Advisors
+C031,Civil engineers,17-2051,Civil Engineers
+C031,Civil engineers,17-2081,Environmental Engineers
+C032,Mechanical engineers,17-2141,Mechanical Engineers
+C032,Mechanical engineers,17-2161,Nuclear Engineers
+C033,Electrical and electronics engineers,17-2071,Electrical Engineers
+C033,Electrical and electronics engineers,17-2072,"Electronics Engineers, Except Computer"
+C034,Chemical engineers,17-2031,Biomedical Engineers
+C034,Chemical engineers,17-2041,Chemical Engineers
+C041,Industrial and manufacturing engineers,17-2111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+C041,Industrial and manufacturing engineers,17-2112,Industrial Engineers
+C042,Metallurgical and materials engineers,17-2131,Materials Engineers
+C043,Mining engineers,17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers"
+C044,Geological engineers,17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers"
+C045,Petroleum engineers,17-2171,Petroleum Engineers
+C046,Aerospace engineers,17-2011,Aerospace Engineers
+C047,Computer engineers (except software engineers and designers),15-1143,Computer Network Architects
+C047,Computer engineers (except software engineers and designers),17-2061,Computer Hardware Engineers
+C047,Computer engineers (except software engineers and designers),17-2072,"Electronics Engineers, Except Computer"
+C048,"Other professional engineers, n.e.c.",17-2021,Agricultural Engineers
+C048,"Other professional engineers, n.e.c.",17-2031,Biomedical Engineers
+C048,"Other professional engineers, n.e.c.",17-2121,Marine Engineers and Naval Architects
+C048,"Other professional engineers, n.e.c.",17-2199,"Engineers, All Other"
+C051,Architects,17-1011,"Architects, Except Landscape and Naval"
+C052,Landscape architects,17-1012,Landscape Architects
+C053,Urban and land use planners,19-3051,Urban and Regional Planners
+C054,Land surveyors,17-1022,Surveyors
+C061,"Mathematicians, statisticians and actuaries",15-2011,Actuaries
+C061,"Mathematicians, statisticians and actuaries",15-2021,Mathematicians
+C061,"Mathematicians, statisticians and actuaries",15-2031,Operations Research Analysts
+C061,"Mathematicians, statisticians and actuaries",15-2041,Statisticians
+C061,"Mathematicians, statisticians and actuaries",15-2091,Mathematical Technicians
+C061,"Mathematicians, statisticians and actuaries",15-2099,"Mathematical Science Occupations, All Other"
+C061,"Mathematicians, statisticians and actuaries",19-1041,Epidemiologists
+C061,"Mathematicians, statisticians and actuaries",19-4061,Social Science Research Assistants
+C061,"Mathematicians, statisticians and actuaries",43-9111,Statistical Assistants
+C071,Information systems analysts and consultants,15-1121,Computer Systems Analysts
+C071,Information systems analysts and consultants,15-1122,Information Security Analysts
+C071,Information systems analysts and consultants,15-1132,"Software Developers, Applications"
+C071,Information systems analysts and consultants,15-1133,"Software Developers, Systems Software"
+C071,Information systems analysts and consultants,15-1199,"Computer Occupations, All Other"
+C072,Database analysts and data administrators,15-1141,Database Administrators
+C072,Database analysts and data administrators,15-1199,"Computer Occupations, All Other"
+C072,Database analysts and data administrators,15-2099,"Mathematical Science Occupations, All Other"
+C073,Software engineers and designers,15-1111,Computer and Information Research Scientists
+C073,Software engineers and designers,15-1132,"Software Developers, Applications"
+C073,Software engineers and designers,15-1133,"Software Developers, Systems Software"
+C074,Computer programmers and interactive media developers,15-1131,Computer Programmers
+C074,Computer programmers and interactive media developers,15-1132,"Software Developers, Applications"
+C074,Computer programmers and interactive media developers,15-1133,"Software Developers, Systems Software"
+C075,Web designers and developers,15-1134,Web Developers
+C075,Web designers and developers,15-1199,"Computer Occupations, All Other"
+C111,Chemical technologists and technicians,19-1012,Food Scientists and Technologists
+C111,Chemical technologists and technicians,19-4011,Agricultural and Food Science Technicians
+C111,Chemical technologists and technicians,19-4031,Chemical Technicians
+C111,Chemical technologists and technicians,19-4051,Nuclear Technicians
+C111,Chemical technologists and technicians,19-4092,Forensic Science Technicians
+C112,Geological and mineral technologists and technicians,19-4041,Geological and Petroleum Technicians
+C112,Geological and mineral technologists and technicians,19-4099,"Life, Physical, and Social Science Technicians, All Other"
+C113,Meteorological technicians,17-1021,Cartographers and Photogrammetrists
+C113,Meteorological technicians,17-3031,Surveying and Mapping Technicians
+C113,Meteorological technicians,19-4099,"Life, Physical, and Social Science Technicians, All Other"
+C121,Biological technologists and technicians,19-4011,Agricultural and Food Science Technicians
+C121,Biological technologists and technicians,19-4021,Biological Technicians
+C121,Biological technologists and technicians,19-4092,Forensic Science Technicians
+C122,Agricultural and fish products inspectors,45-2011,Agricultural Inspectors
+C123,Forestry technologists and technicians,19-4093,Forest and Conservation Technicians
+C123,Forestry technologists and technicians,33-2022,Forest Fire Inspectors and Prevention Specialists
+C123,Forestry technologists and technicians,45-2011,Agricultural Inspectors
+C124,Conservation and fishery officers,33-3031,Fish and Game Wardens
+C125,Landscape and horticulture technicians and specialists,37-3011,Landscaping and Groundskeeping Workers
+C125,Landscape and horticulture technicians and specialists,37-3013,Tree Trimmers and Pruners
+C131,Civil engineering technologists and technicians,17-3022,Civil Engineering Technicians
+C131,Civil engineering technologists and technicians,17-3025,Environmental Engineering Technicians
+C131,Civil engineering technologists and technicians,17-3029,"Engineering Technicians, Except Drafters, All Other"
+C131,Civil engineering technologists and technicians,19-4091,"Environmental Science and Protection Technicians, Including Health"
+C131,Civil engineering technologists and technicians,53-6041,Traffic Technicians
+C131,Civil engineering technologists and technicians,55-3017,Radar and Sonar Technicians
+C132,Mechanical engineering technologists and technicians,17-3021,Aerospace Engineering and Operations Technicians
+C132,Mechanical engineering technologists and technicians,17-3024,Electro-Mechanical Technicians
+C132,Mechanical engineering technologists and technicians,17-3027,Mechanical Engineering Technicians
+C132,Mechanical engineering technologists and technicians,19-4051,Nuclear Technicians
+C133,Industrial engineering and manufacturing technologists and technicians,17-3026,Industrial Engineering Technicians
+C133,Industrial engineering and manufacturing technologists and technicians,51-4012,"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"
+C133,Industrial engineering and manufacturing technologists and technicians,51-9199,"Production Workers, All Other"
+C134,Construction estimators,13-1051,Cost Estimators
+C141,Electrical and electronics engineering technologists and technicians,17-3023,Electrical and Electronic Engineering Technicians
+C141,Electrical and electronics engineering technologists and technicians,17-3024,Electro-Mechanical Technicians
+C141,Electrical and electronics engineering technologists and technicians,27-4099,"Media and Communication Equipment Workers, All Other"
+C141,Electrical and electronics engineering technologists and technicians,49-2093,"Electrical and Electronics Installers and Repairers, Transportation Equipment"
+C141,Electrical and electronics engineering technologists and technicians,49-9062,Medical Equipment Repairers
+C142,Electronic service technicians (household and business equipment),49-2011,"Computer, Automated Teller, and Office Machine Repairers"
+C142,Electronic service technicians (household and business equipment),49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers"
+C142,Electronic service technicians (household and business equipment),49-2097,Electronic Home Entertainment Equipment Installers and Repairers
+C142,Electronic service technicians (household and business equipment),49-2098,Security and Fire Alarm Systems Installers
+C143,Industrial instrument technicians and mechanics,17-3029,"Engineering Technicians, Except Drafters, All Other"
+C144,"Aircraft instrument, electrical and avionics mechanics, technicians and inspectors",49-2091,Avionics Technicians
+C151,Architectural technologists and technicians,17-3011,Architectural and Civil Drafters
+C152,Industrial designers,27-1021,Commercial and Industrial Designers
+C153,Drafting technologists and technicians,17-3011,Architectural and Civil Drafters
+C153,Drafting technologists and technicians,17-3012,Electrical and Electronics Drafters
+C153,Drafting technologists and technicians,17-3013,Mechanical Drafters
+C153,Drafting technologists and technicians,17-3019,"Drafters, All Other"
+C154,Land survey technologists and technicians,17-3031,Surveying and Mapping Technicians
+C155,Mapping and related technologists and technicians,17-1021,Cartographers and Photogrammetrists
+C155,Mapping and related technologists and technicians,17-3031,Surveying and Mapping Technicians
+C155,Mapping and related technologists and technicians,19-4099,"Life, Physical, and Social Science Technicians, All Other"
+C161,Non-destructive testers and inspectors,17-3029,"Engineering Technicians, Except Drafters, All Other"
+C161,Non-destructive testers and inspectors,55-3017,Radar and Sonar Technicians
+C162,Engineering inspectors and regulatory officers,13-1041,Compliance Officers
+C162,Engineering inspectors and regulatory officers,47-4011,Construction and Building Inspectors
+C162,Engineering inspectors and regulatory officers,53-6051,Transportation Inspectors
+C163,Inspectors in public and environmental health and occupational health and safety,29-9011,Occupational Health and Safety Specialists
+C163,Inspectors in public and environmental health and occupational health and safety,29-9012,Occupational Health and Safety Technicians
+C164,Construction inspectors,47-4011,Construction and Building Inspectors
+C171,"Air pilots, flight engineers and flying instructors",53-2011,"Airline Pilots, Copilots, and Flight Engineers"
+C171,"Air pilots, flight engineers and flying instructors",53-2012,Commercial Pilots
+C172,Air traffic control and related occupations,53-2021,Air Traffic Controllers
+C172,Air traffic control and related occupations,53-2022,Airfield Operations Specialists
+C173,"Deck officers, water transport",53-5021,"Captains, Mates, and Pilots of Water Vessels"
+C174,"Engineer officers, water transport",53-5031,Ship Engineers
+C175,Railway traffic controllers and marine traffic regulators,43-5032,"Dispatchers, Except Police, Fire, and Ambulance"
+C181,Computer network technicians,15-1142,Network and Computer Systems Administrators
+C181,Computer network technicians,15-1152,Computer Network Support Specialists
+C181,Computer network technicians,15-1199,"Computer Occupations, All Other"
+C181,Computer network technicians,43-9011,Computer Operators
+C182,User support technicians,15-1151,Computer User Support Specialists
+C183,Systems testing technicians,15-1132,"Software Developers, Applications"
+C183,Systems testing technicians,15-1133,"Software Developers, Systems Software"
+C183,Systems testing technicians,15-1199,"Computer Occupations, All Other"
+D011,Specialist physicians,19-1022,Microbiologists
+D011,Specialist physicians,19-1041,Epidemiologists
+D011,Specialist physicians,19-1042,"Medical Scientists, Except Epidemiologists"
+D011,Specialist physicians,19-1099,"Life Scientists, All Other"
+D011,Specialist physicians,29-1061,Anesthesiologists
+D011,Specialist physicians,29-1063,"Internists, General"
+D011,Specialist physicians,29-1064,Obstetricians and Gynecologists
+D011,Specialist physicians,29-1065,"Pediatricians, General"
+D011,Specialist physicians,29-1066,Psychiatrists
+D011,Specialist physicians,29-1067,Surgeons
+D011,Specialist physicians,29-1069,"Physicians and Surgeons, All Other"
+D012,General practitioners and family physicians,29-1062,Family and General Practitioners
+D013,Dentists,29-1021,"Dentists, General"
+D013,Dentists,29-1022,Oral and Maxillofacial Surgeons
+D013,Dentists,29-1023,Orthodontists
+D013,Dentists,29-1024,Prosthodontists
+D013,Dentists,29-1029,"Dentists, All Other Specialists"
+D014,Veterinarians,19-1041,Epidemiologists
+D014,Veterinarians,29-1131,Veterinarians
+D021,Optometrists,29-1041,Optometrists
+D022,Chiropractors,29-1011,Chiropractors
+D023,Other professional occupations in health diagnosing and treating,29-1081,Podiatrists
+D023,Other professional occupations in health diagnosing and treating,29-1199,"Health Diagnosing and Treating Practitioners, All Other"
+D031,Pharmacists,19-1042,"Medical Scientists, Except Epidemiologists"
+D031,Pharmacists,29-1051,Pharmacists
+D032,Dietitians and nutritionists,29-1031,Dietitians and Nutritionists
+D041,Audiologists and speech-language pathologists,29-1127,Speech-Language Pathologists
+D041,Audiologists and speech-language pathologists,29-1181,Audiologists
+D042,Physiotherapists,29-1123,Physical Therapists
+D043,Occupational therapists,29-1122,Occupational Therapists
+D044,Other professional occupations in therapy and assessment,29-1125,Recreational Therapists
+D044,Other professional occupations in therapy and assessment,29-1128,Exercise Physiologists
+D044,Other professional occupations in therapy and assessment,29-1129,"Therapists, All Other"
+D044,Other professional occupations in therapy and assessment,29-9091,Athletic Trainers
+D111,Head nurses and supervisors,29-1141,Registered Nurses
+D112,Registered nurses,29-1071,Physician Assistants
+D112,Registered nurses,29-1141,Registered Nurses
+D112,Registered nurses,29-1151,Nurse Anesthetists
+D112,Registered nurses,29-1161,Nurse Midwives
+D112,Registered nurses,29-1171,Nurse Practitioners
+D211,Medical laboratory technologists and pathologists' assistants,29-2011,Medical and Clinical Laboratory Technologists
+D211,Medical laboratory technologists and pathologists' assistants,29-2012,Medical and Clinical Laboratory Technicians
+D211,Medical laboratory technologists and pathologists' assistants,31-9097,Phlebotomists
+D212,Medical laboratory technicians,29-2012,Medical and Clinical Laboratory Technicians
+D212,Medical laboratory technicians,31-9097,Phlebotomists
+D213,Veterinary and animal health technologists and technicians,29-2056,Veterinary Technologists and Technicians
+D213,Veterinary and animal health technologists and technicians,31-9096,Veterinary Assistants and Laboratory Animal Caretakers
+D214,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",29-1126,Respiratory Therapists
+D214,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",29-2031,Cardiovascular Technologists and Technicians
+D214,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",29-2054,Respiratory Therapy Technicians
+D214,"Respiratory therapists, clinical perfusionists and cardiopulmonary technologists",29-2099,"Health Technologists and Technicians, All Other"
+D215,Medical radiation technologists,29-1124,Radiation Therapists
+D215,Medical radiation technologists,29-2033,Nuclear Medicine Technologists
+D215,Medical radiation technologists,29-2034,Radiologic Technologists
+D215,Medical radiation technologists,29-2035,Magnetic Resonance Imaging Technologists
+D215,Medical radiation technologists,29-2099,"Health Technologists and Technicians, All Other"
+D216,Medical sonographers,29-2032,Diagnostic Medical Sonographers
+D217,Cardiology technologists,29-2031,Cardiovascular Technologists and Technicians
+D217,Cardiology technologists,29-2054,Respiratory Therapy Technicians
+D217,Cardiology technologists,29-2099,"Health Technologists and Technicians, All Other"
+D218,"Electroencephalographic and other diagnostic technologists, n.e.c.",29-2031,Cardiovascular Technologists and Technicians
+D218,"Electroencephalographic and other diagnostic technologists, n.e.c.",29-2054,Respiratory Therapy Technicians
+D218,"Electroencephalographic and other diagnostic technologists, n.e.c.",29-2099,"Health Technologists and Technicians, All Other"
+D219,Other medical technologists and technicians (except dental health),29-2051,Dietetic Technicians
+D219,Other medical technologists and technicians (except dental health),29-2052,Pharmacy Technicians
+D219,Other medical technologists and technicians (except dental health),29-2053,Psychiatric Technicians
+D219,Other medical technologists and technicians (except dental health),29-2054,Respiratory Therapy Technicians
+D219,Other medical technologists and technicians (except dental health),29-2091,Orthotists and Prosthetists
+D219,Other medical technologists and technicians (except dental health),29-2099,"Health Technologists and Technicians, All Other"
+D219,Other medical technologists and technicians (except dental health),51-9082,Medical Appliance Technicians
+D221,Denturists,51-9081,Dental Laboratory Technicians
+D222,Dental hygienists and dental therapists,29-2021,Dental Hygienists
+D223,"Dental technologists, technicians and laboratory bench workers",51-9081,Dental Laboratory Technicians
+D231,Opticians,29-2081,"Opticians, Dispensing"
+D232,Midwives and practitioners of natural healing,29-1071,Physician Assistants
+D232,Midwives and practitioners of natural healing,29-1151,Nurse Anesthetists
+D232,Midwives and practitioners of natural healing,29-1161,Nurse Midwives
+D232,Midwives and practitioners of natural healing,29-1171,Nurse Practitioners
+D232,Midwives and practitioners of natural healing,29-1199,"Health Diagnosing and Treating Practitioners, All Other"
+D232,Midwives and practitioners of natural healing,29-9099,"Healthcare Practitioners and Technical Workers, All Other"
+D232,Midwives and practitioners of natural healing,31-9011,Massage Therapists
+D233,Licensed practical nurses,29-2055,Surgical Technologists
+D233,Licensed practical nurses,29-2061,Licensed Practical and Licensed Vocational Nurses
+D234,Ambulance attendants and other paramedical occupations,29-2041,Emergency Medical Technicians and Paramedics
+D234,Ambulance attendants and other paramedical occupations,31-1013,Psychiatric Aides
+D234,Ambulance attendants and other paramedical occupations,31-1014,Nursing Assistants
+D234,Ambulance attendants and other paramedical occupations,31-1015,Orderlies
+D234,Ambulance attendants and other paramedical occupations,39-9021,Personal Care Aides
+D234,Ambulance attendants and other paramedical occupations,53-3011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+D235,Other technical occupations in therapy and assessment,29-2057,Ophthalmic Medical Technicians
+D235,Other technical occupations in therapy and assessment,29-2092,Hearing Aid Specialists
+D235,Other technical occupations in therapy and assessment,31-2011,Occupational Therapy Assistants
+D235,Other technical occupations in therapy and assessment,31-2021,Physical Therapist Assistants
+D235,Other technical occupations in therapy and assessment,31-2022,Physical Therapist Aides
+D235,Other technical occupations in therapy and assessment,31-9011,Massage Therapists
+D311,Dental assistants,31-9091,Dental Assistants
+D312,"Nurse aides, orderlies and patient service associates",31-1013,Psychiatric Aides
+D312,"Nurse aides, orderlies and patient service associates",31-1014,Nursing Assistants
+D312,"Nurse aides, orderlies and patient service associates",31-1015,Orderlies
+D312,"Nurse aides, orderlies and patient service associates",39-9021,Personal Care Aides
+D313,Other assisting occupations in support of health services,29-1071,Physician Assistants
+D313,Other assisting occupations in support of health services,29-2051,Dietetic Technicians
+D313,Other assisting occupations in support of health services,29-2052,Pharmacy Technicians
+D313,Other assisting occupations in support of health services,29-2053,Psychiatric Technicians
+D313,Other assisting occupations in support of health services,29-2054,Respiratory Therapy Technicians
+D313,Other assisting occupations in support of health services,29-2055,Surgical Technologists
+D313,Other assisting occupations in support of health services,29-2057,Ophthalmic Medical Technicians
+D313,Other assisting occupations in support of health services,29-2091,Orthotists and Prosthetists
+D313,Other assisting occupations in support of health services,29-2092,Hearing Aid Specialists
+D313,Other assisting occupations in support of health services,29-2099,"Health Technologists and Technicians, All Other"
+D313,Other assisting occupations in support of health services,29-9099,"Healthcare Practitioners and Technical Workers, All Other"
+D313,Other assisting occupations in support of health services,31-2011,Occupational Therapy Assistants
+D313,Other assisting occupations in support of health services,31-2012,Occupational Therapy Aides
+D313,Other assisting occupations in support of health services,31-2021,Physical Therapist Assistants
+D313,Other assisting occupations in support of health services,31-2022,Physical Therapist Aides
+D313,Other assisting occupations in support of health services,31-9092,Medical Assistants
+D313,Other assisting occupations in support of health services,31-9093,Medical Equipment Preparers
+D313,Other assisting occupations in support of health services,31-9095,Pharmacy Aides
+D313,Other assisting occupations in support of health services,31-9099,"Healthcare Support Workers, All Other"
+D313,Other assisting occupations in support of health services,51-9082,Medical Appliance Technicians
+D313,Other assisting occupations in support of health services,51-9083,Ophthalmic Laboratory Technicians
+E011,Judges,23-1023,"Judges, Magistrate Judges, and Magistrates"
+E012,Lawyers and Quebec notaries,23-1011,Lawyers
+E021,Psychologists,19-3031,"Clinical, Counseling, and School Psychologists"
+E021,Psychologists,19-3032,Industrial-Organizational Psychologists
+E021,Psychologists,19-3039,"Psychologists, All Other"
+E022,Social workers,21-1021,"Child, Family, and School Social Workers"
+E022,Social workers,21-1022,Healthcare Social Workers
+E022,Social workers,21-1023,Mental Health and Substance Abuse Social Workers
+E022,Social workers,21-1029,"Social Workers, All Other"
+E023,"Family, marriage and other related counsellors",21-1011,Substance Abuse and Behavioral Disorder Counselors
+E023,"Family, marriage and other related counsellors",21-1013,Marriage and Family Therapists
+E023,"Family, marriage and other related counsellors",21-1014,Mental Health Counselors
+E023,"Family, marriage and other related counsellors",21-1015,Rehabilitation Counselors
+E023,"Family, marriage and other related counsellors",21-1019,"Counselors, All Other"
+E023,"Family, marriage and other related counsellors",29-9092,Genetic Counselors
+E024,Ministers of religion,21-2011,Clergy
+E025,Probation and parole officers and related occupations,21-1092,Probation Officers and Correctional Treatment Specialists
+E031,"Natural and applied science policy researchers, consultants and program officers",13-1041,Compliance Officers
+E031,"Natural and applied science policy researchers, consultants and program officers",13-1199,"Business Operations Specialists, All Other"
+E031,"Natural and applied science policy researchers, consultants and program officers",19-2041,"Environmental Scientists and Specialists, Including Health"
+E031,"Natural and applied science policy researchers, consultants and program officers",29-9011,Occupational Health and Safety Specialists
+E032,Economists and economic policy researchers and analysts,19-3011,Economists
+E033,Business development officers and marketing researchers and consultants,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+E033,Business development officers and marketing researchers and consultants,13-1131,Fundraisers
+E033,Business development officers and marketing researchers and consultants,13-1161,Market Research Analysts and Marketing Specialists
+E033,Business development officers and marketing researchers and consultants,27-3031,Public Relations Specialists
+E033,Business development officers and marketing researchers and consultants,41-3011,Advertising Sales Agents
+E034,"Social policy researchers, consultants and program officers",19-3022,Survey Researchers
+E034,"Social policy researchers, consultants and program officers",19-3099,"Social Scientists and Related Workers, All Other"
+E034,"Social policy researchers, consultants and program officers",19-4061,Social Science Research Assistants
+E034,"Social policy researchers, consultants and program officers",25-9021,Farm and Home Management Advisors
+E034,"Social policy researchers, consultants and program officers",43-9111,Statistical Assistants
+E035,"Education policy researchers, consultants and program officers",25-9031,Instructional Coordinators
+E036,"Recreation, sports and fitness program supervisors and consultants",11-9199,"Managers, All Other"
+E036,"Recreation, sports and fitness program supervisors and consultants",19-3099,"Social Scientists and Related Workers, All Other"
+E036,"Recreation, sports and fitness program supervisors and consultants",29-1125,Recreational Therapists
+E036,"Recreation, sports and fitness program supervisors and consultants",29-1128,Exercise Physiologists
+E036,"Recreation, sports and fitness program supervisors and consultants",29-1129,"Therapists, All Other"
+E036,"Recreation, sports and fitness program supervisors and consultants",29-9091,Athletic Trainers
+E036,"Recreation, sports and fitness program supervisors and consultants",33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+E036,"Recreation, sports and fitness program supervisors and consultants",39-9031,Fitness Trainers and Aerobics Instructors
+E036,"Recreation, sports and fitness program supervisors and consultants",39-9032,Recreation Workers
+E037,Program officers unique to government,19-3094,Political Scientists
+E037,Program officers unique to government,19-3099,"Social Scientists and Related Workers, All Other"
+E038,"Other professional occupations in social science, n.e.c.",19-3041,Sociologists
+E038,"Other professional occupations in social science, n.e.c.",19-3091,Anthropologists and Archeologists
+E038,"Other professional occupations in social science, n.e.c.",19-3092,Geographers
+E038,"Other professional occupations in social science, n.e.c.",19-3093,Historians
+E038,"Other professional occupations in social science, n.e.c.",19-3094,Political Scientists
+E038,"Other professional occupations in social science, n.e.c.",19-3099,"Social Scientists and Related Workers, All Other"
+E039,"Health policy researchers, consultants and program officers",13-1041,Compliance Officers
+E039,"Health policy researchers, consultants and program officers",21-1091,Health Educators
+E039,"Health policy researchers, consultants and program officers",21-1094,Community Health Workers
+E111,University professors,25-1011,"Business Teachers, Postsecondary"
+E111,University professors,25-1021,"Computer Science Teachers, Postsecondary"
+E111,University professors,25-1022,"Mathematical Science Teachers, Postsecondary"
+E111,University professors,25-1031,"Architecture Teachers, Postsecondary"
+E111,University professors,25-1032,"Engineering Teachers, Postsecondary"
+E111,University professors,25-1041,"Agricultural Sciences Teachers, Postsecondary"
+E111,University professors,25-1042,"Biological Science Teachers, Postsecondary"
+E111,University professors,25-1043,"Forestry and Conservation Science Teachers, Postsecondary"
+E111,University professors,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+E111,University professors,25-1052,"Chemistry Teachers, Postsecondary"
+E111,University professors,25-1053,"Environmental Science Teachers, Postsecondary"
+E111,University professors,25-1054,"Physics Teachers, Postsecondary"
+E111,University professors,25-1061,"Anthropology and Archeology Teachers, Postsecondary"
+E111,University professors,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+E111,University professors,25-1063,"Economics Teachers, Postsecondary"
+E111,University professors,25-1064,"Geography Teachers, Postsecondary"
+E111,University professors,25-1065,"Political Science Teachers, Postsecondary"
+E111,University professors,25-1066,"Psychology Teachers, Postsecondary"
+E111,University professors,25-1067,"Sociology Teachers, Postsecondary"
+E111,University professors,25-1069,"Social Sciences Teachers, Postsecondary, All Other"
+E111,University professors,25-1071,"Health Specialties Teachers, Postsecondary"
+E111,University professors,25-1072,"Nursing Instructors and Teachers, Postsecondary"
+E111,University professors,25-1081,"Education Teachers, Postsecondary"
+E111,University professors,25-1082,"Library Science Teachers, Postsecondary"
+E111,University professors,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+E111,University professors,25-1112,"Law Teachers, Postsecondary"
+E111,University professors,25-1113,"Social Work Teachers, Postsecondary"
+E111,University professors,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+E111,University professors,25-1122,"Communications Teachers, Postsecondary"
+E111,University professors,25-1123,"English Language and Literature Teachers, Postsecondary"
+E111,University professors,25-1124,"Foreign Language and Literature Teachers, Postsecondary"
+E111,University professors,25-1125,"History Teachers, Postsecondary"
+E111,University professors,25-1126,"Philosophy and Religion Teachers, Postsecondary"
+E111,University professors,25-1192,"Home Economics Teachers, Postsecondary"
+E111,University professors,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,19-4061,Social Science Research Assistants
+E112,Post-secondary teaching and research assistants,25-1011,"Business Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1021,"Computer Science Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1022,"Mathematical Science Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1031,"Architecture Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1032,"Engineering Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1041,"Agricultural Sciences Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1042,"Biological Science Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1043,"Forestry and Conservation Science Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1052,"Chemistry Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1053,"Environmental Science Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1054,"Physics Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1061,"Anthropology and Archeology Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1063,"Economics Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1064,"Geography Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1065,"Political Science Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1066,"Psychology Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1067,"Sociology Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1069,"Social Sciences Teachers, Postsecondary, All Other"
+E112,Post-secondary teaching and research assistants,25-1071,"Health Specialties Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1072,"Nursing Instructors and Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1081,"Education Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1082,"Library Science Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1112,"Law Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1113,"Social Work Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1122,"Communications Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1123,"English Language and Literature Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1124,"Foreign Language and Literature Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1125,"History Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1126,"Philosophy and Religion Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1191,Graduate Teaching Assistants
+E112,Post-secondary teaching and research assistants,25-1192,"Home Economics Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary"
+E112,Post-secondary teaching and research assistants,25-3099,"Teachers and Instructors, All Other"
+E121,College and other vocational instructors,25-1011,"Business Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1021,"Computer Science Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1022,"Mathematical Science Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1031,"Architecture Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1032,"Engineering Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1041,"Agricultural Sciences Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1042,"Biological Science Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1043,"Forestry and Conservation Science Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1052,"Chemistry Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1053,"Environmental Science Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1054,"Physics Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1061,"Anthropology and Archeology Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1063,"Economics Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1064,"Geography Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1065,"Political Science Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1066,"Psychology Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1067,"Sociology Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1069,"Social Sciences Teachers, Postsecondary, All Other"
+E121,College and other vocational instructors,25-1071,"Health Specialties Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1072,"Nursing Instructors and Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1112,"Law Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1113,"Social Work Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1121,"Art, Drama, and Music Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1122,"Communications Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1123,"English Language and Literature Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1124,"Foreign Language and Literature Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1125,"History Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1126,"Philosophy and Religion Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1192,"Home Economics Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1193,"Recreation and Fitness Studies Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1194,"Vocational Education Teachers, Postsecondary"
+E121,College and other vocational instructors,25-1199,"Postsecondary Teachers, All Other"
+E121,College and other vocational instructors,25-3011,Adult Basic and Secondary Education and Literacy Teachers and Instructors
+E131,Secondary school teachers,25-2031,"Secondary School Teachers, Except Special and Career/Technical Education"
+E131,Secondary school teachers,25-2032,"Career/Technical Education Teachers, Secondary School"
+E131,Secondary school teachers,25-2054,"Special Education Teachers, Secondary School"
+E131,Secondary school teachers,25-3099,"Teachers and Instructors, All Other"
+E131,Secondary school teachers,25-4031,Library Technicians
+E132,Elementary school and kindergarten teachers,25-2012,"Kindergarten Teachers, Except Special Education"
+E132,Elementary school and kindergarten teachers,25-2021,"Elementary School Teachers, Except Special Education"
+E132,Elementary school and kindergarten teachers,25-2022,"Middle School Teachers, Except Special and Career/Technical Education"
+E132,Elementary school and kindergarten teachers,25-2023,"Career/Technical Education Teachers, Middle School"
+E132,Elementary school and kindergarten teachers,25-2052,"Special Education Teachers, Kindergarten and Elementary School"
+E132,Elementary school and kindergarten teachers,25-2053,"Special Education Teachers, Middle School"
+E132,Elementary school and kindergarten teachers,25-3099,"Teachers and Instructors, All Other"
+E132,Elementary school and kindergarten teachers,25-4031,Library Technicians
+E133,Educational counsellors,21-1012,"Educational, Guidance, School, and Vocational Counselors"
+E211,Paralegal and related occupations,23-2011,Paralegals and Legal Assistants
+E211,Paralegal and related occupations,23-2093,"Title Examiners, Abstractors, and Searchers"
+E211,Paralegal and related occupations,23-2099,"Legal Support Workers, All Other"
+E211,Paralegal and related occupations,43-6012,Legal Secretaries
+E212,Community and social service workers,21-1093,Social and Human Service Assistants
+E212,Community and social service workers,21-1099,"Community and Social Service Specialists, All Other"
+E212,Community and social service workers,43-4061,"Eligibility Interviewers, Government Programs"
+E213,Employment counsellors,21-1019,"Counselors, All Other"
+E214,Instructors and teachers of persons with disabilities,25-2051,"Special Education Teachers, Preschool"
+E214,Instructors and teachers of persons with disabilities,25-2059,"Special Education Teachers, All Other"
+E215,Other instructors,13-1041,Compliance Officers
+E215,Other instructors,25-3021,Self-Enrichment Education Teachers
+E215,Other instructors,25-3099,"Teachers and Instructors, All Other"
+E215,Other instructors,25-9099,"Education, Training, and Library Workers, All Other"
+E216,Other religious occupations,21-2011,Clergy
+E216,Other religious occupations,21-2021,"Directors, Religious Activities and Education"
+E216,Other religious occupations,21-2099,"Religious Workers, All Other"
+E217,Early childhood educators and assistants,25-2011,"Preschool Teachers, Except Special Education"
+E217,Early childhood educators and assistants,25-9041,Teacher Assistants
+E217,Early childhood educators and assistants,39-1021,First-Line Supervisors of Personal Service Workers
+E217,Early childhood educators and assistants,39-9011,Childcare Workers
+F011,Librarians,25-4021,Librarians
+F011,Librarians,25-9011,Audio-Visual and Multimedia Collections Specialists
+F012,Conservators and curators,25-4012,Curators
+F012,Conservators and curators,25-4013,Museum Technicians and Conservators
+F013,Archivists,25-4011,Archivists
+F021,Authors and writers,27-3031,Public Relations Specialists
+F021,Authors and writers,27-3042,Technical Writers
+F021,Authors and writers,27-3043,Writers and Authors
+F022,Editors,27-3041,Editors
+F023,Journalists,27-3021,Broadcast News Analysts
+F023,Journalists,27-3022,Reporters and Correspondents
+F024,Professional occupations in public relations and communications,13-1011,"Agents and Business Managers of Artists, Performers, and Athletes"
+F024,Professional occupations in public relations and communications,13-1131,Fundraisers
+F024,Professional occupations in public relations and communications,13-1161,Market Research Analysts and Marketing Specialists
+F024,Professional occupations in public relations and communications,27-3031,Public Relations Specialists
+F024,Professional occupations in public relations and communications,41-3011,Advertising Sales Agents
+F025,"Translators, terminologists and interpreters",27-3091,Interpreters and Translators
+F031,"Producers, directors, choreographers and related occupations",11-9199,"Managers, All Other"
+F031,"Producers, directors, choreographers and related occupations",13-1199,"Business Operations Specialists, All Other"
+F031,"Producers, directors, choreographers and related occupations",15-1199,"Computer Occupations, All Other"
+F031,"Producers, directors, choreographers and related occupations",27-2012,Producers and Directors
+F031,"Producers, directors, choreographers and related occupations",27-2032,Choreographers
+F031,"Producers, directors, choreographers and related occupations",27-4032,Film and Video Editors
+F032,"Conductors, composers and arrangers",27-2041,Music Directors and Composers
+F033,Musicians and singers,27-2042,Musicians and Singers
+F034,Dancers,27-2031,Dancers
+F035,Actors and comedians,27-2011,Actors
+F035,Actors and comedians,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other"
+F036,"Painters, sculptors and other visual artists",27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+F111,Library and archive technicians and assistants,25-4031,Library Technicians
+F111,Library and archive technicians and assistants,43-4121,"Library Assistants, Clerical"
+F112,Technical occupations related to museums and art galleries,25-4013,Museum Technicians and Conservators
+F112,Technical occupations related to museums and art galleries,39-7011,Tour Guides and Escorts
+F121,Photographers,27-4021,Photographers
+F122,Film and video camera operators,27-4031,"Camera Operators, Television, Video, and Motion Picture"
+F123,Graphic arts technicians,27-1014,Multimedia Artists and Animators
+F123,Graphic arts technicians,27-1024,Graphic Designers
+F123,Graphic arts technicians,51-9123,"Painting, Coating, and Decorating Workers"
+F124,Broadcast technicians,27-4012,Broadcast Technicians
+F125,Audio and video recording technicians,27-4011,Audio and Video Equipment Technicians
+F125,Audio and video recording technicians,27-4014,Sound Engineering Technicians
+F126,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",27-1027,Set and Exhibit Designers
+F126,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",27-2012,Producers and Directors
+F126,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",27-4099,"Media and Communication Equipment Workers, All Other"
+F126,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",39-3092,Costume Attendants
+F126,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",39-5091,"Makeup Artists, Theatrical and Performance"
+F126,"Other technical and co-ordinating occupations in motion pictures, broadcasting and the performing arts",47-2111,Electricians
+F127,"Support occupations in motion pictures, broadcasting and the performing arts",39-3021,Motion Picture Projectionists
+F127,"Support occupations in motion pictures, broadcasting and the performing arts",39-3092,Costume Attendants
+F127,"Support occupations in motion pictures, broadcasting and the performing arts",39-3099,"Entertainment Attendants and Related Workers, All Other"
+F127,"Support occupations in motion pictures, broadcasting and the performing arts",49-9096,Riggers
+F131,Announcers and other broadcasters,27-3011,Radio and Television Announcers
+F131,Announcers and other broadcasters,27-3012,Public Address System and Other Announcers
+F131,Announcers and other broadcasters,27-3021,Broadcast News Analysts
+F131,Announcers and other broadcasters,27-3022,Reporters and Correspondents
+F131,Announcers and other broadcasters,27-3099,"Media and Communication Workers, All Other"
+F132,Other performers,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other"
+F132,Other performers,41-9012,Models
+F141,Graphic designers and illustrators,27-1011,Art Directors
+F141,Graphic designers and illustrators,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+F141,Graphic designers and illustrators,27-1014,Multimedia Artists and Animators
+F141,Graphic designers and illustrators,27-1019,"Artists and Related Workers, All Other"
+F141,Graphic designers and illustrators,27-1024,Graphic Designers
+F142,Interior designers,11-9199,"Managers, All Other"
+F142,Interior designers,13-1199,"Business Operations Specialists, All Other"
+F142,Interior designers,15-1199,"Computer Occupations, All Other"
+F142,Interior designers,27-1025,Interior Designers
+F143,"Theatre, fashion, exhibit and other creative designers",27-1021,Commercial and Industrial Designers
+F143,"Theatre, fashion, exhibit and other creative designers",27-1022,Fashion Designers
+F143,"Theatre, fashion, exhibit and other creative designers",27-1026,Merchandise Displayers and Window Trimmers
+F143,"Theatre, fashion, exhibit and other creative designers",27-1027,Set and Exhibit Designers
+F143,"Theatre, fashion, exhibit and other creative designers",27-1029,"Designers, All Other"
+F144,Artisans and craftspersons,27-1012,Craft Artists
+F144,Artisans and craftspersons,27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+F144,Artisans and craftspersons,27-1023,Floral Designers
+F144,Artisans and craftspersons,51-6051,"Sewers, Hand"
+F145,"Patternmakers - textile, leather and fur products",51-6092,Fabric and Apparel Patternmakers
+F151,Athletes,27-2021,Athletes and Sports Competitors
+F151,Athletes,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other"
+F152,Coaches,27-2022,Coaches and Scouts
+F153,Sports officials and referees,27-2023,"Umpires, Referees, and Other Sports Officials"
+F154,"Program leaders and instructors in recreation, sport and fitness",33-9092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+F154,"Program leaders and instructors in recreation, sport and fitness",39-9031,Fitness Trainers and Aerobics Instructors
+F154,"Program leaders and instructors in recreation, sport and fitness",39-9032,Recreation Workers
+G011,Retail trade supervisors,11-1021,General and Operations Managers
+G011,Retail trade supervisors,11-2022,Sales Managers
+G011,Retail trade supervisors,41-1011,First-Line Supervisors of Retail Sales Workers
+G011,Retail trade supervisors,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+G012,Food service supervisors,35-1012,First-Line Supervisors of Food Preparation and Serving Workers
+G013,Executive housekeepers,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers
+G014,Dry cleaning and laundry supervisors,33-1099,"First-Line Supervisors of Protective Service Workers, All Other"
+G014,Dry cleaning and laundry supervisors,39-1021,First-Line Supervisors of Personal Service Workers
+G015,Cleaning supervisors,37-1011,First-Line Supervisors of Housekeeping and Janitorial Workers
+G016,Other service supervisors,33-1099,"First-Line Supervisors of Protective Service Workers, All Other"
+G016,Other service supervisors,39-1011,Gaming Supervisors
+G016,Other service supervisors,39-1012,Slot Supervisors
+G016,Other service supervisors,39-1021,First-Line Supervisors of Personal Service Workers
+G111,Sales representatives - wholesale trade (non-technical),41-3011,Advertising Sales Agents
+G111,Sales representatives - wholesale trade (non-technical),41-3099,"Sales Representatives, Services, All Other"
+G111,Sales representatives - wholesale trade (non-technical),41-4012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+G111,Sales representatives - wholesale trade (non-technical),41-9099,"Sales and Related Workers, All Other"
+G121,Technical sales specialists - wholesale trade,41-1012,First-Line Supervisors of Non-Retail Sales Workers
+G121,Technical sales specialists - wholesale trade,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+G121,Technical sales specialists - wholesale trade,41-9031,Sales Engineers
+G131,Insurance agents and brokers,41-1012,First-Line Supervisors of Non-Retail Sales Workers
+G131,Insurance agents and brokers,41-3021,Insurance Sales Agents
+G132,Real estate agents and salespersons,41-1012,First-Line Supervisors of Non-Retail Sales Workers
+G132,Real estate agents and salespersons,41-9022,Real Estate Sales Agents
+G133,Retail and wholesale buyers,13-1021,"Buyers and Purchasing Agents, Farm Products"
+G133,Retail and wholesale buyers,13-1022,"Wholesale and Retail Buyers, Except Farm Products"
+G134,Grain elevator operators,41-1012,First-Line Supervisors of Non-Retail Sales Workers
+G134,Grain elevator operators,41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+G134,Grain elevator operators,41-9031,Sales Engineers
+G211,Retail salespersons and sales clerks,11-9199,"Managers, All Other"
+G211,Retail salespersons and sales clerks,13-1199,"Business Operations Specialists, All Other"
+G211,Retail salespersons and sales clerks,15-1199,"Computer Occupations, All Other"
+G211,Retail salespersons and sales clerks,27-1025,Interior Designers
+G211,Retail salespersons and sales clerks,31-9095,Pharmacy Aides
+G211,Retail salespersons and sales clerks,41-2021,Counter and Rental Clerks
+G211,Retail salespersons and sales clerks,41-2031,Retail Salespersons
+G311,Cashiers,41-2011,Cashiers
+G311,Cashiers,41-2012,Gaming Change Persons and Booth Cashiers
+G411,Chefs,35-1011,Chefs and Head Cooks
+G412,Cooks,35-2012,"Cooks, Institution and Cafeteria"
+G412,Cooks,35-2013,"Cooks, Private Household"
+G412,Cooks,35-2014,"Cooks, Restaurant"
+G412,Cooks,35-2015,"Cooks, Short Order"
+G412,Cooks,35-2019,"Cooks, All Other"
+G511,Maîtres d'hôtel and hosts/hostesses,35-9031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+G512,Bartenders,35-3011,Bartenders
+G513,Food and beverage servers,35-3031,Waiters and Waitresses
+G513,Food and beverage servers,35-3041,"Food Servers, Nonrestaurant"
+G611,Police officers (except commissioned),33-3021,Detectives and Criminal Investigators
+G611,Police officers (except commissioned),33-3051,Police and Sheriff's Patrol Officers
+G611,Police officers (except commissioned),33-3052,Transit and Railroad Police
+G612,Firefighters,33-1021,First-Line Supervisors of Fire Fighting and Prevention Workers
+G612,Firefighters,33-2011,Firefighters
+G612,Firefighters,33-2021,Fire Inspectors and Investigators
+G621,Sheriffs and bailiffs,33-3011,Bailiffs
+G621,Sheriffs and bailiffs,33-3051,Police and Sheriff's Patrol Officers
+G621,Sheriffs and bailiffs,33-9099,"Protective Service Workers, All Other"
+G622,Correctional service officers,33-1011,First-Line Supervisors of Correctional Officers
+G622,Correctional service officers,33-3012,Correctional Officers and Jailers
+G623,"By-law enforcement and other regulatory officers, n.e.c.",13-1041,Compliance Officers
+G623,"By-law enforcement and other regulatory officers, n.e.c.",33-1099,"First-Line Supervisors of Protective Service Workers, All Other"
+G623,"By-law enforcement and other regulatory officers, n.e.c.",33-3041,Parking Enforcement Workers
+G623,"By-law enforcement and other regulatory officers, n.e.c.",33-9011,Animal Control Workers
+G623,"By-law enforcement and other regulatory officers, n.e.c.",43-5111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+G623,"By-law enforcement and other regulatory officers, n.e.c.",53-6051,Transportation Inspectors
+G624,"Other ranks, armed forces",55-2011,First-Line Supervisors of Air Crew Members
+G624,"Other ranks, armed forces",55-2012,First-Line Supervisors of Weapons Specialists/Crew Members
+G624,"Other ranks, armed forces",55-2013,First-Line Supervisors of All Other Tactical Operations Specialists
+G624,"Other ranks, armed forces",55-3011,Air Crew Members
+G624,"Other ranks, armed forces",55-3012,Aircraft Launch and Recovery Specialists
+G624,"Other ranks, armed forces",55-3013,Armored Assault Vehicle Crew Members
+G624,"Other ranks, armed forces",55-3014,Artillery and Missile Crew Members
+G624,"Other ranks, armed forces",55-3015,Command and Control Center Specialists
+G624,"Other ranks, armed forces",55-3016,Infantry
+G624,"Other ranks, armed forces",55-3018,Special Forces
+G624,"Other ranks, armed forces",55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other"
+G625,Other protective service occupations,13-1199,"Business Operations Specialists, All Other"
+G625,Other protective service occupations,19-4099,"Life, Physical, and Social Science Technicians, All Other"
+G625,Other protective service occupations,33-9021,Private Detectives and Investigators
+G625,Other protective service occupations,33-9031,Gaming Surveillance Officers and Gaming Investigators
+G625,Other protective service occupations,33-9032,Security Guards
+G625,Other protective service occupations,33-9091,Crossing Guards
+G625,Other protective service occupations,33-9093,Transportation Security Screeners
+G625,Other protective service occupations,33-9099,"Protective Service Workers, All Other"
+G631,Security guards and related occupations,13-1199,"Business Operations Specialists, All Other"
+G631,Security guards and related occupations,19-4099,"Life, Physical, and Social Science Technicians, All Other"
+G631,Security guards and related occupations,33-9021,Private Detectives and Investigators
+G631,Security guards and related occupations,33-9031,Gaming Surveillance Officers and Gaming Investigators
+G631,Security guards and related occupations,33-9032,Security Guards
+G631,Security guards and related occupations,33-9091,Crossing Guards
+G631,Security guards and related occupations,33-9093,Transportation Security Screeners
+G631,Security guards and related occupations,33-9099,"Protective Service Workers, All Other"
+G711,Travel counsellors,41-3041,Travel Agents
+G712,Pursers and flight attendants,13-1199,"Business Operations Specialists, All Other"
+G712,Pursers and flight attendants,39-1021,First-Line Supervisors of Personal Service Workers
+G712,Pursers and flight attendants,53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+G712,Pursers and flight attendants,53-2031,Flight Attendants
+G713,Airline sales and service agents,43-4181,Reservation and Transportation Ticket Agents and Travel Clerks
+G713,Airline sales and service agents,43-5011,Cargo and Freight Agents
+G714,"Ticket agents, cargo service representatives and related clerks (except airline)",43-4181,Reservation and Transportation Ticket Agents and Travel Clerks
+G714,"Ticket agents, cargo service representatives and related clerks (except airline)",43-5011,Cargo and Freight Agents
+G715,Hotel front desk clerks,39-6012,Concierges
+G715,Hotel front desk clerks,43-4081,"Hotel, Motel, and Resort Desk Clerks"
+G721,Tour and travel guides,39-7011,Tour Guides and Escorts
+G721,Tour and travel guides,39-7012,Travel Guides
+G722,Outdoor sport and recreational guides,39-7011,Tour Guides and Escorts
+G722,Outdoor sport and recreational guides,39-7012,Travel Guides
+G723,Casino occupations,39-1011,Gaming Supervisors
+G723,Casino occupations,39-1012,Slot Supervisors
+G723,Casino occupations,39-1021,First-Line Supervisors of Personal Service Workers
+G723,Casino occupations,39-3011,Gaming Dealers
+G723,Casino occupations,39-3012,Gaming and Sports Book Writers and Runners
+G723,Casino occupations,39-3019,"Gaming Service Workers, All Other"
+G723,Casino occupations,43-3041,Gaming Cage Workers
+G731,"Operators and attendants in amusement, recreation and sport",39-3091,Amusement and Recreation Attendants
+G732,Other attendants in accommodation and travel,39-6011,Baggage Porters and Bellhops
+G732,Other attendants in accommodation and travel,53-6061,"Transportation Attendants, Except Flight Attendants"
+G811,"Visiting homemakers, housekeepers and related occupations",31-1011,Home Health Aides
+G811,"Visiting homemakers, housekeepers and related occupations",39-9011,Childcare Workers
+G811,"Visiting homemakers, housekeepers and related occupations",39-9021,Personal Care Aides
+G811,"Visiting homemakers, housekeepers and related occupations",39-9099,"Personal Care and Service Workers, All Other"
+G812,Elementary and secondary school teacher assistants,25-9041,Teacher Assistants
+G812,Elementary and secondary school teacher assistants,33-9099,"Protective Service Workers, All Other"
+G814,"Babysitters, nannies and parents' helpers",39-9011,Childcare Workers
+G911,Hairstylists and barbers,39-5011,Barbers
+G911,Hairstylists and barbers,39-5012,"Hairdressers, Hairstylists, and Cosmetologists"
+G912,Funeral directors and embalmers,11-9061,Funeral Service Managers
+G912,Funeral directors and embalmers,39-4011,Embalmers
+G912,Funeral directors and embalmers,39-4031,"Morticians, Undertakers, and Funeral Directors"
+G921,"Image, social and other personal consultants",27-3031,Public Relations Specialists
+G921,"Image, social and other personal consultants",29-1128,Exercise Physiologists
+G922,"Estheticians, electrologists and related occupations",27-1019,"Artists and Related Workers, All Other"
+G922,"Estheticians, electrologists and related occupations",39-5012,"Hairdressers, Hairstylists, and Cosmetologists"
+G922,"Estheticians, electrologists and related occupations",39-5092,Manicurists and Pedicurists
+G922,"Estheticians, electrologists and related occupations",39-5093,Shampooers
+G922,"Estheticians, electrologists and related occupations",39-5094,Skincare Specialists
+G923,Pet groomers and animal care workers,39-2011,Animal Trainers
+G923,Pet groomers and animal care workers,39-2021,Nonfarm Animal Caretakers
+G924,Other personal service occupations,27-2099,"Entertainers and Performers, Sports and Related Workers, All Other"
+G924,Other personal service occupations,53-6099,"Transportation Workers, All Other"
+G931,Light duty cleaners,37-2012,Maids and Housekeeping Cleaners
+G932,Specialized cleaners,37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+G932,Specialized cleaners,37-2019,"Building Cleaning Workers, All Other"
+G932,Specialized cleaners,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners
+G932,Specialized cleaners,53-7061,Cleaners of Vehicles and Equipment
+G933,"Janitors, caretakers and building superintendents",37-2011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+G933,"Janitors, caretakers and building superintendents",49-9071,"Maintenance and Repair Workers, General"
+G941,"Butchers, meat cutters and fishmongers - retail and wholesale",51-3021,Butchers and Meat Cutters
+G941,"Butchers, meat cutters and fishmongers - retail and wholesale",51-3022,"Meat, Poultry, and Fish Cutters and Trimmers"
+G942,Bakers,51-3011,Bakers
+G961,"Food counter attendants, kitchen helpers and related occupations",35-2011,"Cooks, Fast Food"
+G961,"Food counter attendants, kitchen helpers and related occupations",35-2021,Food Preparation Workers
+G961,"Food counter attendants, kitchen helpers and related occupations",35-3021,"Combined Food Preparation and Serving Workers, Including Fast Food"
+G961,"Food counter attendants, kitchen helpers and related occupations",35-3022,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+G961,"Food counter attendants, kitchen helpers and related occupations",35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers
+G961,"Food counter attendants, kitchen helpers and related occupations",35-9021,Dishwashers
+G961,"Food counter attendants, kitchen helpers and related occupations",35-9099,"Food Preparation and Serving Related Workers, All Other"
+G971,Service station attendants,53-6031,Automotive and Watercraft Service Attendants
+G972,Grocery clerks and store shelf stockers,43-5081,Stock Clerks and Order Fillers
+G972,Grocery clerks and store shelf stockers,53-7064,"Packers and Packagers, Hand"
+G973,Other elemental sales occupations,35-2011,"Cooks, Fast Food"
+G973,Other elemental sales occupations,35-2021,Food Preparation Workers
+G973,Other elemental sales occupations,35-3021,"Combined Food Preparation and Serving Workers, Including Fast Food"
+G973,Other elemental sales occupations,35-3022,"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+G973,Other elemental sales occupations,35-9011,Dining Room and Cafeteria Attendants and Bartender Helpers
+G973,Other elemental sales occupations,35-9021,Dishwashers
+G973,Other elemental sales occupations,35-9099,"Food Preparation and Serving Related Workers, All Other"
+G973,Other elemental sales occupations,41-9011,Demonstrators and Product Promoters
+G973,Other elemental sales occupations,41-9041,Telemarketers
+G973,Other elemental sales occupations,41-9091,"Door-To-Door Sales Workers, News and Street Vendors, and Related Workers"
+G973,Other elemental sales occupations,41-9099,"Sales and Related Workers, All Other"
+G981,Dry cleaning and laundry occupations,51-6011,Laundry and Dry-Cleaning Workers
+G981,Dry cleaning and laundry occupations,51-6021,"Pressers, Textile, Garment, and Related Materials"
+G982,"Ironing, pressing and finishing occupations",51-6011,Laundry and Dry-Cleaning Workers
+G982,"Ironing, pressing and finishing occupations",51-6021,"Pressers, Textile, Garment, and Related Materials"
+G983,Other elemental service occupations,39-3031,"Ushers, Lobby Attendants, and Ticket Takers"
+G983,Other elemental service occupations,39-3093,"Locker Room, Coatroom, and Dressing Room Attendants"
+G983,Other elemental service occupations,39-4021,Funeral Attendants
+G983,Other elemental service occupations,39-9099,"Personal Care and Service Workers, All Other"
+G983,Other elemental service occupations,41-2011,Cashiers
+G983,Other elemental service occupations,53-6021,Parking Lot Attendants
+H011,"Supervisors, machinists and related occupations",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+H011,"Supervisors, machinists and related occupations",51-1011,First-Line Supervisors of Production and Operating Workers
+H012,"Contractors and supervisors, electrical trades and telecommunications occupations",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+H012,"Contractors and supervisors, electrical trades and telecommunications occupations",49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+H013,"Contractors and supervisors, pipefitting trades",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+H014,"Contractors and supervisors, metal forming, shaping and erecting trades",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+H014,"Contractors and supervisors, metal forming, shaping and erecting trades",51-1011,First-Line Supervisors of Production and Operating Workers
+H015,"Contractors and supervisors, carpentry trades",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+H016,"Contractors and supervisors, mechanic trades",49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+H017,"Contractors and supervisors, heavy construction equipment crews",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+H017,"Contractors and supervisors, heavy construction equipment crews",53-1011,Aircraft Cargo Handling Supervisors
+H017,"Contractors and supervisors, heavy construction equipment crews",53-1021,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+H017,"Contractors and supervisors, heavy construction equipment crews",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+H018,"Supervisors, printing and related occupations",51-1011,First-Line Supervisors of Production and Operating Workers
+H019,"Contractors and supervisors, other construction trades, installers, repairers and servicers",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+H019,"Contractors and supervisors, other construction trades, installers, repairers and servicers",49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+H021,"Supervisors, railway transport operations",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+H021,"Supervisors, railway transport operations",53-4031,Railroad Conductors and Yardmasters
+H022,"Supervisors, motor transport and other ground transit operators",43-5032,"Dispatchers, Except Police, Fire, and Ambulance"
+H022,"Supervisors, motor transport and other ground transit operators",53-1031,First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+H111,Plumbers,47-2152,"Plumbers, Pipefitters, and Steamfitters"
+H112,"Steamfitters, pipefitters and sprinkler system installers",47-2152,"Plumbers, Pipefitters, and Steamfitters"
+H113,Gas fitters,47-2152,"Plumbers, Pipefitters, and Steamfitters"
+H113,Gas fitters,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door"
+H121,Carpenters,47-2031,Carpenters
+H122,Cabinetmakers,51-7011,Cabinetmakers and Bench Carpenters
+H131,Bricklayers,47-2021,Brickmasons and Blockmasons
+H131,Bricklayers,47-2022,Stonemasons
+H131,Bricklayers,49-9045,"Refractory Materials Repairers, Except Brickmasons"
+H132,Concrete finishers,47-2051,Cement Masons and Concrete Finishers
+H133,Tilesetters,47-2044,Tile and Marble Setters
+H133,Tilesetters,47-2053,Terrazzo Workers and Finishers
+H134,"Plasterers, drywall installers and finishers and lathers",47-2081,Drywall and Ceiling Tile Installers
+H134,"Plasterers, drywall installers and finishers and lathers",47-2082,Tapers
+H134,"Plasterers, drywall installers and finishers and lathers",47-2161,Plasterers and Stucco Masons
+H141,Roofers and shinglers,47-2181,Roofers
+H142,Glaziers,47-2121,Glaziers
+H143,Insulators,47-2131,"Insulation Workers, Floor, Ceiling, and Wall"
+H143,Insulators,47-2132,"Insulation Workers, Mechanical"
+H144,Painters and decorators,47-2141,"Painters, Construction and Maintenance"
+H144,Painters and decorators,47-2142,Paperhangers
+H145,Floor covering installers,47-2031,Carpenters
+H145,Floor covering installers,47-2041,Carpet Installers
+H145,Floor covering installers,47-2042,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+H211,Electricians (except industrial and power system),47-2111,Electricians
+H212,Industrial electricians,49-2094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+H212,Industrial electricians,49-9097,Signal and Track Switch Repairers
+H213,Power system electricians,49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+H214,Electrical power line and cable workers,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door"
+H214,Electrical power line and cable workers,49-9051,Electrical Power-Line Installers and Repairers
+H215,Telecommunications line and cable workers,49-9052,Telecommunications Line Installers and Repairers
+H216,Telecommunications installation and repair workers,49-2021,"Radio, Cellular, and Tower Equipment Installers and Repairers"
+H216,Telecommunications installation and repair workers,49-2022,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+H217,Cable television service and maintenance technicians,49-9052,Telecommunications Line Installers and Repairers
+H221,Stationary engineers and auxiliary equipment operators,51-8011,Nuclear Power Reactor Operators
+H221,Stationary engineers and auxiliary equipment operators,51-8012,Power Distributors and Dispatchers
+H221,Stationary engineers and auxiliary equipment operators,51-8013,Power Plant Operators
+H221,Stationary engineers and auxiliary equipment operators,51-8021,Stationary Engineers and Boiler Operators
+H222,Power systems and power station operators,51-8011,Nuclear Power Reactor Operators
+H222,Power systems and power station operators,51-8012,Power Distributors and Dispatchers
+H222,Power systems and power station operators,51-8013,Power Plant Operators
+H222,Power systems and power station operators,51-8021,Stationary Engineers and Boiler Operators
+H311,Machinists and machining and tooling inspectors,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+H311,Machinists and machining and tooling inspectors,51-4041,Machinists
+H311,Machinists and machining and tooling inspectors,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+H311,Machinists and machining and tooling inspectors,51-9199,"Production Workers, All Other"
+H312,Tool and die makers,51-4061,"Model Makers, Metal and Plastic"
+H312,Tool and die makers,51-4062,"Patternmakers, Metal and Plastic"
+H312,Tool and die makers,51-4111,Tool and Die Makers
+H321,Sheet metal workers,47-2211,Sheet Metal Workers
+H322,Boilermakers,47-2011,Boilermakers
+H323,Structural metal and platework fabricators and fitters,47-2221,Structural Iron and Steel Workers
+H323,Structural metal and platework fabricators and fitters,51-2041,Structural Metal Fabricators and Fitters
+H323,Structural metal and platework fabricators and fitters,51-4192,"Layout Workers, Metal and Plastic"
+H324,Ironworkers,47-2171,Reinforcing Iron and Rebar Workers
+H324,Ironworkers,47-2221,Structural Iron and Steel Workers
+H325,Blacksmiths and die setters,49-3092,Recreational Vehicle Service Technicians
+H325,Blacksmiths and die setters,49-9092,Commercial Divers
+H325,Blacksmiths and die setters,49-9093,"Fabric Menders, Except Garment"
+H325,Blacksmiths and die setters,49-9094,Locksmiths and Safe Repairers
+H325,Blacksmiths and die setters,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+H325,Blacksmiths and die setters,51-7031,"Model Makers, Wood"
+H325,Blacksmiths and die setters,51-7032,"Patternmakers, Wood"
+H326,Welders and related machine operators,51-4121,"Welders, Cutters, Solderers, and Brazers"
+H326,Welders and related machine operators,51-4122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+H411,Construction millwrights and industrial mechanics (except textile),49-9041,Industrial Machinery Mechanics
+H411,Construction millwrights and industrial mechanics (except textile),49-9044,Millwrights
+H411,Construction millwrights and industrial mechanics (except textile),49-9081,Wind Turbine Service Technicians
+H412,Heavy-duty equipment mechanics,49-3041,Farm Equipment Mechanics and Service Technicians
+H412,Heavy-duty equipment mechanics,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines"
+H413,Refrigeration and air conditioning mechanics,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+H414,Railway carmen/women,49-3043,Rail Car Repairers
+H415,Aircraft mechanics and aircraft inspectors,49-3011,Aircraft Mechanics and Service Technicians
+H415,Aircraft mechanics and aircraft inspectors,53-6051,Transportation Inspectors
+H416,Machine fitters,51-2031,Engine and Other Machine Assemblers
+H417,Textile machinery mechanics and repairers,49-9041,Industrial Machinery Mechanics
+H417,Textile machinery mechanics and repairers,49-9044,Millwrights
+H417,Textile machinery mechanics and repairers,49-9081,Wind Turbine Service Technicians
+H418,Elevator constructors and mechanics,47-4021,Elevator Installers and Repairers
+H421,"Automotive service technicians, truck and bus mechanics and mechanical repairers",49-3023,Automotive Service Technicians and Mechanics
+H421,"Automotive service technicians, truck and bus mechanics and mechanical repairers",49-3031,Bus and Truck Mechanics and Diesel Engine Specialists
+H422,Motor vehicle body repairers,49-3021,Automotive Body and Related Repairers
+H422,Motor vehicle body repairers,49-3022,Automotive Glass Installers and Repairers
+H431,Oil and solid fuel heating mechanics,49-9021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+H432,Electric appliance servicers and repairers,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+H432,Electric appliance servicers and repairers,49-9031,Home Appliance Repairers
+H433,Electrical mechanics,49-2092,"Electric Motor, Power Tool, and Related Repairers"
+H434,Motorcycle and other related mechanics,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines"
+H434,Motorcycle and other related mechanics,49-3051,Motorboat Mechanics and Service Technicians
+H434,Motorcycle and other related mechanics,49-3052,Motorcycle Mechanics
+H434,Motorcycle and other related mechanics,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics
+H435,Other small engine and equipment mechanics,49-3042,"Mobile Heavy Equipment Mechanics, Except Engines"
+H435,Other small engine and equipment mechanics,49-3051,Motorboat Mechanics and Service Technicians
+H435,Other small engine and equipment mechanics,49-3052,Motorcycle Mechanics
+H435,Other small engine and equipment mechanics,49-3053,Outdoor Power Equipment and Other Small Engine Mechanics
+H511,Upholsterers,51-6093,Upholsterers
+H512,"Tailors, dressmakers, furriers and milliners",51-6052,"Tailors, Dressmakers, and Custom Sewers"
+H513,Shoe repairers and shoemakers,51-6041,Shoe and Leather Workers and Repairers
+H514,"Jewellers, watch repairers and related occupations",49-9064,Watch Repairers
+H514,"Jewellers, watch repairers and related occupations",51-9071,Jewelers and Precious Stone and Metal Workers
+H521,Printing press operators,51-5112,Printing Press Operators
+H522,Commercial divers,49-3092,Recreational Vehicle Service Technicians
+H522,Commercial divers,49-9092,Commercial Divers
+H522,Commercial divers,49-9093,"Fabric Menders, Except Garment"
+H522,Commercial divers,49-9094,Locksmiths and Safe Repairers
+H522,Commercial divers,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+H522,Commercial divers,51-7031,"Model Makers, Wood"
+H522,Commercial divers,51-7032,"Patternmakers, Wood"
+H523,Other trades and related occupations,49-3092,Recreational Vehicle Service Technicians
+H523,Other trades and related occupations,49-9092,Commercial Divers
+H523,Other trades and related occupations,49-9093,"Fabric Menders, Except Garment"
+H523,Other trades and related occupations,49-9094,Locksmiths and Safe Repairers
+H523,Other trades and related occupations,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+H523,Other trades and related occupations,51-7031,"Model Makers, Wood"
+H523,Other trades and related occupations,51-7032,"Patternmakers, Wood"
+H531,Residential and commercial installers and servicers,47-2043,Floor Sanders and Finishers
+H531,Residential and commercial installers and servicers,47-2231,Solar Photovoltaic Installers
+H531,Residential and commercial installers and servicers,47-4031,Fence Erectors
+H531,Residential and commercial installers and servicers,47-4091,Segmental Pavers
+H531,Residential and commercial installers and servicers,47-4099,"Construction and Related Workers, All Other"
+H531,Residential and commercial installers and servicers,49-9011,Mechanical Door Repairers
+H531,Residential and commercial installers and servicers,49-9093,"Fabric Menders, Except Garment"
+H531,Residential and commercial installers and servicers,49-9095,Manufactured Building and Mobile Home Installers
+H531,Residential and commercial installers and servicers,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+H532,Waterworks and gas maintenance workers,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door"
+H532,Waterworks and gas maintenance workers,49-9093,"Fabric Menders, Except Garment"
+H532,Waterworks and gas maintenance workers,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+H533,Automotive mechanical installers and servicers,49-3093,Tire Repairers and Changers
+H533,Automotive mechanical installers and servicers,49-9043,"Maintenance Workers, Machinery"
+H533,Automotive mechanical installers and servicers,49-9098,"Helpers--Installation, Maintenance, and Repair Workers"
+H534,Pest controllers and fumigators,37-2021,Pest Control Workers
+H535,Other repairers and servicers,49-3091,Bicycle Repairers
+H535,Other repairers and servicers,49-9012,"Control and Valve Installers and Repairers, Except Mechanical Door"
+H535,Other repairers and servicers,49-9061,Camera and Photographic Equipment Repairers
+H535,Other repairers and servicers,49-9063,Musical Instrument Repairers and Tuners
+H535,Other repairers and servicers,49-9069,"Precision Instrument and Equipment Repairers, All Other"
+H535,Other repairers and servicers,49-9091,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+H535,Other repairers and servicers,49-9093,"Fabric Menders, Except Garment"
+H535,Other repairers and servicers,49-9099,"Installation, Maintenance, and Repair Workers, All Other"
+H611,Heavy equipment operators (except crane),47-2071,"Paving, Surfacing, and Tamping Equipment Operators"
+H611,Heavy equipment operators (except crane),47-2072,Pile-Driver Operators
+H611,Heavy equipment operators (except crane),47-2073,Operating Engineers and Other Construction Equipment Operators
+H611,Heavy equipment operators (except crane),53-7031,Dredge Operators
+H611,Heavy equipment operators (except crane),53-7032,Excavating and Loading Machine and Dragline Operators
+H612,Public works maintenance equipment operators,37-3013,Tree Trimmers and Pruners
+H612,Public works maintenance equipment operators,47-4051,Highway Maintenance Workers
+H612,Public works maintenance equipment operators,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners
+H612,Public works maintenance equipment operators,53-3099,"Motor Vehicle Operators, All Other"
+H612,Public works maintenance equipment operators,53-7081,Refuse and Recyclable Material Collectors
+H621,Crane operators,49-9096,Riggers
+H621,Crane operators,53-7021,Crane and Tower Operators
+H621,Crane operators,53-7041,Hoist and Winch Operators
+H622,"Drillers and blasters - surface mining, quarrying and construction",47-5021,"Earth Drillers, Except Oil and Gas"
+H622,"Drillers and blasters - surface mining, quarrying and construction",47-5031,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+H623,Water well drillers,47-5021,"Earth Drillers, Except Oil and Gas"
+H711,Truck drivers,53-3032,Heavy and Tractor-Trailer Truck Drivers
+H712,"Bus drivers, subway operators and other transit operators",53-3021,"Bus Drivers, Transit and Intercity"
+H712,"Bus drivers, subway operators and other transit operators",53-3022,"Bus Drivers, School or Special Client"
+H712,"Bus drivers, subway operators and other transit operators",53-3041,Taxi Drivers and Chauffeurs
+H712,"Bus drivers, subway operators and other transit operators",53-4041,Subway and Streetcar Operators
+H713,Taxi and limousine drivers and chauffeurs,53-3022,"Bus Drivers, School or Special Client"
+H713,Taxi and limousine drivers and chauffeurs,53-3041,Taxi Drivers and Chauffeurs
+H714,Delivery and courier service drivers,53-3031,Driver/Sales Workers
+H714,Delivery and courier service drivers,53-3033,Light Truck or Delivery Services Drivers
+H721,Railway and yard locomotive engineers,53-4011,Locomotive Engineers
+H721,Railway and yard locomotive engineers,53-4013,"Rail Yard Engineers, Dinkey Operators, and Hostlers"
+H722,Railway conductors and brakemen/women,53-4012,Locomotive Firers
+H722,Railway conductors and brakemen/women,53-4021,"Railroad Brake, Signal, and Switch Operators"
+H722,Railway conductors and brakemen/women,53-4031,Railroad Conductors and Yardmasters
+H731,Railway yard workers,47-4061,Rail-Track Laying and Maintenance Equipment Operators
+H731,Railway yard workers,53-4012,Locomotive Firers
+H731,Railway yard workers,53-4021,"Railroad Brake, Signal, and Switch Operators"
+H731,Railway yard workers,53-4099,"Rail Transportation Workers, All Other"
+H732,Railway track maintenance workers,47-4061,Rail-Track Laying and Maintenance Equipment Operators
+H732,Railway track maintenance workers,53-4012,Locomotive Firers
+H732,Railway track maintenance workers,53-4021,"Railroad Brake, Signal, and Switch Operators"
+H732,Railway track maintenance workers,53-4099,"Rail Transportation Workers, All Other"
+H733,"Deck crew, water transport",53-5011,Sailors and Marine Oilers
+H734,"Engine room crew, water transport",53-5011,Sailors and Marine Oilers
+H735,Lock and cable ferry operators and related occupations,53-5021,"Captains, Mates, and Pilots of Water Vessels"
+H735,Lock and cable ferry operators and related occupations,53-5022,Motorboat Operators
+H735,Lock and cable ferry operators and related occupations,53-6011,Bridge and Lock Tenders
+H736,Boat operators,53-5021,"Captains, Mates, and Pilots of Water Vessels"
+H736,Boat operators,53-5022,Motorboat Operators
+H736,Boat operators,53-6011,Bridge and Lock Tenders
+H737,Air transport ramp attendants,53-6099,"Transportation Workers, All Other"
+H737,Air transport ramp attendants,53-7061,Cleaners of Vehicles and Equipment
+H811,Longshore workers,53-7121,"Tank Car, Truck, and Ship Loaders"
+H812,Material handlers,39-6011,Baggage Porters and Bellhops
+H812,Material handlers,53-6061,"Transportation Attendants, Except Flight Attendants"
+H812,Material handlers,53-7011,Conveyor Operators and Tenders
+H812,Material handlers,53-7032,Excavating and Loading Machine and Dragline Operators
+H812,Material handlers,53-7051,Industrial Truck and Tractor Operators
+H812,Material handlers,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
+H812,Material handlers,53-7121,"Tank Car, Truck, and Ship Loaders"
+H812,Material handlers,53-7199,"Material Moving Workers, All Other"
+H821,Construction trades helpers and labourers,33-9091,Crossing Guards
+H821,Construction trades helpers and labourers,47-2061,Construction Laborers
+H821,Construction trades helpers and labourers,47-2151,Pipelayers
+H821,Construction trades helpers and labourers,47-3011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+H821,Construction trades helpers and labourers,47-3012,Helpers--Carpenters
+H821,Construction trades helpers and labourers,47-3013,Helpers--Electricians
+H821,Construction trades helpers and labourers,47-3014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+H821,Construction trades helpers and labourers,47-3015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+H821,Construction trades helpers and labourers,47-3016,Helpers--Roofers
+H821,Construction trades helpers and labourers,47-3019,"Helpers, Construction Trades, All Other"
+H821,Construction trades helpers and labourers,47-4041,Hazardous Materials Removal Workers
+H821,Construction trades helpers and labourers,47-4099,"Construction and Related Workers, All Other"
+H821,Construction trades helpers and labourers,47-5051,"Rock Splitters, Quarry"
+H822,Other trades helpers and labourers,37-3013,Tree Trimmers and Pruners
+H822,Other trades helpers and labourers,47-3013,Helpers--Electricians
+H822,Other trades helpers and labourers,47-4051,Highway Maintenance Workers
+H822,Other trades helpers and labourers,47-4071,Septic Tank Servicers and Sewer Pipe Cleaners
+H822,Other trades helpers and labourers,49-9043,"Maintenance Workers, Machinery"
+H822,Other trades helpers and labourers,49-9098,"Helpers--Installation, Maintenance, and Repair Workers"
+H822,Other trades helpers and labourers,53-3099,"Motor Vehicle Operators, All Other"
+H822,Other trades helpers and labourers,53-7081,Refuse and Recyclable Material Collectors
+H831,Public works and maintenance labourers,47-2141,"Painters, Construction and Maintenance"
+H831,Public works and maintenance labourers,47-4051,Highway Maintenance Workers
+H831,Public works and maintenance labourers,53-7081,Refuse and Recyclable Material Collectors
+H832,Railway and motor transport labourers,53-4099,"Rail Transportation Workers, All Other"
+H832,Railway and motor transport labourers,53-7062,"Laborers and Freight, Stock, and Material Movers, Hand"
+I011,Farmers and farm managers,11-9013,"Farmers, Ranchers, and Other Agricultural Managers"
+I011,Farmers and farm managers,45-2021,Animal Breeders
+I012,Agricultural and related service contractors and managers,39-2011,Animal Trainers
+I012,Agricultural and related service contractors and managers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+I012,Agricultural and related service contractors and managers,45-2091,Agricultural Equipment Operators
+I012,Agricultural and related service contractors and managers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+I012,Agricultural and related service contractors and managers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+I012,Agricultural and related service contractors and managers,53-2012,Commercial Pilots
+I013,Farm supervisors and specialized livestock workers,39-2011,Animal Trainers
+I013,Farm supervisors and specialized livestock workers,45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+I013,Farm supervisors and specialized livestock workers,45-2091,Agricultural Equipment Operators
+I013,Farm supervisors and specialized livestock workers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+I013,Farm supervisors and specialized livestock workers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+I013,Farm supervisors and specialized livestock workers,53-2012,Commercial Pilots
+I014,Nursery and greenhouse operators and managers,11-9013,"Farmers, Ranchers, and Other Agricultural Managers"
+I015,Landscaping and grounds maintenance contractors and managers,37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+I016,"Supervisors, landscape and horticulture",37-1012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+I017,Aquaculture operators and managers,11-9013,"Farmers, Ranchers, and Other Agricultural Managers"
+I021,General farm workers,39-2011,Animal Trainers
+I021,General farm workers,45-2041,"Graders and Sorters, Agricultural Products"
+I021,General farm workers,45-2091,Agricultural Equipment Operators
+I021,General farm workers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+I021,General farm workers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+I021,General farm workers,45-2099,"Agricultural Workers, All Other"
+I022,Nursery and greenhouse workers,37-3012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+I022,Nursery and greenhouse workers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+I111,"Supervisors, logging and forestry",45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+I121,"Supervisors, mining and quarrying",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+I122,"Supervisors, oil and gas drilling and service",47-1011,First-Line Supervisors of Construction Trades and Extraction Workers
+I131,Underground production and development miners,47-5041,Continuous Mining Machine Operators
+I131,Underground production and development miners,47-5042,Mine Cutting and Channeling Machine Operators
+I131,Underground production and development miners,47-5049,"Mining Machine Operators, All Other"
+I131,Underground production and development miners,47-5061,"Roof Bolters, Mining"
+I131,Underground production and development miners,53-7033,"Loading Machine Operators, Underground Mining"
+I131,Underground production and development miners,53-7111,Mine Shuttle Car Operators
+I132,"Oil and gas well drillers, servicers, testers and related workers",47-5012,"Rotary Drill Operators, Oil and Gas"
+I132,"Oil and gas well drillers, servicers, testers and related workers",47-5013,"Service Unit Operators, Oil, Gas, and Mining"
+I141,Underground mine service and support workers,47-5042,Mine Cutting and Channeling Machine Operators
+I141,Underground mine service and support workers,47-5049,"Mining Machine Operators, All Other"
+I141,Underground mine service and support workers,53-7033,"Loading Machine Operators, Underground Mining"
+I141,Underground mine service and support workers,53-7111,Mine Shuttle Car Operators
+I142,Oil and gas well drilling workers and services operators,47-5011,"Derrick Operators, Oil and Gas"
+I142,Oil and gas well drilling workers and services operators,47-5013,"Service Unit Operators, Oil, Gas, and Mining"
+I142,Oil and gas well drilling workers and services operators,53-7073,Wellhead Pumpers
+I151,Logging machinery operators,45-4022,Logging Equipment Operators
+I161,Chain saw and skidder operators,45-4021,Fallers
+I161,Chain saw and skidder operators,45-4022,Logging Equipment Operators
+I162,Silviculture and forestry workers,45-4011,Forest and Conservation Workers
+I171,Fishing masters and officers,45-3011,Fishers and Related Fishing Workers
+I171,Fishing masters and officers,45-3021,Hunters and Trappers
+I172,Fishing vessel skippers and fishermen/women,45-3011,Fishers and Related Fishing Workers
+I172,Fishing vessel skippers and fishermen/women,45-3021,Hunters and Trappers
+I181,Fishing vessel deckhands,45-3011,Fishers and Related Fishing Workers
+I181,Fishing vessel deckhands,45-3021,Hunters and Trappers
+I182,Trappers and hunters,45-3011,Fishers and Related Fishing Workers
+I182,Trappers and hunters,45-3021,Hunters and Trappers
+I211,Harvesting labourers,45-2041,"Graders and Sorters, Agricultural Products"
+I211,Harvesting labourers,45-2092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+I212,Landscaping and grounds maintenance labourers,37-3011,Landscaping and Groundskeeping Workers
+I212,Landscaping and grounds maintenance labourers,37-3019,"Grounds Maintenance Workers, All Other"
+I213,Aquaculture and marine harvest labourers,45-2093,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+I213,Aquaculture and marine harvest labourers,45-3011,Fishers and Related Fishing Workers
+I213,Aquaculture and marine harvest labourers,45-3021,Hunters and Trappers
+I214,Mine labourers,47-5049,"Mining Machine Operators, All Other"
+I214,Mine labourers,47-5081,Helpers--Extraction Workers
+I214,Mine labourers,47-5099,"Extraction Workers, All Other"
+I215,"Oil and gas drilling, servicing and related labourers",47-5071,"Roustabouts, Oil and Gas"
+I216,Logging and forestry labourers,45-4029,"Logging Workers, All Other"
+J011,"Supervisors, mineral and metal processing",51-1011,First-Line Supervisors of Production and Operating Workers
+J012,"Supervisors, petroleum, gas and chemical processing and utilities",51-1011,First-Line Supervisors of Production and Operating Workers
+J013,"Supervisors, food, beverage and tobacco processing",51-1011,First-Line Supervisors of Production and Operating Workers
+J014,"Supervisors, plastic and rubber products manufacturing",51-1011,First-Line Supervisors of Production and Operating Workers
+J015,"Supervisors, forest products processing",51-1011,First-Line Supervisors of Production and Operating Workers
+J016,"Supervisors, textile processing",51-1011,First-Line Supervisors of Production and Operating Workers
+J021,"Supervisors, motor vehicle assembling",51-1011,First-Line Supervisors of Production and Operating Workers
+J022,"Supervisors, electronics manufacturing",51-1011,First-Line Supervisors of Production and Operating Workers
+J023,"Supervisors, electrical products manufacturing",51-1011,First-Line Supervisors of Production and Operating Workers
+J024,"Supervisors, furniture and fixtures manufacturing",51-1011,First-Line Supervisors of Production and Operating Workers
+J025,"Supervisors, fabric, fur and leather products manufacturing",51-1011,First-Line Supervisors of Production and Operating Workers
+J026,"Supervisors, other mechanical and metal products manufacturing",51-1011,First-Line Supervisors of Production and Operating Workers
+J027,"Supervisors, other products manufacturing and assembly",51-1011,First-Line Supervisors of Production and Operating Workers
+J111,"Central control and process operators, mineral and metal processing",51-4051,Metal-Refining Furnace Operators and Tenders
+J111,"Central control and process operators, mineral and metal processing",51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+J112,"Petroleum, gas and chemical process operators",51-8091,Chemical Plant and System Operators
+J112,"Petroleum, gas and chemical process operators",51-8092,Gas Plant Operators
+J112,"Petroleum, gas and chemical process operators",51-8093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+J112,"Petroleum, gas and chemical process operators",51-8099,"Plant and System Operators, All Other"
+J112,"Petroleum, gas and chemical process operators",53-7071,Gas Compressor and Gas Pumping Station Operators
+J113,Pulping control operators,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+J113,Pulping control operators,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+J113,Pulping control operators,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+J114,Papermaking and coating control operators,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+J114,Papermaking and coating control operators,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+J121,"Machine operators, mineral and metal processing",51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+J121,"Machine operators, mineral and metal processing",51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+J121,"Machine operators, mineral and metal processing",51-4051,Metal-Refining Furnace Operators and Tenders
+J121,"Machine operators, mineral and metal processing",51-4052,"Pourers and Casters, Metal"
+J121,"Machine operators, mineral and metal processing",51-4191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+J121,"Machine operators, mineral and metal processing",51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+J122,Foundry workers,51-4051,Metal-Refining Furnace Operators and Tenders
+J122,Foundry workers,51-4052,"Pourers and Casters, Metal"
+J122,Foundry workers,51-4071,Foundry Mold and Coremakers
+J122,Foundry workers,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+J123,Glass forming and finishing machine operators and glass cutters,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+J123,Glass forming and finishing machine operators and glass cutters,51-9031,"Cutters and Trimmers, Hand"
+J123,Glass forming and finishing machine operators and glass cutters,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+J123,Glass forming and finishing machine operators and glass cutters,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+J123,Glass forming and finishing machine operators and glass cutters,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+J123,Glass forming and finishing machine operators and glass cutters,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+J124,"Concrete, clay and stone forming operators",51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+J124,"Concrete, clay and stone forming operators",51-9022,"Grinding and Polishing Workers, Hand"
+J124,"Concrete, clay and stone forming operators",51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+J124,"Concrete, clay and stone forming operators",51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+J124,"Concrete, clay and stone forming operators",51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+J124,"Concrete, clay and stone forming operators",51-9194,Etchers and Engravers
+J125,"Inspectors and testers, mineral and metal processing",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J131,Chemical plant machine operators,51-9011,Chemical Equipment Operators and Tenders
+J131,Chemical plant machine operators,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+J131,Chemical plant machine operators,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+J131,Chemical plant machine operators,51-9193,Cooling and Freezing Equipment Operators and Tenders
+J132,Plastics processing machine operators,51-4021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+J132,Plastics processing machine operators,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+J132,Plastics processing machine operators,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+J132,Plastics processing machine operators,51-4072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+J132,Plastics processing machine operators,51-6091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+J132,Plastics processing machine operators,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+J133,Rubber processing machine operators and related workers,51-9031,"Cutters and Trimmers, Hand"
+J133,Rubber processing machine operators and related workers,51-9032,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+J133,Rubber processing machine operators and related workers,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+J133,Rubber processing machine operators and related workers,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J133,Rubber processing machine operators and related workers,51-9191,Adhesive Bonding Machine Operators and Tenders
+J133,Rubber processing machine operators and related workers,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+J133,Rubber processing machine operators and related workers,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+J133,Rubber processing machine operators and related workers,51-9197,Tire Builders
+J134,Water and waste plant operators,51-8031,Water and Wastewater Treatment Plant and System Operators
+J134,Water and waste plant operators,53-7072,"Pump Operators, Except Wellhead Pumpers"
+J141,Sawmill machine operators,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood"
+J142,Pulp mill machine operators,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+J142,Pulp mill machine operators,51-9023,"Mixing and Blending Machine Setters, Operators, and Tenders"
+J142,Pulp mill machine operators,51-9192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+J143,Papermaking and finishing machine operators,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+J144,Other wood processing machine operators,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood"
+J144,Other wood processing machine operators,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+J144,Other wood processing machine operators,51-9051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+J145,Paper converting machine operators,51-9196,"Paper Goods Machine Setters, Operators, and Tenders"
+J146,Lumber graders and other wood processing inspectors and graders,45-4023,Log Graders and Scalers
+J146,Lumber graders and other wood processing inspectors and graders,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J151,Textile fibre and yarn preparation machine operators,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+J151,Textile fibre and yarn preparation machine operators,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+J152,"Weavers, knitters and other fabric-making occupations",51-6063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+J153,Textile dyeing and finishing machine operators,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+J153,Textile dyeing and finishing machine operators,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+J154,"Textile inspectors, graders and samplers",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J161,Sewing machine operators,51-6031,Sewing Machine Operators
+J161,Sewing machine operators,51-6042,Shoe Machine Operators and Tenders
+J162,"Fabric, fur and leather cutters",51-6062,"Textile Cutting Machine Setters, Operators, and Tenders"
+J162,"Fabric, fur and leather cutters",51-9031,"Cutters and Trimmers, Hand"
+J163,Hide and pelt processing workers,51-6061,Textile Bleaching and Dyeing Machine Operators and Tenders
+J163,Hide and pelt processing workers,51-6064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+J164,"Inspectors and testers, fabric, fur and leather products manufacturing",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J171,"Process control and machine operators, food and beverage processing",51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+J171,"Process control and machine operators, food and beverage processing",51-3092,Food Batchmakers
+J171,"Process control and machine operators, food and beverage processing",51-3093,Food Cooking Machine Operators and Tenders
+J171,"Process control and machine operators, food and beverage processing",51-3099,"Food Processing Workers, All Other"
+J171,"Process control and machine operators, food and beverage processing",51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+J171,"Process control and machine operators, food and beverage processing",51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+J171,"Process control and machine operators, food and beverage processing",51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+J171,"Process control and machine operators, food and beverage processing",51-9111,Packaging and Filling Machine Operators and Tenders
+J171,"Process control and machine operators, food and beverage processing",51-9193,Cooling and Freezing Equipment Operators and Tenders
+J171,"Process control and machine operators, food and beverage processing",51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+J171,"Process control and machine operators, food and beverage processing",53-7072,"Pump Operators, Except Wellhead Pumpers"
+J172,"Industrial butchers and meat cutters, poultry preparers and related workers",51-3022,"Meat, Poultry, and Fish Cutters and Trimmers"
+J172,"Industrial butchers and meat cutters, poultry preparers and related workers",51-3023,Slaughterers and Meat Packers
+J172,"Industrial butchers and meat cutters, poultry preparers and related workers",51-3099,"Food Processing Workers, All Other"
+J173,Fish plant workers,51-3022,"Meat, Poultry, and Fish Cutters and Trimmers"
+J174,Tobacco processing machine operators,51-3091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+J174,Tobacco processing machine operators,51-3092,Food Batchmakers
+J174,Tobacco processing machine operators,51-3093,Food Cooking Machine Operators and Tenders
+J174,Tobacco processing machine operators,51-3099,"Food Processing Workers, All Other"
+J174,Tobacco processing machine operators,51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+J174,Tobacco processing machine operators,51-9021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+J174,Tobacco processing machine operators,51-9041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+J174,Tobacco processing machine operators,51-9111,Packaging and Filling Machine Operators and Tenders
+J174,Tobacco processing machine operators,51-9193,Cooling and Freezing Equipment Operators and Tenders
+J174,Tobacco processing machine operators,51-9195,"Molders, Shapers, and Casters, Except Metal and Plastic"
+J174,Tobacco processing machine operators,53-7072,"Pump Operators, Except Wellhead Pumpers"
+J175,"Testers and graders, food and beverage processing",45-2041,"Graders and Sorters, Agricultural Products"
+J181,Printing machine operators,51-5112,Printing Press Operators
+J182,"Camera, platemaking and other prepress occupations",51-5111,Prepress Technicians and Workers
+J182,"Camera, platemaking and other prepress occupations",51-5112,Printing Press Operators
+J182,"Camera, platemaking and other prepress occupations",51-9151,Photographic Process Workers and Processing Machine Operators
+J183,Binding and finishing machine operators,51-5113,Print Binding and Finishing Workers
+J184,Photographic and film processors,51-9151,Photographic Process Workers and Processing Machine Operators
+J191,Machining tool operators,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+J191,Machining tool operators,51-4032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+J191,Machining tool operators,51-4033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+J191,Machining tool operators,51-4034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+J191,Machining tool operators,51-4035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+J191,Machining tool operators,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+J191,Machining tool operators,51-4194,"Tool Grinders, Filers, and Sharpeners"
+J191,Machining tool operators,51-9199,"Production Workers, All Other"
+J192,Forging machine operators,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+J192,Forging machine operators,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+J192,Forging machine operators,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+J192,Forging machine operators,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+J192,Forging machine operators,51-9199,"Production Workers, All Other"
+J193,Woodworking machine operators,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+J193,Woodworking machine operators,51-7041,"Sawing Machine Setters, Operators, and Tenders, Wood"
+J193,Woodworking machine operators,51-7042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+J193,Woodworking machine operators,51-7099,"Woodworkers, All Other"
+J193,Woodworking machine operators,51-9191,Adhesive Bonding Machine Operators and Tenders
+J193,Woodworking machine operators,51-9199,"Production Workers, All Other"
+J194,Metalworking machine operators,51-4011,"Computer-Controlled Machine Tool Operators, Metal and Plastic"
+J194,Metalworking machine operators,51-4022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+J194,Metalworking machine operators,51-4023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+J194,Metalworking machine operators,51-4031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+J194,Metalworking machine operators,51-9199,"Production Workers, All Other"
+J196,Other metal products machine operators,51-4081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+J196,Other metal products machine operators,51-4199,"Metal Workers and Plastic Workers, All Other"
+J197,Other products machine operators,51-2093,Timing Device Assemblers and Adjusters
+J197,Other products machine operators,51-2099,"Assemblers and Fabricators, All Other"
+J197,Other products machine operators,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+J197,Other products machine operators,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J211,Aircraft assemblers and aircraft assembly inspectors,51-2011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+J211,Aircraft assemblers and aircraft assembly inspectors,51-2092,Team Assemblers
+J212,"Motor vehicle assemblers, inspectors and testers",49-2096,"Electronic Equipment Installers and Repairers, Motor Vehicles"
+J212,"Motor vehicle assemblers, inspectors and testers",51-2092,Team Assemblers
+J212,"Motor vehicle assemblers, inspectors and testers",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J213,"Electronics assemblers, fabricators, inspectors and testers",51-2022,Electrical and Electronic Equipment Assemblers
+J213,"Electronics assemblers, fabricators, inspectors and testers",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J213,"Electronics assemblers, fabricators, inspectors and testers",51-9141,Semiconductor Processors
+J214,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",51-2022,Electrical and Electronic Equipment Assemblers
+J214,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",51-2023,Electromechanical Equipment Assemblers
+J214,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",51-2092,Team Assemblers
+J214,"Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J215,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",51-2021,"Coil Winders, Tapers, and Finishers"
+J215,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",51-2022,Electrical and Electronic Equipment Assemblers
+J215,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",51-2023,Electromechanical Equipment Assemblers
+J215,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",51-2031,Engine and Other Machine Assemblers
+J215,"Assemblers, fabricators and inspectors, industrial electrical motors and transformers",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J216,Mechanical assemblers and inspectors,51-2031,Engine and Other Machine Assemblers
+J216,Mechanical assemblers and inspectors,51-2092,Team Assemblers
+J216,Mechanical assemblers and inspectors,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J217,"Machine operators and inspectors, electrical apparatus manufacturing",51-2022,Electrical and Electronic Equipment Assemblers
+J217,"Machine operators and inspectors, electrical apparatus manufacturing",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J221,Boat assemblers and inspectors,51-2091,Fiberglass Laminators and Fabricators
+J221,Boat assemblers and inspectors,51-2092,Team Assemblers
+J221,Boat assemblers and inspectors,51-2099,"Assemblers and Fabricators, All Other"
+J221,Boat assemblers and inspectors,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J222,Furniture and fixture assemblers and inspectors,51-2099,"Assemblers and Fabricators, All Other"
+J222,Furniture and fixture assemblers and inspectors,51-7011,Cabinetmakers and Bench Carpenters
+J222,Furniture and fixture assemblers and inspectors,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J223,Other wood products assemblers and inspectors,51-2099,"Assemblers and Fabricators, All Other"
+J223,Other wood products assemblers and inspectors,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J224,Furniture finishers and refinishers,51-7021,Furniture Finishers
+J225,"Plastic products assemblers, finishers and inspectors",51-2092,Team Assemblers
+J225,"Plastic products assemblers, finishers and inspectors",51-2099,"Assemblers and Fabricators, All Other"
+J225,"Plastic products assemblers, finishers and inspectors",51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J226,Painters and coaters - industrial,51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"
+J226,Painters and coaters - industrial,51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+J226,Painters and coaters - industrial,51-9122,"Painters, Transportation Equipment"
+J227,"Plating, metal spraying and related operators",51-4193,"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"
+J227,"Plating, metal spraying and related operators",51-9121,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+J227,"Plating, metal spraying and related operators",51-9122,"Painters, Transportation Equipment"
+J228,Other assemblers and inspectors,51-2093,Timing Device Assemblers and Adjusters
+J228,Other assemblers and inspectors,51-2099,"Assemblers and Fabricators, All Other"
+J228,Other assemblers and inspectors,51-6099,"Textile, Apparel, and Furnishings Workers, All Other"
+J228,Other assemblers and inspectors,51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+J311,Labourers in mineral and metal processing,51-9198,Helpers--Production Workers
+J311,Labourers in mineral and metal processing,53-7063,Machine Feeders and Offbearers
+J312,Labourers in metal fabrication,51-9198,Helpers--Production Workers
+J312,Labourers in metal fabrication,53-7063,Machine Feeders and Offbearers
+J313,Labourers in chemical products processing and utilities,51-9198,Helpers--Production Workers
+J313,Labourers in chemical products processing and utilities,53-7063,Machine Feeders and Offbearers
+J314,"Labourers in wood, pulp and paper processing",51-9198,Helpers--Production Workers
+J314,"Labourers in wood, pulp and paper processing",53-7063,Machine Feeders and Offbearers
+J315,Labourers in rubber and plastic products manufacturing,51-9198,Helpers--Production Workers
+J315,Labourers in rubber and plastic products manufacturing,53-7063,Machine Feeders and Offbearers
+J316,Labourers in textile processing,51-9198,Helpers--Production Workers
+J316,Labourers in textile processing,53-7063,Machine Feeders and Offbearers
+J317,"Labourers in food, beverage and tobacco processing",51-9198,Helpers--Production Workers
+J317,"Labourers in food, beverage and tobacco processing",53-7063,Machine Feeders and Offbearers
+J318,Labourers in fish processing,51-9198,Helpers--Production Workers
+J318,Labourers in fish processing,53-7064,"Packers and Packagers, Hand"
+J319,"Other labourers in processing, manufacturing and utilities",51-9198,Helpers--Production Workers
+J319,"Other labourers in processing, manufacturing and utilities",51-9199,"Production Workers, All Other"
+J319,"Other labourers in processing, manufacturing and utilities",53-7063,Machine Feeders and Offbearers
+J319,"Other labourers in processing, manufacturing and utilities",53-7064,"Packers and Packagers, Hand"
