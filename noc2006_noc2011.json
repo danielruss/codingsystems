@@ -1,0 +1,3651 @@
+[
+  {
+    "noc2006": "0",
+    "noc2006_title": "Management Occupations",
+    "noc2011": "0",
+    "noc2011_title": "Management occupations"
+  },
+  {
+    "noc2006": "1",
+    "noc2006_title": "Business, Finance and Administration Occupations",
+    "noc2011": "1",
+    "noc2011_title": "Business, finance and administration occupations"
+  },
+  {
+    "noc2006": "2",
+    "noc2006_title": "Natural and Applied Sciences and Related Occupations",
+    "noc2011": "2",
+    "noc2011_title": "Natural and applied sciences and related occupations"
+  },
+  {
+    "noc2006": "3",
+    "noc2006_title": "Health Occupations",
+    "noc2011": "3",
+    "noc2011_title": "Health occupations"
+  },
+  {
+    "noc2006": "4",
+    "noc2006_title": "Occupations in Social Science, Education, Government Service and Religion",
+    "noc2011": "4",
+    "noc2011_title": "Occupations in education, law and social, community and government services"
+  },
+  {
+    "noc2006": "5",
+    "noc2006_title": "Occupations in Art, Culture, Recreation and Sport",
+    "noc2011": "5",
+    "noc2011_title": "Occupations in art, culture, recreation and sport"
+  },
+  {
+    "noc2006": "6",
+    "noc2006_title": "Sales and Service Occupations",
+    "noc2011": "6",
+    "noc2011_title": "Sales and service occupations"
+  },
+  {
+    "noc2006": "7",
+    "noc2006_title": "Trades, Transport and Equipment Operators and Related Occupations",
+    "noc2011": "7",
+    "noc2011_title": "Trades, transport and equipment operators and related occupations"
+  },
+  {
+    "noc2006": "8",
+    "noc2006_title": "Occupations Unique to Primary Industry",
+    "noc2011": "8",
+    "noc2011_title": "Natural resources, agriculture and related production occupations"
+  },
+  {
+    "noc2006": "9",
+    "noc2006_title": "Occupations Unique to Processing, Manufacturing and Utilities",
+    "noc2011": "9",
+    "noc2011_title": "Occupations in manufacturing and utilities"
+  },
+  {
+    "noc2006": "01-09",
+    "noc2006_title": "Middle and Other Management Occupations",
+    "noc2011": "01-05",
+    "noc2011_title": "Specialized middle management occupations"
+  },
+  {
+    "noc2006": "01-09",
+    "noc2006_title": "Middle and Other Management Occupations",
+    "noc2011": "06",
+    "noc2011_title": "Middle management occupations in retail and wholesale trade and customer services"
+  },
+  {
+    "noc2006": "01-09",
+    "noc2006_title": "Middle and Other Management Occupations",
+    "noc2011": "07-09",
+    "noc2011_title": "Middle management occupations in trades, transportation, production and utilities"
+  },
+  {
+    "noc2006": "01-09",
+    "noc2006_title": "Middle and Other Management Occupations",
+    "noc2011": "11",
+    "noc2011_title": "Professional occupations in business and finance"
+  },
+  {
+    "noc2006": "11",
+    "noc2006_title": "Professional Occupations in Business and Finance",
+    "noc2011": "11",
+    "noc2011_title": "Professional occupations in business and finance"
+  },
+  {
+    "noc2006": "12",
+    "noc2006_title": "Skilled Administrative and Business Occupations",
+    "noc2011": "12",
+    "noc2011_title": "Administrative and financial supervisors and administrative occupations"
+  },
+  {
+    "noc2006": "12",
+    "noc2006_title": "Skilled Administrative and Business Occupations",
+    "noc2011": "13",
+    "noc2011_title": "Finance, insurance and related business administrative occupations"
+  },
+  {
+    "noc2006": "12",
+    "noc2006_title": "Skilled Administrative and Business Occupations",
+    "noc2011": "62",
+    "noc2011_title": "Retail sales supervisors and specialized sales occupations"
+  },
+  {
+    "noc2006": "12",
+    "noc2006_title": "Skilled Administrative and Business Occupations",
+    "noc2011": "63",
+    "noc2011_title": "Service supervisors and specialized service occupations"
+  },
+  {
+    "noc2006": "14",
+    "noc2006_title": "Clerical Occupations",
+    "noc2011": "14",
+    "noc2011_title": "Office support occupations"
+  },
+  {
+    "noc2006": "14",
+    "noc2006_title": "Clerical Occupations",
+    "noc2011": "15",
+    "noc2011_title": "Distribution, tracking and scheduling co-ordination occupations"
+  },
+  {
+    "noc2006": "14",
+    "noc2006_title": "Clerical Occupations",
+    "noc2011": "65",
+    "noc2011_title": "Service representatives and other customer and personal services occupations"
+  },
+  {
+    "noc2006": "21",
+    "noc2006_title": "Professional Occupations in Natural and Applied Sciences",
+    "noc2011": "12",
+    "noc2011_title": "Administrative and financial supervisors and administrative occupations"
+  },
+  {
+    "noc2006": "21",
+    "noc2006_title": "Professional Occupations in Natural and Applied Sciences",
+    "noc2011": "21",
+    "noc2011_title": "Professional occupations in natural and applied sciences"
+  },
+  {
+    "noc2006": "31",
+    "noc2006_title": "Professional Occupations in Health",
+    "noc2011": "30",
+    "noc2011_title": "Professional occupations in nursing"
+  },
+  {
+    "noc2006": "31",
+    "noc2006_title": "Professional Occupations in Health",
+    "noc2011": "31",
+    "noc2011_title": "Professional occupations in health (except nursing)"
+  },
+  {
+    "noc2006": "32",
+    "noc2006_title": "Technical and Skilled Occupations in Health",
+    "noc2011": "31",
+    "noc2011_title": "Professional occupations in health (except nursing)"
+  },
+  {
+    "noc2006": "32",
+    "noc2006_title": "Technical and Skilled Occupations in Health",
+    "noc2011": "32",
+    "noc2011_title": "Technical occupations in health"
+  },
+  {
+    "noc2006": "32",
+    "noc2006_title": "Technical and Skilled Occupations in Health",
+    "noc2011": "34",
+    "noc2011_title": "Assisting occupations in support of health services"
+  },
+  {
+    "noc2006": "34",
+    "noc2006_title": "Assisting Occupations in Support of Health Services",
+    "noc2011": "32",
+    "noc2011_title": "Technical occupations in health"
+  },
+  {
+    "noc2006": "34",
+    "noc2006_title": "Assisting Occupations in Support of Health Services",
+    "noc2011": "34",
+    "noc2011_title": "Assisting occupations in support of health services"
+  },
+  {
+    "noc2006": "41",
+    "noc2006_title": "Professional Occupations in Social Science, Education, Government Services and Religion",
+    "noc2011": "11",
+    "noc2011_title": "Professional occupations in business and finance"
+  },
+  {
+    "noc2006": "41",
+    "noc2006_title": "Professional Occupations in Social Science, Education, Government Services and Religion",
+    "noc2011": "12",
+    "noc2011_title": "Administrative and financial supervisors and administrative occupations"
+  },
+  {
+    "noc2006": "41",
+    "noc2006_title": "Professional Occupations in Social Science, Education, Government Services and Religion",
+    "noc2011": "31",
+    "noc2011_title": "Professional occupations in health (except nursing)"
+  },
+  {
+    "noc2006": "41",
+    "noc2006_title": "Professional Occupations in Social Science, Education, Government Services and Religion",
+    "noc2011": "40",
+    "noc2011_title": "Professional occupations in education services"
+  },
+  {
+    "noc2006": "41",
+    "noc2006_title": "Professional Occupations in Social Science, Education, Government Services and Religion",
+    "noc2011": "41",
+    "noc2011_title": "Professional occupations in law and social, community and government services"
+  },
+  {
+    "noc2006": "41",
+    "noc2006_title": "Professional Occupations in Social Science, Education, Government Services and Religion",
+    "noc2011": "52",
+    "noc2011_title": "Technical occupations in art, culture, recreation and sport"
+  },
+  {
+    "noc2006": "42",
+    "noc2006_title": "Paraprofessional Occupations in Law, Social Services, Education and Religion",
+    "noc2011": "12",
+    "noc2011_title": "Administrative and financial supervisors and administrative occupations"
+  },
+  {
+    "noc2006": "42",
+    "noc2006_title": "Paraprofessional Occupations in Law, Social Services, Education and Religion",
+    "noc2011": "41",
+    "noc2011_title": "Professional occupations in law and social, community and government services"
+  },
+  {
+    "noc2006": "42",
+    "noc2006_title": "Paraprofessional Occupations in Law, Social Services, Education and Religion",
+    "noc2011": "42",
+    "noc2011_title": "Paraprofessional occupations in legal, social, community and education services"
+  },
+  {
+    "noc2006": "42",
+    "noc2006_title": "Paraprofessional Occupations in Law, Social Services, Education and Religion",
+    "noc2011": "43",
+    "noc2011_title": "Occupations in front-line public protection services"
+  },
+  {
+    "noc2006": "42",
+    "noc2006_title": "Paraprofessional Occupations in Law, Social Services, Education and Religion",
+    "noc2011": "44",
+    "noc2011_title": "Care providers and educational, legal and public protection support occupations"
+  },
+  {
+    "noc2006": "51",
+    "noc2006_title": "Professional Occupations in Art and Culture",
+    "noc2011": "11",
+    "noc2011_title": "Professional occupations in business and finance"
+  },
+  {
+    "noc2006": "51",
+    "noc2006_title": "Professional Occupations in Art and Culture",
+    "noc2011": "51",
+    "noc2011_title": "Professional occupations in art and culture"
+  },
+  {
+    "noc2006": "52",
+    "noc2006_title": "Technical and Skilled Occupations in Art, Culture, Recreation and Sport",
+    "noc2011": "14",
+    "noc2011_title": "Office support occupations"
+  },
+  {
+    "noc2006": "52",
+    "noc2006_title": "Technical and Skilled Occupations in Art, Culture, Recreation and Sport",
+    "noc2011": "52",
+    "noc2011_title": "Technical occupations in art, culture, recreation and sport"
+  },
+  {
+    "noc2006": "62",
+    "noc2006_title": "Skilled Sales and Service Occupations",
+    "noc2011": "06",
+    "noc2011_title": "Middle management occupations in retail and wholesale trade and customer services"
+  },
+  {
+    "noc2006": "62",
+    "noc2006_title": "Skilled Sales and Service Occupations",
+    "noc2011": "43",
+    "noc2011_title": "Occupations in front-line public protection services"
+  },
+  {
+    "noc2006": "62",
+    "noc2006_title": "Skilled Sales and Service Occupations",
+    "noc2011": "62",
+    "noc2011_title": "Retail sales supervisors and specialized sales occupations"
+  },
+  {
+    "noc2006": "62",
+    "noc2006_title": "Skilled Sales and Service Occupations",
+    "noc2011": "63",
+    "noc2011_title": "Service supervisors and specialized service occupations"
+  },
+  {
+    "noc2006": "64",
+    "noc2006_title": "Intermediate Sales and Service Occupations",
+    "noc2011": "43",
+    "noc2011_title": "Occupations in front-line public protection services"
+  },
+  {
+    "noc2006": "64",
+    "noc2006_title": "Intermediate Sales and Service Occupations",
+    "noc2011": "44",
+    "noc2011_title": "Care providers and educational, legal and public protection support occupations"
+  },
+  {
+    "noc2006": "64",
+    "noc2006_title": "Intermediate Sales and Service Occupations",
+    "noc2011": "52",
+    "noc2011_title": "Technical occupations in art, culture, recreation and sport"
+  },
+  {
+    "noc2006": "64",
+    "noc2006_title": "Intermediate Sales and Service Occupations",
+    "noc2011": "63",
+    "noc2011_title": "Service supervisors and specialized service occupations"
+  },
+  {
+    "noc2006": "64",
+    "noc2006_title": "Intermediate Sales and Service Occupations",
+    "noc2011": "64",
+    "noc2011_title": "Sales representatives and salespersons - wholesale and retail trade"
+  },
+  {
+    "noc2006": "64",
+    "noc2006_title": "Intermediate Sales and Service Occupations",
+    "noc2011": "65",
+    "noc2011_title": "Service representatives and other customer and personal services occupations"
+  },
+  {
+    "noc2006": "72/73",
+    "noc2006_title": "Trades and Skilled Transport and Equipment Operators",
+    "noc2011": "63",
+    "noc2011_title": "Service supervisors and specialized service occupations"
+  },
+  {
+    "noc2006": "72/73",
+    "noc2006_title": "Trades and Skilled Transport and Equipment Operators",
+    "noc2011": "72",
+    "noc2011_title": "Industrial, electrical and construction trades"
+  },
+  {
+    "noc2006": "72/73",
+    "noc2006_title": "Trades and Skilled Transport and Equipment Operators",
+    "noc2011": "73",
+    "noc2011_title": "Maintenance and equipment operation trades"
+  },
+  {
+    "noc2006": "72/73",
+    "noc2006_title": "Trades and Skilled Transport and Equipment Operators",
+    "noc2011": "92",
+    "noc2011_title": "Processing, manufacturing and utilities supervisors and central control operators"
+  },
+  {
+    "noc2006": "74",
+    "noc2006_title": "Intermediate Occupations in Transport, Equipment Operation, Installation and Maintenance",
+    "noc2011": "67",
+    "noc2011_title": "Service support and other service occupations, n.e.c."
+  },
+  {
+    "noc2006": "74",
+    "noc2006_title": "Intermediate Occupations in Transport, Equipment Operation, Installation and Maintenance",
+    "noc2011": "74",
+    "noc2011_title": "Other installers, repairers and servicers and material handlers"
+  },
+  {
+    "noc2006": "74",
+    "noc2006_title": "Intermediate Occupations in Transport, Equipment Operation, Installation and Maintenance",
+    "noc2011": "75",
+    "noc2011_title": "Transport and heavy equipment operation and related maintenance occupations"
+  },
+  {
+    "noc2006": "76",
+    "noc2006_title": "Trades Helpers, Construction Labourers and Related Occupations",
+    "noc2011": "75",
+    "noc2011_title": "Transport and heavy equipment operation and related maintenance occupations"
+  },
+  {
+    "noc2006": "76",
+    "noc2006_title": "Trades Helpers, Construction Labourers and Related Occupations",
+    "noc2011": "76",
+    "noc2011_title": "Trades helpers, construction labourers and related occupations"
+  },
+  {
+    "noc2006": "82",
+    "noc2006_title": "Skilled Occupations in Primary Industry",
+    "noc2011": "07-09",
+    "noc2011_title": "Middle management occupations in trades, transportation, production and utilities"
+  },
+  {
+    "noc2006": "82",
+    "noc2006_title": "Skilled Occupations in Primary Industry",
+    "noc2011": "82",
+    "noc2011_title": "Supervisors and technical occupations in natural resources, agriculture and related production"
+  },
+  {
+    "noc2006": "84",
+    "noc2006_title": "Intermediate Occupations in Primary Industry",
+    "noc2011": "84",
+    "noc2011_title": "Workers in natural resources, agriculture and related production"
+  },
+  {
+    "noc2006": "86",
+    "noc2006_title": "Labourers in Primary Industry",
+    "noc2011": "86",
+    "noc2011_title": "Harvesting, landscaping and natural resources labourers"
+  },
+  {
+    "noc2006": "92",
+    "noc2006_title": "Processing, Manufacturing and Utilities Supervisors and Skilled Operators",
+    "noc2011": "92",
+    "noc2011_title": "Processing, manufacturing and utilities supervisors and central control operators"
+  },
+  {
+    "noc2006": "92",
+    "noc2006_title": "Processing, Manufacturing and Utilities Supervisors and Skilled Operators",
+    "noc2011": "94",
+    "noc2011_title": "Processing and manufacturing machine operators and related production workers"
+  },
+  {
+    "noc2006": "94/95",
+    "noc2006_title": "Processing and Manufacturing Machine Operators and Assemblers",
+    "noc2011": "92",
+    "noc2011_title": "Processing, manufacturing and utilities supervisors and central control operators"
+  },
+  {
+    "noc2006": "94/95",
+    "noc2006_title": "Processing and Manufacturing Machine Operators and Assemblers",
+    "noc2011": "94",
+    "noc2011_title": "Processing and manufacturing machine operators and related production workers"
+  },
+  {
+    "noc2006": "94/95",
+    "noc2006_title": "Processing and Manufacturing Machine Operators and Assemblers",
+    "noc2011": "95",
+    "noc2011_title": "Assemblers in manufacturing"
+  },
+  {
+    "noc2006": "012",
+    "noc2006_title": "Managers in Financial and Business Services",
+    "noc2011": "012",
+    "noc2011_title": "Managers in financial and business services"
+  },
+  {
+    "noc2006": "031",
+    "noc2006_title": "Managers in Health, Education, Social and Community Services",
+    "noc2011": "031",
+    "noc2011_title": "Managers in health care"
+  },
+  {
+    "noc2006": "031",
+    "noc2006_title": "Managers in Health, Education, Social and Community Services",
+    "noc2011": "042",
+    "noc2011_title": "Managers in education and social and community services"
+  },
+  {
+    "noc2006": "031",
+    "noc2006_title": "Managers in Health, Education, Social and Community Services",
+    "noc2011": "042",
+    "noc2011_title": "Managers in education and social and community services"
+  },
+  {
+    "noc2006": "031",
+    "noc2006_title": "Managers in Health, Education, Social and Community Services",
+    "noc2011": "043",
+    "noc2011_title": "Managers in public protection services"
+  },
+  {
+    "noc2006": "061",
+    "noc2006_title": "Sales, Marketing and Advertising Managers",
+    "noc2011": "012",
+    "noc2011_title": "Managers in financial and business services"
+  },
+  {
+    "noc2006": "061",
+    "noc2006_title": "Sales, Marketing and Advertising Managers",
+    "noc2011": "060",
+    "noc2011_title": "Corporate sales managers"
+  },
+  {
+    "noc2006": "061",
+    "noc2006_title": "Sales, Marketing and Advertising Managers",
+    "noc2011": "062",
+    "noc2011_title": "Retail and wholesale trade managers"
+  },
+  {
+    "noc2006": "061",
+    "noc2006_title": "Sales, Marketing and Advertising Managers",
+    "noc2011": "112",
+    "noc2011_title": "Human resources and business service professionals"
+  },
+  {
+    "noc2006": "062",
+    "noc2006_title": "Managers in Retail Trade",
+    "noc2011": "062",
+    "noc2011_title": "Retail and wholesale trade managers"
+  },
+  {
+    "noc2006": "064",
+    "noc2006_title": "Managers in Protective Service",
+    "noc2011": "043",
+    "noc2011_title": "Managers in public protection services"
+  },
+  {
+    "noc2006": "065",
+    "noc2006_title": "Managers in Other Services",
+    "noc2011": "065",
+    "noc2011_title": "Managers in customer and personal services, n.e.c."
+  },
+  {
+    "noc2006": "071",
+    "noc2006_title": "Managers in Construction and Transportation",
+    "noc2011": "071",
+    "noc2011_title": "Managers in construction and facility operation and maintenance"
+  },
+  {
+    "noc2006": "071",
+    "noc2006_title": "Managers in Construction and Transportation",
+    "noc2011": "073",
+    "noc2011_title": "Managers in transportation"
+  },
+  {
+    "noc2006": "072",
+    "noc2006_title": "Facility Operation and Maintenance Managers",
+    "noc2011": "071",
+    "noc2011_title": "Managers in construction and facility operation and maintenance"
+  },
+  {
+    "noc2006": "072",
+    "noc2006_title": "Facility Operation and Maintenance Managers",
+    "noc2011": "073",
+    "noc2011_title": "Managers in transportation"
+  },
+  {
+    "noc2006": "081",
+    "noc2006_title": "Managers in Primary Production (Except Agriculture)",
+    "noc2011": "081",
+    "noc2011_title": "Managers in natural resources production and fishing"
+  },
+  {
+    "noc2006": "081",
+    "noc2006_title": "Managers in Primary Production (Except Agriculture)",
+    "noc2011": "082",
+    "noc2011_title": "Managers in agriculture, horticulture and aquaculture"
+  },
+  {
+    "noc2006": "112",
+    "noc2006_title": "Human Resources and Business Service Professionals",
+    "noc2011": "112",
+    "noc2011_title": "Human resources and business service professionals"
+  },
+  {
+    "noc2006": "121",
+    "noc2006_title": "Clerical Supervisors",
+    "noc2011": "121",
+    "noc2011_title": "Administrative services supervisors"
+  },
+  {
+    "noc2006": "121",
+    "noc2006_title": "Clerical Supervisors",
+    "noc2011": "125",
+    "noc2011_title": "Court reporters, transcriptionists, records management technicians and statistical officers"
+  },
+  {
+    "noc2006": "121",
+    "noc2006_title": "Clerical Supervisors",
+    "noc2011": "631",
+    "noc2011_title": "Service supervisors"
+  },
+  {
+    "noc2006": "123",
+    "noc2006_title": "Finance and Insurance Administrative Occupations",
+    "noc2011": "131",
+    "noc2011_title": "Finance, insurance and related business administrative occupations"
+  },
+  {
+    "noc2006": "123",
+    "noc2006_title": "Finance and Insurance Administrative Occupations",
+    "noc2011": "623",
+    "noc2011_title": "Insurance, real estate and financial sales occupations"
+  },
+  {
+    "noc2006": "124",
+    "noc2006_title": "Secretaries, Recorders and Transcriptionists",
+    "noc2011": "124",
+    "noc2011_title": "Office administrative assistants - general, legal and medical"
+  },
+  {
+    "noc2006": "124",
+    "noc2006_title": "Secretaries, Recorders and Transcriptionists",
+    "noc2011": "125",
+    "noc2011_title": "Court reporters, transcriptionists, records management technicians and statistical officers"
+  },
+  {
+    "noc2006": "124",
+    "noc2006_title": "Secretaries, Recorders and Transcriptionists",
+    "noc2011": "125",
+    "noc2011_title": "Court reporters, transcriptionists, records management technicians and statistical officers"
+  },
+  {
+    "noc2006": "124",
+    "noc2006_title": "Secretaries, Recorders and Transcriptionists",
+    "noc2011": "131",
+    "noc2011_title": "Finance, insurance and related business administrative occupations"
+  },
+  {
+    "noc2006": "141",
+    "noc2006_title": "Clerical Occupations, General Office Skills",
+    "noc2011": "124",
+    "noc2011_title": "Office administrative assistants - general, legal and medical"
+  },
+  {
+    "noc2006": "141",
+    "noc2006_title": "Clerical Occupations, General Office Skills",
+    "noc2011": "125",
+    "noc2011_title": "Court reporters, transcriptionists, records management technicians and statistical officers"
+  },
+  {
+    "noc2006": "141",
+    "noc2006_title": "Clerical Occupations, General Office Skills",
+    "noc2011": "141",
+    "noc2011_title": "General office workers"
+  },
+  {
+    "noc2006": "141",
+    "noc2006_title": "Clerical Occupations, General Office Skills",
+    "noc2011": "145",
+    "noc2011_title": "Library, correspondence and other clerks"
+  },
+  {
+    "noc2006": "142",
+    "noc2006_title": "Office Equipment Operators",
+    "noc2011": "141",
+    "noc2011_title": "General office workers"
+  },
+  {
+    "noc2006": "142",
+    "noc2006_title": "Office Equipment Operators",
+    "noc2011": "142",
+    "noc2011_title": "Office equipment operators"
+  },
+  {
+    "noc2006": "143",
+    "noc2006_title": "Finance and Insurance Clerks",
+    "noc2011": "143",
+    "noc2011_title": "Financial, insurance and related administrative support workers"
+  },
+  {
+    "noc2006": "143",
+    "noc2006_title": "Finance and Insurance Clerks",
+    "noc2011": "655",
+    "noc2011_title": "Customer and information services representatives"
+  },
+  {
+    "noc2006": "144",
+    "noc2006_title": "Administrative Support Clerks",
+    "noc2011": "141",
+    "noc2011_title": "General office workers"
+  },
+  {
+    "noc2006": "144",
+    "noc2006_title": "Administrative Support Clerks",
+    "noc2011": "145",
+    "noc2011_title": "Library, correspondence and other clerks"
+  },
+  {
+    "noc2006": "145",
+    "noc2006_title": "Library, Correspondence and Related Information Clerks",
+    "noc2011": "145",
+    "noc2011_title": "Library, correspondence and other clerks"
+  },
+  {
+    "noc2006": "145",
+    "noc2006_title": "Library, Correspondence and Related Information Clerks",
+    "noc2011": "655",
+    "noc2011_title": "Customer and information services representatives"
+  },
+  {
+    "noc2006": "146",
+    "noc2006_title": "Mail and Message Distribution Occupations",
+    "noc2011": "151",
+    "noc2011_title": "Mail and message distribution occupations"
+  },
+  {
+    "noc2006": "147",
+    "noc2006_title": "Recording, Scheduling and Distributing Occupations",
+    "noc2011": "152",
+    "noc2011_title": "Supply chain logistics, tracking and scheduling co-ordination occupations"
+  },
+  {
+    "noc2006": "216",
+    "noc2006_title": "Mathematicians, Statisticians and Actuaries",
+    "noc2011": "125",
+    "noc2011_title": "Court reporters, transcriptionists, records management technicians and statistical officers"
+  },
+  {
+    "noc2006": "216",
+    "noc2006_title": "Mathematicians, Statisticians and Actuaries",
+    "noc2011": "216",
+    "noc2011_title": "Mathematicians, statisticians and actuaries"
+  },
+  {
+    "noc2006": "221",
+    "noc2006_title": "Technical Occupations in Physical Sciences",
+    "noc2011": "221",
+    "noc2011_title": "Technical occupations in physical sciences"
+  },
+  {
+    "noc2006": "221",
+    "noc2006_title": "Technical Occupations in Physical Sciences",
+    "noc2011": "225",
+    "noc2011_title": "Technical occupations in architecture, drafting, surveying, geomatics and meteorology"
+  },
+  {
+    "noc2006": "225",
+    "noc2006_title": "Technical Occupations in Architecture, Drafting, Surveying and Mapping",
+    "noc2011": "225",
+    "noc2011_title": "Technical occupations in architecture, drafting, surveying, geomatics and meteorology"
+  },
+  {
+    "noc2006": "225",
+    "noc2006_title": "Technical Occupations in Architecture, Drafting, Surveying and Mapping",
+    "noc2011": "301",
+    "noc2011_title": "Professional occupations in nursing"
+  },
+  {
+    "noc2006": "312",
+    "noc2006_title": "Optometrists, Chiropractors and Other Health Diagnosing and Treating Professionals",
+    "noc2011": "312",
+    "noc2011_title": "Optometrists, chiropractors and other health diagnosing and treating professionals"
+  },
+  {
+    "noc2006": "314",
+    "noc2006_title": "Therapy and Assessment Professionals",
+    "noc2011": "314",
+    "noc2011_title": "Therapy and assessment professionals"
+  },
+  {
+    "noc2006": "315",
+    "noc2006_title": "Nurse Supervisors and Registered Nurses",
+    "noc2011": "301",
+    "noc2011_title": "Professional occupations in nursing"
+  },
+  {
+    "noc2006": "315",
+    "noc2006_title": "Nurse Supervisors and Registered Nurses",
+    "noc2011": "312",
+    "noc2011_title": "Optometrists, chiropractors and other health diagnosing and treating professionals"
+  },
+  {
+    "noc2006": "321",
+    "noc2006_title": "Medical Technologists and Technicians (Except Dental Health)",
+    "noc2011": "321",
+    "noc2011_title": "Medical technologists and technicians (except dental health)"
+  },
+  {
+    "noc2006": "323",
+    "noc2006_title": "Other Technical Occupations in Health Care (Except Dental)",
+    "noc2011": "312",
+    "noc2011_title": "Optometrists, chiropractors and other health diagnosing and treating professionals"
+  },
+  {
+    "noc2006": "323",
+    "noc2006_title": "Other Technical Occupations in Health Care (Except Dental)",
+    "noc2011": "323",
+    "noc2011_title": "Other technical occupations in health care"
+  },
+  {
+    "noc2006": "323",
+    "noc2006_title": "Other Technical Occupations in Health Care (Except Dental)",
+    "noc2011": "341",
+    "noc2011_title": "Assisting occupations in support of health services"
+  },
+  {
+    "noc2006": "341",
+    "noc2006_title": "Assisting Occupations in Support of Health Services",
+    "noc2011": "321",
+    "noc2011_title": "Medical technologists and technicians (except dental health)"
+  },
+  {
+    "noc2006": "341",
+    "noc2006_title": "Assisting Occupations in Support of Health Services",
+    "noc2011": "323",
+    "noc2011_title": "Other technical occupations in health care"
+  },
+  {
+    "noc2006": "341",
+    "noc2006_title": "Assisting Occupations in Support of Health Services",
+    "noc2011": "341",
+    "noc2011_title": "Assisting occupations in support of health services"
+  },
+  {
+    "noc2006": "412",
+    "noc2006_title": "University Professors and Assistants",
+    "noc2011": "401",
+    "noc2011_title": "University professors and post-secondary assistants"
+  },
+  {
+    "noc2006": "413",
+    "noc2006_title": "College and Other Vocational Instructors",
+    "noc2011": "402",
+    "noc2011_title": "College and other vocational instructors"
+  },
+  {
+    "noc2006": "414",
+    "noc2006_title": "Secondary and Elementary School Teachers and Educational Counsellors",
+    "noc2011": "403",
+    "noc2011_title": "Secondary and elementary school teachers and educational counsellors"
+  },
+  {
+    "noc2006": "415",
+    "noc2006_title": "Psychologists, Social Workers, Counsellors, Clergy and Probation Officers",
+    "noc2011": "415",
+    "noc2011_title": "Social and community service professionals"
+  },
+  {
+    "noc2006": "416",
+    "noc2006_title": "Policy and Program Officers, Researchers and Consultants",
+    "noc2011": "112",
+    "noc2011_title": "Human resources and business service professionals"
+  },
+  {
+    "noc2006": "416",
+    "noc2006_title": "Policy and Program Officers, Researchers and Consultants",
+    "noc2011": "125",
+    "noc2011_title": "Court reporters, transcriptionists, records management technicians and statistical officers"
+  },
+  {
+    "noc2006": "416",
+    "noc2006_title": "Policy and Program Officers, Researchers and Consultants",
+    "noc2011": "314",
+    "noc2011_title": "Therapy and assessment professionals"
+  },
+  {
+    "noc2006": "416",
+    "noc2006_title": "Policy and Program Officers, Researchers and Consultants",
+    "noc2011": "416",
+    "noc2011_title": "Policy and program researchers, consultants and officers"
+  },
+  {
+    "noc2006": "416",
+    "noc2006_title": "Policy and Program Officers, Researchers and Consultants",
+    "noc2011": "525",
+    "noc2011_title": "Athletes, coaches, referees and related occupations"
+  },
+  {
+    "noc2006": "421",
+    "noc2006_title": "Paralegals, Social Services Workers and Occupations in Education and Religion, n.e.c.",
+    "noc2011": "124",
+    "noc2011_title": "Office administrative assistants - general, legal and medical"
+  },
+  {
+    "noc2006": "421",
+    "noc2006_title": "Paralegals, Social Services Workers and Occupations in Education and Religion, n.e.c.",
+    "noc2011": "415",
+    "noc2011_title": "Social and community service professionals"
+  },
+  {
+    "noc2006": "421",
+    "noc2006_title": "Paralegals, Social Services Workers and Occupations in Education and Religion, n.e.c.",
+    "noc2011": "421",
+    "noc2011_title": "Paraprofessional occupations in legal, social, community and education services"
+  },
+  {
+    "noc2006": "421",
+    "noc2006_title": "Paralegals, Social Services Workers and Occupations in Education and Religion, n.e.c.",
+    "noc2011": "431",
+    "noc2011_title": "Occupations in front-line public protection services"
+  },
+  {
+    "noc2006": "421",
+    "noc2006_title": "Paralegals, Social Services Workers and Occupations in Education and Religion, n.e.c.",
+    "noc2011": "441",
+    "noc2011_title": "Home care providers and educational support occupations"
+  },
+  {
+    "noc2006": "421",
+    "noc2006_title": "Paralegals, Social Services Workers and Occupations in Education and Religion, n.e.c.",
+    "noc2011": "442",
+    "noc2011_title": "Legal and public protection support occupations"
+  },
+  {
+    "noc2006": "512",
+    "noc2006_title": "Writing, Translating and Public Relations Professionals",
+    "noc2011": "112",
+    "noc2011_title": "Human resources and business service professionals"
+  },
+  {
+    "noc2006": "512",
+    "noc2006_title": "Writing, Translating and Public Relations Professionals",
+    "noc2011": "512",
+    "noc2011_title": "Writing, translating and related communications professionals"
+  },
+  {
+    "noc2006": "521",
+    "noc2006_title": "Technical Occupations in Libraries, Archives, Museums and Art Galleries",
+    "noc2011": "145",
+    "noc2011_title": "Library, correspondence and other clerks"
+  },
+  {
+    "noc2006": "521",
+    "noc2006_title": "Technical Occupations in Libraries, Archives, Museums and Art Galleries",
+    "noc2011": "521",
+    "noc2011_title": "Technical occupations in libraries, public archives, museums and art galleries"
+  },
+  {
+    "noc2006": "523",
+    "noc2006_title": "Announcers and Other Performers",
+    "noc2011": "523",
+    "noc2011_title": "Announcers and other performers, n.e.c."
+  },
+  {
+    "noc2006": "524",
+    "noc2006_title": "Creative Designers and Craftspersons",
+    "noc2011": "524",
+    "noc2011_title": "Creative designers and craftspersons"
+  },
+  {
+    "noc2006": "525",
+    "noc2006_title": "Athletes, Coaches, Referees and Related Occupations",
+    "noc2011": "525",
+    "noc2011_title": "Athletes, coaches, referees and related occupations"
+  },
+  {
+    "noc2006": "621",
+    "noc2006_title": "Sales and Service Supervisors",
+    "noc2011": "062",
+    "noc2011_title": "Retail and wholesale trade managers"
+  },
+  {
+    "noc2006": "621",
+    "noc2006_title": "Sales and Service Supervisors",
+    "noc2011": "621",
+    "noc2011_title": "Retail sales supervisors"
+  },
+  {
+    "noc2006": "621",
+    "noc2006_title": "Sales and Service Supervisors",
+    "noc2011": "631",
+    "noc2011_title": "Service supervisors"
+  },
+  {
+    "noc2006": "622",
+    "noc2006_title": "Technical Sales Specialists, Wholesale Trade",
+    "noc2011": "622",
+    "noc2011_title": "Technical sales specialists in wholesale trade and retail and wholesale buyers"
+  },
+  {
+    "noc2006": "623",
+    "noc2006_title": "Insurance and Real Estate Sales Occupations and Buyers",
+    "noc2011": "622",
+    "noc2011_title": "Technical sales specialists in wholesale trade and retail and wholesale buyers"
+  },
+  {
+    "noc2006": "623",
+    "noc2006_title": "Insurance and Real Estate Sales Occupations and Buyers",
+    "noc2011": "623",
+    "noc2011_title": "Insurance, real estate and financial sales occupations"
+  },
+  {
+    "noc2006": "623",
+    "noc2006_title": "Insurance and Real Estate Sales Occupations and Buyers",
+    "noc2011": "631",
+    "noc2011_title": "Service supervisors"
+  },
+  {
+    "noc2006": "624",
+    "noc2006_title": "Chefs and Cooks",
+    "noc2011": "632",
+    "noc2011_title": "Chefs and cooks"
+  },
+  {
+    "noc2006": "625",
+    "noc2006_title": "Butchers and Bakers",
+    "noc2011": "633",
+    "noc2011_title": "Butchers and bakers"
+  },
+  {
+    "noc2006": "626",
+    "noc2006_title": "Police Officers and Firefighters",
+    "noc2011": "431",
+    "noc2011_title": "Occupations in front-line public protection services"
+  },
+  {
+    "noc2006": "627",
+    "noc2006_title": "Technical Occupations in Personal Service",
+    "noc2011": "634",
+    "noc2011_title": "Specialized occupations in personal and customer services"
+  },
+  {
+    "noc2006": "641",
+    "noc2006_title": "Sales Representatives, Wholesale Trade",
+    "noc2011": "641",
+    "noc2011_title": "Sales and account representatives - wholesale trade (non-technical)"
+  },
+  {
+    "noc2006": "642",
+    "noc2006_title": "Retail Salespersons and Sales Clerks",
+    "noc2011": "524",
+    "noc2011_title": "Creative designers and craftspersons"
+  },
+  {
+    "noc2006": "642",
+    "noc2006_title": "Retail Salespersons and Sales Clerks",
+    "noc2011": "642",
+    "noc2011_title": "Retail salespersons"
+  },
+  {
+    "noc2006": "643",
+    "noc2006_title": "Occupations in Travel and Accommodation",
+    "noc2011": "652",
+    "noc2011_title": "Occupations in travel and accommodation"
+  },
+  {
+    "noc2006": "644",
+    "noc2006_title": "Tour and Recreational Guides and Casino Occupations",
+    "noc2011": "631",
+    "noc2011_title": "Service supervisors"
+  },
+  {
+    "noc2006": "644",
+    "noc2006_title": "Tour and Recreational Guides and Casino Occupations",
+    "noc2011": "653",
+    "noc2011_title": "Tourism and amusement services occupations"
+  },
+  {
+    "noc2006": "645",
+    "noc2006_title": "Occupations in Food and Beverage Service",
+    "noc2011": "651",
+    "noc2011_title": "Occupations in food and beverage service"
+  },
+  {
+    "noc2006": "645",
+    "noc2006_title": "Occupations in Food and Beverage Service",
+    "noc2011": "652",
+    "noc2011_title": "Occupations in travel and accommodation"
+  },
+  {
+    "noc2006": "645",
+    "noc2006_title": "Occupations in Food and Beverage Service",
+    "noc2011": "653",
+    "noc2011_title": "Tourism and amusement services occupations"
+  },
+  {
+    "noc2006": "645",
+    "noc2006_title": "Occupations in Food and Beverage Service",
+    "noc2011": "654",
+    "noc2011_title": "Security guards and related security service occupations"
+  },
+  {
+    "noc2006": "645",
+    "noc2006_title": "Occupations in Food and Beverage Service",
+    "noc2011": "655",
+    "noc2011_title": "Customer and information services representatives"
+  },
+  {
+    "noc2006": "645",
+    "noc2006_title": "Occupations in Food and Beverage Service",
+    "noc2011": "656",
+    "noc2011_title": "Other occupations in personal service"
+  },
+  {
+    "noc2006": "646",
+    "noc2006_title": "Other Occupations in Protective Service",
+    "noc2011": "431",
+    "noc2011_title": "Occupations in front-line public protection services"
+  },
+  {
+    "noc2006": "646",
+    "noc2006_title": "Other Occupations in Protective Service",
+    "noc2011": "442",
+    "noc2011_title": "Legal and public protection support occupations"
+  },
+  {
+    "noc2006": "646",
+    "noc2006_title": "Other Occupations in Protective Service",
+    "noc2011": "654",
+    "noc2011_title": "Security guards and related security service occupations"
+  },
+  {
+    "noc2006": "647",
+    "noc2006_title": "Childcare and Home Support Workers",
+    "noc2011": "441",
+    "noc2011_title": "Home care providers and educational support occupations"
+  },
+  {
+    "noc2006": "648",
+    "noc2006_title": "Other Occupations in Personal Service",
+    "noc2011": "656",
+    "noc2011_title": "Other occupations in personal service"
+  },
+  {
+    "noc2006": "661",
+    "noc2006_title": "Cashiers",
+    "noc2011": "661",
+    "noc2011_title": "Cashiers"
+  },
+  {
+    "noc2006": "662",
+    "noc2006_title": "Other Sales and Related Occupations",
+    "noc2011": "662",
+    "noc2011_title": "Other sales support and related occupations"
+  },
+  {
+    "noc2006": "662",
+    "noc2006_title": "Other Sales and Related Occupations",
+    "noc2011": "671",
+    "noc2011_title": "Food counter attendants, kitchen helpers and related support occupations"
+  },
+  {
+    "noc2006": "664",
+    "noc2006_title": "Food Counter Attendants, Kitchen Helpers and Related Occupations",
+    "noc2011": "671",
+    "noc2011_title": "Food counter attendants, kitchen helpers and related support occupations"
+  },
+  {
+    "noc2006": "665",
+    "noc2006_title": "Security Guards and Related Occupations",
+    "noc2011": "654",
+    "noc2011_title": "Security guards and related security service occupations"
+  },
+  {
+    "noc2006": "666",
+    "noc2006_title": "Cleaners",
+    "noc2011": "673",
+    "noc2011_title": "Cleaners"
+  },
+  {
+    "noc2006": "667",
+    "noc2006_title": "Other Occupations in Travel, Accommodation, Amusement and Recreation",
+    "noc2011": "672",
+    "noc2011_title": "Support occupations in accommodation, travel and amusement services"
+  },
+  {
+    "noc2006": "668",
+    "noc2006_title": "Other Elemental Service Occupations",
+    "noc2011": "674",
+    "noc2011_title": "Other service support and related occupations, n.e.c."
+  },
+  {
+    "noc2006": "721",
+    "noc2006_title": "Contractors and Supervisors, Trades and Related Workers",
+    "noc2011": "720",
+    "noc2011_title": "Contractors and supervisors, industrial, electrical and construction trades and related workers"
+  },
+  {
+    "noc2006": "721",
+    "noc2006_title": "Contractors and Supervisors, Trades and Related Workers",
+    "noc2011": "730",
+    "noc2011_title": "Contractors and supervisors, maintenance trades and heavy equipment and transport operators"
+  },
+  {
+    "noc2006": "722",
+    "noc2006_title": "Supervisors, Railway and Motor Transportation Occupations",
+    "noc2011": "730",
+    "noc2011_title": "Contractors and supervisors, maintenance trades and heavy equipment and transport operators"
+  },
+  {
+    "noc2006": "723",
+    "noc2006_title": "Machinists and Related Occupations",
+    "noc2011": "723",
+    "noc2011_title": "Machining, metal forming, shaping and erecting trades"
+  },
+  {
+    "noc2006": "724",
+    "noc2006_title": "Electrical Trades and Telecommunication Occupations",
+    "noc2011": "724",
+    "noc2011_title": "Electrical trades and electrical power line and telecommunications workers"
+  },
+  {
+    "noc2006": "726",
+    "noc2006_title": "Metal Forming, Shaping and Erecting Trades",
+    "noc2011": "723",
+    "noc2011_title": "Machining, metal forming, shaping and erecting trades"
+  },
+  {
+    "noc2006": "726",
+    "noc2006_title": "Metal Forming, Shaping and Erecting Trades",
+    "noc2011": "738",
+    "noc2011_title": "Printing press operators and other trades and related occupations, n.e.c."
+  },
+  {
+    "noc2006": "733",
+    "noc2006_title": "Other Mechanics",
+    "noc2011": "733",
+    "noc2011_title": "Other mechanics and related repairers"
+  },
+  {
+    "noc2006": "734",
+    "noc2006_title": "Upholsterers, Tailors, Shoe Repairers, Jewellers and Related Occupations",
+    "noc2011": "634",
+    "noc2011_title": "Specialized occupations in personal and customer services"
+  },
+  {
+    "noc2006": "735",
+    "noc2006_title": "Stationary Engineers and Power Station and System Operators",
+    "noc2011": "924",
+    "noc2011_title": "Utilities equipment operators and controllers"
+  },
+  {
+    "noc2006": "738",
+    "noc2006_title": "Printing Press Operators, Commercial Divers and Other Trades and Related Occupations, n.e.c.",
+    "noc2011": "738",
+    "noc2011_title": "Printing press operators and other trades and related occupations, n.e.c."
+  },
+  {
+    "noc2006": "741",
+    "noc2006_title": "Motor Vehicle and Transit Drivers",
+    "noc2011": "751",
+    "noc2011_title": "Motor vehicle and transit drivers"
+  },
+  {
+    "noc2006": "742",
+    "noc2006_title": "Heavy Equipment Operators",
+    "noc2011": "752",
+    "noc2011_title": "Heavy equipment operators"
+  },
+  {
+    "noc2006": "743",
+    "noc2006_title": "Other Transport Equipment Operators and Related Workers",
+    "noc2011": "753",
+    "noc2011_title": "Other transport equipment operators and related maintenance workers"
+  },
+  {
+    "noc2006": "744",
+    "noc2006_title": "Other Installers, Repairers and Servicers",
+    "noc2011": "744",
+    "noc2011_title": "Other installers, repairers and servicers"
+  },
+  {
+    "noc2006": "744",
+    "noc2006_title": "Other Installers, Repairers and Servicers",
+    "noc2011": "753",
+    "noc2011_title": "Other transport equipment operators and related maintenance workers"
+  },
+  {
+    "noc2006": "745",
+    "noc2006_title": "Longshore Workers and Material Handlers",
+    "noc2011": "672",
+    "noc2011_title": "Support occupations in accommodation, travel and amusement services"
+  },
+  {
+    "noc2006": "745",
+    "noc2006_title": "Longshore Workers and Material Handlers",
+    "noc2011": "745",
+    "noc2011_title": "Longshore workers and material handlers"
+  },
+  {
+    "noc2006": "761",
+    "noc2006_title": "Trades Helpers and Labourers",
+    "noc2011": "752",
+    "noc2011_title": "Heavy equipment operators"
+  },
+  {
+    "noc2006": "761",
+    "noc2006_title": "Trades Helpers and Labourers",
+    "noc2011": "761",
+    "noc2011_title": "Trades helpers and labourers"
+  },
+  {
+    "noc2006": "822",
+    "noc2006_title": "Supervisors, Mining, Oil and Gas",
+    "noc2011": "822",
+    "noc2011_title": "Contractors and supervisors, mining, oil and gas"
+  },
+  {
+    "noc2006": "823",
+    "noc2006_title": "Underground Miners, Oil and Gas Drillers and Related Workers",
+    "noc2011": "823",
+    "noc2011_title": "Underground miners, oil and gas drillers and related occupations"
+  },
+  {
+    "noc2006": "825",
+    "noc2006_title": "Contractors, Operators and Supervisors in Agriculture, Horticulture and Aquaculture",
+    "noc2011": "082",
+    "noc2011_title": "Managers in agriculture, horticulture and aquaculture"
+  },
+  {
+    "noc2006": "825",
+    "noc2006_title": "Contractors, Operators and Supervisors in Agriculture, Horticulture and Aquaculture",
+    "noc2011": "825",
+    "noc2011_title": "Contractors and supervisors, agriculture, horticulture and related operations and services"
+  },
+  {
+    "noc2006": "826",
+    "noc2006_title": "Fishing Vessel Masters and Skippers and Fishermen/women",
+    "noc2011": "826",
+    "noc2011_title": "Fishing vessel masters and fishermen/women"
+  },
+  {
+    "noc2006": "844",
+    "noc2006_title": "Other Fishing and Trapping Occupations",
+    "noc2011": "844",
+    "noc2011_title": "Other workers in fishing and trapping and hunting occupations"
+  },
+  {
+    "noc2006": "861",
+    "noc2006_title": "Primary Production Labourers",
+    "noc2011": "861",
+    "noc2011_title": "Harvesting, landscaping and natural resources labourers"
+  },
+  {
+    "noc2006": "921",
+    "noc2006_title": "Supervisors, Processing Occupations",
+    "noc2011": "921",
+    "noc2011_title": "Supervisors, processing and manufacturing occupations"
+  },
+  {
+    "noc2006": "922",
+    "noc2006_title": "Supervisors, Assembly and Fabrication",
+    "noc2011": "921",
+    "noc2011_title": "Supervisors, processing and manufacturing occupations"
+  },
+  {
+    "noc2006": "922",
+    "noc2006_title": "Supervisors, Assembly and Fabrication",
+    "noc2011": "922",
+    "noc2011_title": "Supervisors, assembly and fabrication"
+  },
+  {
+    "noc2006": "923",
+    "noc2006_title": "Central Control and Process Operators in Manufacturing and Processing",
+    "noc2011": "923",
+    "noc2011_title": "Central control and process operators in processing and manufacturing"
+  },
+  {
+    "noc2006": "923",
+    "noc2006_title": "Central Control and Process Operators in Manufacturing and Processing",
+    "noc2011": "943",
+    "noc2011_title": "Machine operators and related workers in pulp and paper production and wood processing and manufacturing"
+  },
+  {
+    "noc2006": "923",
+    "noc2006_title": "Central Control and Process Operators in Manufacturing and Processing",
+    "noc2011": "924",
+    "noc2011_title": "Utilities equipment operators and controllers"
+  },
+  {
+    "noc2006": "941",
+    "noc2006_title": "Machine Operators and Related Workers in Metal and Mineral Products Processing",
+    "noc2011": "941",
+    "noc2011_title": "Machine operators and related workers in mineral and metal products processing and manufacturing"
+  },
+  {
+    "noc2006": "942",
+    "noc2006_title": "Machine Operators and Related Workers in Chemical, Plastic and Rubber Processing",
+    "noc2011": "924",
+    "noc2011_title": "Utilities equipment operators and controllers"
+  },
+  {
+    "noc2006": "942",
+    "noc2006_title": "Machine Operators and Related Workers in Chemical, Plastic and Rubber Processing",
+    "noc2011": "942",
+    "noc2011_title": "Machine operators and related workers in chemical, plastic and rubber processing"
+  },
+  {
+    "noc2006": "943",
+    "noc2006_title": "Machine Operators and Related Workers in Pulp and Paper Production and Wood Processing",
+    "noc2011": "943",
+    "noc2011_title": "Machine operators and related workers in pulp and paper production and wood processing and manufacturing"
+  },
+  {
+    "noc2006": "944",
+    "noc2006_title": "Machine Operators and Related Workers in Textile Processing",
+    "noc2011": "944",
+    "noc2011_title": "Machine operators and related workers in textile, fabric, fur and leather products processing and manufacturing"
+  },
+  {
+    "noc2006": "945",
+    "noc2006_title": "Machine Operators and Related Workers in Fabric, Fur and Leather Products Manufacturing",
+    "noc2011": "944",
+    "noc2011_title": "Machine operators and related workers in textile, fabric, fur and leather products processing and manufacturing"
+  },
+  {
+    "noc2006": "946",
+    "noc2006_title": "Machine Operators and Related Workers in Food, Beverage and Tobacco Processing",
+    "noc2011": "946",
+    "noc2011_title": "Machine operators and related workers in food, beverage and associated products processing"
+  },
+  {
+    "noc2006": "947",
+    "noc2006_title": "Printing Machine Operators and Related Occupations",
+    "noc2011": "947",
+    "noc2011_title": "Printing equipment operators and related occupations"
+  },
+  {
+    "noc2006": "948",
+    "noc2006_title": "Mechanical, Electrical and Electronics Assemblers",
+    "noc2011": "952",
+    "noc2011_title": "Mechanical, electrical and electronics assemblers"
+  },
+  {
+    "noc2006": "949",
+    "noc2006_title": "Other Assembly and Related Occupations",
+    "noc2011": "953",
+    "noc2011_title": "Other assembly and related occupations"
+  },
+  {
+    "noc2006": "951",
+    "noc2006_title": "Machining, Metalworking, Woodworking and Related Machine Operators",
+    "noc2011": "941",
+    "noc2011_title": "Machine operators and related workers in mineral and metal products processing and manufacturing"
+  },
+  {
+    "noc2006": "951",
+    "noc2006_title": "Machining, Metalworking, Woodworking and Related Machine Operators",
+    "noc2011": "943",
+    "noc2011_title": "Machine operators and related workers in pulp and paper production and wood processing and manufacturing"
+  },
+  {
+    "noc2006": "951",
+    "noc2006_title": "Machining, Metalworking, Woodworking and Related Machine Operators",
+    "noc2011": "953",
+    "noc2011_title": "Other assembly and related occupations"
+  },
+  {
+    "noc2006": "0011",
+    "noc2006_title": "Legislators",
+    "noc2011": "0011",
+    "noc2011_title": "Legislators"
+  },
+  {
+    "noc2006": "0011",
+    "noc2006_title": "Legislators",
+    "noc2011": "0012",
+    "noc2011_title": "Senior government managers and officials"
+  },
+  {
+    "noc2006": "0012",
+    "noc2006_title": "Senior Government Managers and Officials",
+    "noc2011": "0012",
+    "noc2011_title": "Senior government managers and officials"
+  },
+  {
+    "noc2006": "0014",
+    "noc2006_title": "Senior Managers - Health, Education, Social and Community Services and Membership Organizations",
+    "noc2011": "0014",
+    "noc2011_title": "Senior managers - health, education, social and community services and membership organizations"
+  },
+  {
+    "noc2006": "0015",
+    "noc2006_title": "Senior Managers - Trade, Broadcasting and Other Services, n.e.c.",
+    "noc2011": "0014",
+    "noc2011_title": "Senior managers - health, education, social and community services and membership organizations"
+  },
+  {
+    "noc2006": "0015",
+    "noc2006_title": "Senior Managers - Trade, Broadcasting and Other Services, n.e.c.",
+    "noc2011": "0015",
+    "noc2011_title": "Senior managers - trade, broadcasting and other services, n.e.c."
+  },
+  {
+    "noc2006": "0016",
+    "noc2006_title": "Senior Managers - Goods Production, Utilities, Transportation and Construction",
+    "noc2011": "0016",
+    "noc2011_title": "Senior managers - construction, transportation, production and utilities"
+  },
+  {
+    "noc2006": "0123",
+    "noc2006_title": "Other Business Services Managers",
+    "noc2011": "0124",
+    "noc2011_title": "Advertising, marketing and public relations managers"
+  },
+  {
+    "noc2006": "0123",
+    "noc2006_title": "Other Business Services Managers",
+    "noc2011": "0125",
+    "noc2011_title": "Other business services managers"
+  },
+  {
+    "noc2006": "0312",
+    "noc2006_title": "Administrators - Post-Secondary Education and Vocational Training",
+    "noc2011": "0421",
+    "noc2011_title": "Administrators - post-secondary education and vocational training"
+  },
+  {
+    "noc2006": "0313",
+    "noc2006_title": "School Principals and Administrators of Elementary and Secondary Education",
+    "noc2011": "0422",
+    "noc2011_title": "School principals and administrators of elementary and secondary education"
+  },
+  {
+    "noc2006": "0314",
+    "noc2006_title": "Managers in Social, Community and Correctional Services",
+    "noc2011": "0423",
+    "noc2011_title": "Managers in social, community and correctional services"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0421",
+    "noc2011_title": "Administrators - post-secondary education and vocational training"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0422",
+    "noc2011_title": "School principals and administrators of elementary and secondary education"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0423",
+    "noc2011_title": "Managers in social, community and correctional services"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0431",
+    "noc2011_title": "Commissioned police officers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0432",
+    "noc2011_title": "Fire chiefs and senior firefighting officers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0433",
+    "noc2011_title": "Commissioned officers of the Canadian Forces"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0601",
+    "noc2011_title": "Corporate sales managers"
+  },
+  {
+    "noc2006": "0611",
+    "noc2006_title": "Sales, Marketing and Advertising Managers",
+    "noc2011": "0124",
+    "noc2011_title": "Advertising, marketing and public relations managers"
+  },
+  {
+    "noc2006": "0611",
+    "noc2006_title": "Sales, Marketing and Advertising Managers",
+    "noc2011": "0601",
+    "noc2011_title": "Corporate sales managers"
+  },
+  {
+    "noc2006": "0611",
+    "noc2006_title": "Sales, Marketing and Advertising Managers",
+    "noc2011": "0621",
+    "noc2011_title": "Retail and wholesale trade managers"
+  },
+  {
+    "noc2006": "0611",
+    "noc2006_title": "Sales, Marketing and Advertising Managers",
+    "noc2011": "1123",
+    "noc2011_title": "Professional occupations in advertising, marketing and public relations"
+  },
+  {
+    "noc2006": "0621",
+    "noc2006_title": "Retail Trade Managers",
+    "noc2011": "0124",
+    "noc2011_title": "Advertising, marketing and public relations managers"
+  },
+  {
+    "noc2006": "0621",
+    "noc2006_title": "Retail Trade Managers",
+    "noc2011": "0601",
+    "noc2011_title": "Corporate sales managers"
+  },
+  {
+    "noc2006": "0621",
+    "noc2006_title": "Retail Trade Managers",
+    "noc2011": "0621",
+    "noc2011_title": "Retail and wholesale trade managers"
+  },
+  {
+    "noc2006": "0641",
+    "noc2006_title": "Commissioned Police Officers",
+    "noc2011": "0431",
+    "noc2011_title": "Commissioned police officers"
+  },
+  {
+    "noc2006": "0642",
+    "noc2006_title": "Fire Chiefs and Senior Firefighting Officers",
+    "noc2011": "0432",
+    "noc2011_title": "Fire chiefs and senior firefighting officers"
+  },
+  {
+    "noc2006": "0643",
+    "noc2006_title": "Commissioned Officers, Armed Forces",
+    "noc2011": "0433",
+    "noc2011_title": "Commissioned officers of the Canadian Forces"
+  },
+  {
+    "noc2006": "0651",
+    "noc2006_title": "Other Services Managers",
+    "noc2011": "0651",
+    "noc2011_title": "Managers in customer and personal services, n.e.c."
+  },
+  {
+    "noc2006": "0712",
+    "noc2006_title": "Residential Home Builders and Renovators",
+    "noc2011": "0712",
+    "noc2011_title": "Home building and renovation managers"
+  },
+  {
+    "noc2006": "0713",
+    "noc2006_title": "Transportation Managers",
+    "noc2011": "0731",
+    "noc2011_title": "Managers in transportation"
+  },
+  {
+    "noc2006": "0721",
+    "noc2006_title": "Facility Operation and Maintenance Managers",
+    "noc2011": "0714",
+    "noc2011_title": "Facility operation and maintenance managers"
+  },
+  {
+    "noc2006": "0721",
+    "noc2006_title": "Facility Operation and Maintenance Managers",
+    "noc2011": "0731",
+    "noc2011_title": "Managers in transportation"
+  },
+  {
+    "noc2006": "0811",
+    "noc2006_title": "Primary Production Managers (Except Agriculture)",
+    "noc2011": "0811",
+    "noc2011_title": "Managers in natural resources production and fishing"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0821",
+    "noc2011_title": "Managers in agriculture"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0822",
+    "noc2011_title": "Managers in horticulture"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "0823",
+    "noc2011_title": "Managers in aquaculture"
+  },
+  {
+    "noc2006": "1121",
+    "noc2006_title": "Specialists in Human Resources",
+    "noc2011": "1121",
+    "noc2011_title": "Human resources professionals"
+  },
+  {
+    "noc2006": "1122",
+    "noc2006_title": "Professional Occupations in Business Services to Management",
+    "noc2011": "1122",
+    "noc2011_title": "Professional occupations in business management consulting"
+  },
+  {
+    "noc2006": "1122",
+    "noc2006_title": "Professional Occupations in Business Services to Management",
+    "noc2011": "1123",
+    "noc2011_title": "Professional occupations in advertising, marketing and public relations"
+  },
+  {
+    "noc2006": "1211",
+    "noc2006_title": "Supervisors, General Office and Administrative Support Clerks",
+    "noc2011": "1211",
+    "noc2011_title": "Supervisors, general office and administrative support workers"
+  },
+  {
+    "noc2006": "1211",
+    "noc2006_title": "Supervisors, General Office and Administrative Support Clerks",
+    "noc2011": "1213",
+    "noc2011_title": "Supervisors, library, correspondence and related information workers"
+  },
+  {
+    "noc2006": "1211",
+    "noc2006_title": "Supervisors, General Office and Administrative Support Clerks",
+    "noc2011": "1252",
+    "noc2011_title": "Health information management occupations"
+  },
+  {
+    "noc2006": "1212",
+    "noc2006_title": "Supervisors, Finance and Insurance Clerks",
+    "noc2011": "1212",
+    "noc2011_title": "Supervisors, finance and insurance office workers"
+  },
+  {
+    "noc2006": "1212",
+    "noc2006_title": "Supervisors, Finance and Insurance Clerks",
+    "noc2011": "6314",
+    "noc2011_title": "Customer and information services supervisors"
+  },
+  {
+    "noc2006": "1213",
+    "noc2006_title": "Supervisors, Library, Correspondence and Related Information Clerks",
+    "noc2011": "1213",
+    "noc2011_title": "Supervisors, library, correspondence and related information workers"
+  },
+  {
+    "noc2006": "1213",
+    "noc2006_title": "Supervisors, Library, Correspondence and Related Information Clerks",
+    "noc2011": "6314",
+    "noc2011_title": "Customer and information services supervisors"
+  },
+  {
+    "noc2006": "1215",
+    "noc2006_title": "Supervisors, Recording, Distributing and Scheduling Occupations",
+    "noc2011": "1215",
+    "noc2011_title": "Supervisors, supply chain, tracking and scheduling co-ordination occupations"
+  },
+  {
+    "noc2006": "1223",
+    "noc2006_title": "Personnel and Recruitment Officers",
+    "noc2011": "1223",
+    "noc2011_title": "Human resources and recruitment officers"
+  },
+  {
+    "noc2006": "1228",
+    "noc2006_title": "Immigration, Employment Insurance and Revenue Officers",
+    "noc2011": "1228",
+    "noc2011_title": "Employment insurance, immigration, border services and revenue officers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "1251",
+    "noc2011_title": "Court reporters, medical transcriptionists and related occupations"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "1252",
+    "noc2011_title": "Health information management occupations"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "1253",
+    "noc2011_title": "Records management technicians"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "1254",
+    "noc2011_title": "Statistical officers and related research support occupations"
+  },
+  {
+    "noc2006": "1231",
+    "noc2006_title": "Bookkeepers",
+    "noc2011": "1311",
+    "noc2011_title": "Accounting technicians and bookkeepers"
+  },
+  {
+    "noc2006": "1232",
+    "noc2006_title": "Loan Officers",
+    "noc2011": "6235",
+    "noc2011_title": "Financial sales representatives"
+  },
+  {
+    "noc2006": "1233",
+    "noc2006_title": "Insurance Adjusters and Claims Examiners",
+    "noc2011": "1312",
+    "noc2011_title": "Insurance adjusters and claims examiners"
+  },
+  {
+    "noc2006": "1234",
+    "noc2006_title": "Insurance Underwriters",
+    "noc2011": "1313",
+    "noc2011_title": "Insurance underwriters"
+  },
+  {
+    "noc2006": "1235",
+    "noc2006_title": "Assessors, Valuators and Appraisers",
+    "noc2011": "1314",
+    "noc2011_title": "Assessors, valuators and appraisers"
+  },
+  {
+    "noc2006": "1236",
+    "noc2006_title": "Customs, Ship and Other Brokers",
+    "noc2011": "1315",
+    "noc2011_title": "Customs, ship and other brokers"
+  },
+  {
+    "noc2006": "1241",
+    "noc2006_title": "Secretaries (Except Legal and Medical)",
+    "noc2011": "1241",
+    "noc2011_title": "Administrative assistants"
+  },
+  {
+    "noc2006": "1242",
+    "noc2006_title": "Legal Secretaries",
+    "noc2011": "1242",
+    "noc2011_title": "Legal administrative assistants"
+  },
+  {
+    "noc2006": "1243",
+    "noc2006_title": "Medical Secretaries",
+    "noc2011": "1243",
+    "noc2011_title": "Medical administrative assistants"
+  },
+  {
+    "noc2006": "1244",
+    "noc2006_title": "Court Recorders and Medical Transcriptionists",
+    "noc2011": "1251",
+    "noc2011_title": "Court reporters, medical transcriptionists and related occupations"
+  },
+  {
+    "noc2006": "1411",
+    "noc2006_title": "General Office Clerks",
+    "noc2011": "1241",
+    "noc2011_title": "Administrative assistants"
+  },
+  {
+    "noc2006": "1411",
+    "noc2006_title": "General Office Clerks",
+    "noc2011": "1411",
+    "noc2011_title": "General office support workers"
+  },
+  {
+    "noc2006": "1411",
+    "noc2006_title": "General Office Clerks",
+    "noc2011": "1454",
+    "noc2011_title": "Survey interviewers and statistical clerks"
+  },
+  {
+    "noc2006": "1413",
+    "noc2006_title": "Records Management and Filing Clerks",
+    "noc2011": "1252",
+    "noc2011_title": "Health information management occupations"
+  },
+  {
+    "noc2006": "1413",
+    "noc2006_title": "Records Management and Filing Clerks",
+    "noc2011": "1253",
+    "noc2011_title": "Records management technicians"
+  },
+  {
+    "noc2006": "1413",
+    "noc2006_title": "Records Management and Filing Clerks",
+    "noc2011": "1411",
+    "noc2011_title": "General office support workers"
+  },
+  {
+    "noc2006": "1414",
+    "noc2006_title": "Receptionists and Switchboard Operators",
+    "noc2011": "1414",
+    "noc2011_title": "Receptionists"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "1415",
+    "noc2011_title": "Personnel clerks"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "1416",
+    "noc2011_title": "Court clerks"
+  },
+  {
+    "noc2006": "1424",
+    "noc2006_title": "Telephone Operators",
+    "noc2011": "1414",
+    "noc2011_title": "Receptionists"
+  },
+  {
+    "noc2006": "1433",
+    "noc2006_title": "Customer Service Representatives - Financial Services",
+    "noc2011": "6551",
+    "noc2011_title": "Customer services representatives - financial institutions"
+  },
+  {
+    "noc2006": "1441",
+    "noc2006_title": "Administrative Clerks",
+    "noc2011": "1411",
+    "noc2011_title": "General office support workers"
+  },
+  {
+    "noc2006": "1441",
+    "noc2006_title": "Administrative Clerks",
+    "noc2011": "1452",
+    "noc2011_title": "Correspondence, publication and regulatory clerks"
+  },
+  {
+    "noc2006": "1442",
+    "noc2006_title": "Personnel Clerks",
+    "noc2011": "1415",
+    "noc2011_title": "Personnel clerks"
+  },
+  {
+    "noc2006": "1443",
+    "noc2006_title": "Court Clerks",
+    "noc2011": "1416",
+    "noc2011_title": "Court clerks"
+  },
+  {
+    "noc2006": "1451",
+    "noc2006_title": "Library Clerks",
+    "noc2011": "1451",
+    "noc2011_title": "Library assistants and clerks"
+  },
+  {
+    "noc2006": "1452",
+    "noc2006_title": "Correspondence, Publication and Related Clerks",
+    "noc2011": "1452",
+    "noc2011_title": "Correspondence, publication and regulatory clerks"
+  },
+  {
+    "noc2006": "1453",
+    "noc2006_title": "Customer Service, Information and Related Clerks",
+    "noc2011": "6552",
+    "noc2011_title": "Other customer and information services representatives"
+  },
+  {
+    "noc2006": "1454",
+    "noc2006_title": "Survey Interviewers and Statistical Clerks",
+    "noc2011": "1454",
+    "noc2011_title": "Survey interviewers and statistical clerks"
+  },
+  {
+    "noc2006": "1461",
+    "noc2006_title": "Mail, Postal and Related Clerks",
+    "noc2011": "1511",
+    "noc2011_title": "Mail, postal and related workers"
+  },
+  {
+    "noc2006": "1462",
+    "noc2006_title": "Letter Carriers",
+    "noc2011": "1512",
+    "noc2011_title": "Letter carriers"
+  },
+  {
+    "noc2006": "1463",
+    "noc2006_title": "Couriers, Messengers and Door-to-Door Distributors",
+    "noc2011": "1513",
+    "noc2011_title": "Couriers, messengers and door-to-door distributors"
+  },
+  {
+    "noc2006": "1471",
+    "noc2006_title": "Shippers and Receivers",
+    "noc2011": "1521",
+    "noc2011_title": "Shippers and receivers"
+  },
+  {
+    "noc2006": "1472",
+    "noc2006_title": "Storekeepers and Parts Clerks",
+    "noc2011": "1522",
+    "noc2011_title": "Storekeepers and partspersons"
+  },
+  {
+    "noc2006": "1473",
+    "noc2006_title": "Production Clerks",
+    "noc2011": "1523",
+    "noc2011_title": "Production logistics co-ordinators"
+  },
+  {
+    "noc2006": "1474",
+    "noc2006_title": "Purchasing and Inventory Clerks",
+    "noc2011": "1524",
+    "noc2011_title": "Purchasing and inventory control workers"
+  },
+  {
+    "noc2006": "1475",
+    "noc2006_title": "Dispatchers and Radio Operators",
+    "noc2011": "1525",
+    "noc2011_title": "Dispatchers"
+  },
+  {
+    "noc2006": "1476",
+    "noc2006_title": "Transportation Route and Crew Schedulers",
+    "noc2011": "1526",
+    "noc2011_title": "Transportation route and crew schedulers"
+  },
+  {
+    "noc2006": "2111",
+    "noc2006_title": "Physicists and Astronomers",
+    "noc2011": "2111",
+    "noc2011_title": "Physicists and astronomers"
+  },
+  {
+    "noc2006": "2113",
+    "noc2006_title": "Geologists, Geochemists and Geophysicists",
+    "noc2011": "2113",
+    "noc2011_title": "Geoscientists and oceanographers"
+  },
+  {
+    "noc2006": "2114",
+    "noc2006_title": "Meteorologists",
+    "noc2011": "2111",
+    "noc2011_title": "Physicists and astronomers"
+  },
+  {
+    "noc2006": "2114",
+    "noc2006_title": "Meteorologists",
+    "noc2011": "2114",
+    "noc2011_title": "Meteorologists and climatologists"
+  },
+  {
+    "noc2006": "2161",
+    "noc2006_title": "Mathematicians, Statisticians and Actuaries",
+    "noc2011": "1254",
+    "noc2011_title": "Statistical officers and related research support occupations"
+  },
+  {
+    "noc2006": "2161",
+    "noc2006_title": "Mathematicians, Statisticians and Actuaries",
+    "noc2011": "2161",
+    "noc2011_title": "Mathematicians, statisticians and actuaries"
+  },
+  {
+    "noc2006": "2213",
+    "noc2006_title": "Meteorological Technicians",
+    "noc2011": "2255",
+    "noc2011_title": "Technical occupations in geomatics and meteorology"
+  },
+  {
+    "noc2006": "2255",
+    "noc2006_title": "Mapping and Related Technologists and Technicians",
+    "noc2011": "2255",
+    "noc2011_title": "Technical occupations in geomatics and meteorology"
+  },
+  {
+    "noc2006": "2261",
+    "noc2006_title": "Non-Destructive Testers and Inspectors",
+    "noc2011": "2261",
+    "noc2011_title": "Non-destructive testers and inspection technicians"
+  },
+  {
+    "noc2006": "2272",
+    "noc2006_title": "Air Traffic Control and Related Occupations",
+    "noc2011": "2272",
+    "noc2011_title": "Air traffic controllers and related occupations"
+  },
+  {
+    "noc2006": "2283",
+    "noc2006_title": "Systems Testing Technicians",
+    "noc2011": "2283",
+    "noc2011_title": "Information systems testing technicians"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "3011",
+    "noc2011_title": "Nursing co-ordinators and supervisors"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "3012",
+    "noc2011_title": "Registered nurses and registered psychiatric nurses"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "3124",
+    "noc2011_title": "Allied primary health practitioners"
+  },
+  {
+    "noc2006": "3123",
+    "noc2006_title": "Other Professional Occupations in Health Diagnosing and Treating",
+    "noc2011": "3125",
+    "noc2011_title": "Other professional occupations in health diagnosing and treating"
+  },
+  {
+    "noc2006": "3144",
+    "noc2006_title": "Other Professional Occupations in Therapy and Assessment",
+    "noc2011": "3144",
+    "noc2011_title": "Other professional occupations in therapy and assessment"
+  },
+  {
+    "noc2006": "3151",
+    "noc2006_title": "Head Nurses and Supervisors",
+    "noc2011": "3011",
+    "noc2011_title": "Nursing co-ordinators and supervisors"
+  },
+  {
+    "noc2006": "3152",
+    "noc2006_title": "Registered Nurses",
+    "noc2011": "3012",
+    "noc2011_title": "Registered nurses and registered psychiatric nurses"
+  },
+  {
+    "noc2006": "3152",
+    "noc2006_title": "Registered Nurses",
+    "noc2011": "3124",
+    "noc2011_title": "Allied primary health practitioners"
+  },
+  {
+    "noc2006": "3211",
+    "noc2006_title": "Medical Laboratory Technologists and Pathologists' Assistants",
+    "noc2011": "3211",
+    "noc2011_title": "Medical laboratory technologists"
+  },
+  {
+    "noc2006": "3211",
+    "noc2006_title": "Medical Laboratory Technologists and Pathologists' Assistants",
+    "noc2011": "3212",
+    "noc2011_title": "Medical laboratory technicians and pathologists' assistants"
+  },
+  {
+    "noc2006": "3212",
+    "noc2006_title": "Medical Laboratory Technicians",
+    "noc2011": "3212",
+    "noc2011_title": "Medical laboratory technicians and pathologists' assistants"
+  },
+  {
+    "noc2006": "3213",
+    "noc2006_title": "Veterinary and Animal Health Technologists and Technicians",
+    "noc2011": "3213",
+    "noc2011_title": "Animal health technologists and veterinary technicians"
+  },
+  {
+    "noc2006": "3217",
+    "noc2006_title": "Cardiology Technologists",
+    "noc2011": "3217",
+    "noc2011_title": "Cardiology technologists and electrophysiological diagnostic technologists, n.e.c."
+  },
+  {
+    "noc2006": "3218",
+    "noc2006_title": "Electroencephalographic and Other Diagnostic Technologists, n.e.c.",
+    "noc2011": "3217",
+    "noc2011_title": "Cardiology technologists and electrophysiological diagnostic technologists, n.e.c."
+  },
+  {
+    "noc2006": "3219",
+    "noc2006_title": "Other Medical Technologists and Technicians (Except Dental Health)",
+    "noc2011": "3219",
+    "noc2011_title": "Other medical technologists and technicians (except dental health)"
+  },
+  {
+    "noc2006": "3223",
+    "noc2006_title": "Dental Technologists, Technicians and Laboratory Bench Workers",
+    "noc2011": "3223",
+    "noc2011_title": "Dental technologists, technicians and laboratory assistants"
+  },
+  {
+    "noc2006": "3232",
+    "noc2006_title": "Midwives and Practitioners of Natural Healing",
+    "noc2011": "3124",
+    "noc2011_title": "Allied primary health practitioners"
+  },
+  {
+    "noc2006": "3232",
+    "noc2006_title": "Midwives and Practitioners of Natural Healing",
+    "noc2011": "3232",
+    "noc2011_title": "Practitioners of natural healing"
+  },
+  {
+    "noc2006": "3234",
+    "noc2006_title": "Ambulance Attendants and Other Paramedical Occupations",
+    "noc2011": "3234",
+    "noc2011_title": "Paramedical occupations"
+  },
+  {
+    "noc2006": "3234",
+    "noc2006_title": "Ambulance Attendants and Other Paramedical Occupations",
+    "noc2011": "3413",
+    "noc2011_title": "Nurse aides, orderlies and patient service associates"
+  },
+  {
+    "noc2006": "3235",
+    "noc2006_title": "Other Technical Occupations in Therapy and Assessment",
+    "noc2011": "3236",
+    "noc2011_title": "Massage therapists"
+  },
+  {
+    "noc2006": "3235",
+    "noc2006_title": "Other Technical Occupations in Therapy and Assessment",
+    "noc2011": "3237",
+    "noc2011_title": "Other technical occupations in therapy and assessment"
+  },
+  {
+    "noc2006": "3413",
+    "noc2006_title": "Nurse Aides, Orderlies and Patient Service Associates",
+    "noc2011": "3413",
+    "noc2011_title": "Nurse aides, orderlies and patient service associates"
+  },
+  {
+    "noc2006": "3414",
+    "noc2006_title": "Other Assisting Occupations in Support of Health Services",
+    "noc2011": "3219",
+    "noc2011_title": "Other medical technologists and technicians (except dental health)"
+  },
+  {
+    "noc2006": "3414",
+    "noc2006_title": "Other Assisting Occupations in Support of Health Services",
+    "noc2011": "3237",
+    "noc2011_title": "Other technical occupations in therapy and assessment"
+  },
+  {
+    "noc2006": "3414",
+    "noc2006_title": "Other Assisting Occupations in Support of Health Services",
+    "noc2011": "3414",
+    "noc2011_title": "Other assisting occupations in support of health services"
+  },
+  {
+    "noc2006": "4121",
+    "noc2006_title": "University Professors",
+    "noc2011": "4011",
+    "noc2011_title": "University professors and lecturers"
+  },
+  {
+    "noc2006": "4122",
+    "noc2006_title": "Post-Secondary Teaching and Research Assistants",
+    "noc2011": "4011",
+    "noc2011_title": "University professors and lecturers"
+  },
+  {
+    "noc2006": "4122",
+    "noc2006_title": "Post-Secondary Teaching and Research Assistants",
+    "noc2011": "4012",
+    "noc2011_title": "Post-secondary teaching and research assistants"
+  },
+  {
+    "noc2006": "4131",
+    "noc2006_title": "College and Other Vocational Instructors",
+    "noc2011": "4021",
+    "noc2011_title": "College and other vocational instructors"
+  },
+  {
+    "noc2006": "4141",
+    "noc2006_title": "Secondary School Teachers",
+    "noc2011": "4031",
+    "noc2011_title": "Secondary school teachers"
+  },
+  {
+    "noc2006": "4141",
+    "noc2006_title": "Secondary School Teachers",
+    "noc2011": "5211",
+    "noc2011_title": "Library and public archive technicians"
+  },
+  {
+    "noc2006": "4142",
+    "noc2006_title": "Elementary School and Kindergarten Teachers",
+    "noc2011": "4032",
+    "noc2011_title": "Elementary school and kindergarten teachers"
+  },
+  {
+    "noc2006": "4142",
+    "noc2006_title": "Elementary School and Kindergarten Teachers",
+    "noc2011": "5211",
+    "noc2011_title": "Library and public archive technicians"
+  },
+  {
+    "noc2006": "4143",
+    "noc2006_title": "Educational Counsellors",
+    "noc2011": "4033",
+    "noc2011_title": "Educational counsellors"
+  },
+  {
+    "noc2006": "4154",
+    "noc2006_title": "Ministers of Religion",
+    "noc2011": "4154",
+    "noc2011_title": "Professional occupations in religion"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4156",
+    "noc2011_title": "Employment counsellors"
+  },
+  {
+    "noc2006": "4163",
+    "noc2006_title": "Business Development Officers and Marketing Researchers and Consultants",
+    "noc2011": "1123",
+    "noc2011_title": "Professional occupations in advertising, marketing and public relations"
+  },
+  {
+    "noc2006": "4163",
+    "noc2006_title": "Business Development Officers and Marketing Researchers and Consultants",
+    "noc2011": "4163",
+    "noc2011_title": "Business development officers and marketing researchers and consultants"
+  },
+  {
+    "noc2006": "4164",
+    "noc2006_title": "Social Policy Researchers, Consultants and Program Officers",
+    "noc2011": "1254",
+    "noc2011_title": "Statistical officers and related research support occupations"
+  },
+  {
+    "noc2006": "4164",
+    "noc2006_title": "Social Policy Researchers, Consultants and Program Officers",
+    "noc2011": "4164",
+    "noc2011_title": "Social policy researchers, consultants and program officers"
+  },
+  {
+    "noc2006": "4167",
+    "noc2006_title": "Recreation, Sports and Fitness Program Supervisors and Consultants",
+    "noc2011": "3144",
+    "noc2011_title": "Other professional occupations in therapy and assessment"
+  },
+  {
+    "noc2006": "4167",
+    "noc2006_title": "Recreation, Sports and Fitness Program Supervisors and Consultants",
+    "noc2011": "4167",
+    "noc2011_title": "Recreation, sports and fitness policy researchers, consultants and program officers"
+  },
+  {
+    "noc2006": "4167",
+    "noc2006_title": "Recreation, Sports and Fitness Program Supervisors and Consultants",
+    "noc2011": "5254",
+    "noc2011_title": "Program leaders and instructors in recreation, sport and fitness"
+  },
+  {
+    "noc2006": "4211",
+    "noc2006_title": "Paralegal and Related Occupations",
+    "noc2011": "1242",
+    "noc2011_title": "Legal administrative assistants"
+  },
+  {
+    "noc2006": "4211",
+    "noc2006_title": "Paralegal and Related Occupations",
+    "noc2011": "4211",
+    "noc2011_title": "Paralegal and related occupations"
+  },
+  {
+    "noc2006": "4212",
+    "noc2006_title": "Community and Social Service Workers",
+    "noc2011": "4212",
+    "noc2011_title": "Social and community service workers"
+  },
+  {
+    "noc2006": "4213",
+    "noc2006_title": "Employment Counsellors",
+    "noc2011": "4156",
+    "noc2011_title": "Employment counsellors"
+  },
+  {
+    "noc2006": "4215",
+    "noc2006_title": "Instructors and Teachers of Persons with Disabilities",
+    "noc2011": "4215",
+    "noc2011_title": "Instructors of persons with disabilities"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4311",
+    "noc2011_title": "Police officers (except commissioned)"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4312",
+    "noc2011_title": "Firefighters"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4313",
+    "noc2011_title": "Non-commissioned ranks of the Canadian Forces"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4411",
+    "noc2011_title": "Home child care providers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4412",
+    "noc2011_title": "Home support workers, housekeepers and related occupations"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4413",
+    "noc2011_title": "Elementary and secondary school teacher assistants"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4421",
+    "noc2011_title": "Sheriffs and bailiffs"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4422",
+    "noc2011_title": "Correctional service officers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "4423",
+    "noc2011_title": "By-law enforcement and other regulatory officers, n.e.c."
+  },
+  {
+    "noc2006": "5124",
+    "noc2006_title": "Professional Occupations in Public Relations and Communications",
+    "noc2011": "1123",
+    "noc2011_title": "Professional occupations in advertising, marketing and public relations"
+  },
+  {
+    "noc2006": "5211",
+    "noc2006_title": "Library and Archive Technicians and Assistants",
+    "noc2011": "1451",
+    "noc2011_title": "Library assistants and clerks"
+  },
+  {
+    "noc2006": "5211",
+    "noc2006_title": "Library and Archive Technicians and Assistants",
+    "noc2011": "5211",
+    "noc2011_title": "Library and public archive technicians"
+  },
+  {
+    "noc2006": "5227",
+    "noc2006_title": "Support Occupations in Motion Pictures, Broadcasting and the Performing Arts",
+    "noc2011": "5227",
+    "noc2011_title": "Support occupations in motion pictures, broadcasting, photography and the performing arts"
+  },
+  {
+    "noc2006": "5232",
+    "noc2006_title": "Other Performers",
+    "noc2011": "5232",
+    "noc2011_title": "Other performers, n.e.c."
+  },
+  {
+    "noc2006": "5242",
+    "noc2006_title": "Interior Designers",
+    "noc2011": "5242",
+    "noc2011_title": "Interior designers and interior decorators"
+  },
+  {
+    "noc2006": "5254",
+    "noc2006_title": "Program Leaders and Instructors in Recreation, Sport and Fitness",
+    "noc2011": "5254",
+    "noc2011_title": "Program leaders and instructors in recreation, sport and fitness"
+  },
+  {
+    "noc2006": "6211",
+    "noc2006_title": "Retail Trade Supervisors",
+    "noc2011": "0621",
+    "noc2011_title": "Retail and wholesale trade managers"
+  },
+  {
+    "noc2006": "6211",
+    "noc2006_title": "Retail Trade Supervisors",
+    "noc2011": "6211",
+    "noc2011_title": "Retail sales supervisors"
+  },
+  {
+    "noc2006": "6212",
+    "noc2006_title": "Food Service Supervisors",
+    "noc2011": "6311",
+    "noc2011_title": "Food service supervisors"
+  },
+  {
+    "noc2006": "6213",
+    "noc2006_title": "Executive Housekeepers",
+    "noc2011": "6312",
+    "noc2011_title": "Executive housekeepers"
+  },
+  {
+    "noc2006": "6214",
+    "noc2006_title": "Dry Cleaning and Laundry Supervisors",
+    "noc2011": "6316",
+    "noc2011_title": "Other services supervisors"
+  },
+  {
+    "noc2006": "6215",
+    "noc2006_title": "Cleaning Supervisors",
+    "noc2011": "6315",
+    "noc2011_title": "Cleaning supervisors"
+  },
+  {
+    "noc2006": "6216",
+    "noc2006_title": "Other Service Supervisors",
+    "noc2011": "6313",
+    "noc2011_title": "Accommodation, travel, tourism and related services supervisors"
+  },
+  {
+    "noc2006": "6216",
+    "noc2006_title": "Other Service Supervisors",
+    "noc2011": "6316",
+    "noc2011_title": "Other services supervisors"
+  },
+  {
+    "noc2006": "6221",
+    "noc2006_title": "Technical Sales Specialists - Wholesale Trade",
+    "noc2011": "6221",
+    "noc2011_title": "Technical sales specialists - wholesale trade"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6222",
+    "noc2011_title": "Retail and wholesale buyers"
+  },
+  {
+    "noc2006": "6233",
+    "noc2006_title": "Retail and Wholesale Buyers",
+    "noc2011": "6222",
+    "noc2011_title": "Retail and wholesale buyers"
+  },
+  {
+    "noc2006": "6234",
+    "noc2006_title": "Grain Elevator Operators",
+    "noc2011": "6221",
+    "noc2011_title": "Technical sales specialists - wholesale trade"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6235",
+    "noc2011_title": "Financial sales representatives"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6311",
+    "noc2011_title": "Food service supervisors"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6312",
+    "noc2011_title": "Executive housekeepers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6313",
+    "noc2011_title": "Accommodation, travel, tourism and related services supervisors"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6314",
+    "noc2011_title": "Customer and information services supervisors"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6315",
+    "noc2011_title": "Cleaning supervisors"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6316",
+    "noc2011_title": "Other services supervisors"
+  },
+  {
+    "noc2006": "6241",
+    "noc2006_title": "Chefs",
+    "noc2011": "6321",
+    "noc2011_title": "Chefs"
+  },
+  {
+    "noc2006": "6242",
+    "noc2006_title": "Cooks",
+    "noc2011": "6322",
+    "noc2011_title": "Cooks"
+  },
+  {
+    "noc2006": "6251",
+    "noc2006_title": "Butchers, Meat Cutters and Fishmongers - Retail and Wholesale",
+    "noc2011": "6331",
+    "noc2011_title": "Butchers, meat cutters and fishmongers - retail and wholesale"
+  },
+  {
+    "noc2006": "6252",
+    "noc2006_title": "Bakers",
+    "noc2011": "6332",
+    "noc2011_title": "Bakers"
+  },
+  {
+    "noc2006": "6261",
+    "noc2006_title": "Police Officers (Except Commissioned)",
+    "noc2011": "4311",
+    "noc2011_title": "Police officers (except commissioned)"
+  },
+  {
+    "noc2006": "6262",
+    "noc2006_title": "Firefighters",
+    "noc2011": "4312",
+    "noc2011_title": "Firefighters"
+  },
+  {
+    "noc2006": "6271",
+    "noc2006_title": "Hairstylists and Barbers",
+    "noc2011": "6341",
+    "noc2011_title": "Hairstylists and barbers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6342",
+    "noc2011_title": "Tailors, dressmakers, furriers and milliners"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6343",
+    "noc2011_title": "Shoe repairers and shoemakers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6344",
+    "noc2011_title": "Jewellers, jewellery and watch repairers and related occupations"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6345",
+    "noc2011_title": "Upholsterers"
+  },
+  {
+    "noc2006": "6272",
+    "noc2006_title": "Funeral Directors and Embalmers",
+    "noc2011": "6346",
+    "noc2011_title": "Funeral directors and embalmers"
+  },
+  {
+    "noc2006": "6411",
+    "noc2006_title": "Sales Representatives - Wholesale Trade (Non-Technical)",
+    "noc2011": "6411",
+    "noc2011_title": "Sales and account representatives - wholesale trade (non-technical)"
+  },
+  {
+    "noc2006": "6421",
+    "noc2006_title": "Retail Salespersons and Sales Clerks",
+    "noc2011": "5242",
+    "noc2011_title": "Interior designers and interior decorators"
+  },
+  {
+    "noc2006": "6421",
+    "noc2006_title": "Retail Salespersons and Sales Clerks",
+    "noc2011": "6421",
+    "noc2011_title": "Retail salespersons"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6511",
+    "noc2011_title": "Maîtres d'hôtel and hosts/hostesses"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6512",
+    "noc2011_title": "Bartenders"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6513",
+    "noc2011_title": "Food and beverage servers"
+  },
+  {
+    "noc2006": "6431",
+    "noc2006_title": "Travel Counsellors",
+    "noc2011": "6521",
+    "noc2011_title": "Travel counsellors"
+  },
+  {
+    "noc2006": "6432",
+    "noc2006_title": "Pursers and Flight Attendants",
+    "noc2011": "6522",
+    "noc2011_title": "Pursers and flight attendants"
+  },
+  {
+    "noc2006": "6433",
+    "noc2006_title": "Airline Sales and Service Agents",
+    "noc2011": "6523",
+    "noc2011_title": "Airline ticket and service agents"
+  },
+  {
+    "noc2006": "6434",
+    "noc2006_title": "Ticket Agents, Cargo Service Representatives and Related Clerks (Except Airline)",
+    "noc2011": "6524",
+    "noc2011_title": "Ground and water transport ticket agents, cargo service representatives and related clerks"
+  },
+  {
+    "noc2006": "6435",
+    "noc2006_title": "Hotel Front Desk Clerks",
+    "noc2011": "6525",
+    "noc2011_title": "Hotel front desk clerks"
+  },
+  {
+    "noc2006": "6441",
+    "noc2006_title": "Tour and Travel Guides",
+    "noc2011": "6531",
+    "noc2011_title": "Tour and travel guides"
+  },
+  {
+    "noc2006": "6442",
+    "noc2006_title": "Outdoor Sport and Recreational Guides",
+    "noc2011": "6532",
+    "noc2011_title": "Outdoor sport and recreational guides"
+  },
+  {
+    "noc2006": "6443",
+    "noc2006_title": "Casino Occupations",
+    "noc2011": "6313",
+    "noc2011_title": "Accommodation, travel, tourism and related services supervisors"
+  },
+  {
+    "noc2006": "6443",
+    "noc2006_title": "Casino Occupations",
+    "noc2011": "6533",
+    "noc2011_title": "Casino occupations"
+  },
+  {
+    "noc2006": "6451",
+    "noc2006_title": "Maîtres d'hôtel and Hosts/Hostesses",
+    "noc2011": "6511",
+    "noc2011_title": "Maîtres d'hôtel and hosts/hostesses"
+  },
+  {
+    "noc2006": "6452",
+    "noc2006_title": "Bartenders",
+    "noc2011": "6512",
+    "noc2011_title": "Bartenders"
+  },
+  {
+    "noc2006": "6453",
+    "noc2006_title": "Food and Beverage Servers",
+    "noc2011": "6513",
+    "noc2011_title": "Food and beverage servers"
+  },
+  {
+    "noc2006": "6461",
+    "noc2006_title": "Sheriffs and Bailiffs",
+    "noc2011": "4421",
+    "noc2011_title": "Sheriffs and bailiffs"
+  },
+  {
+    "noc2006": "6462",
+    "noc2006_title": "Correctional Service Officers",
+    "noc2011": "4422",
+    "noc2011_title": "Correctional service officers"
+  },
+  {
+    "noc2006": "6463",
+    "noc2006_title": "By-Law Enforcement and Other Regulatory Officers, n.e.c.",
+    "noc2011": "4423",
+    "noc2011_title": "By-law enforcement and other regulatory officers, n.e.c."
+  },
+  {
+    "noc2006": "6464",
+    "noc2006_title": "Occupations Unique to the Armed Forces",
+    "noc2011": "4313",
+    "noc2011_title": "Non-commissioned ranks of the Canadian Forces"
+  },
+  {
+    "noc2006": "6465",
+    "noc2006_title": "Other Protective Service Occupations",
+    "noc2011": "6541",
+    "noc2011_title": "Security guards and related security service occupations"
+  },
+  {
+    "noc2006": "6471",
+    "noc2006_title": "Visiting Homemakers, Housekeepers and Related Occupations",
+    "noc2011": "4411",
+    "noc2011_title": "Home child care providers"
+  },
+  {
+    "noc2006": "6471",
+    "noc2006_title": "Visiting Homemakers, Housekeepers and Related Occupations",
+    "noc2011": "4412",
+    "noc2011_title": "Home support workers, housekeepers and related occupations"
+  },
+  {
+    "noc2006": "6472",
+    "noc2006_title": "Elementary and Secondary School Teacher Assistants",
+    "noc2011": "4413",
+    "noc2011_title": "Elementary and secondary school teacher assistants"
+  },
+  {
+    "noc2006": "6474",
+    "noc2006_title": "Babysitters, Nannies and Parents' Helpers",
+    "noc2011": "4411",
+    "noc2011_title": "Home child care providers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6551",
+    "noc2011_title": "Customer services representatives - financial institutions"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6552",
+    "noc2011_title": "Other customer and information services representatives"
+  },
+  {
+    "noc2006": "6481",
+    "noc2006_title": "Image, Social and Other Personal Consultants",
+    "noc2011": "6561",
+    "noc2011_title": "Image, social and other personal consultants"
+  },
+  {
+    "noc2006": "6482",
+    "noc2006_title": "Estheticians, Electrologists and Related Occupations",
+    "noc2011": "6562",
+    "noc2011_title": "Estheticians, electrologists and related occupations"
+  },
+  {
+    "noc2006": "6483",
+    "noc2006_title": "Pet Groomers and Animal Care Workers",
+    "noc2011": "6563",
+    "noc2011_title": "Pet groomers and animal care workers"
+  },
+  {
+    "noc2006": "6484",
+    "noc2006_title": "Other Personal Service Occupations",
+    "noc2011": "6564",
+    "noc2011_title": "Other personal service occupations"
+  },
+  {
+    "noc2006": "6622",
+    "noc2006_title": "Grocery Clerks and Store Shelf Stockers",
+    "noc2011": "6622",
+    "noc2011_title": "Store shelf stockers, clerks and order fillers"
+  },
+  {
+    "noc2006": "6623",
+    "noc2006_title": "Other Elemental Sales Occupations",
+    "noc2011": "6623",
+    "noc2011_title": "Other sales related occupations"
+  },
+  {
+    "noc2006": "6623",
+    "noc2006_title": "Other Elemental Sales Occupations",
+    "noc2011": "6711",
+    "noc2011_title": "Food counter attendants, kitchen helpers and related support occupations"
+  },
+  {
+    "noc2006": "6641",
+    "noc2006_title": "Food Counter Attendants, Kitchen Helpers and Related Occupations",
+    "noc2011": "6711",
+    "noc2011_title": "Food counter attendants, kitchen helpers and related support occupations"
+  },
+  {
+    "noc2006": "6651",
+    "noc2006_title": "Security Guards and Related Occupations",
+    "noc2011": "6541",
+    "noc2011_title": "Security guards and related security service occupations"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6721",
+    "noc2011_title": "Support occupations in accommodation, travel and facilities set-up services"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "6722",
+    "noc2011_title": "Operators and attendants in amusement, recreation and sport"
+  },
+  {
+    "noc2006": "6661",
+    "noc2006_title": "Light Duty Cleaners",
+    "noc2011": "6731",
+    "noc2011_title": "Light duty cleaners"
+  },
+  {
+    "noc2006": "6662",
+    "noc2006_title": "Specialized Cleaners",
+    "noc2011": "6732",
+    "noc2011_title": "Specialized cleaners"
+  },
+  {
+    "noc2006": "6663",
+    "noc2006_title": "Janitors, Caretakers and Building Superintendents",
+    "noc2011": "6733",
+    "noc2011_title": "Janitors, caretakers and building superintendents"
+  },
+  {
+    "noc2006": "6671",
+    "noc2006_title": "Operators and Attendants in Amusement, Recreation and Sport",
+    "noc2011": "6722",
+    "noc2011_title": "Operators and attendants in amusement, recreation and sport"
+  },
+  {
+    "noc2006": "6672",
+    "noc2006_title": "Other Attendants in Accommodation and Travel",
+    "noc2011": "6721",
+    "noc2011_title": "Support occupations in accommodation, travel and facilities set-up services"
+  },
+  {
+    "noc2006": "6681",
+    "noc2006_title": "Dry Cleaning and Laundry Occupations",
+    "noc2011": "6741",
+    "noc2011_title": "Dry cleaning, laundry and related occupations"
+  },
+  {
+    "noc2006": "6682",
+    "noc2006_title": "Ironing, Pressing and Finishing Occupations",
+    "noc2011": "6741",
+    "noc2011_title": "Dry cleaning, laundry and related occupations"
+  },
+  {
+    "noc2006": "6683",
+    "noc2006_title": "Other Elemental Service Occupations",
+    "noc2011": "6742",
+    "noc2011_title": "Other service support occupations, n.e.c."
+  },
+  {
+    "noc2006": "7211",
+    "noc2006_title": "Supervisors, Machinists and Related Occupations",
+    "noc2011": "7201",
+    "noc2011_title": "Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations"
+  },
+  {
+    "noc2006": "7212",
+    "noc2006_title": "Contractors and Supervisors, Electrical Trades and Telecommunications Occupations",
+    "noc2011": "7202",
+    "noc2011_title": "Contractors and supervisors, electrical trades and telecommunications occupations"
+  },
+  {
+    "noc2006": "7213",
+    "noc2006_title": "Contractors and Supervisors, Pipefitting Trades",
+    "noc2011": "7203",
+    "noc2011_title": "Contractors and supervisors, pipefitting trades"
+  },
+  {
+    "noc2006": "7214",
+    "noc2006_title": "Contractors and Supervisors, Metal Forming, Shaping and Erecting Trades",
+    "noc2011": "7201",
+    "noc2011_title": "Contractors and supervisors, machining, metal forming, shaping and erecting trades and related occupations"
+  },
+  {
+    "noc2006": "7215",
+    "noc2006_title": "Contractors and Supervisors, Carpentry Trades",
+    "noc2011": "7204",
+    "noc2011_title": "Contractors and supervisors, carpentry trades"
+  },
+  {
+    "noc2006": "7216",
+    "noc2006_title": "Contractors and Supervisors, Mechanic Trades",
+    "noc2011": "7301",
+    "noc2011_title": "Contractors and supervisors, mechanic trades"
+  },
+  {
+    "noc2006": "7217",
+    "noc2006_title": "Contractors and Supervisors, Heavy Construction Equipment Crews",
+    "noc2011": "7302",
+    "noc2011_title": "Contractors and supervisors, heavy equipment operator crews"
+  },
+  {
+    "noc2006": "7218",
+    "noc2006_title": "Supervisors, Printing and Related Occupations",
+    "noc2011": "7303",
+    "noc2011_title": "Supervisors, printing and related occupations"
+  },
+  {
+    "noc2006": "7219",
+    "noc2006_title": "Contractors and Supervisors, Other Construction Trades, Installers, Repairers and Servicers",
+    "noc2011": "7205",
+    "noc2011_title": "Contractors and supervisors, other construction trades, installers, repairers and servicers"
+  },
+  {
+    "noc2006": "7221",
+    "noc2006_title": "Supervisors, Railway Transport Operations",
+    "noc2011": "7304",
+    "noc2011_title": "Supervisors, railway transport operations"
+  },
+  {
+    "noc2006": "7222",
+    "noc2006_title": "Supervisors, Motor Transport and Other Ground Transit Operators",
+    "noc2011": "7305",
+    "noc2011_title": "Supervisors, motor transport and other ground transit operators"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7233",
+    "noc2011_title": "Sheet metal workers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7234",
+    "noc2011_title": "Boilermakers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7235",
+    "noc2011_title": "Structural metal and platework fabricators and fitters"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7236",
+    "noc2011_title": "Ironworkers"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7237",
+    "noc2011_title": "Welders and related machine operators"
+  },
+  {
+    "noc2006": "7261",
+    "noc2006_title": "Sheet Metal Workers",
+    "noc2011": "7233",
+    "noc2011_title": "Sheet metal workers"
+  },
+  {
+    "noc2006": "7262",
+    "noc2006_title": "Boilermakers",
+    "noc2011": "7234",
+    "noc2011_title": "Boilermakers"
+  },
+  {
+    "noc2006": "7263",
+    "noc2006_title": "Structural Metal and Platework Fabricators and Fitters",
+    "noc2011": "7235",
+    "noc2011_title": "Structural metal and platework fabricators and fitters"
+  },
+  {
+    "noc2006": "7264",
+    "noc2006_title": "Ironworkers",
+    "noc2011": "7236",
+    "noc2011_title": "Ironworkers"
+  },
+  {
+    "noc2006": "7265",
+    "noc2006_title": "Welders and Related Machine Operators",
+    "noc2011": "7237",
+    "noc2011_title": "Welders and related machine operators"
+  },
+  {
+    "noc2006": "7266",
+    "noc2006_title": "Blacksmiths and Die Setters",
+    "noc2011": "7384",
+    "noc2011_title": "Other trades and related occupations, n.e.c."
+  },
+  {
+    "noc2006": "7294",
+    "noc2006_title": "Painters and Decorators",
+    "noc2011": "7294",
+    "noc2011_title": "Painters and decorators (except interior decorators)"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7301",
+    "noc2011_title": "Contractors and supervisors, mechanic trades"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7302",
+    "noc2011_title": "Contractors and supervisors, heavy equipment operator crews"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7303",
+    "noc2011_title": "Supervisors, printing and related occupations"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7304",
+    "noc2011_title": "Supervisors, railway transport operations"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7305",
+    "noc2011_title": "Supervisors, motor transport and other ground transit operators"
+  },
+  {
+    "noc2006": "7311",
+    "noc2006_title": "Construction Millwrights and Industrial Mechanics (Except Textile)",
+    "noc2011": "7311",
+    "noc2011_title": "Construction millwrights and industrial mechanics"
+  },
+  {
+    "noc2006": "7317",
+    "noc2006_title": "Textile Machinery Mechanics and Repairers",
+    "noc2011": "7311",
+    "noc2011_title": "Construction millwrights and industrial mechanics"
+  },
+  {
+    "noc2006": "7332",
+    "noc2006_title": "Electric Appliance Servicers and Repairers",
+    "noc2011": "7332",
+    "noc2011_title": "Appliance servicers and repairers"
+  },
+  {
+    "noc2006": "7334",
+    "noc2006_title": "Motorcycle and Other Related Mechanics",
+    "noc2011": "7334",
+    "noc2011_title": "Motorcycle, all-terrain vehicle and other related mechanics"
+  },
+  {
+    "noc2006": "7335",
+    "noc2006_title": "Other Small Engine and Equipment Mechanics",
+    "noc2011": "7334",
+    "noc2011_title": "Motorcycle, all-terrain vehicle and other related mechanics"
+  },
+  {
+    "noc2006": "7335",
+    "noc2006_title": "Other Small Engine and Equipment Mechanics",
+    "noc2011": "7335",
+    "noc2011_title": "Other small engine and small equipment repairers"
+  },
+  {
+    "noc2006": "7341",
+    "noc2006_title": "Upholsterers",
+    "noc2011": "6345",
+    "noc2011_title": "Upholsterers"
+  },
+  {
+    "noc2006": "7342",
+    "noc2006_title": "Tailors, Dressmakers, Furriers and Milliners",
+    "noc2011": "6342",
+    "noc2011_title": "Tailors, dressmakers, furriers and milliners"
+  },
+  {
+    "noc2006": "7343",
+    "noc2006_title": "Shoe Repairers and Shoemakers",
+    "noc2011": "6343",
+    "noc2011_title": "Shoe repairers and shoemakers"
+  },
+  {
+    "noc2006": "7344",
+    "noc2006_title": "Jewellers, Watch Repairers and Related Occupations",
+    "noc2011": "6344",
+    "noc2011_title": "Jewellers, jewellery and watch repairers and related occupations"
+  },
+  {
+    "noc2006": "7351",
+    "noc2006_title": "Stationary Engineers and Auxiliary Equipment Operators",
+    "noc2011": "9241",
+    "noc2011_title": "Power engineers and power systems operators"
+  },
+  {
+    "noc2006": "7352",
+    "noc2006_title": "Power Systems and Power Station Operators",
+    "noc2011": "9241",
+    "noc2011_title": "Power engineers and power systems operators"
+  },
+  {
+    "noc2006": "7382",
+    "noc2006_title": "Commercial Divers",
+    "noc2011": "7384",
+    "noc2011_title": "Other trades and related occupations, n.e.c."
+  },
+  {
+    "noc2006": "7383",
+    "noc2006_title": "Other Trades and Related Occupations",
+    "noc2011": "7384",
+    "noc2011_title": "Other trades and related occupations, n.e.c."
+  },
+  {
+    "noc2006": "7411",
+    "noc2006_title": "Truck Drivers",
+    "noc2011": "7511",
+    "noc2011_title": "Transport truck drivers"
+  },
+  {
+    "noc2006": "7412",
+    "noc2006_title": "Bus Drivers, Subway Operators and Other Transit Operators",
+    "noc2011": "7512",
+    "noc2011_title": "Bus drivers, subway operators and other transit operators"
+  },
+  {
+    "noc2006": "7413",
+    "noc2006_title": "Taxi and Limousine Drivers and Chauffeurs",
+    "noc2011": "7513",
+    "noc2011_title": "Taxi and limousine drivers and chauffeurs"
+  },
+  {
+    "noc2006": "7414",
+    "noc2006_title": "Delivery and Courier Service Drivers",
+    "noc2011": "7514",
+    "noc2011_title": "Delivery and courier service drivers"
+  },
+  {
+    "noc2006": "7421",
+    "noc2006_title": "Heavy Equipment Operators (Except Crane)",
+    "noc2011": "7521",
+    "noc2011_title": "Heavy equipment operators (except crane)"
+  },
+  {
+    "noc2006": "7422",
+    "noc2006_title": "Public Works Maintenance Equipment Operators",
+    "noc2011": "7522",
+    "noc2011_title": "Public works maintenance equipment operators and related workers"
+  },
+  {
+    "noc2006": "7431",
+    "noc2006_title": "Railway Yard Workers",
+    "noc2011": "7531",
+    "noc2011_title": "Railway yard and track maintenance workers"
+  },
+  {
+    "noc2006": "7432",
+    "noc2006_title": "Railway Track Maintenance Workers",
+    "noc2011": "7531",
+    "noc2011_title": "Railway yard and track maintenance workers"
+  },
+  {
+    "noc2006": "7433",
+    "noc2006_title": "Deck Crew, Water Transport",
+    "noc2011": "7532",
+    "noc2011_title": "Water transport deck and engine room crew"
+  },
+  {
+    "noc2006": "7434",
+    "noc2006_title": "Engine Room Crew, Water Transport",
+    "noc2011": "7532",
+    "noc2011_title": "Water transport deck and engine room crew"
+  },
+  {
+    "noc2006": "7435",
+    "noc2006_title": "Lock and Cable Ferry Operators and Related Occupations",
+    "noc2011": "7533",
+    "noc2011_title": "Boat and cable ferry operators and related occupations"
+  },
+  {
+    "noc2006": "7436",
+    "noc2006_title": "Boat Operators",
+    "noc2011": "7533",
+    "noc2011_title": "Boat and cable ferry operators and related occupations"
+  },
+  {
+    "noc2006": "7437",
+    "noc2006_title": "Air Transport Ramp Attendants",
+    "noc2011": "7534",
+    "noc2011_title": "Air transport ramp attendants"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "7535",
+    "noc2011_title": "Other automotive mechanical installers and servicers"
+  },
+  {
+    "noc2006": "7443",
+    "noc2006_title": "Automotive Mechanical Installers and Servicers",
+    "noc2011": "7535",
+    "noc2011_title": "Other automotive mechanical installers and servicers"
+  },
+  {
+    "noc2006": "7452",
+    "noc2006_title": "Material Handlers",
+    "noc2011": "6721",
+    "noc2011_title": "Support occupations in accommodation, travel and facilities set-up services"
+  },
+  {
+    "noc2006": "7452",
+    "noc2006_title": "Material Handlers",
+    "noc2011": "7452",
+    "noc2011_title": "Material handlers"
+  },
+  {
+    "noc2006": "7612",
+    "noc2006_title": "Other Trades Helpers and Labourers",
+    "noc2011": "7522",
+    "noc2011_title": "Public works maintenance equipment operators and related workers"
+  },
+  {
+    "noc2006": "7612",
+    "noc2006_title": "Other Trades Helpers and Labourers",
+    "noc2011": "7612",
+    "noc2011_title": "Other trades helpers and labourers"
+  },
+  {
+    "noc2006": "8222",
+    "noc2006_title": "Supervisors, Oil and Gas Drilling and Service",
+    "noc2011": "8222",
+    "noc2011_title": "Contractors and supervisors, oil and gas drilling and services"
+  },
+  {
+    "noc2006": "8251",
+    "noc2006_title": "Farmers and Farm Managers",
+    "noc2011": "0821",
+    "noc2011_title": "Managers in agriculture"
+  },
+  {
+    "noc2006": "8252",
+    "noc2006_title": "Agricultural and Related Service Contractors and Managers",
+    "noc2011": "8252",
+    "noc2011_title": "Agricultural service contractors, farm supervisors and specialized livestock workers"
+  },
+  {
+    "noc2006": "8253",
+    "noc2006_title": "Farm Supervisors and Specialized Livestock Workers",
+    "noc2011": "8252",
+    "noc2011_title": "Agricultural service contractors, farm supervisors and specialized livestock workers"
+  },
+  {
+    "noc2006": "8254",
+    "noc2006_title": "Nursery and Greenhouse Operators and Managers",
+    "noc2011": "0822",
+    "noc2011_title": "Managers in horticulture"
+  },
+  {
+    "noc2006": "8255",
+    "noc2006_title": "Landscaping and Grounds Maintenance Contractors and Managers",
+    "noc2011": "8255",
+    "noc2011_title": "Contractors and supervisors, landscaping, grounds maintenance and horticulture services"
+  },
+  {
+    "noc2006": "8256",
+    "noc2006_title": "Supervisors, Landscape and Horticulture",
+    "noc2011": "8255",
+    "noc2011_title": "Contractors and supervisors, landscaping, grounds maintenance and horticulture services"
+  },
+  {
+    "noc2006": "8257",
+    "noc2006_title": "Aquaculture Operators and Managers",
+    "noc2011": "0823",
+    "noc2011_title": "Managers in aquaculture"
+  },
+  {
+    "noc2006": "8262",
+    "noc2006_title": "Fishing Vessel Skippers and Fishermen/women",
+    "noc2011": "8262",
+    "noc2011_title": "Fishermen/women"
+  },
+  {
+    "noc2006": "8412",
+    "noc2006_title": "Oil and Gas Well Drilling Workers and Services Operators",
+    "noc2011": "8412",
+    "noc2011_title": "Oil and gas well drilling and related workers and services operators"
+  },
+  {
+    "noc2006": "9213",
+    "noc2006_title": "Supervisors, Food, Beverage and Tobacco Processing",
+    "noc2011": "9213",
+    "noc2011_title": "Supervisors, food, beverage and associated products processing"
+  },
+  {
+    "noc2006": "9216",
+    "noc2006_title": "Supervisors, Textile Processing",
+    "noc2011": "9217",
+    "noc2011_title": "Supervisors, textile, fabric, fur and leather products processing and manufacturing"
+  },
+  {
+    "noc2006": "9225",
+    "noc2006_title": "Supervisors, Fabric, Fur and Leather Products Manufacturing",
+    "noc2011": "9217",
+    "noc2011_title": "Supervisors, textile, fabric, fur and leather products processing and manufacturing"
+  },
+  {
+    "noc2006": "9233",
+    "noc2006_title": "Pulping Control Operators",
+    "noc2011": "9235",
+    "noc2011_title": "Pulping, papermaking and coating control operators"
+  },
+  {
+    "noc2006": "9233",
+    "noc2006_title": "Pulping Control Operators",
+    "noc2011": "9432",
+    "noc2011_title": "Pulp mill machine operators"
+  },
+  {
+    "noc2006": "9234",
+    "noc2006_title": "Papermaking and Coating Control Operators",
+    "noc2011": "9235",
+    "noc2011_title": "Pulping, papermaking and coating control operators"
+  },
+  {
+    "noc2006": "9234",
+    "noc2006_title": "Papermaking and Coating Control Operators",
+    "noc2011": "9433",
+    "noc2011_title": "Papermaking and finishing machine operators"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "9235",
+    "noc2011_title": "Pulping, papermaking and coating control operators"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "9241",
+    "noc2011_title": "Power engineers and power systems operators"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "9243",
+    "noc2011_title": "Water and waste treatment plant operators"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "9416",
+    "noc2011_title": "Metalworking and forging machine operators"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "9417",
+    "noc2011_title": "Machining tool operators"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "9418",
+    "noc2011_title": "Other metal products machine operators"
+  },
+  {
+    "noc2006": "9424",
+    "noc2006_title": "Water and Waste Plant Operators",
+    "noc2011": "9243",
+    "noc2011_title": "Water and waste treatment plant operators"
+  },
+  {
+    "noc2006": "9432",
+    "noc2006_title": "Pulp Mill Machine Operators",
+    "noc2011": "9432",
+    "noc2011_title": "Pulp mill machine operators"
+  },
+  {
+    "noc2006": "9433",
+    "noc2006_title": "Papermaking and Finishing Machine Operators",
+    "noc2011": "9433",
+    "noc2011_title": "Papermaking and finishing machine operators"
+  },
+  {
+    "noc2006": "",
+    "noc2006_title": "",
+    "noc2011": "9437",
+    "noc2011_title": "Woodworking machine operators"
+  },
+  {
+    "noc2006": "9441",
+    "noc2006_title": "Textile Fibre and Yarn Preparation Machine Operators",
+    "noc2011": "9441",
+    "noc2011_title": "Textile fibre and yarn, hide and pelt processing machine operators and workers"
+  },
+  {
+    "noc2006": "9443",
+    "noc2006_title": "Textile Dyeing and Finishing Machine Operators",
+    "noc2011": "9441",
+    "noc2011_title": "Textile fibre and yarn, hide and pelt processing machine operators and workers"
+  },
+  {
+    "noc2006": "9444",
+    "noc2006_title": "Textile Inspectors, Graders and Samplers",
+    "noc2011": "9447",
+    "noc2011_title": "Inspectors and graders, textile, fabric, fur and leather products manufacturing"
+  },
+  {
+    "noc2006": "9451",
+    "noc2006_title": "Sewing Machine Operators",
+    "noc2011": "9446",
+    "noc2011_title": "Industrial sewing machine operators"
+  },
+  {
+    "noc2006": "9452",
+    "noc2006_title": "Fabric, Fur and Leather Cutters",
+    "noc2011": "9445",
+    "noc2011_title": "Fabric, fur and leather cutters"
+  },
+  {
+    "noc2006": "9453",
+    "noc2006_title": "Hide and Pelt Processing Workers",
+    "noc2011": "9441",
+    "noc2011_title": "Textile fibre and yarn, hide and pelt processing machine operators and workers"
+  },
+  {
+    "noc2006": "9454",
+    "noc2006_title": "Inspectors and Testers, Fabric, Fur and Leather Products Manufacturing",
+    "noc2011": "9447",
+    "noc2011_title": "Inspectors and graders, textile, fabric, fur and leather products manufacturing"
+  },
+  {
+    "noc2006": "9461",
+    "noc2006_title": "Process Control and Machine Operators, Food and Beverage Processing",
+    "noc2011": "9461",
+    "noc2011_title": "Process control and machine operators, food, beverage and associated products processing"
+  },
+  {
+    "noc2006": "9463",
+    "noc2006_title": "Fish Plant Workers",
+    "noc2011": "9463",
+    "noc2011_title": "Fish and seafood plant workers"
+  },
+  {
+    "noc2006": "9464",
+    "noc2006_title": "Tobacco Processing Machine Operators",
+    "noc2011": "9461",
+    "noc2011_title": "Process control and machine operators, food, beverage and associated products processing"
+  },
+  {
+    "noc2006": "9465",
+    "noc2006_title": "Testers and Graders, Food and Beverage Processing",
+    "noc2011": "9465",
+    "noc2011_title": "Testers and graders, food, beverage and associated products processing"
+  },
+  {
+    "noc2006": "9471",
+    "noc2006_title": "Printing Machine Operators",
+    "noc2011": "9471",
+    "noc2011_title": "Plateless printing equipment operators"
+  },
+  {
+    "noc2006": "9481",
+    "noc2006_title": "Aircraft Assemblers and Aircraft Assembly Inspectors",
+    "noc2011": "9521",
+    "noc2011_title": "Aircraft assemblers and aircraft assembly inspectors"
+  },
+  {
+    "noc2006": "9482",
+    "noc2006_title": "Motor Vehicle Assemblers, Inspectors and Testers",
+    "noc2011": "9522",
+    "noc2011_title": "Motor vehicle assemblers, inspectors and testers"
+  },
+  {
+    "noc2006": "9483",
+    "noc2006_title": "Electronics Assemblers, Fabricators, Inspectors and Testers",
+    "noc2011": "9523",
+    "noc2011_title": "Electronics assemblers, fabricators, inspectors and testers"
+  },
+  {
+    "noc2006": "9484",
+    "noc2006_title": "Assemblers and Inspectors, Electrical Appliance, Apparatus and Equipment Manufacturing",
+    "noc2011": "9524",
+    "noc2011_title": "Assemblers and inspectors, electrical appliance, apparatus and equipment manufacturing"
+  },
+  {
+    "noc2006": "9485",
+    "noc2006_title": "Assemblers, Fabricators and Inspectors, Industrial Electrical Motors and Transformers",
+    "noc2011": "9525",
+    "noc2011_title": "Assemblers, fabricators and inspectors, industrial electrical motors and transformers"
+  },
+  {
+    "noc2006": "9486",
+    "noc2006_title": "Mechanical Assemblers and Inspectors",
+    "noc2011": "9526",
+    "noc2011_title": "Mechanical assemblers and inspectors"
+  },
+  {
+    "noc2006": "9487",
+    "noc2006_title": "Machine Operators and Inspectors, Electrical Apparatus Manufacturing",
+    "noc2011": "9527",
+    "noc2011_title": "Machine operators and inspectors, electrical apparatus manufacturing"
+  },
+  {
+    "noc2006": "9491",
+    "noc2006_title": "Boat Assemblers and Inspectors",
+    "noc2011": "9531",
+    "noc2011_title": "Boat assemblers and inspectors"
+  },
+  {
+    "noc2006": "9492",
+    "noc2006_title": "Furniture and Fixture Assemblers and Inspectors",
+    "noc2011": "9532",
+    "noc2011_title": "Furniture and fixture assemblers and inspectors"
+  },
+  {
+    "noc2006": "9493",
+    "noc2006_title": "Other Wood Products Assemblers and Inspectors",
+    "noc2011": "9533",
+    "noc2011_title": "Other wood products assemblers and inspectors"
+  },
+  {
+    "noc2006": "9494",
+    "noc2006_title": "Furniture Finishers and Refinishers",
+    "noc2011": "9534",
+    "noc2011_title": "Furniture finishers and refinishers"
+  },
+  {
+    "noc2006": "9495",
+    "noc2006_title": "Plastic Products Assemblers, Finishers and Inspectors",
+    "noc2011": "9535",
+    "noc2011_title": "Plastic products assemblers, finishers and inspectors"
+  },
+  {
+    "noc2006": "9496",
+    "noc2006_title": "Painters and Coaters - Industrial",
+    "noc2011": "9536",
+    "noc2011_title": "Industrial painters, coaters and metal finishing process operators"
+  },
+  {
+    "noc2006": "9497",
+    "noc2006_title": "Plating, Metal Spraying and Related Operators",
+    "noc2011": "9536",
+    "noc2011_title": "Industrial painters, coaters and metal finishing process operators"
+  },
+  {
+    "noc2006": "9498",
+    "noc2006_title": "Other Assemblers and Inspectors",
+    "noc2011": "9537",
+    "noc2011_title": "Other products assemblers, finishers and inspectors"
+  },
+  {
+    "noc2006": "9511",
+    "noc2006_title": "Machining Tool Operators",
+    "noc2011": "9417",
+    "noc2011_title": "Machining tool operators"
+  },
+  {
+    "noc2006": "9512",
+    "noc2006_title": "Forging Machine Operators",
+    "noc2011": "9416",
+    "noc2011_title": "Metalworking and forging machine operators"
+  },
+  {
+    "noc2006": "9513",
+    "noc2006_title": "Woodworking Machine Operators",
+    "noc2011": "9437",
+    "noc2011_title": "Woodworking machine operators"
+  },
+  {
+    "noc2006": "9514",
+    "noc2006_title": "Metalworking Machine Operators",
+    "noc2011": "9416",
+    "noc2011_title": "Metalworking and forging machine operators"
+  },
+  {
+    "noc2006": "9516",
+    "noc2006_title": "Other Metal Products Machine Operators",
+    "noc2011": "9418",
+    "noc2011_title": "Other Metal Products Machine Operators"
+  },
+  {
+    "noc2006": "9517",
+    "noc2006_title": "Other Products Machine Operators",
+    "noc2011": "9537",
+    "noc2011_title": "Other products assemblers, finishers and inspectors"
+  },
+  {
+    "noc2006": "9617",
+    "noc2006_title": "Labourers in Food, Beverage and Tobacco Processing",
+    "noc2011": "9617",
+    "noc2011_title": "Labourers in food, beverage and associated products processing"
+  },
+  {
+    "noc2006": "9618",
+    "noc2006_title": "Labourers in Fish Processing",
+    "noc2011": "9618",
+    "noc2011_title": "Labourers in fish and seafood processing"
+  }
+]
+
