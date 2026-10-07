@@ -3,7 +3,8 @@
     "code": "1",
     "title": "Managers",
     "Level": 1,
-    "isco1d": "1"
+    "isco1d": "1",
+    "extended_code": "1000"
   },
   {
     "code": "11",
@@ -11,7 +12,8 @@
     "Level": 2,
     "parent": "1",
     "isco1d": "1",
-    "isco2d": "11"
+    "isco2d": "11",
+    "extended_code": "1100"
   },
   {
     "code": "111",
@@ -20,7 +22,8 @@
     "parent": "11",
     "isco1d": "1",
     "isco2d": "11",
-    "isco3d": "111"
+    "isco3d": "111",
+    "extended_code": "1110"
   },
   {
     "code": "1111",
@@ -30,7 +33,8 @@
     "isco1d": "1",
     "isco2d": "11",
     "isco3d": "111",
-    "isco4d": "1111"
+    "isco4d": "1111",
+    "extended_code": "1111"
   },
   {
     "code": "1112",
@@ -40,7 +44,8 @@
     "isco1d": "1",
     "isco2d": "11",
     "isco3d": "111",
-    "isco4d": "1112"
+    "isco4d": "1112",
+    "extended_code": "1112"
   },
   {
     "code": "1113",
@@ -50,7 +55,8 @@
     "isco1d": "1",
     "isco2d": "11",
     "isco3d": "111",
-    "isco4d": "1113"
+    "isco4d": "1113",
+    "extended_code": "1113"
   },
   {
     "code": "1114",
@@ -60,7 +66,8 @@
     "isco1d": "1",
     "isco2d": "11",
     "isco3d": "111",
-    "isco4d": "1114"
+    "isco4d": "1114",
+    "extended_code": "1114"
   },
   {
     "code": "112",
@@ -69,7 +76,8 @@
     "parent": "11",
     "isco1d": "1",
     "isco2d": "11",
-    "isco3d": "112"
+    "isco3d": "112",
+    "extended_code": "1120"
   },
   {
     "code": "1120",
@@ -79,7 +87,8 @@
     "isco1d": "1",
     "isco2d": "11",
     "isco3d": "112",
-    "isco4d": "1120"
+    "isco4d": "1120",
+    "extended_code": "1120"
   },
   {
     "code": "12",
@@ -87,7 +96,8 @@
     "Level": 2,
     "parent": "1",
     "isco1d": "1",
-    "isco2d": "12"
+    "isco2d": "12",
+    "extended_code": "1200"
   },
   {
     "code": "121",
@@ -96,7 +106,8 @@
     "parent": "12",
     "isco1d": "1",
     "isco2d": "12",
-    "isco3d": "121"
+    "isco3d": "121",
+    "extended_code": "1210"
   },
   {
     "code": "1211",
@@ -106,7 +117,8 @@
     "isco1d": "1",
     "isco2d": "12",
     "isco3d": "121",
-    "isco4d": "1211"
+    "isco4d": "1211",
+    "extended_code": "1211"
   },
   {
     "code": "1212",
@@ -116,7 +128,8 @@
     "isco1d": "1",
     "isco2d": "12",
     "isco3d": "121",
-    "isco4d": "1212"
+    "isco4d": "1212",
+    "extended_code": "1212"
   },
   {
     "code": "1213",
@@ -126,7 +139,8 @@
     "isco1d": "1",
     "isco2d": "12",
     "isco3d": "121",
-    "isco4d": "1213"
+    "isco4d": "1213",
+    "extended_code": "1213"
   },
   {
     "code": "1219",
@@ -136,7 +150,8 @@
     "isco1d": "1",
     "isco2d": "12",
     "isco3d": "121",
-    "isco4d": "1219"
+    "isco4d": "1219",
+    "extended_code": "1219"
   },
   {
     "code": "122",
@@ -145,7 +160,8 @@
     "parent": "12",
     "isco1d": "1",
     "isco2d": "12",
-    "isco3d": "122"
+    "isco3d": "122",
+    "extended_code": "1220"
   },
   {
     "code": "1221",
@@ -155,7 +171,8 @@
     "isco1d": "1",
     "isco2d": "12",
     "isco3d": "122",
-    "isco4d": "1221"
+    "isco4d": "1221",
+    "extended_code": "1221"
   },
   {
     "code": "1222",
@@ -165,7 +182,8 @@
     "isco1d": "1",
     "isco2d": "12",
     "isco3d": "122",
-    "isco4d": "1222"
+    "isco4d": "1222",
+    "extended_code": "1222"
   },
   {
     "code": "1223",
@@ -175,7 +193,8 @@
     "isco1d": "1",
     "isco2d": "12",
     "isco3d": "122",
-    "isco4d": "1223"
+    "isco4d": "1223",
+    "extended_code": "1223"
   },
   {
     "code": "13",
@@ -183,7 +202,8 @@
     "Level": 2,
     "parent": "1",
     "isco1d": "1",
-    "isco2d": "13"
+    "isco2d": "13",
+    "extended_code": "1300"
   },
   {
     "code": "131",
@@ -192,7 +212,8 @@
     "parent": "13",
     "isco1d": "1",
     "isco2d": "13",
-    "isco3d": "131"
+    "isco3d": "131",
+    "extended_code": "1310"
   },
   {
     "code": "1311",
@@ -202,7 +223,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "131",
-    "isco4d": "1311"
+    "isco4d": "1311",
+    "extended_code": "1311"
   },
   {
     "code": "1312",
@@ -212,7 +234,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "131",
-    "isco4d": "1312"
+    "isco4d": "1312",
+    "extended_code": "1312"
   },
   {
     "code": "132",
@@ -221,7 +244,8 @@
     "parent": "13",
     "isco1d": "1",
     "isco2d": "13",
-    "isco3d": "132"
+    "isco3d": "132",
+    "extended_code": "1320"
   },
   {
     "code": "1321",
@@ -231,7 +255,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "132",
-    "isco4d": "1321"
+    "isco4d": "1321",
+    "extended_code": "1321"
   },
   {
     "code": "1322",
@@ -241,7 +266,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "132",
-    "isco4d": "1322"
+    "isco4d": "1322",
+    "extended_code": "1322"
   },
   {
     "code": "1323",
@@ -251,7 +277,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "132",
-    "isco4d": "1323"
+    "isco4d": "1323",
+    "extended_code": "1323"
   },
   {
     "code": "1324",
@@ -261,7 +288,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "132",
-    "isco4d": "1324"
+    "isco4d": "1324",
+    "extended_code": "1324"
   },
   {
     "code": "133",
@@ -270,7 +298,8 @@
     "parent": "13",
     "isco1d": "1",
     "isco2d": "13",
-    "isco3d": "133"
+    "isco3d": "133",
+    "extended_code": "1330"
   },
   {
     "code": "1330",
@@ -280,7 +309,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "133",
-    "isco4d": "1330"
+    "isco4d": "1330",
+    "extended_code": "1330"
   },
   {
     "code": "134",
@@ -289,7 +319,8 @@
     "parent": "13",
     "isco1d": "1",
     "isco2d": "13",
-    "isco3d": "134"
+    "isco3d": "134",
+    "extended_code": "1340"
   },
   {
     "code": "1341",
@@ -299,7 +330,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "134",
-    "isco4d": "1341"
+    "isco4d": "1341",
+    "extended_code": "1341"
   },
   {
     "code": "1342",
@@ -309,7 +341,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "134",
-    "isco4d": "1342"
+    "isco4d": "1342",
+    "extended_code": "1342"
   },
   {
     "code": "1343",
@@ -319,7 +352,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "134",
-    "isco4d": "1343"
+    "isco4d": "1343",
+    "extended_code": "1343"
   },
   {
     "code": "1344",
@@ -329,7 +363,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "134",
-    "isco4d": "1344"
+    "isco4d": "1344",
+    "extended_code": "1344"
   },
   {
     "code": "1345",
@@ -339,7 +374,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "134",
-    "isco4d": "1345"
+    "isco4d": "1345",
+    "extended_code": "1345"
   },
   {
     "code": "1346",
@@ -349,7 +385,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "134",
-    "isco4d": "1346"
+    "isco4d": "1346",
+    "extended_code": "1346"
   },
   {
     "code": "1349",
@@ -359,7 +396,8 @@
     "isco1d": "1",
     "isco2d": "13",
     "isco3d": "134",
-    "isco4d": "1349"
+    "isco4d": "1349",
+    "extended_code": "1349"
   },
   {
     "code": "14",
@@ -367,7 +405,8 @@
     "Level": 2,
     "parent": "1",
     "isco1d": "1",
-    "isco2d": "14"
+    "isco2d": "14",
+    "extended_code": "1400"
   },
   {
     "code": "141",
@@ -376,7 +415,8 @@
     "parent": "14",
     "isco1d": "1",
     "isco2d": "14",
-    "isco3d": "141"
+    "isco3d": "141",
+    "extended_code": "1410"
   },
   {
     "code": "1411",
@@ -386,7 +426,8 @@
     "isco1d": "1",
     "isco2d": "14",
     "isco3d": "141",
-    "isco4d": "1411"
+    "isco4d": "1411",
+    "extended_code": "1411"
   },
   {
     "code": "1412",
@@ -396,7 +437,8 @@
     "isco1d": "1",
     "isco2d": "14",
     "isco3d": "141",
-    "isco4d": "1412"
+    "isco4d": "1412",
+    "extended_code": "1412"
   },
   {
     "code": "142",
@@ -405,7 +447,8 @@
     "parent": "14",
     "isco1d": "1",
     "isco2d": "14",
-    "isco3d": "142"
+    "isco3d": "142",
+    "extended_code": "1420"
   },
   {
     "code": "1420",
@@ -415,7 +458,8 @@
     "isco1d": "1",
     "isco2d": "14",
     "isco3d": "142",
-    "isco4d": "1420"
+    "isco4d": "1420",
+    "extended_code": "1420"
   },
   {
     "code": "143",
@@ -424,7 +468,8 @@
     "parent": "14",
     "isco1d": "1",
     "isco2d": "14",
-    "isco3d": "143"
+    "isco3d": "143",
+    "extended_code": "1430"
   },
   {
     "code": "1431",
@@ -434,7 +479,8 @@
     "isco1d": "1",
     "isco2d": "14",
     "isco3d": "143",
-    "isco4d": "1431"
+    "isco4d": "1431",
+    "extended_code": "1431"
   },
   {
     "code": "1439",
@@ -444,13 +490,15 @@
     "isco1d": "1",
     "isco2d": "14",
     "isco3d": "143",
-    "isco4d": "1439"
+    "isco4d": "1439",
+    "extended_code": "1439"
   },
   {
     "code": "2",
     "title": "Professionals",
     "Level": 1,
-    "isco1d": "2"
+    "isco1d": "2",
+    "extended_code": "2000"
   },
   {
     "code": "21",
@@ -458,7 +506,8 @@
     "Level": 2,
     "parent": "2",
     "isco1d": "2",
-    "isco2d": "21"
+    "isco2d": "21",
+    "extended_code": "2100"
   },
   {
     "code": "211",
@@ -467,7 +516,8 @@
     "parent": "21",
     "isco1d": "2",
     "isco2d": "21",
-    "isco3d": "211"
+    "isco3d": "211",
+    "extended_code": "2110"
   },
   {
     "code": "2111",
@@ -477,7 +527,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "211",
-    "isco4d": "2111"
+    "isco4d": "2111",
+    "extended_code": "2111"
   },
   {
     "code": "2112",
@@ -487,7 +538,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "211",
-    "isco4d": "2112"
+    "isco4d": "2112",
+    "extended_code": "2112"
   },
   {
     "code": "2113",
@@ -497,7 +549,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "211",
-    "isco4d": "2113"
+    "isco4d": "2113",
+    "extended_code": "2113"
   },
   {
     "code": "2114",
@@ -507,7 +560,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "211",
-    "isco4d": "2114"
+    "isco4d": "2114",
+    "extended_code": "2114"
   },
   {
     "code": "212",
@@ -516,7 +570,8 @@
     "parent": "21",
     "isco1d": "2",
     "isco2d": "21",
-    "isco3d": "212"
+    "isco3d": "212",
+    "extended_code": "2120"
   },
   {
     "code": "2120",
@@ -526,7 +581,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "212",
-    "isco4d": "2120"
+    "isco4d": "2120",
+    "extended_code": "2120"
   },
   {
     "code": "213",
@@ -535,7 +591,8 @@
     "parent": "21",
     "isco1d": "2",
     "isco2d": "21",
-    "isco3d": "213"
+    "isco3d": "213",
+    "extended_code": "2130"
   },
   {
     "code": "2131",
@@ -545,7 +602,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "213",
-    "isco4d": "2131"
+    "isco4d": "2131",
+    "extended_code": "2131"
   },
   {
     "code": "2132",
@@ -555,7 +613,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "213",
-    "isco4d": "2132"
+    "isco4d": "2132",
+    "extended_code": "2132"
   },
   {
     "code": "2133",
@@ -565,7 +624,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "213",
-    "isco4d": "2133"
+    "isco4d": "2133",
+    "extended_code": "2133"
   },
   {
     "code": "214",
@@ -574,7 +634,8 @@
     "parent": "21",
     "isco1d": "2",
     "isco2d": "21",
-    "isco3d": "214"
+    "isco3d": "214",
+    "extended_code": "2140"
   },
   {
     "code": "2141",
@@ -584,7 +645,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "214",
-    "isco4d": "2141"
+    "isco4d": "2141",
+    "extended_code": "2141"
   },
   {
     "code": "2142",
@@ -594,7 +656,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "214",
-    "isco4d": "2142"
+    "isco4d": "2142",
+    "extended_code": "2142"
   },
   {
     "code": "2143",
@@ -604,7 +667,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "214",
-    "isco4d": "2143"
+    "isco4d": "2143",
+    "extended_code": "2143"
   },
   {
     "code": "2144",
@@ -614,7 +678,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "214",
-    "isco4d": "2144"
+    "isco4d": "2144",
+    "extended_code": "2144"
   },
   {
     "code": "2145",
@@ -624,7 +689,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "214",
-    "isco4d": "2145"
+    "isco4d": "2145",
+    "extended_code": "2145"
   },
   {
     "code": "2146",
@@ -634,7 +700,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "214",
-    "isco4d": "2146"
+    "isco4d": "2146",
+    "extended_code": "2146"
   },
   {
     "code": "2149",
@@ -644,7 +711,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "214",
-    "isco4d": "2149"
+    "isco4d": "2149",
+    "extended_code": "2149"
   },
   {
     "code": "215",
@@ -653,7 +721,8 @@
     "parent": "21",
     "isco1d": "2",
     "isco2d": "21",
-    "isco3d": "215"
+    "isco3d": "215",
+    "extended_code": "2150"
   },
   {
     "code": "2151",
@@ -663,7 +732,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "215",
-    "isco4d": "2151"
+    "isco4d": "2151",
+    "extended_code": "2151"
   },
   {
     "code": "2152",
@@ -673,7 +743,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "215",
-    "isco4d": "2152"
+    "isco4d": "2152",
+    "extended_code": "2152"
   },
   {
     "code": "2153",
@@ -683,7 +754,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "215",
-    "isco4d": "2153"
+    "isco4d": "2153",
+    "extended_code": "2153"
   },
   {
     "code": "216",
@@ -692,7 +764,8 @@
     "parent": "21",
     "isco1d": "2",
     "isco2d": "21",
-    "isco3d": "216"
+    "isco3d": "216",
+    "extended_code": "2160"
   },
   {
     "code": "2161",
@@ -702,7 +775,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "216",
-    "isco4d": "2161"
+    "isco4d": "2161",
+    "extended_code": "2161"
   },
   {
     "code": "2162",
@@ -712,7 +786,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "216",
-    "isco4d": "2162"
+    "isco4d": "2162",
+    "extended_code": "2162"
   },
   {
     "code": "2163",
@@ -722,7 +797,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "216",
-    "isco4d": "2163"
+    "isco4d": "2163",
+    "extended_code": "2163"
   },
   {
     "code": "2164",
@@ -732,7 +808,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "216",
-    "isco4d": "2164"
+    "isco4d": "2164",
+    "extended_code": "2164"
   },
   {
     "code": "2165",
@@ -742,7 +819,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "216",
-    "isco4d": "2165"
+    "isco4d": "2165",
+    "extended_code": "2165"
   },
   {
     "code": "2166",
@@ -752,7 +830,8 @@
     "isco1d": "2",
     "isco2d": "21",
     "isco3d": "216",
-    "isco4d": "2166"
+    "isco4d": "2166",
+    "extended_code": "2166"
   },
   {
     "code": "22",
@@ -760,7 +839,8 @@
     "Level": 2,
     "parent": "2",
     "isco1d": "2",
-    "isco2d": "22"
+    "isco2d": "22",
+    "extended_code": "2200"
   },
   {
     "code": "221",
@@ -769,7 +849,8 @@
     "parent": "22",
     "isco1d": "2",
     "isco2d": "22",
-    "isco3d": "221"
+    "isco3d": "221",
+    "extended_code": "2210"
   },
   {
     "code": "2211",
@@ -779,7 +860,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "221",
-    "isco4d": "2211"
+    "isco4d": "2211",
+    "extended_code": "2211"
   },
   {
     "code": "2212",
@@ -789,7 +871,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "221",
-    "isco4d": "2212"
+    "isco4d": "2212",
+    "extended_code": "2212"
   },
   {
     "code": "222",
@@ -798,7 +881,8 @@
     "parent": "22",
     "isco1d": "2",
     "isco2d": "22",
-    "isco3d": "222"
+    "isco3d": "222",
+    "extended_code": "2220"
   },
   {
     "code": "2221",
@@ -808,7 +892,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "222",
-    "isco4d": "2221"
+    "isco4d": "2221",
+    "extended_code": "2221"
   },
   {
     "code": "2222",
@@ -818,7 +903,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "222",
-    "isco4d": "2222"
+    "isco4d": "2222",
+    "extended_code": "2222"
   },
   {
     "code": "223",
@@ -827,7 +913,8 @@
     "parent": "22",
     "isco1d": "2",
     "isco2d": "22",
-    "isco3d": "223"
+    "isco3d": "223",
+    "extended_code": "2230"
   },
   {
     "code": "2230",
@@ -837,7 +924,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "223",
-    "isco4d": "2230"
+    "isco4d": "2230",
+    "extended_code": "2230"
   },
   {
     "code": "224",
@@ -846,7 +934,8 @@
     "parent": "22",
     "isco1d": "2",
     "isco2d": "22",
-    "isco3d": "224"
+    "isco3d": "224",
+    "extended_code": "2240"
   },
   {
     "code": "2240",
@@ -856,7 +945,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "224",
-    "isco4d": "2240"
+    "isco4d": "2240",
+    "extended_code": "2240"
   },
   {
     "code": "225",
@@ -865,7 +955,8 @@
     "parent": "22",
     "isco1d": "2",
     "isco2d": "22",
-    "isco3d": "225"
+    "isco3d": "225",
+    "extended_code": "2250"
   },
   {
     "code": "2250",
@@ -875,7 +966,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "225",
-    "isco4d": "2250"
+    "isco4d": "2250",
+    "extended_code": "2250"
   },
   {
     "code": "226",
@@ -884,7 +976,8 @@
     "parent": "22",
     "isco1d": "2",
     "isco2d": "22",
-    "isco3d": "226"
+    "isco3d": "226",
+    "extended_code": "2260"
   },
   {
     "code": "2261",
@@ -894,7 +987,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "226",
-    "isco4d": "2261"
+    "isco4d": "2261",
+    "extended_code": "2261"
   },
   {
     "code": "2262",
@@ -904,7 +998,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "226",
-    "isco4d": "2262"
+    "isco4d": "2262",
+    "extended_code": "2262"
   },
   {
     "code": "2263",
@@ -914,7 +1009,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "226",
-    "isco4d": "2263"
+    "isco4d": "2263",
+    "extended_code": "2263"
   },
   {
     "code": "2264",
@@ -924,7 +1020,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "226",
-    "isco4d": "2264"
+    "isco4d": "2264",
+    "extended_code": "2264"
   },
   {
     "code": "2265",
@@ -934,7 +1031,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "226",
-    "isco4d": "2265"
+    "isco4d": "2265",
+    "extended_code": "2265"
   },
   {
     "code": "2266",
@@ -944,7 +1042,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "226",
-    "isco4d": "2266"
+    "isco4d": "2266",
+    "extended_code": "2266"
   },
   {
     "code": "2267",
@@ -954,7 +1053,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "226",
-    "isco4d": "2267"
+    "isco4d": "2267",
+    "extended_code": "2267"
   },
   {
     "code": "2269",
@@ -964,7 +1064,8 @@
     "isco1d": "2",
     "isco2d": "22",
     "isco3d": "226",
-    "isco4d": "2269"
+    "isco4d": "2269",
+    "extended_code": "2269"
   },
   {
     "code": "23",
@@ -972,7 +1073,8 @@
     "Level": 2,
     "parent": "2",
     "isco1d": "2",
-    "isco2d": "23"
+    "isco2d": "23",
+    "extended_code": "2300"
   },
   {
     "code": "231",
@@ -981,7 +1083,8 @@
     "parent": "23",
     "isco1d": "2",
     "isco2d": "23",
-    "isco3d": "231"
+    "isco3d": "231",
+    "extended_code": "2310"
   },
   {
     "code": "2310",
@@ -991,7 +1094,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "231",
-    "isco4d": "2310"
+    "isco4d": "2310",
+    "extended_code": "2310"
   },
   {
     "code": "232",
@@ -1000,7 +1104,8 @@
     "parent": "23",
     "isco1d": "2",
     "isco2d": "23",
-    "isco3d": "232"
+    "isco3d": "232",
+    "extended_code": "2320"
   },
   {
     "code": "2320",
@@ -1010,7 +1115,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "232",
-    "isco4d": "2320"
+    "isco4d": "2320",
+    "extended_code": "2320"
   },
   {
     "code": "233",
@@ -1019,7 +1125,8 @@
     "parent": "23",
     "isco1d": "2",
     "isco2d": "23",
-    "isco3d": "233"
+    "isco3d": "233",
+    "extended_code": "2330"
   },
   {
     "code": "2330",
@@ -1029,7 +1136,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "233",
-    "isco4d": "2330"
+    "isco4d": "2330",
+    "extended_code": "2330"
   },
   {
     "code": "234",
@@ -1038,7 +1146,8 @@
     "parent": "23",
     "isco1d": "2",
     "isco2d": "23",
-    "isco3d": "234"
+    "isco3d": "234",
+    "extended_code": "2340"
   },
   {
     "code": "2341",
@@ -1048,7 +1157,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "234",
-    "isco4d": "2341"
+    "isco4d": "2341",
+    "extended_code": "2341"
   },
   {
     "code": "2342",
@@ -1058,7 +1168,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "234",
-    "isco4d": "2342"
+    "isco4d": "2342",
+    "extended_code": "2342"
   },
   {
     "code": "235",
@@ -1067,7 +1178,8 @@
     "parent": "23",
     "isco1d": "2",
     "isco2d": "23",
-    "isco3d": "235"
+    "isco3d": "235",
+    "extended_code": "2350"
   },
   {
     "code": "2351",
@@ -1077,7 +1189,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "235",
-    "isco4d": "2351"
+    "isco4d": "2351",
+    "extended_code": "2351"
   },
   {
     "code": "2352",
@@ -1087,7 +1200,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "235",
-    "isco4d": "2352"
+    "isco4d": "2352",
+    "extended_code": "2352"
   },
   {
     "code": "2353",
@@ -1097,7 +1211,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "235",
-    "isco4d": "2353"
+    "isco4d": "2353",
+    "extended_code": "2353"
   },
   {
     "code": "2354",
@@ -1107,7 +1222,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "235",
-    "isco4d": "2354"
+    "isco4d": "2354",
+    "extended_code": "2354"
   },
   {
     "code": "2355",
@@ -1117,7 +1233,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "235",
-    "isco4d": "2355"
+    "isco4d": "2355",
+    "extended_code": "2355"
   },
   {
     "code": "2356",
@@ -1127,7 +1244,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "235",
-    "isco4d": "2356"
+    "isco4d": "2356",
+    "extended_code": "2356"
   },
   {
     "code": "2359",
@@ -1137,7 +1255,8 @@
     "isco1d": "2",
     "isco2d": "23",
     "isco3d": "235",
-    "isco4d": "2359"
+    "isco4d": "2359",
+    "extended_code": "2359"
   },
   {
     "code": "24",
@@ -1145,7 +1264,8 @@
     "Level": 2,
     "parent": "2",
     "isco1d": "2",
-    "isco2d": "24"
+    "isco2d": "24",
+    "extended_code": "2400"
   },
   {
     "code": "241",
@@ -1154,7 +1274,8 @@
     "parent": "24",
     "isco1d": "2",
     "isco2d": "24",
-    "isco3d": "241"
+    "isco3d": "241",
+    "extended_code": "2410"
   },
   {
     "code": "2411",
@@ -1164,7 +1285,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "241",
-    "isco4d": "2411"
+    "isco4d": "2411",
+    "extended_code": "2411"
   },
   {
     "code": "2412",
@@ -1174,7 +1296,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "241",
-    "isco4d": "2412"
+    "isco4d": "2412",
+    "extended_code": "2412"
   },
   {
     "code": "2413",
@@ -1184,7 +1307,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "241",
-    "isco4d": "2413"
+    "isco4d": "2413",
+    "extended_code": "2413"
   },
   {
     "code": "242",
@@ -1193,7 +1317,8 @@
     "parent": "24",
     "isco1d": "2",
     "isco2d": "24",
-    "isco3d": "242"
+    "isco3d": "242",
+    "extended_code": "2420"
   },
   {
     "code": "2421",
@@ -1203,7 +1328,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "242",
-    "isco4d": "2421"
+    "isco4d": "2421",
+    "extended_code": "2421"
   },
   {
     "code": "2422",
@@ -1213,7 +1339,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "242",
-    "isco4d": "2422"
+    "isco4d": "2422",
+    "extended_code": "2422"
   },
   {
     "code": "2423",
@@ -1223,7 +1350,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "242",
-    "isco4d": "2423"
+    "isco4d": "2423",
+    "extended_code": "2423"
   },
   {
     "code": "2424",
@@ -1233,7 +1361,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "242",
-    "isco4d": "2424"
+    "isco4d": "2424",
+    "extended_code": "2424"
   },
   {
     "code": "243",
@@ -1242,7 +1371,8 @@
     "parent": "24",
     "isco1d": "2",
     "isco2d": "24",
-    "isco3d": "243"
+    "isco3d": "243",
+    "extended_code": "2430"
   },
   {
     "code": "2431",
@@ -1252,7 +1382,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "243",
-    "isco4d": "2431"
+    "isco4d": "2431",
+    "extended_code": "2431"
   },
   {
     "code": "2432",
@@ -1262,7 +1393,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "243",
-    "isco4d": "2432"
+    "isco4d": "2432",
+    "extended_code": "2432"
   },
   {
     "code": "2433",
@@ -1272,7 +1404,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "243",
-    "isco4d": "2433"
+    "isco4d": "2433",
+    "extended_code": "2433"
   },
   {
     "code": "2434",
@@ -1282,7 +1415,8 @@
     "isco1d": "2",
     "isco2d": "24",
     "isco3d": "243",
-    "isco4d": "2434"
+    "isco4d": "2434",
+    "extended_code": "2434"
   },
   {
     "code": "25",
@@ -1290,7 +1424,8 @@
     "Level": 2,
     "parent": "2",
     "isco1d": "2",
-    "isco2d": "25"
+    "isco2d": "25",
+    "extended_code": "2500"
   },
   {
     "code": "251",
@@ -1299,7 +1434,8 @@
     "parent": "25",
     "isco1d": "2",
     "isco2d": "25",
-    "isco3d": "251"
+    "isco3d": "251",
+    "extended_code": "2510"
   },
   {
     "code": "2511",
@@ -1309,7 +1445,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "251",
-    "isco4d": "2511"
+    "isco4d": "2511",
+    "extended_code": "2511"
   },
   {
     "code": "2512",
@@ -1319,7 +1456,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "251",
-    "isco4d": "2512"
+    "isco4d": "2512",
+    "extended_code": "2512"
   },
   {
     "code": "2513",
@@ -1329,7 +1467,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "251",
-    "isco4d": "2513"
+    "isco4d": "2513",
+    "extended_code": "2513"
   },
   {
     "code": "2514",
@@ -1339,7 +1478,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "251",
-    "isco4d": "2514"
+    "isco4d": "2514",
+    "extended_code": "2514"
   },
   {
     "code": "2519",
@@ -1349,7 +1489,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "251",
-    "isco4d": "2519"
+    "isco4d": "2519",
+    "extended_code": "2519"
   },
   {
     "code": "252",
@@ -1358,7 +1499,8 @@
     "parent": "25",
     "isco1d": "2",
     "isco2d": "25",
-    "isco3d": "252"
+    "isco3d": "252",
+    "extended_code": "2520"
   },
   {
     "code": "2521",
@@ -1368,7 +1510,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "252",
-    "isco4d": "2521"
+    "isco4d": "2521",
+    "extended_code": "2521"
   },
   {
     "code": "2522",
@@ -1378,7 +1521,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "252",
-    "isco4d": "2522"
+    "isco4d": "2522",
+    "extended_code": "2522"
   },
   {
     "code": "2523",
@@ -1388,7 +1532,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "252",
-    "isco4d": "2523"
+    "isco4d": "2523",
+    "extended_code": "2523"
   },
   {
     "code": "2529",
@@ -1398,7 +1543,8 @@
     "isco1d": "2",
     "isco2d": "25",
     "isco3d": "252",
-    "isco4d": "2529"
+    "isco4d": "2529",
+    "extended_code": "2529"
   },
   {
     "code": "26",
@@ -1406,7 +1552,8 @@
     "Level": 2,
     "parent": "2",
     "isco1d": "2",
-    "isco2d": "26"
+    "isco2d": "26",
+    "extended_code": "2600"
   },
   {
     "code": "261",
@@ -1415,7 +1562,8 @@
     "parent": "26",
     "isco1d": "2",
     "isco2d": "26",
-    "isco3d": "261"
+    "isco3d": "261",
+    "extended_code": "2610"
   },
   {
     "code": "2611",
@@ -1425,7 +1573,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "261",
-    "isco4d": "2611"
+    "isco4d": "2611",
+    "extended_code": "2611"
   },
   {
     "code": "2612",
@@ -1435,7 +1584,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "261",
-    "isco4d": "2612"
+    "isco4d": "2612",
+    "extended_code": "2612"
   },
   {
     "code": "2619",
@@ -1445,7 +1595,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "261",
-    "isco4d": "2619"
+    "isco4d": "2619",
+    "extended_code": "2619"
   },
   {
     "code": "262",
@@ -1454,7 +1605,8 @@
     "parent": "26",
     "isco1d": "2",
     "isco2d": "26",
-    "isco3d": "262"
+    "isco3d": "262",
+    "extended_code": "2620"
   },
   {
     "code": "2621",
@@ -1464,7 +1616,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "262",
-    "isco4d": "2621"
+    "isco4d": "2621",
+    "extended_code": "2621"
   },
   {
     "code": "2622",
@@ -1474,7 +1627,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "262",
-    "isco4d": "2622"
+    "isco4d": "2622",
+    "extended_code": "2622"
   },
   {
     "code": "263",
@@ -1483,7 +1637,8 @@
     "parent": "26",
     "isco1d": "2",
     "isco2d": "26",
-    "isco3d": "263"
+    "isco3d": "263",
+    "extended_code": "2630"
   },
   {
     "code": "2631",
@@ -1493,7 +1648,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "263",
-    "isco4d": "2631"
+    "isco4d": "2631",
+    "extended_code": "2631"
   },
   {
     "code": "2632",
@@ -1503,7 +1659,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "263",
-    "isco4d": "2632"
+    "isco4d": "2632",
+    "extended_code": "2632"
   },
   {
     "code": "2633",
@@ -1513,7 +1670,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "263",
-    "isco4d": "2633"
+    "isco4d": "2633",
+    "extended_code": "2633"
   },
   {
     "code": "2634",
@@ -1523,7 +1681,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "263",
-    "isco4d": "2634"
+    "isco4d": "2634",
+    "extended_code": "2634"
   },
   {
     "code": "2635",
@@ -1533,7 +1692,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "263",
-    "isco4d": "2635"
+    "isco4d": "2635",
+    "extended_code": "2635"
   },
   {
     "code": "2636",
@@ -1543,7 +1703,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "263",
-    "isco4d": "2636"
+    "isco4d": "2636",
+    "extended_code": "2636"
   },
   {
     "code": "264",
@@ -1552,7 +1713,8 @@
     "parent": "26",
     "isco1d": "2",
     "isco2d": "26",
-    "isco3d": "264"
+    "isco3d": "264",
+    "extended_code": "2640"
   },
   {
     "code": "2641",
@@ -1562,7 +1724,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "264",
-    "isco4d": "2641"
+    "isco4d": "2641",
+    "extended_code": "2641"
   },
   {
     "code": "2642",
@@ -1572,7 +1735,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "264",
-    "isco4d": "2642"
+    "isco4d": "2642",
+    "extended_code": "2642"
   },
   {
     "code": "2643",
@@ -1582,7 +1746,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "264",
-    "isco4d": "2643"
+    "isco4d": "2643",
+    "extended_code": "2643"
   },
   {
     "code": "265",
@@ -1591,7 +1756,8 @@
     "parent": "26",
     "isco1d": "2",
     "isco2d": "26",
-    "isco3d": "265"
+    "isco3d": "265",
+    "extended_code": "2650"
   },
   {
     "code": "2651",
@@ -1601,7 +1767,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "265",
-    "isco4d": "2651"
+    "isco4d": "2651",
+    "extended_code": "2651"
   },
   {
     "code": "2652",
@@ -1611,7 +1778,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "265",
-    "isco4d": "2652"
+    "isco4d": "2652",
+    "extended_code": "2652"
   },
   {
     "code": "2653",
@@ -1621,7 +1789,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "265",
-    "isco4d": "2653"
+    "isco4d": "2653",
+    "extended_code": "2653"
   },
   {
     "code": "2654",
@@ -1631,7 +1800,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "265",
-    "isco4d": "2654"
+    "isco4d": "2654",
+    "extended_code": "2654"
   },
   {
     "code": "2655",
@@ -1641,7 +1811,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "265",
-    "isco4d": "2655"
+    "isco4d": "2655",
+    "extended_code": "2655"
   },
   {
     "code": "2656",
@@ -1651,7 +1822,8 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "265",
-    "isco4d": "2656"
+    "isco4d": "2656",
+    "extended_code": "2656"
   },
   {
     "code": "2659",
@@ -1661,13 +1833,15 @@
     "isco1d": "2",
     "isco2d": "26",
     "isco3d": "265",
-    "isco4d": "2659"
+    "isco4d": "2659",
+    "extended_code": "2659"
   },
   {
     "code": "3",
     "title": "Technicians and Associate Professionals",
     "Level": 1,
-    "isco1d": "3"
+    "isco1d": "3",
+    "extended_code": "3000"
   },
   {
     "code": "31",
@@ -1675,7 +1849,8 @@
     "Level": 2,
     "parent": "3",
     "isco1d": "3",
-    "isco2d": "31"
+    "isco2d": "31",
+    "extended_code": "3100"
   },
   {
     "code": "311",
@@ -1684,7 +1859,8 @@
     "parent": "31",
     "isco1d": "3",
     "isco2d": "31",
-    "isco3d": "311"
+    "isco3d": "311",
+    "extended_code": "3110"
   },
   {
     "code": "3111",
@@ -1694,7 +1870,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3111"
+    "isco4d": "3111",
+    "extended_code": "3111"
   },
   {
     "code": "3112",
@@ -1704,7 +1881,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3112"
+    "isco4d": "3112",
+    "extended_code": "3112"
   },
   {
     "code": "3113",
@@ -1714,7 +1892,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3113"
+    "isco4d": "3113",
+    "extended_code": "3113"
   },
   {
     "code": "3114",
@@ -1724,7 +1903,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3114"
+    "isco4d": "3114",
+    "extended_code": "3114"
   },
   {
     "code": "3115",
@@ -1734,7 +1914,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3115"
+    "isco4d": "3115",
+    "extended_code": "3115"
   },
   {
     "code": "3116",
@@ -1744,7 +1925,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3116"
+    "isco4d": "3116",
+    "extended_code": "3116"
   },
   {
     "code": "3117",
@@ -1754,7 +1936,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3117"
+    "isco4d": "3117",
+    "extended_code": "3117"
   },
   {
     "code": "3118",
@@ -1764,7 +1947,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3118"
+    "isco4d": "3118",
+    "extended_code": "3118"
   },
   {
     "code": "3119",
@@ -1774,7 +1958,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "311",
-    "isco4d": "3119"
+    "isco4d": "3119",
+    "extended_code": "3119"
   },
   {
     "code": "312",
@@ -1783,7 +1968,8 @@
     "parent": "31",
     "isco1d": "3",
     "isco2d": "31",
-    "isco3d": "312"
+    "isco3d": "312",
+    "extended_code": "3120"
   },
   {
     "code": "3121",
@@ -1793,7 +1979,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "312",
-    "isco4d": "3121"
+    "isco4d": "3121",
+    "extended_code": "3121"
   },
   {
     "code": "3122",
@@ -1803,7 +1990,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "312",
-    "isco4d": "3122"
+    "isco4d": "3122",
+    "extended_code": "3122"
   },
   {
     "code": "3123",
@@ -1813,7 +2001,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "312",
-    "isco4d": "3123"
+    "isco4d": "3123",
+    "extended_code": "3123"
   },
   {
     "code": "313",
@@ -1822,7 +2011,8 @@
     "parent": "31",
     "isco1d": "3",
     "isco2d": "31",
-    "isco3d": "313"
+    "isco3d": "313",
+    "extended_code": "3130"
   },
   {
     "code": "3131",
@@ -1832,7 +2022,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "313",
-    "isco4d": "3131"
+    "isco4d": "3131",
+    "extended_code": "3131"
   },
   {
     "code": "3132",
@@ -1842,7 +2033,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "313",
-    "isco4d": "3132"
+    "isco4d": "3132",
+    "extended_code": "3132"
   },
   {
     "code": "3133",
@@ -1852,7 +2044,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "313",
-    "isco4d": "3133"
+    "isco4d": "3133",
+    "extended_code": "3133"
   },
   {
     "code": "3134",
@@ -1862,7 +2055,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "313",
-    "isco4d": "3134"
+    "isco4d": "3134",
+    "extended_code": "3134"
   },
   {
     "code": "3135",
@@ -1872,7 +2066,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "313",
-    "isco4d": "3135"
+    "isco4d": "3135",
+    "extended_code": "3135"
   },
   {
     "code": "3139",
@@ -1882,7 +2077,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "313",
-    "isco4d": "3139"
+    "isco4d": "3139",
+    "extended_code": "3139"
   },
   {
     "code": "314",
@@ -1891,7 +2087,8 @@
     "parent": "31",
     "isco1d": "3",
     "isco2d": "31",
-    "isco3d": "314"
+    "isco3d": "314",
+    "extended_code": "3140"
   },
   {
     "code": "3141",
@@ -1901,7 +2098,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "314",
-    "isco4d": "3141"
+    "isco4d": "3141",
+    "extended_code": "3141"
   },
   {
     "code": "3142",
@@ -1911,7 +2109,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "314",
-    "isco4d": "3142"
+    "isco4d": "3142",
+    "extended_code": "3142"
   },
   {
     "code": "3143",
@@ -1921,7 +2120,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "314",
-    "isco4d": "3143"
+    "isco4d": "3143",
+    "extended_code": "3143"
   },
   {
     "code": "315",
@@ -1930,7 +2130,8 @@
     "parent": "31",
     "isco1d": "3",
     "isco2d": "31",
-    "isco3d": "315"
+    "isco3d": "315",
+    "extended_code": "3150"
   },
   {
     "code": "3151",
@@ -1940,7 +2141,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "315",
-    "isco4d": "3151"
+    "isco4d": "3151",
+    "extended_code": "3151"
   },
   {
     "code": "3152",
@@ -1950,7 +2152,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "315",
-    "isco4d": "3152"
+    "isco4d": "3152",
+    "extended_code": "3152"
   },
   {
     "code": "3153",
@@ -1960,7 +2163,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "315",
-    "isco4d": "3153"
+    "isco4d": "3153",
+    "extended_code": "3153"
   },
   {
     "code": "3154",
@@ -1970,7 +2174,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "315",
-    "isco4d": "3154"
+    "isco4d": "3154",
+    "extended_code": "3154"
   },
   {
     "code": "3155",
@@ -1980,7 +2185,8 @@
     "isco1d": "3",
     "isco2d": "31",
     "isco3d": "315",
-    "isco4d": "3155"
+    "isco4d": "3155",
+    "extended_code": "3155"
   },
   {
     "code": "32",
@@ -1988,7 +2194,8 @@
     "Level": 2,
     "parent": "3",
     "isco1d": "3",
-    "isco2d": "32"
+    "isco2d": "32",
+    "extended_code": "3200"
   },
   {
     "code": "321",
@@ -1997,7 +2204,8 @@
     "parent": "32",
     "isco1d": "3",
     "isco2d": "32",
-    "isco3d": "321"
+    "isco3d": "321",
+    "extended_code": "3210"
   },
   {
     "code": "3211",
@@ -2007,7 +2215,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "321",
-    "isco4d": "3211"
+    "isco4d": "3211",
+    "extended_code": "3211"
   },
   {
     "code": "3212",
@@ -2017,7 +2226,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "321",
-    "isco4d": "3212"
+    "isco4d": "3212",
+    "extended_code": "3212"
   },
   {
     "code": "3213",
@@ -2027,7 +2237,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "321",
-    "isco4d": "3213"
+    "isco4d": "3213",
+    "extended_code": "3213"
   },
   {
     "code": "3214",
@@ -2037,7 +2248,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "321",
-    "isco4d": "3214"
+    "isco4d": "3214",
+    "extended_code": "3214"
   },
   {
     "code": "322",
@@ -2046,7 +2258,8 @@
     "parent": "32",
     "isco1d": "3",
     "isco2d": "32",
-    "isco3d": "322"
+    "isco3d": "322",
+    "extended_code": "3220"
   },
   {
     "code": "3221",
@@ -2056,7 +2269,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "322",
-    "isco4d": "3221"
+    "isco4d": "3221",
+    "extended_code": "3221"
   },
   {
     "code": "3222",
@@ -2066,7 +2280,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "322",
-    "isco4d": "3222"
+    "isco4d": "3222",
+    "extended_code": "3222"
   },
   {
     "code": "323",
@@ -2075,7 +2290,8 @@
     "parent": "32",
     "isco1d": "3",
     "isco2d": "32",
-    "isco3d": "323"
+    "isco3d": "323",
+    "extended_code": "3230"
   },
   {
     "code": "3230",
@@ -2085,7 +2301,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "323",
-    "isco4d": "3230"
+    "isco4d": "3230",
+    "extended_code": "3230"
   },
   {
     "code": "324",
@@ -2094,7 +2311,8 @@
     "parent": "32",
     "isco1d": "3",
     "isco2d": "32",
-    "isco3d": "324"
+    "isco3d": "324",
+    "extended_code": "3240"
   },
   {
     "code": "3240",
@@ -2104,7 +2322,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "324",
-    "isco4d": "3240"
+    "isco4d": "3240",
+    "extended_code": "3240"
   },
   {
     "code": "325",
@@ -2113,7 +2332,8 @@
     "parent": "32",
     "isco1d": "3",
     "isco2d": "32",
-    "isco3d": "325"
+    "isco3d": "325",
+    "extended_code": "3250"
   },
   {
     "code": "3251",
@@ -2123,7 +2343,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3251"
+    "isco4d": "3251",
+    "extended_code": "3251"
   },
   {
     "code": "3252",
@@ -2133,7 +2354,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3252"
+    "isco4d": "3252",
+    "extended_code": "3252"
   },
   {
     "code": "3253",
@@ -2143,7 +2365,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3253"
+    "isco4d": "3253",
+    "extended_code": "3253"
   },
   {
     "code": "3254",
@@ -2153,7 +2376,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3254"
+    "isco4d": "3254",
+    "extended_code": "3254"
   },
   {
     "code": "3255",
@@ -2163,7 +2387,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3255"
+    "isco4d": "3255",
+    "extended_code": "3255"
   },
   {
     "code": "3256",
@@ -2173,7 +2398,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3256"
+    "isco4d": "3256",
+    "extended_code": "3256"
   },
   {
     "code": "3257",
@@ -2183,7 +2409,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3257"
+    "isco4d": "3257",
+    "extended_code": "3257"
   },
   {
     "code": "3258",
@@ -2193,7 +2420,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3258"
+    "isco4d": "3258",
+    "extended_code": "3258"
   },
   {
     "code": "3259",
@@ -2203,7 +2431,8 @@
     "isco1d": "3",
     "isco2d": "32",
     "isco3d": "325",
-    "isco4d": "3259"
+    "isco4d": "3259",
+    "extended_code": "3259"
   },
   {
     "code": "33",
@@ -2211,7 +2440,8 @@
     "Level": 2,
     "parent": "3",
     "isco1d": "3",
-    "isco2d": "33"
+    "isco2d": "33",
+    "extended_code": "3300"
   },
   {
     "code": "331",
@@ -2220,7 +2450,8 @@
     "parent": "33",
     "isco1d": "3",
     "isco2d": "33",
-    "isco3d": "331"
+    "isco3d": "331",
+    "extended_code": "3310"
   },
   {
     "code": "3311",
@@ -2230,7 +2461,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "331",
-    "isco4d": "3311"
+    "isco4d": "3311",
+    "extended_code": "3311"
   },
   {
     "code": "3312",
@@ -2240,7 +2472,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "331",
-    "isco4d": "3312"
+    "isco4d": "3312",
+    "extended_code": "3312"
   },
   {
     "code": "3313",
@@ -2250,7 +2483,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "331",
-    "isco4d": "3313"
+    "isco4d": "3313",
+    "extended_code": "3313"
   },
   {
     "code": "3314",
@@ -2260,7 +2494,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "331",
-    "isco4d": "3314"
+    "isco4d": "3314",
+    "extended_code": "3314"
   },
   {
     "code": "3315",
@@ -2270,7 +2505,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "331",
-    "isco4d": "3315"
+    "isco4d": "3315",
+    "extended_code": "3315"
   },
   {
     "code": "332",
@@ -2279,7 +2515,8 @@
     "parent": "33",
     "isco1d": "3",
     "isco2d": "33",
-    "isco3d": "332"
+    "isco3d": "332",
+    "extended_code": "3320"
   },
   {
     "code": "3321",
@@ -2289,7 +2526,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "332",
-    "isco4d": "3321"
+    "isco4d": "3321",
+    "extended_code": "3321"
   },
   {
     "code": "3322",
@@ -2299,7 +2537,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "332",
-    "isco4d": "3322"
+    "isco4d": "3322",
+    "extended_code": "3322"
   },
   {
     "code": "3323",
@@ -2309,7 +2548,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "332",
-    "isco4d": "3323"
+    "isco4d": "3323",
+    "extended_code": "3323"
   },
   {
     "code": "3324",
@@ -2319,7 +2559,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "332",
-    "isco4d": "3324"
+    "isco4d": "3324",
+    "extended_code": "3324"
   },
   {
     "code": "333",
@@ -2328,7 +2569,8 @@
     "parent": "33",
     "isco1d": "3",
     "isco2d": "33",
-    "isco3d": "333"
+    "isco3d": "333",
+    "extended_code": "3330"
   },
   {
     "code": "3331",
@@ -2338,7 +2580,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "333",
-    "isco4d": "3331"
+    "isco4d": "3331",
+    "extended_code": "3331"
   },
   {
     "code": "3332",
@@ -2348,7 +2591,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "333",
-    "isco4d": "3332"
+    "isco4d": "3332",
+    "extended_code": "3332"
   },
   {
     "code": "3333",
@@ -2358,7 +2602,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "333",
-    "isco4d": "3333"
+    "isco4d": "3333",
+    "extended_code": "3333"
   },
   {
     "code": "3334",
@@ -2368,7 +2613,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "333",
-    "isco4d": "3334"
+    "isco4d": "3334",
+    "extended_code": "3334"
   },
   {
     "code": "3339",
@@ -2378,7 +2624,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "333",
-    "isco4d": "3339"
+    "isco4d": "3339",
+    "extended_code": "3339"
   },
   {
     "code": "334",
@@ -2387,7 +2634,8 @@
     "parent": "33",
     "isco1d": "3",
     "isco2d": "33",
-    "isco3d": "334"
+    "isco3d": "334",
+    "extended_code": "3340"
   },
   {
     "code": "3341",
@@ -2397,7 +2645,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "334",
-    "isco4d": "3341"
+    "isco4d": "3341",
+    "extended_code": "3341"
   },
   {
     "code": "3342",
@@ -2407,7 +2656,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "334",
-    "isco4d": "3342"
+    "isco4d": "3342",
+    "extended_code": "3342"
   },
   {
     "code": "3343",
@@ -2417,7 +2667,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "334",
-    "isco4d": "3343"
+    "isco4d": "3343",
+    "extended_code": "3343"
   },
   {
     "code": "3344",
@@ -2427,7 +2678,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "334",
-    "isco4d": "3344"
+    "isco4d": "3344",
+    "extended_code": "3344"
   },
   {
     "code": "335",
@@ -2436,7 +2688,8 @@
     "parent": "33",
     "isco1d": "3",
     "isco2d": "33",
-    "isco3d": "335"
+    "isco3d": "335",
+    "extended_code": "3350"
   },
   {
     "code": "3351",
@@ -2446,7 +2699,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "335",
-    "isco4d": "3351"
+    "isco4d": "3351",
+    "extended_code": "3351"
   },
   {
     "code": "3352",
@@ -2456,7 +2710,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "335",
-    "isco4d": "3352"
+    "isco4d": "3352",
+    "extended_code": "3352"
   },
   {
     "code": "3353",
@@ -2466,7 +2721,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "335",
-    "isco4d": "3353"
+    "isco4d": "3353",
+    "extended_code": "3353"
   },
   {
     "code": "3354",
@@ -2476,7 +2732,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "335",
-    "isco4d": "3354"
+    "isco4d": "3354",
+    "extended_code": "3354"
   },
   {
     "code": "3355",
@@ -2486,7 +2743,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "335",
-    "isco4d": "3355"
+    "isco4d": "3355",
+    "extended_code": "3355"
   },
   {
     "code": "3359",
@@ -2496,7 +2754,8 @@
     "isco1d": "3",
     "isco2d": "33",
     "isco3d": "335",
-    "isco4d": "3359"
+    "isco4d": "3359",
+    "extended_code": "3359"
   },
   {
     "code": "34",
@@ -2504,7 +2763,8 @@
     "Level": 2,
     "parent": "3",
     "isco1d": "3",
-    "isco2d": "34"
+    "isco2d": "34",
+    "extended_code": "3400"
   },
   {
     "code": "341",
@@ -2513,7 +2773,8 @@
     "parent": "34",
     "isco1d": "3",
     "isco2d": "34",
-    "isco3d": "341"
+    "isco3d": "341",
+    "extended_code": "3410"
   },
   {
     "code": "3411",
@@ -2523,7 +2784,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "341",
-    "isco4d": "3411"
+    "isco4d": "3411",
+    "extended_code": "3411"
   },
   {
     "code": "3412",
@@ -2533,7 +2795,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "341",
-    "isco4d": "3412"
+    "isco4d": "3412",
+    "extended_code": "3412"
   },
   {
     "code": "3413",
@@ -2543,7 +2806,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "341",
-    "isco4d": "3413"
+    "isco4d": "3413",
+    "extended_code": "3413"
   },
   {
     "code": "342",
@@ -2552,7 +2816,8 @@
     "parent": "34",
     "isco1d": "3",
     "isco2d": "34",
-    "isco3d": "342"
+    "isco3d": "342",
+    "extended_code": "3420"
   },
   {
     "code": "3421",
@@ -2562,7 +2827,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "342",
-    "isco4d": "3421"
+    "isco4d": "3421",
+    "extended_code": "3421"
   },
   {
     "code": "3422",
@@ -2572,7 +2838,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "342",
-    "isco4d": "3422"
+    "isco4d": "3422",
+    "extended_code": "3422"
   },
   {
     "code": "3423",
@@ -2582,7 +2849,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "342",
-    "isco4d": "3423"
+    "isco4d": "3423",
+    "extended_code": "3423"
   },
   {
     "code": "343",
@@ -2591,7 +2859,8 @@
     "parent": "34",
     "isco1d": "3",
     "isco2d": "34",
-    "isco3d": "343"
+    "isco3d": "343",
+    "extended_code": "3430"
   },
   {
     "code": "3431",
@@ -2601,7 +2870,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "343",
-    "isco4d": "3431"
+    "isco4d": "3431",
+    "extended_code": "3431"
   },
   {
     "code": "3432",
@@ -2611,7 +2881,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "343",
-    "isco4d": "3432"
+    "isco4d": "3432",
+    "extended_code": "3432"
   },
   {
     "code": "3433",
@@ -2621,7 +2892,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "343",
-    "isco4d": "3433"
+    "isco4d": "3433",
+    "extended_code": "3433"
   },
   {
     "code": "3434",
@@ -2631,7 +2903,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "343",
-    "isco4d": "3434"
+    "isco4d": "3434",
+    "extended_code": "3434"
   },
   {
     "code": "3435",
@@ -2641,7 +2914,8 @@
     "isco1d": "3",
     "isco2d": "34",
     "isco3d": "343",
-    "isco4d": "3435"
+    "isco4d": "3435",
+    "extended_code": "3435"
   },
   {
     "code": "35",
@@ -2649,7 +2923,8 @@
     "Level": 2,
     "parent": "3",
     "isco1d": "3",
-    "isco2d": "35"
+    "isco2d": "35",
+    "extended_code": "3500"
   },
   {
     "code": "351",
@@ -2658,7 +2933,8 @@
     "parent": "35",
     "isco1d": "3",
     "isco2d": "35",
-    "isco3d": "351"
+    "isco3d": "351",
+    "extended_code": "3510"
   },
   {
     "code": "3511",
@@ -2668,7 +2944,8 @@
     "isco1d": "3",
     "isco2d": "35",
     "isco3d": "351",
-    "isco4d": "3511"
+    "isco4d": "3511",
+    "extended_code": "3511"
   },
   {
     "code": "3512",
@@ -2678,7 +2955,8 @@
     "isco1d": "3",
     "isco2d": "35",
     "isco3d": "351",
-    "isco4d": "3512"
+    "isco4d": "3512",
+    "extended_code": "3512"
   },
   {
     "code": "3513",
@@ -2688,7 +2966,8 @@
     "isco1d": "3",
     "isco2d": "35",
     "isco3d": "351",
-    "isco4d": "3513"
+    "isco4d": "3513",
+    "extended_code": "3513"
   },
   {
     "code": "3514",
@@ -2698,7 +2977,8 @@
     "isco1d": "3",
     "isco2d": "35",
     "isco3d": "351",
-    "isco4d": "3514"
+    "isco4d": "3514",
+    "extended_code": "3514"
   },
   {
     "code": "352",
@@ -2707,7 +2987,8 @@
     "parent": "35",
     "isco1d": "3",
     "isco2d": "35",
-    "isco3d": "352"
+    "isco3d": "352",
+    "extended_code": "3520"
   },
   {
     "code": "3521",
@@ -2717,7 +2998,8 @@
     "isco1d": "3",
     "isco2d": "35",
     "isco3d": "352",
-    "isco4d": "3521"
+    "isco4d": "3521",
+    "extended_code": "3521"
   },
   {
     "code": "3522",
@@ -2727,13 +3009,15 @@
     "isco1d": "3",
     "isco2d": "35",
     "isco3d": "352",
-    "isco4d": "3522"
+    "isco4d": "3522",
+    "extended_code": "3522"
   },
   {
     "code": "4",
     "title": "Clerical Support Workers",
     "Level": 1,
-    "isco1d": "4"
+    "isco1d": "4",
+    "extended_code": "4000"
   },
   {
     "code": "41",
@@ -2741,7 +3025,8 @@
     "Level": 2,
     "parent": "4",
     "isco1d": "4",
-    "isco2d": "41"
+    "isco2d": "41",
+    "extended_code": "4100"
   },
   {
     "code": "411",
@@ -2750,7 +3035,8 @@
     "parent": "41",
     "isco1d": "4",
     "isco2d": "41",
-    "isco3d": "411"
+    "isco3d": "411",
+    "extended_code": "4110"
   },
   {
     "code": "4110",
@@ -2760,7 +3046,8 @@
     "isco1d": "4",
     "isco2d": "41",
     "isco3d": "411",
-    "isco4d": "4110"
+    "isco4d": "4110",
+    "extended_code": "4110"
   },
   {
     "code": "412",
@@ -2769,7 +3056,8 @@
     "parent": "41",
     "isco1d": "4",
     "isco2d": "41",
-    "isco3d": "412"
+    "isco3d": "412",
+    "extended_code": "4120"
   },
   {
     "code": "4120",
@@ -2779,7 +3067,8 @@
     "isco1d": "4",
     "isco2d": "41",
     "isco3d": "412",
-    "isco4d": "4120"
+    "isco4d": "4120",
+    "extended_code": "4120"
   },
   {
     "code": "413",
@@ -2788,7 +3077,8 @@
     "parent": "41",
     "isco1d": "4",
     "isco2d": "41",
-    "isco3d": "413"
+    "isco3d": "413",
+    "extended_code": "4130"
   },
   {
     "code": "4131",
@@ -2798,7 +3088,8 @@
     "isco1d": "4",
     "isco2d": "41",
     "isco3d": "413",
-    "isco4d": "4131"
+    "isco4d": "4131",
+    "extended_code": "4131"
   },
   {
     "code": "4132",
@@ -2808,7 +3099,8 @@
     "isco1d": "4",
     "isco2d": "41",
     "isco3d": "413",
-    "isco4d": "4132"
+    "isco4d": "4132",
+    "extended_code": "4132"
   },
   {
     "code": "42",
@@ -2816,7 +3108,8 @@
     "Level": 2,
     "parent": "4",
     "isco1d": "4",
-    "isco2d": "42"
+    "isco2d": "42",
+    "extended_code": "4200"
   },
   {
     "code": "421",
@@ -2825,7 +3118,8 @@
     "parent": "42",
     "isco1d": "4",
     "isco2d": "42",
-    "isco3d": "421"
+    "isco3d": "421",
+    "extended_code": "4210"
   },
   {
     "code": "4211",
@@ -2835,7 +3129,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "421",
-    "isco4d": "4211"
+    "isco4d": "4211",
+    "extended_code": "4211"
   },
   {
     "code": "4212",
@@ -2845,7 +3140,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "421",
-    "isco4d": "4212"
+    "isco4d": "4212",
+    "extended_code": "4212"
   },
   {
     "code": "4213",
@@ -2855,7 +3151,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "421",
-    "isco4d": "4213"
+    "isco4d": "4213",
+    "extended_code": "4213"
   },
   {
     "code": "4214",
@@ -2865,7 +3162,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "421",
-    "isco4d": "4214"
+    "isco4d": "4214",
+    "extended_code": "4214"
   },
   {
     "code": "422",
@@ -2874,7 +3172,8 @@
     "parent": "42",
     "isco1d": "4",
     "isco2d": "42",
-    "isco3d": "422"
+    "isco3d": "422",
+    "extended_code": "4220"
   },
   {
     "code": "4221",
@@ -2884,7 +3183,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "422",
-    "isco4d": "4221"
+    "isco4d": "4221",
+    "extended_code": "4221"
   },
   {
     "code": "4222",
@@ -2894,7 +3194,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "422",
-    "isco4d": "4222"
+    "isco4d": "4222",
+    "extended_code": "4222"
   },
   {
     "code": "4223",
@@ -2904,7 +3205,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "422",
-    "isco4d": "4223"
+    "isco4d": "4223",
+    "extended_code": "4223"
   },
   {
     "code": "4224",
@@ -2914,7 +3216,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "422",
-    "isco4d": "4224"
+    "isco4d": "4224",
+    "extended_code": "4224"
   },
   {
     "code": "4225",
@@ -2924,7 +3227,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "422",
-    "isco4d": "4225"
+    "isco4d": "4225",
+    "extended_code": "4225"
   },
   {
     "code": "4226",
@@ -2934,7 +3238,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "422",
-    "isco4d": "4226"
+    "isco4d": "4226",
+    "extended_code": "4226"
   },
   {
     "code": "4227",
@@ -2944,7 +3249,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "422",
-    "isco4d": "4227"
+    "isco4d": "4227",
+    "extended_code": "4227"
   },
   {
     "code": "4229",
@@ -2954,7 +3260,8 @@
     "isco1d": "4",
     "isco2d": "42",
     "isco3d": "422",
-    "isco4d": "4229"
+    "isco4d": "4229",
+    "extended_code": "4229"
   },
   {
     "code": "43",
@@ -2962,7 +3269,8 @@
     "Level": 2,
     "parent": "4",
     "isco1d": "4",
-    "isco2d": "43"
+    "isco2d": "43",
+    "extended_code": "4300"
   },
   {
     "code": "431",
@@ -2971,7 +3279,8 @@
     "parent": "43",
     "isco1d": "4",
     "isco2d": "43",
-    "isco3d": "431"
+    "isco3d": "431",
+    "extended_code": "4310"
   },
   {
     "code": "4311",
@@ -2981,7 +3290,8 @@
     "isco1d": "4",
     "isco2d": "43",
     "isco3d": "431",
-    "isco4d": "4311"
+    "isco4d": "4311",
+    "extended_code": "4311"
   },
   {
     "code": "4312",
@@ -2991,7 +3301,8 @@
     "isco1d": "4",
     "isco2d": "43",
     "isco3d": "431",
-    "isco4d": "4312"
+    "isco4d": "4312",
+    "extended_code": "4312"
   },
   {
     "code": "4313",
@@ -3001,7 +3312,8 @@
     "isco1d": "4",
     "isco2d": "43",
     "isco3d": "431",
-    "isco4d": "4313"
+    "isco4d": "4313",
+    "extended_code": "4313"
   },
   {
     "code": "432",
@@ -3010,7 +3322,8 @@
     "parent": "43",
     "isco1d": "4",
     "isco2d": "43",
-    "isco3d": "432"
+    "isco3d": "432",
+    "extended_code": "4320"
   },
   {
     "code": "4321",
@@ -3020,7 +3333,8 @@
     "isco1d": "4",
     "isco2d": "43",
     "isco3d": "432",
-    "isco4d": "4321"
+    "isco4d": "4321",
+    "extended_code": "4321"
   },
   {
     "code": "4322",
@@ -3030,7 +3344,8 @@
     "isco1d": "4",
     "isco2d": "43",
     "isco3d": "432",
-    "isco4d": "4322"
+    "isco4d": "4322",
+    "extended_code": "4322"
   },
   {
     "code": "4323",
@@ -3040,7 +3355,8 @@
     "isco1d": "4",
     "isco2d": "43",
     "isco3d": "432",
-    "isco4d": "4323"
+    "isco4d": "4323",
+    "extended_code": "4323"
   },
   {
     "code": "44",
@@ -3048,7 +3364,8 @@
     "Level": 2,
     "parent": "4",
     "isco1d": "4",
-    "isco2d": "44"
+    "isco2d": "44",
+    "extended_code": "4400"
   },
   {
     "code": "441",
@@ -3057,7 +3374,8 @@
     "parent": "44",
     "isco1d": "4",
     "isco2d": "44",
-    "isco3d": "441"
+    "isco3d": "441",
+    "extended_code": "4410"
   },
   {
     "code": "4411",
@@ -3067,7 +3385,8 @@
     "isco1d": "4",
     "isco2d": "44",
     "isco3d": "441",
-    "isco4d": "4411"
+    "isco4d": "4411",
+    "extended_code": "4411"
   },
   {
     "code": "4412",
@@ -3077,7 +3396,8 @@
     "isco1d": "4",
     "isco2d": "44",
     "isco3d": "441",
-    "isco4d": "4412"
+    "isco4d": "4412",
+    "extended_code": "4412"
   },
   {
     "code": "4413",
@@ -3087,7 +3407,8 @@
     "isco1d": "4",
     "isco2d": "44",
     "isco3d": "441",
-    "isco4d": "4413"
+    "isco4d": "4413",
+    "extended_code": "4413"
   },
   {
     "code": "4414",
@@ -3097,7 +3418,8 @@
     "isco1d": "4",
     "isco2d": "44",
     "isco3d": "441",
-    "isco4d": "4414"
+    "isco4d": "4414",
+    "extended_code": "4414"
   },
   {
     "code": "4415",
@@ -3107,7 +3429,8 @@
     "isco1d": "4",
     "isco2d": "44",
     "isco3d": "441",
-    "isco4d": "4415"
+    "isco4d": "4415",
+    "extended_code": "4415"
   },
   {
     "code": "4416",
@@ -3117,7 +3440,8 @@
     "isco1d": "4",
     "isco2d": "44",
     "isco3d": "441",
-    "isco4d": "4416"
+    "isco4d": "4416",
+    "extended_code": "4416"
   },
   {
     "code": "4419",
@@ -3127,13 +3451,15 @@
     "isco1d": "4",
     "isco2d": "44",
     "isco3d": "441",
-    "isco4d": "4419"
+    "isco4d": "4419",
+    "extended_code": "4419"
   },
   {
     "code": "5",
     "title": "Service and Sales Workers",
     "Level": 1,
-    "isco1d": "5"
+    "isco1d": "5",
+    "extended_code": "5000"
   },
   {
     "code": "51",
@@ -3141,7 +3467,8 @@
     "Level": 2,
     "parent": "5",
     "isco1d": "5",
-    "isco2d": "51"
+    "isco2d": "51",
+    "extended_code": "5100"
   },
   {
     "code": "511",
@@ -3150,7 +3477,8 @@
     "parent": "51",
     "isco1d": "5",
     "isco2d": "51",
-    "isco3d": "511"
+    "isco3d": "511",
+    "extended_code": "5110"
   },
   {
     "code": "5111",
@@ -3160,7 +3488,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "511",
-    "isco4d": "5111"
+    "isco4d": "5111",
+    "extended_code": "5111"
   },
   {
     "code": "5112",
@@ -3170,7 +3499,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "511",
-    "isco4d": "5112"
+    "isco4d": "5112",
+    "extended_code": "5112"
   },
   {
     "code": "5113",
@@ -3180,7 +3510,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "511",
-    "isco4d": "5113"
+    "isco4d": "5113",
+    "extended_code": "5113"
   },
   {
     "code": "512",
@@ -3189,7 +3520,8 @@
     "parent": "51",
     "isco1d": "5",
     "isco2d": "51",
-    "isco3d": "512"
+    "isco3d": "512",
+    "extended_code": "5120"
   },
   {
     "code": "5120",
@@ -3199,7 +3531,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "512",
-    "isco4d": "5120"
+    "isco4d": "5120",
+    "extended_code": "5120"
   },
   {
     "code": "513",
@@ -3208,7 +3541,8 @@
     "parent": "51",
     "isco1d": "5",
     "isco2d": "51",
-    "isco3d": "513"
+    "isco3d": "513",
+    "extended_code": "5130"
   },
   {
     "code": "5131",
@@ -3218,7 +3552,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "513",
-    "isco4d": "5131"
+    "isco4d": "5131",
+    "extended_code": "5131"
   },
   {
     "code": "5132",
@@ -3228,7 +3563,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "513",
-    "isco4d": "5132"
+    "isco4d": "5132",
+    "extended_code": "5132"
   },
   {
     "code": "514",
@@ -3237,7 +3573,8 @@
     "parent": "51",
     "isco1d": "5",
     "isco2d": "51",
-    "isco3d": "514"
+    "isco3d": "514",
+    "extended_code": "5140"
   },
   {
     "code": "5141",
@@ -3247,7 +3584,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "514",
-    "isco4d": "5141"
+    "isco4d": "5141",
+    "extended_code": "5141"
   },
   {
     "code": "5142",
@@ -3257,7 +3595,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "514",
-    "isco4d": "5142"
+    "isco4d": "5142",
+    "extended_code": "5142"
   },
   {
     "code": "515",
@@ -3266,7 +3605,8 @@
     "parent": "51",
     "isco1d": "5",
     "isco2d": "51",
-    "isco3d": "515"
+    "isco3d": "515",
+    "extended_code": "5150"
   },
   {
     "code": "5151",
@@ -3276,7 +3616,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "515",
-    "isco4d": "5151"
+    "isco4d": "5151",
+    "extended_code": "5151"
   },
   {
     "code": "5152",
@@ -3286,7 +3627,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "515",
-    "isco4d": "5152"
+    "isco4d": "5152",
+    "extended_code": "5152"
   },
   {
     "code": "5153",
@@ -3296,7 +3638,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "515",
-    "isco4d": "5153"
+    "isco4d": "5153",
+    "extended_code": "5153"
   },
   {
     "code": "516",
@@ -3305,7 +3648,8 @@
     "parent": "51",
     "isco1d": "5",
     "isco2d": "51",
-    "isco3d": "516"
+    "isco3d": "516",
+    "extended_code": "5160"
   },
   {
     "code": "5161",
@@ -3315,7 +3659,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "516",
-    "isco4d": "5161"
+    "isco4d": "5161",
+    "extended_code": "5161"
   },
   {
     "code": "5162",
@@ -3325,7 +3670,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "516",
-    "isco4d": "5162"
+    "isco4d": "5162",
+    "extended_code": "5162"
   },
   {
     "code": "5163",
@@ -3335,7 +3681,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "516",
-    "isco4d": "5163"
+    "isco4d": "5163",
+    "extended_code": "5163"
   },
   {
     "code": "5164",
@@ -3345,7 +3692,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "516",
-    "isco4d": "5164"
+    "isco4d": "5164",
+    "extended_code": "5164"
   },
   {
     "code": "5165",
@@ -3355,7 +3703,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "516",
-    "isco4d": "5165"
+    "isco4d": "5165",
+    "extended_code": "5165"
   },
   {
     "code": "5169",
@@ -3365,7 +3714,8 @@
     "isco1d": "5",
     "isco2d": "51",
     "isco3d": "516",
-    "isco4d": "5169"
+    "isco4d": "5169",
+    "extended_code": "5169"
   },
   {
     "code": "52",
@@ -3373,7 +3723,8 @@
     "Level": 2,
     "parent": "5",
     "isco1d": "5",
-    "isco2d": "52"
+    "isco2d": "52",
+    "extended_code": "5200"
   },
   {
     "code": "521",
@@ -3382,7 +3733,8 @@
     "parent": "52",
     "isco1d": "5",
     "isco2d": "52",
-    "isco3d": "521"
+    "isco3d": "521",
+    "extended_code": "5210"
   },
   {
     "code": "5211",
@@ -3392,7 +3744,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "521",
-    "isco4d": "5211"
+    "isco4d": "5211",
+    "extended_code": "5211"
   },
   {
     "code": "5212",
@@ -3402,7 +3755,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "521",
-    "isco4d": "5212"
+    "isco4d": "5212",
+    "extended_code": "5212"
   },
   {
     "code": "522",
@@ -3411,7 +3765,8 @@
     "parent": "52",
     "isco1d": "5",
     "isco2d": "52",
-    "isco3d": "522"
+    "isco3d": "522",
+    "extended_code": "5220"
   },
   {
     "code": "5221",
@@ -3421,7 +3776,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "522",
-    "isco4d": "5221"
+    "isco4d": "5221",
+    "extended_code": "5221"
   },
   {
     "code": "5222",
@@ -3431,7 +3787,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "522",
-    "isco4d": "5222"
+    "isco4d": "5222",
+    "extended_code": "5222"
   },
   {
     "code": "5223",
@@ -3441,7 +3798,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "522",
-    "isco4d": "5223"
+    "isco4d": "5223",
+    "extended_code": "5223"
   },
   {
     "code": "523",
@@ -3450,7 +3808,8 @@
     "parent": "52",
     "isco1d": "5",
     "isco2d": "52",
-    "isco3d": "523"
+    "isco3d": "523",
+    "extended_code": "5230"
   },
   {
     "code": "5230",
@@ -3460,7 +3819,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "523",
-    "isco4d": "5230"
+    "isco4d": "5230",
+    "extended_code": "5230"
   },
   {
     "code": "524",
@@ -3469,7 +3829,8 @@
     "parent": "52",
     "isco1d": "5",
     "isco2d": "52",
-    "isco3d": "524"
+    "isco3d": "524",
+    "extended_code": "5240"
   },
   {
     "code": "5241",
@@ -3479,7 +3840,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "524",
-    "isco4d": "5241"
+    "isco4d": "5241",
+    "extended_code": "5241"
   },
   {
     "code": "5242",
@@ -3489,7 +3851,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "524",
-    "isco4d": "5242"
+    "isco4d": "5242",
+    "extended_code": "5242"
   },
   {
     "code": "5243",
@@ -3499,7 +3862,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "524",
-    "isco4d": "5243"
+    "isco4d": "5243",
+    "extended_code": "5243"
   },
   {
     "code": "5244",
@@ -3509,7 +3873,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "524",
-    "isco4d": "5244"
+    "isco4d": "5244",
+    "extended_code": "5244"
   },
   {
     "code": "5245",
@@ -3519,7 +3884,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "524",
-    "isco4d": "5245"
+    "isco4d": "5245",
+    "extended_code": "5245"
   },
   {
     "code": "5246",
@@ -3529,7 +3895,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "524",
-    "isco4d": "5246"
+    "isco4d": "5246",
+    "extended_code": "5246"
   },
   {
     "code": "5249",
@@ -3539,7 +3906,8 @@
     "isco1d": "5",
     "isco2d": "52",
     "isco3d": "524",
-    "isco4d": "5249"
+    "isco4d": "5249",
+    "extended_code": "5249"
   },
   {
     "code": "53",
@@ -3547,7 +3915,8 @@
     "Level": 2,
     "parent": "5",
     "isco1d": "5",
-    "isco2d": "53"
+    "isco2d": "53",
+    "extended_code": "5300"
   },
   {
     "code": "531",
@@ -3556,7 +3925,8 @@
     "parent": "53",
     "isco1d": "5",
     "isco2d": "53",
-    "isco3d": "531"
+    "isco3d": "531",
+    "extended_code": "5310"
   },
   {
     "code": "5311",
@@ -3566,7 +3936,8 @@
     "isco1d": "5",
     "isco2d": "53",
     "isco3d": "531",
-    "isco4d": "5311"
+    "isco4d": "5311",
+    "extended_code": "5311"
   },
   {
     "code": "5312",
@@ -3576,7 +3947,8 @@
     "isco1d": "5",
     "isco2d": "53",
     "isco3d": "531",
-    "isco4d": "5312"
+    "isco4d": "5312",
+    "extended_code": "5312"
   },
   {
     "code": "532",
@@ -3585,7 +3957,8 @@
     "parent": "53",
     "isco1d": "5",
     "isco2d": "53",
-    "isco3d": "532"
+    "isco3d": "532",
+    "extended_code": "5320"
   },
   {
     "code": "5321",
@@ -3595,7 +3968,8 @@
     "isco1d": "5",
     "isco2d": "53",
     "isco3d": "532",
-    "isco4d": "5321"
+    "isco4d": "5321",
+    "extended_code": "5321"
   },
   {
     "code": "5322",
@@ -3605,7 +3979,8 @@
     "isco1d": "5",
     "isco2d": "53",
     "isco3d": "532",
-    "isco4d": "5322"
+    "isco4d": "5322",
+    "extended_code": "5322"
   },
   {
     "code": "5329",
@@ -3615,7 +3990,8 @@
     "isco1d": "5",
     "isco2d": "53",
     "isco3d": "532",
-    "isco4d": "5329"
+    "isco4d": "5329",
+    "extended_code": "5329"
   },
   {
     "code": "54",
@@ -3623,7 +3999,8 @@
     "Level": 2,
     "parent": "5",
     "isco1d": "5",
-    "isco2d": "54"
+    "isco2d": "54",
+    "extended_code": "5400"
   },
   {
     "code": "541",
@@ -3632,7 +4009,8 @@
     "parent": "54",
     "isco1d": "5",
     "isco2d": "54",
-    "isco3d": "541"
+    "isco3d": "541",
+    "extended_code": "5410"
   },
   {
     "code": "5411",
@@ -3642,7 +4020,8 @@
     "isco1d": "5",
     "isco2d": "54",
     "isco3d": "541",
-    "isco4d": "5411"
+    "isco4d": "5411",
+    "extended_code": "5411"
   },
   {
     "code": "5412",
@@ -3652,7 +4031,8 @@
     "isco1d": "5",
     "isco2d": "54",
     "isco3d": "541",
-    "isco4d": "5412"
+    "isco4d": "5412",
+    "extended_code": "5412"
   },
   {
     "code": "5413",
@@ -3662,7 +4042,8 @@
     "isco1d": "5",
     "isco2d": "54",
     "isco3d": "541",
-    "isco4d": "5413"
+    "isco4d": "5413",
+    "extended_code": "5413"
   },
   {
     "code": "5414",
@@ -3672,7 +4053,8 @@
     "isco1d": "5",
     "isco2d": "54",
     "isco3d": "541",
-    "isco4d": "5414"
+    "isco4d": "5414",
+    "extended_code": "5414"
   },
   {
     "code": "5419",
@@ -3682,13 +4064,15 @@
     "isco1d": "5",
     "isco2d": "54",
     "isco3d": "541",
-    "isco4d": "5419"
+    "isco4d": "5419",
+    "extended_code": "5419"
   },
   {
     "code": "6",
     "title": "Skilled Agricultural, Forestry and Fishery Workers",
     "Level": 1,
-    "isco1d": "6"
+    "isco1d": "6",
+    "extended_code": "6000"
   },
   {
     "code": "61",
@@ -3696,7 +4080,8 @@
     "Level": 2,
     "parent": "6",
     "isco1d": "6",
-    "isco2d": "61"
+    "isco2d": "61",
+    "extended_code": "6100"
   },
   {
     "code": "611",
@@ -3705,7 +4090,8 @@
     "parent": "61",
     "isco1d": "6",
     "isco2d": "61",
-    "isco3d": "611"
+    "isco3d": "611",
+    "extended_code": "6110"
   },
   {
     "code": "6111",
@@ -3715,7 +4101,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "611",
-    "isco4d": "6111"
+    "isco4d": "6111",
+    "extended_code": "6111"
   },
   {
     "code": "6112",
@@ -3725,7 +4112,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "611",
-    "isco4d": "6112"
+    "isco4d": "6112",
+    "extended_code": "6112"
   },
   {
     "code": "6113",
@@ -3735,7 +4123,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "611",
-    "isco4d": "6113"
+    "isco4d": "6113",
+    "extended_code": "6113"
   },
   {
     "code": "6114",
@@ -3745,7 +4134,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "611",
-    "isco4d": "6114"
+    "isco4d": "6114",
+    "extended_code": "6114"
   },
   {
     "code": "612",
@@ -3754,7 +4144,8 @@
     "parent": "61",
     "isco1d": "6",
     "isco2d": "61",
-    "isco3d": "612"
+    "isco3d": "612",
+    "extended_code": "6120"
   },
   {
     "code": "6121",
@@ -3764,7 +4155,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "612",
-    "isco4d": "6121"
+    "isco4d": "6121",
+    "extended_code": "6121"
   },
   {
     "code": "6122",
@@ -3774,7 +4166,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "612",
-    "isco4d": "6122"
+    "isco4d": "6122",
+    "extended_code": "6122"
   },
   {
     "code": "6123",
@@ -3784,7 +4177,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "612",
-    "isco4d": "6123"
+    "isco4d": "6123",
+    "extended_code": "6123"
   },
   {
     "code": "6129",
@@ -3794,7 +4188,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "612",
-    "isco4d": "6129"
+    "isco4d": "6129",
+    "extended_code": "6129"
   },
   {
     "code": "613",
@@ -3803,7 +4198,8 @@
     "parent": "61",
     "isco1d": "6",
     "isco2d": "61",
-    "isco3d": "613"
+    "isco3d": "613",
+    "extended_code": "6130"
   },
   {
     "code": "6130",
@@ -3813,7 +4209,8 @@
     "isco1d": "6",
     "isco2d": "61",
     "isco3d": "613",
-    "isco4d": "6130"
+    "isco4d": "6130",
+    "extended_code": "6130"
   },
   {
     "code": "62",
@@ -3821,7 +4218,8 @@
     "Level": 2,
     "parent": "6",
     "isco1d": "6",
-    "isco2d": "62"
+    "isco2d": "62",
+    "extended_code": "6200"
   },
   {
     "code": "621",
@@ -3830,7 +4228,8 @@
     "parent": "62",
     "isco1d": "6",
     "isco2d": "62",
-    "isco3d": "621"
+    "isco3d": "621",
+    "extended_code": "6210"
   },
   {
     "code": "6210",
@@ -3840,7 +4239,8 @@
     "isco1d": "6",
     "isco2d": "62",
     "isco3d": "621",
-    "isco4d": "6210"
+    "isco4d": "6210",
+    "extended_code": "6210"
   },
   {
     "code": "622",
@@ -3849,7 +4249,8 @@
     "parent": "62",
     "isco1d": "6",
     "isco2d": "62",
-    "isco3d": "622"
+    "isco3d": "622",
+    "extended_code": "6220"
   },
   {
     "code": "6221",
@@ -3859,7 +4260,8 @@
     "isco1d": "6",
     "isco2d": "62",
     "isco3d": "622",
-    "isco4d": "6221"
+    "isco4d": "6221",
+    "extended_code": "6221"
   },
   {
     "code": "6222",
@@ -3869,7 +4271,8 @@
     "isco1d": "6",
     "isco2d": "62",
     "isco3d": "622",
-    "isco4d": "6222"
+    "isco4d": "6222",
+    "extended_code": "6222"
   },
   {
     "code": "6223",
@@ -3879,7 +4282,8 @@
     "isco1d": "6",
     "isco2d": "62",
     "isco3d": "622",
-    "isco4d": "6223"
+    "isco4d": "6223",
+    "extended_code": "6223"
   },
   {
     "code": "6224",
@@ -3889,7 +4293,8 @@
     "isco1d": "6",
     "isco2d": "62",
     "isco3d": "622",
-    "isco4d": "6224"
+    "isco4d": "6224",
+    "extended_code": "6224"
   },
   {
     "code": "63",
@@ -3897,7 +4302,8 @@
     "Level": 2,
     "parent": "6",
     "isco1d": "6",
-    "isco2d": "63"
+    "isco2d": "63",
+    "extended_code": "6300"
   },
   {
     "code": "631",
@@ -3906,7 +4312,8 @@
     "parent": "63",
     "isco1d": "6",
     "isco2d": "63",
-    "isco3d": "631"
+    "isco3d": "631",
+    "extended_code": "6310"
   },
   {
     "code": "6310",
@@ -3916,7 +4323,8 @@
     "isco1d": "6",
     "isco2d": "63",
     "isco3d": "631",
-    "isco4d": "6310"
+    "isco4d": "6310",
+    "extended_code": "6310"
   },
   {
     "code": "632",
@@ -3925,7 +4333,8 @@
     "parent": "63",
     "isco1d": "6",
     "isco2d": "63",
-    "isco3d": "632"
+    "isco3d": "632",
+    "extended_code": "6320"
   },
   {
     "code": "6320",
@@ -3935,7 +4344,8 @@
     "isco1d": "6",
     "isco2d": "63",
     "isco3d": "632",
-    "isco4d": "6320"
+    "isco4d": "6320",
+    "extended_code": "6320"
   },
   {
     "code": "633",
@@ -3944,7 +4354,8 @@
     "parent": "63",
     "isco1d": "6",
     "isco2d": "63",
-    "isco3d": "633"
+    "isco3d": "633",
+    "extended_code": "6330"
   },
   {
     "code": "6330",
@@ -3954,7 +4365,8 @@
     "isco1d": "6",
     "isco2d": "63",
     "isco3d": "633",
-    "isco4d": "6330"
+    "isco4d": "6330",
+    "extended_code": "6330"
   },
   {
     "code": "634",
@@ -3963,7 +4375,8 @@
     "parent": "63",
     "isco1d": "6",
     "isco2d": "63",
-    "isco3d": "634"
+    "isco3d": "634",
+    "extended_code": "6340"
   },
   {
     "code": "6340",
@@ -3973,13 +4386,15 @@
     "isco1d": "6",
     "isco2d": "63",
     "isco3d": "634",
-    "isco4d": "6340"
+    "isco4d": "6340",
+    "extended_code": "6340"
   },
   {
     "code": "7",
     "title": "Craft and Related Trades Workers",
     "Level": 1,
-    "isco1d": "7"
+    "isco1d": "7",
+    "extended_code": "7000"
   },
   {
     "code": "71",
@@ -3987,7 +4402,8 @@
     "Level": 2,
     "parent": "7",
     "isco1d": "7",
-    "isco2d": "71"
+    "isco2d": "71",
+    "extended_code": "7100"
   },
   {
     "code": "711",
@@ -3996,7 +4412,8 @@
     "parent": "71",
     "isco1d": "7",
     "isco2d": "71",
-    "isco3d": "711"
+    "isco3d": "711",
+    "extended_code": "7110"
   },
   {
     "code": "7111",
@@ -4006,7 +4423,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "711",
-    "isco4d": "7111"
+    "isco4d": "7111",
+    "extended_code": "7111"
   },
   {
     "code": "7112",
@@ -4016,7 +4434,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "711",
-    "isco4d": "7112"
+    "isco4d": "7112",
+    "extended_code": "7112"
   },
   {
     "code": "7113",
@@ -4026,7 +4445,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "711",
-    "isco4d": "7113"
+    "isco4d": "7113",
+    "extended_code": "7113"
   },
   {
     "code": "7114",
@@ -4036,7 +4456,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "711",
-    "isco4d": "7114"
+    "isco4d": "7114",
+    "extended_code": "7114"
   },
   {
     "code": "7115",
@@ -4046,7 +4467,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "711",
-    "isco4d": "7115"
+    "isco4d": "7115",
+    "extended_code": "7115"
   },
   {
     "code": "7119",
@@ -4056,7 +4478,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "711",
-    "isco4d": "7119"
+    "isco4d": "7119",
+    "extended_code": "7119"
   },
   {
     "code": "712",
@@ -4065,7 +4488,8 @@
     "parent": "71",
     "isco1d": "7",
     "isco2d": "71",
-    "isco3d": "712"
+    "isco3d": "712",
+    "extended_code": "7120"
   },
   {
     "code": "7121",
@@ -4075,7 +4499,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "712",
-    "isco4d": "7121"
+    "isco4d": "7121",
+    "extended_code": "7121"
   },
   {
     "code": "7122",
@@ -4085,7 +4510,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "712",
-    "isco4d": "7122"
+    "isco4d": "7122",
+    "extended_code": "7122"
   },
   {
     "code": "7123",
@@ -4095,7 +4521,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "712",
-    "isco4d": "7123"
+    "isco4d": "7123",
+    "extended_code": "7123"
   },
   {
     "code": "7124",
@@ -4105,7 +4532,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "712",
-    "isco4d": "7124"
+    "isco4d": "7124",
+    "extended_code": "7124"
   },
   {
     "code": "7125",
@@ -4115,7 +4543,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "712",
-    "isco4d": "7125"
+    "isco4d": "7125",
+    "extended_code": "7125"
   },
   {
     "code": "7126",
@@ -4125,7 +4554,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "712",
-    "isco4d": "7126"
+    "isco4d": "7126",
+    "extended_code": "7126"
   },
   {
     "code": "7127",
@@ -4135,7 +4565,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "712",
-    "isco4d": "7127"
+    "isco4d": "7127",
+    "extended_code": "7127"
   },
   {
     "code": "713",
@@ -4144,7 +4575,8 @@
     "parent": "71",
     "isco1d": "7",
     "isco2d": "71",
-    "isco3d": "713"
+    "isco3d": "713",
+    "extended_code": "7130"
   },
   {
     "code": "7131",
@@ -4154,7 +4586,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "713",
-    "isco4d": "7131"
+    "isco4d": "7131",
+    "extended_code": "7131"
   },
   {
     "code": "7132",
@@ -4164,7 +4597,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "713",
-    "isco4d": "7132"
+    "isco4d": "7132",
+    "extended_code": "7132"
   },
   {
     "code": "7133",
@@ -4174,7 +4608,8 @@
     "isco1d": "7",
     "isco2d": "71",
     "isco3d": "713",
-    "isco4d": "7133"
+    "isco4d": "7133",
+    "extended_code": "7133"
   },
   {
     "code": "72",
@@ -4182,7 +4617,8 @@
     "Level": 2,
     "parent": "7",
     "isco1d": "7",
-    "isco2d": "72"
+    "isco2d": "72",
+    "extended_code": "7200"
   },
   {
     "code": "721",
@@ -4191,7 +4627,8 @@
     "parent": "72",
     "isco1d": "7",
     "isco2d": "72",
-    "isco3d": "721"
+    "isco3d": "721",
+    "extended_code": "7210"
   },
   {
     "code": "7211",
@@ -4201,7 +4638,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "721",
-    "isco4d": "7211"
+    "isco4d": "7211",
+    "extended_code": "7211"
   },
   {
     "code": "7212",
@@ -4211,7 +4649,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "721",
-    "isco4d": "7212"
+    "isco4d": "7212",
+    "extended_code": "7212"
   },
   {
     "code": "7213",
@@ -4221,7 +4660,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "721",
-    "isco4d": "7213"
+    "isco4d": "7213",
+    "extended_code": "7213"
   },
   {
     "code": "7214",
@@ -4231,7 +4671,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "721",
-    "isco4d": "7214"
+    "isco4d": "7214",
+    "extended_code": "7214"
   },
   {
     "code": "7215",
@@ -4241,7 +4682,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "721",
-    "isco4d": "7215"
+    "isco4d": "7215",
+    "extended_code": "7215"
   },
   {
     "code": "722",
@@ -4250,7 +4692,8 @@
     "parent": "72",
     "isco1d": "7",
     "isco2d": "72",
-    "isco3d": "722"
+    "isco3d": "722",
+    "extended_code": "7220"
   },
   {
     "code": "7221",
@@ -4260,7 +4703,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "722",
-    "isco4d": "7221"
+    "isco4d": "7221",
+    "extended_code": "7221"
   },
   {
     "code": "7222",
@@ -4270,7 +4714,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "722",
-    "isco4d": "7222"
+    "isco4d": "7222",
+    "extended_code": "7222"
   },
   {
     "code": "7223",
@@ -4280,7 +4725,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "722",
-    "isco4d": "7223"
+    "isco4d": "7223",
+    "extended_code": "7223"
   },
   {
     "code": "7224",
@@ -4290,7 +4736,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "722",
-    "isco4d": "7224"
+    "isco4d": "7224",
+    "extended_code": "7224"
   },
   {
     "code": "723",
@@ -4299,7 +4746,8 @@
     "parent": "72",
     "isco1d": "7",
     "isco2d": "72",
-    "isco3d": "723"
+    "isco3d": "723",
+    "extended_code": "7230"
   },
   {
     "code": "7231",
@@ -4309,7 +4757,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "723",
-    "isco4d": "7231"
+    "isco4d": "7231",
+    "extended_code": "7231"
   },
   {
     "code": "7232",
@@ -4319,7 +4768,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "723",
-    "isco4d": "7232"
+    "isco4d": "7232",
+    "extended_code": "7232"
   },
   {
     "code": "7233",
@@ -4329,7 +4779,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "723",
-    "isco4d": "7233"
+    "isco4d": "7233",
+    "extended_code": "7233"
   },
   {
     "code": "7234",
@@ -4339,7 +4790,8 @@
     "isco1d": "7",
     "isco2d": "72",
     "isco3d": "723",
-    "isco4d": "7234"
+    "isco4d": "7234",
+    "extended_code": "7234"
   },
   {
     "code": "73",
@@ -4347,7 +4799,8 @@
     "Level": 2,
     "parent": "7",
     "isco1d": "7",
-    "isco2d": "73"
+    "isco2d": "73",
+    "extended_code": "7300"
   },
   {
     "code": "731",
@@ -4356,7 +4809,8 @@
     "parent": "73",
     "isco1d": "7",
     "isco2d": "73",
-    "isco3d": "731"
+    "isco3d": "731",
+    "extended_code": "7310"
   },
   {
     "code": "7311",
@@ -4366,7 +4820,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7311"
+    "isco4d": "7311",
+    "extended_code": "7311"
   },
   {
     "code": "7312",
@@ -4376,7 +4831,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7312"
+    "isco4d": "7312",
+    "extended_code": "7312"
   },
   {
     "code": "7313",
@@ -4386,7 +4842,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7313"
+    "isco4d": "7313",
+    "extended_code": "7313"
   },
   {
     "code": "7314",
@@ -4396,7 +4853,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7314"
+    "isco4d": "7314",
+    "extended_code": "7314"
   },
   {
     "code": "7315",
@@ -4406,7 +4864,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7315"
+    "isco4d": "7315",
+    "extended_code": "7315"
   },
   {
     "code": "7316",
@@ -4416,7 +4875,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7316"
+    "isco4d": "7316",
+    "extended_code": "7316"
   },
   {
     "code": "7317",
@@ -4426,7 +4886,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7317"
+    "isco4d": "7317",
+    "extended_code": "7317"
   },
   {
     "code": "7318",
@@ -4436,7 +4897,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7318"
+    "isco4d": "7318",
+    "extended_code": "7318"
   },
   {
     "code": "7319",
@@ -4446,7 +4908,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "731",
-    "isco4d": "7319"
+    "isco4d": "7319",
+    "extended_code": "7319"
   },
   {
     "code": "732",
@@ -4455,7 +4918,8 @@
     "parent": "73",
     "isco1d": "7",
     "isco2d": "73",
-    "isco3d": "732"
+    "isco3d": "732",
+    "extended_code": "7320"
   },
   {
     "code": "7321",
@@ -4465,7 +4929,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "732",
-    "isco4d": "7321"
+    "isco4d": "7321",
+    "extended_code": "7321"
   },
   {
     "code": "7322",
@@ -4475,7 +4940,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "732",
-    "isco4d": "7322"
+    "isco4d": "7322",
+    "extended_code": "7322"
   },
   {
     "code": "7323",
@@ -4485,7 +4951,8 @@
     "isco1d": "7",
     "isco2d": "73",
     "isco3d": "732",
-    "isco4d": "7323"
+    "isco4d": "7323",
+    "extended_code": "7323"
   },
   {
     "code": "74",
@@ -4493,7 +4960,8 @@
     "Level": 2,
     "parent": "7",
     "isco1d": "7",
-    "isco2d": "74"
+    "isco2d": "74",
+    "extended_code": "7400"
   },
   {
     "code": "741",
@@ -4502,7 +4970,8 @@
     "parent": "74",
     "isco1d": "7",
     "isco2d": "74",
-    "isco3d": "741"
+    "isco3d": "741",
+    "extended_code": "7410"
   },
   {
     "code": "7411",
@@ -4512,7 +4981,8 @@
     "isco1d": "7",
     "isco2d": "74",
     "isco3d": "741",
-    "isco4d": "7411"
+    "isco4d": "7411",
+    "extended_code": "7411"
   },
   {
     "code": "7412",
@@ -4522,7 +4992,8 @@
     "isco1d": "7",
     "isco2d": "74",
     "isco3d": "741",
-    "isco4d": "7412"
+    "isco4d": "7412",
+    "extended_code": "7412"
   },
   {
     "code": "7413",
@@ -4532,7 +5003,8 @@
     "isco1d": "7",
     "isco2d": "74",
     "isco3d": "741",
-    "isco4d": "7413"
+    "isco4d": "7413",
+    "extended_code": "7413"
   },
   {
     "code": "742",
@@ -4541,7 +5013,8 @@
     "parent": "74",
     "isco1d": "7",
     "isco2d": "74",
-    "isco3d": "742"
+    "isco3d": "742",
+    "extended_code": "7420"
   },
   {
     "code": "7421",
@@ -4551,7 +5024,8 @@
     "isco1d": "7",
     "isco2d": "74",
     "isco3d": "742",
-    "isco4d": "7421"
+    "isco4d": "7421",
+    "extended_code": "7421"
   },
   {
     "code": "7422",
@@ -4561,7 +5035,8 @@
     "isco1d": "7",
     "isco2d": "74",
     "isco3d": "742",
-    "isco4d": "7422"
+    "isco4d": "7422",
+    "extended_code": "7422"
   },
   {
     "code": "75",
@@ -4569,7 +5044,8 @@
     "Level": 2,
     "parent": "7",
     "isco1d": "7",
-    "isco2d": "75"
+    "isco2d": "75",
+    "extended_code": "7500"
   },
   {
     "code": "751",
@@ -4578,7 +5054,8 @@
     "parent": "75",
     "isco1d": "7",
     "isco2d": "75",
-    "isco3d": "751"
+    "isco3d": "751",
+    "extended_code": "7510"
   },
   {
     "code": "7511",
@@ -4588,7 +5065,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "751",
-    "isco4d": "7511"
+    "isco4d": "7511",
+    "extended_code": "7511"
   },
   {
     "code": "7512",
@@ -4598,7 +5076,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "751",
-    "isco4d": "7512"
+    "isco4d": "7512",
+    "extended_code": "7512"
   },
   {
     "code": "7513",
@@ -4608,7 +5087,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "751",
-    "isco4d": "7513"
+    "isco4d": "7513",
+    "extended_code": "7513"
   },
   {
     "code": "7514",
@@ -4618,7 +5098,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "751",
-    "isco4d": "7514"
+    "isco4d": "7514",
+    "extended_code": "7514"
   },
   {
     "code": "7515",
@@ -4628,7 +5109,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "751",
-    "isco4d": "7515"
+    "isco4d": "7515",
+    "extended_code": "7515"
   },
   {
     "code": "7516",
@@ -4638,7 +5120,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "751",
-    "isco4d": "7516"
+    "isco4d": "7516",
+    "extended_code": "7516"
   },
   {
     "code": "752",
@@ -4647,7 +5130,8 @@
     "parent": "75",
     "isco1d": "7",
     "isco2d": "75",
-    "isco3d": "752"
+    "isco3d": "752",
+    "extended_code": "7520"
   },
   {
     "code": "7521",
@@ -4657,7 +5141,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "752",
-    "isco4d": "7521"
+    "isco4d": "7521",
+    "extended_code": "7521"
   },
   {
     "code": "7522",
@@ -4667,7 +5152,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "752",
-    "isco4d": "7522"
+    "isco4d": "7522",
+    "extended_code": "7522"
   },
   {
     "code": "7523",
@@ -4677,7 +5163,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "752",
-    "isco4d": "7523"
+    "isco4d": "7523",
+    "extended_code": "7523"
   },
   {
     "code": "753",
@@ -4686,7 +5173,8 @@
     "parent": "75",
     "isco1d": "7",
     "isco2d": "75",
-    "isco3d": "753"
+    "isco3d": "753",
+    "extended_code": "7530"
   },
   {
     "code": "7531",
@@ -4696,7 +5184,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "753",
-    "isco4d": "7531"
+    "isco4d": "7531",
+    "extended_code": "7531"
   },
   {
     "code": "7532",
@@ -4706,7 +5195,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "753",
-    "isco4d": "7532"
+    "isco4d": "7532",
+    "extended_code": "7532"
   },
   {
     "code": "7533",
@@ -4716,7 +5206,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "753",
-    "isco4d": "7533"
+    "isco4d": "7533",
+    "extended_code": "7533"
   },
   {
     "code": "7534",
@@ -4726,7 +5217,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "753",
-    "isco4d": "7534"
+    "isco4d": "7534",
+    "extended_code": "7534"
   },
   {
     "code": "7535",
@@ -4736,7 +5228,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "753",
-    "isco4d": "7535"
+    "isco4d": "7535",
+    "extended_code": "7535"
   },
   {
     "code": "7536",
@@ -4746,7 +5239,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "753",
-    "isco4d": "7536"
+    "isco4d": "7536",
+    "extended_code": "7536"
   },
   {
     "code": "754",
@@ -4755,7 +5249,8 @@
     "parent": "75",
     "isco1d": "7",
     "isco2d": "75",
-    "isco3d": "754"
+    "isco3d": "754",
+    "extended_code": "7540"
   },
   {
     "code": "7541",
@@ -4765,7 +5260,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "754",
-    "isco4d": "7541"
+    "isco4d": "7541",
+    "extended_code": "7541"
   },
   {
     "code": "7542",
@@ -4775,7 +5271,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "754",
-    "isco4d": "7542"
+    "isco4d": "7542",
+    "extended_code": "7542"
   },
   {
     "code": "7543",
@@ -4785,7 +5282,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "754",
-    "isco4d": "7543"
+    "isco4d": "7543",
+    "extended_code": "7543"
   },
   {
     "code": "7544",
@@ -4795,7 +5293,8 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "754",
-    "isco4d": "7544"
+    "isco4d": "7544",
+    "extended_code": "7544"
   },
   {
     "code": "7549",
@@ -4805,13 +5304,15 @@
     "isco1d": "7",
     "isco2d": "75",
     "isco3d": "754",
-    "isco4d": "7549"
+    "isco4d": "7549",
+    "extended_code": "7549"
   },
   {
     "code": "8",
     "title": "Plant and Machine Operators, and Assemblers",
     "Level": 1,
-    "isco1d": "8"
+    "isco1d": "8",
+    "extended_code": "8000"
   },
   {
     "code": "81",
@@ -4819,7 +5320,8 @@
     "Level": 2,
     "parent": "8",
     "isco1d": "8",
-    "isco2d": "81"
+    "isco2d": "81",
+    "extended_code": "8100"
   },
   {
     "code": "811",
@@ -4828,7 +5330,8 @@
     "parent": "81",
     "isco1d": "8",
     "isco2d": "81",
-    "isco3d": "811"
+    "isco3d": "811",
+    "extended_code": "8110"
   },
   {
     "code": "8111",
@@ -4838,7 +5341,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "811",
-    "isco4d": "8111"
+    "isco4d": "8111",
+    "extended_code": "8111"
   },
   {
     "code": "8112",
@@ -4848,7 +5352,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "811",
-    "isco4d": "8112"
+    "isco4d": "8112",
+    "extended_code": "8112"
   },
   {
     "code": "8113",
@@ -4858,7 +5363,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "811",
-    "isco4d": "8113"
+    "isco4d": "8113",
+    "extended_code": "8113"
   },
   {
     "code": "8114",
@@ -4868,7 +5374,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "811",
-    "isco4d": "8114"
+    "isco4d": "8114",
+    "extended_code": "8114"
   },
   {
     "code": "812",
@@ -4877,7 +5384,8 @@
     "parent": "81",
     "isco1d": "8",
     "isco2d": "81",
-    "isco3d": "812"
+    "isco3d": "812",
+    "extended_code": "8120"
   },
   {
     "code": "8121",
@@ -4887,7 +5395,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "812",
-    "isco4d": "8121"
+    "isco4d": "8121",
+    "extended_code": "8121"
   },
   {
     "code": "8122",
@@ -4897,7 +5406,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "812",
-    "isco4d": "8122"
+    "isco4d": "8122",
+    "extended_code": "8122"
   },
   {
     "code": "813",
@@ -4906,7 +5416,8 @@
     "parent": "81",
     "isco1d": "8",
     "isco2d": "81",
-    "isco3d": "813"
+    "isco3d": "813",
+    "extended_code": "8130"
   },
   {
     "code": "8131",
@@ -4916,7 +5427,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "813",
-    "isco4d": "8131"
+    "isco4d": "8131",
+    "extended_code": "8131"
   },
   {
     "code": "8132",
@@ -4926,7 +5438,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "813",
-    "isco4d": "8132"
+    "isco4d": "8132",
+    "extended_code": "8132"
   },
   {
     "code": "814",
@@ -4935,7 +5448,8 @@
     "parent": "81",
     "isco1d": "8",
     "isco2d": "81",
-    "isco3d": "814"
+    "isco3d": "814",
+    "extended_code": "8140"
   },
   {
     "code": "8141",
@@ -4945,7 +5459,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "814",
-    "isco4d": "8141"
+    "isco4d": "8141",
+    "extended_code": "8141"
   },
   {
     "code": "8142",
@@ -4955,7 +5470,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "814",
-    "isco4d": "8142"
+    "isco4d": "8142",
+    "extended_code": "8142"
   },
   {
     "code": "8143",
@@ -4965,7 +5481,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "814",
-    "isco4d": "8143"
+    "isco4d": "8143",
+    "extended_code": "8143"
   },
   {
     "code": "815",
@@ -4974,7 +5491,8 @@
     "parent": "81",
     "isco1d": "8",
     "isco2d": "81",
-    "isco3d": "815"
+    "isco3d": "815",
+    "extended_code": "8150"
   },
   {
     "code": "8151",
@@ -4984,7 +5502,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "815",
-    "isco4d": "8151"
+    "isco4d": "8151",
+    "extended_code": "8151"
   },
   {
     "code": "8152",
@@ -4994,7 +5513,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "815",
-    "isco4d": "8152"
+    "isco4d": "8152",
+    "extended_code": "8152"
   },
   {
     "code": "8153",
@@ -5004,7 +5524,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "815",
-    "isco4d": "8153"
+    "isco4d": "8153",
+    "extended_code": "8153"
   },
   {
     "code": "8154",
@@ -5014,7 +5535,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "815",
-    "isco4d": "8154"
+    "isco4d": "8154",
+    "extended_code": "8154"
   },
   {
     "code": "8155",
@@ -5024,7 +5546,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "815",
-    "isco4d": "8155"
+    "isco4d": "8155",
+    "extended_code": "8155"
   },
   {
     "code": "8156",
@@ -5034,7 +5557,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "815",
-    "isco4d": "8156"
+    "isco4d": "8156",
+    "extended_code": "8156"
   },
   {
     "code": "8157",
@@ -5044,7 +5568,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "815",
-    "isco4d": "8157"
+    "isco4d": "8157",
+    "extended_code": "8157"
   },
   {
     "code": "8159",
@@ -5054,7 +5579,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "815",
-    "isco4d": "8159"
+    "isco4d": "8159",
+    "extended_code": "8159"
   },
   {
     "code": "816",
@@ -5063,7 +5589,8 @@
     "parent": "81",
     "isco1d": "8",
     "isco2d": "81",
-    "isco3d": "816"
+    "isco3d": "816",
+    "extended_code": "8160"
   },
   {
     "code": "8160",
@@ -5073,7 +5600,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "816",
-    "isco4d": "8160"
+    "isco4d": "8160",
+    "extended_code": "8160"
   },
   {
     "code": "817",
@@ -5082,7 +5610,8 @@
     "parent": "81",
     "isco1d": "8",
     "isco2d": "81",
-    "isco3d": "817"
+    "isco3d": "817",
+    "extended_code": "8170"
   },
   {
     "code": "8171",
@@ -5092,7 +5621,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "817",
-    "isco4d": "8171"
+    "isco4d": "8171",
+    "extended_code": "8171"
   },
   {
     "code": "8172",
@@ -5102,7 +5632,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "817",
-    "isco4d": "8172"
+    "isco4d": "8172",
+    "extended_code": "8172"
   },
   {
     "code": "818",
@@ -5111,7 +5642,8 @@
     "parent": "81",
     "isco1d": "8",
     "isco2d": "81",
-    "isco3d": "818"
+    "isco3d": "818",
+    "extended_code": "8180"
   },
   {
     "code": "8181",
@@ -5121,7 +5653,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "818",
-    "isco4d": "8181"
+    "isco4d": "8181",
+    "extended_code": "8181"
   },
   {
     "code": "8182",
@@ -5131,7 +5664,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "818",
-    "isco4d": "8182"
+    "isco4d": "8182",
+    "extended_code": "8182"
   },
   {
     "code": "8183",
@@ -5141,7 +5675,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "818",
-    "isco4d": "8183"
+    "isco4d": "8183",
+    "extended_code": "8183"
   },
   {
     "code": "8189",
@@ -5151,7 +5686,8 @@
     "isco1d": "8",
     "isco2d": "81",
     "isco3d": "818",
-    "isco4d": "8189"
+    "isco4d": "8189",
+    "extended_code": "8189"
   },
   {
     "code": "82",
@@ -5159,7 +5695,8 @@
     "Level": 2,
     "parent": "8",
     "isco1d": "8",
-    "isco2d": "82"
+    "isco2d": "82",
+    "extended_code": "8200"
   },
   {
     "code": "821",
@@ -5168,7 +5705,8 @@
     "parent": "82",
     "isco1d": "8",
     "isco2d": "82",
-    "isco3d": "821"
+    "isco3d": "821",
+    "extended_code": "8210"
   },
   {
     "code": "8211",
@@ -5178,7 +5716,8 @@
     "isco1d": "8",
     "isco2d": "82",
     "isco3d": "821",
-    "isco4d": "8211"
+    "isco4d": "8211",
+    "extended_code": "8211"
   },
   {
     "code": "8212",
@@ -5188,7 +5727,8 @@
     "isco1d": "8",
     "isco2d": "82",
     "isco3d": "821",
-    "isco4d": "8212"
+    "isco4d": "8212",
+    "extended_code": "8212"
   },
   {
     "code": "8219",
@@ -5198,7 +5738,8 @@
     "isco1d": "8",
     "isco2d": "82",
     "isco3d": "821",
-    "isco4d": "8219"
+    "isco4d": "8219",
+    "extended_code": "8219"
   },
   {
     "code": "83",
@@ -5206,7 +5747,8 @@
     "Level": 2,
     "parent": "8",
     "isco1d": "8",
-    "isco2d": "83"
+    "isco2d": "83",
+    "extended_code": "8300"
   },
   {
     "code": "831",
@@ -5215,7 +5757,8 @@
     "parent": "83",
     "isco1d": "8",
     "isco2d": "83",
-    "isco3d": "831"
+    "isco3d": "831",
+    "extended_code": "8310"
   },
   {
     "code": "8311",
@@ -5225,7 +5768,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "831",
-    "isco4d": "8311"
+    "isco4d": "8311",
+    "extended_code": "8311"
   },
   {
     "code": "8312",
@@ -5235,7 +5779,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "831",
-    "isco4d": "8312"
+    "isco4d": "8312",
+    "extended_code": "8312"
   },
   {
     "code": "832",
@@ -5244,7 +5789,8 @@
     "parent": "83",
     "isco1d": "8",
     "isco2d": "83",
-    "isco3d": "832"
+    "isco3d": "832",
+    "extended_code": "8320"
   },
   {
     "code": "8321",
@@ -5254,7 +5800,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "832",
-    "isco4d": "8321"
+    "isco4d": "8321",
+    "extended_code": "8321"
   },
   {
     "code": "8322",
@@ -5264,7 +5811,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "832",
-    "isco4d": "8322"
+    "isco4d": "8322",
+    "extended_code": "8322"
   },
   {
     "code": "833",
@@ -5273,7 +5821,8 @@
     "parent": "83",
     "isco1d": "8",
     "isco2d": "83",
-    "isco3d": "833"
+    "isco3d": "833",
+    "extended_code": "8330"
   },
   {
     "code": "8331",
@@ -5283,7 +5832,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "833",
-    "isco4d": "8331"
+    "isco4d": "8331",
+    "extended_code": "8331"
   },
   {
     "code": "8332",
@@ -5293,7 +5843,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "833",
-    "isco4d": "8332"
+    "isco4d": "8332",
+    "extended_code": "8332"
   },
   {
     "code": "834",
@@ -5302,7 +5853,8 @@
     "parent": "83",
     "isco1d": "8",
     "isco2d": "83",
-    "isco3d": "834"
+    "isco3d": "834",
+    "extended_code": "8340"
   },
   {
     "code": "8341",
@@ -5312,7 +5864,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "834",
-    "isco4d": "8341"
+    "isco4d": "8341",
+    "extended_code": "8341"
   },
   {
     "code": "8342",
@@ -5322,7 +5875,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "834",
-    "isco4d": "8342"
+    "isco4d": "8342",
+    "extended_code": "8342"
   },
   {
     "code": "8343",
@@ -5332,7 +5886,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "834",
-    "isco4d": "8343"
+    "isco4d": "8343",
+    "extended_code": "8343"
   },
   {
     "code": "8344",
@@ -5342,7 +5897,8 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "834",
-    "isco4d": "8344"
+    "isco4d": "8344",
+    "extended_code": "8344"
   },
   {
     "code": "835",
@@ -5351,7 +5907,8 @@
     "parent": "83",
     "isco1d": "8",
     "isco2d": "83",
-    "isco3d": "835"
+    "isco3d": "835",
+    "extended_code": "8350"
   },
   {
     "code": "8350",
@@ -5361,13 +5918,15 @@
     "isco1d": "8",
     "isco2d": "83",
     "isco3d": "835",
-    "isco4d": "8350"
+    "isco4d": "8350",
+    "extended_code": "8350"
   },
   {
     "code": "9",
     "title": "Elementary Occupations",
     "Level": 1,
-    "isco1d": "9"
+    "isco1d": "9",
+    "extended_code": "9000"
   },
   {
     "code": "91",
@@ -5375,7 +5934,8 @@
     "Level": 2,
     "parent": "9",
     "isco1d": "9",
-    "isco2d": "91"
+    "isco2d": "91",
+    "extended_code": "9100"
   },
   {
     "code": "911",
@@ -5384,7 +5944,8 @@
     "parent": "91",
     "isco1d": "9",
     "isco2d": "91",
-    "isco3d": "911"
+    "isco3d": "911",
+    "extended_code": "9110"
   },
   {
     "code": "9111",
@@ -5394,7 +5955,8 @@
     "isco1d": "9",
     "isco2d": "91",
     "isco3d": "911",
-    "isco4d": "9111"
+    "isco4d": "9111",
+    "extended_code": "9111"
   },
   {
     "code": "9112",
@@ -5404,7 +5966,8 @@
     "isco1d": "9",
     "isco2d": "91",
     "isco3d": "911",
-    "isco4d": "9112"
+    "isco4d": "9112",
+    "extended_code": "9112"
   },
   {
     "code": "912",
@@ -5413,7 +5976,8 @@
     "parent": "91",
     "isco1d": "9",
     "isco2d": "91",
-    "isco3d": "912"
+    "isco3d": "912",
+    "extended_code": "9120"
   },
   {
     "code": "9121",
@@ -5423,7 +5987,8 @@
     "isco1d": "9",
     "isco2d": "91",
     "isco3d": "912",
-    "isco4d": "9121"
+    "isco4d": "9121",
+    "extended_code": "9121"
   },
   {
     "code": "9122",
@@ -5433,7 +5998,8 @@
     "isco1d": "9",
     "isco2d": "91",
     "isco3d": "912",
-    "isco4d": "9122"
+    "isco4d": "9122",
+    "extended_code": "9122"
   },
   {
     "code": "9123",
@@ -5443,7 +6009,8 @@
     "isco1d": "9",
     "isco2d": "91",
     "isco3d": "912",
-    "isco4d": "9123"
+    "isco4d": "9123",
+    "extended_code": "9123"
   },
   {
     "code": "9129",
@@ -5453,7 +6020,8 @@
     "isco1d": "9",
     "isco2d": "91",
     "isco3d": "912",
-    "isco4d": "9129"
+    "isco4d": "9129",
+    "extended_code": "9129"
   },
   {
     "code": "92",
@@ -5461,7 +6029,8 @@
     "Level": 2,
     "parent": "9",
     "isco1d": "9",
-    "isco2d": "92"
+    "isco2d": "92",
+    "extended_code": "9200"
   },
   {
     "code": "921",
@@ -5470,7 +6039,8 @@
     "parent": "92",
     "isco1d": "9",
     "isco2d": "92",
-    "isco3d": "921"
+    "isco3d": "921",
+    "extended_code": "9210"
   },
   {
     "code": "9211",
@@ -5480,7 +6050,8 @@
     "isco1d": "9",
     "isco2d": "92",
     "isco3d": "921",
-    "isco4d": "9211"
+    "isco4d": "9211",
+    "extended_code": "9211"
   },
   {
     "code": "9212",
@@ -5490,7 +6061,8 @@
     "isco1d": "9",
     "isco2d": "92",
     "isco3d": "921",
-    "isco4d": "9212"
+    "isco4d": "9212",
+    "extended_code": "9212"
   },
   {
     "code": "9213",
@@ -5500,7 +6072,8 @@
     "isco1d": "9",
     "isco2d": "92",
     "isco3d": "921",
-    "isco4d": "9213"
+    "isco4d": "9213",
+    "extended_code": "9213"
   },
   {
     "code": "9214",
@@ -5510,7 +6083,8 @@
     "isco1d": "9",
     "isco2d": "92",
     "isco3d": "921",
-    "isco4d": "9214"
+    "isco4d": "9214",
+    "extended_code": "9214"
   },
   {
     "code": "9215",
@@ -5520,7 +6094,8 @@
     "isco1d": "9",
     "isco2d": "92",
     "isco3d": "921",
-    "isco4d": "9215"
+    "isco4d": "9215",
+    "extended_code": "9215"
   },
   {
     "code": "9216",
@@ -5530,7 +6105,8 @@
     "isco1d": "9",
     "isco2d": "92",
     "isco3d": "921",
-    "isco4d": "9216"
+    "isco4d": "9216",
+    "extended_code": "9216"
   },
   {
     "code": "93",
@@ -5538,7 +6114,8 @@
     "Level": 2,
     "parent": "9",
     "isco1d": "9",
-    "isco2d": "93"
+    "isco2d": "93",
+    "extended_code": "9300"
   },
   {
     "code": "931",
@@ -5547,7 +6124,8 @@
     "parent": "93",
     "isco1d": "9",
     "isco2d": "93",
-    "isco3d": "931"
+    "isco3d": "931",
+    "extended_code": "9310"
   },
   {
     "code": "9311",
@@ -5557,7 +6135,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "931",
-    "isco4d": "9311"
+    "isco4d": "9311",
+    "extended_code": "9311"
   },
   {
     "code": "9312",
@@ -5567,7 +6146,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "931",
-    "isco4d": "9312"
+    "isco4d": "9312",
+    "extended_code": "9312"
   },
   {
     "code": "9313",
@@ -5577,7 +6157,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "931",
-    "isco4d": "9313"
+    "isco4d": "9313",
+    "extended_code": "9313"
   },
   {
     "code": "932",
@@ -5586,7 +6167,8 @@
     "parent": "93",
     "isco1d": "9",
     "isco2d": "93",
-    "isco3d": "932"
+    "isco3d": "932",
+    "extended_code": "9320"
   },
   {
     "code": "9321",
@@ -5596,7 +6178,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "932",
-    "isco4d": "9321"
+    "isco4d": "9321",
+    "extended_code": "9321"
   },
   {
     "code": "9329",
@@ -5606,7 +6189,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "932",
-    "isco4d": "9329"
+    "isco4d": "9329",
+    "extended_code": "9329"
   },
   {
     "code": "933",
@@ -5615,7 +6199,8 @@
     "parent": "93",
     "isco1d": "9",
     "isco2d": "93",
-    "isco3d": "933"
+    "isco3d": "933",
+    "extended_code": "9330"
   },
   {
     "code": "9331",
@@ -5625,7 +6210,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "933",
-    "isco4d": "9331"
+    "isco4d": "9331",
+    "extended_code": "9331"
   },
   {
     "code": "9332",
@@ -5635,7 +6221,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "933",
-    "isco4d": "9332"
+    "isco4d": "9332",
+    "extended_code": "9332"
   },
   {
     "code": "9333",
@@ -5645,7 +6232,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "933",
-    "isco4d": "9333"
+    "isco4d": "9333",
+    "extended_code": "9333"
   },
   {
     "code": "9334",
@@ -5655,7 +6243,8 @@
     "isco1d": "9",
     "isco2d": "93",
     "isco3d": "933",
-    "isco4d": "9334"
+    "isco4d": "9334",
+    "extended_code": "9334"
   },
   {
     "code": "94",
@@ -5663,7 +6252,8 @@
     "Level": 2,
     "parent": "9",
     "isco1d": "9",
-    "isco2d": "94"
+    "isco2d": "94",
+    "extended_code": "9400"
   },
   {
     "code": "941",
@@ -5672,7 +6262,8 @@
     "parent": "94",
     "isco1d": "9",
     "isco2d": "94",
-    "isco3d": "941"
+    "isco3d": "941",
+    "extended_code": "9410"
   },
   {
     "code": "9411",
@@ -5682,7 +6273,8 @@
     "isco1d": "9",
     "isco2d": "94",
     "isco3d": "941",
-    "isco4d": "9411"
+    "isco4d": "9411",
+    "extended_code": "9411"
   },
   {
     "code": "9412",
@@ -5692,7 +6284,8 @@
     "isco1d": "9",
     "isco2d": "94",
     "isco3d": "941",
-    "isco4d": "9412"
+    "isco4d": "9412",
+    "extended_code": "9412"
   },
   {
     "code": "95",
@@ -5700,7 +6293,8 @@
     "Level": 2,
     "parent": "9",
     "isco1d": "9",
-    "isco2d": "95"
+    "isco2d": "95",
+    "extended_code": "9500"
   },
   {
     "code": "951",
@@ -5709,7 +6303,8 @@
     "parent": "95",
     "isco1d": "9",
     "isco2d": "95",
-    "isco3d": "951"
+    "isco3d": "951",
+    "extended_code": "9510"
   },
   {
     "code": "9510",
@@ -5719,7 +6314,8 @@
     "isco1d": "9",
     "isco2d": "95",
     "isco3d": "951",
-    "isco4d": "9510"
+    "isco4d": "9510",
+    "extended_code": "9510"
   },
   {
     "code": "952",
@@ -5728,7 +6324,8 @@
     "parent": "95",
     "isco1d": "9",
     "isco2d": "95",
-    "isco3d": "952"
+    "isco3d": "952",
+    "extended_code": "9520"
   },
   {
     "code": "9520",
@@ -5738,7 +6335,8 @@
     "isco1d": "9",
     "isco2d": "95",
     "isco3d": "952",
-    "isco4d": "9520"
+    "isco4d": "9520",
+    "extended_code": "9520"
   },
   {
     "code": "96",
@@ -5746,7 +6344,8 @@
     "Level": 2,
     "parent": "9",
     "isco1d": "9",
-    "isco2d": "96"
+    "isco2d": "96",
+    "extended_code": "9600"
   },
   {
     "code": "961",
@@ -5755,7 +6354,8 @@
     "parent": "96",
     "isco1d": "9",
     "isco2d": "96",
-    "isco3d": "961"
+    "isco3d": "961",
+    "extended_code": "9610"
   },
   {
     "code": "9611",
@@ -5765,7 +6365,8 @@
     "isco1d": "9",
     "isco2d": "96",
     "isco3d": "961",
-    "isco4d": "9611"
+    "isco4d": "9611",
+    "extended_code": "9611"
   },
   {
     "code": "9612",
@@ -5775,7 +6376,8 @@
     "isco1d": "9",
     "isco2d": "96",
     "isco3d": "961",
-    "isco4d": "9612"
+    "isco4d": "9612",
+    "extended_code": "9612"
   },
   {
     "code": "9613",
@@ -5785,7 +6387,8 @@
     "isco1d": "9",
     "isco2d": "96",
     "isco3d": "961",
-    "isco4d": "9613"
+    "isco4d": "9613",
+    "extended_code": "9613"
   },
   {
     "code": "962",
@@ -5794,7 +6397,8 @@
     "parent": "96",
     "isco1d": "9",
     "isco2d": "96",
-    "isco3d": "962"
+    "isco3d": "962",
+    "extended_code": "9620"
   },
   {
     "code": "9621",
@@ -5804,7 +6408,8 @@
     "isco1d": "9",
     "isco2d": "96",
     "isco3d": "962",
-    "isco4d": "9621"
+    "isco4d": "9621",
+    "extended_code": "9621"
   },
   {
     "code": "9622",
@@ -5814,7 +6419,8 @@
     "isco1d": "9",
     "isco2d": "96",
     "isco3d": "962",
-    "isco4d": "9622"
+    "isco4d": "9622",
+    "extended_code": "9622"
   },
   {
     "code": "9623",
@@ -5824,7 +6430,8 @@
     "isco1d": "9",
     "isco2d": "96",
     "isco3d": "962",
-    "isco4d": "9623"
+    "isco4d": "9623",
+    "extended_code": "9623"
   },
   {
     "code": "9624",
@@ -5834,7 +6441,8 @@
     "isco1d": "9",
     "isco2d": "96",
     "isco3d": "962",
-    "isco4d": "9624"
+    "isco4d": "9624",
+    "extended_code": "9624"
   },
   {
     "code": "9629",
@@ -5844,13 +6452,15 @@
     "isco1d": "9",
     "isco2d": "96",
     "isco3d": "962",
-    "isco4d": "9629"
+    "isco4d": "9629",
+    "extended_code": "9629"
   },
   {
     "code": "0",
     "title": "Armed Forces Occupations",
     "Level": 1,
-    "isco1d": "0"
+    "isco1d": "0",
+    "extended_code": "0000"
   },
   {
     "code": "01",
@@ -5858,7 +6468,8 @@
     "Level": 2,
     "parent": "0",
     "isco1d": "0",
-    "isco2d": "01"
+    "isco2d": "01",
+    "extended_code": "0100"
   },
   {
     "code": "011",
@@ -5867,7 +6478,8 @@
     "parent": "01",
     "isco1d": "0",
     "isco2d": "01",
-    "isco3d": "011"
+    "isco3d": "011",
+    "extended_code": "0110"
   },
   {
     "code": "0110",
@@ -5877,7 +6489,8 @@
     "isco1d": "0",
     "isco2d": "01",
     "isco3d": "011",
-    "isco4d": "0110"
+    "isco4d": "0110",
+    "extended_code": "0110"
   },
   {
     "code": "02",
@@ -5885,7 +6498,8 @@
     "Level": 2,
     "parent": "0",
     "isco1d": "0",
-    "isco2d": "02"
+    "isco2d": "02",
+    "extended_code": "0200"
   },
   {
     "code": "021",
@@ -5894,7 +6508,8 @@
     "parent": "02",
     "isco1d": "0",
     "isco2d": "02",
-    "isco3d": "021"
+    "isco3d": "021",
+    "extended_code": "0210"
   },
   {
     "code": "0210",
@@ -5904,7 +6519,8 @@
     "isco1d": "0",
     "isco2d": "02",
     "isco3d": "021",
-    "isco4d": "0210"
+    "isco4d": "0210",
+    "extended_code": "0210"
   },
   {
     "code": "03",
@@ -5912,7 +6528,8 @@
     "Level": 2,
     "parent": "0",
     "isco1d": "0",
-    "isco2d": "03"
+    "isco2d": "03",
+    "extended_code": "0300"
   },
   {
     "code": "031",
@@ -5921,7 +6538,8 @@
     "parent": "03",
     "isco1d": "0",
     "isco2d": "03",
-    "isco3d": "031"
+    "isco3d": "031",
+    "extended_code": "0310"
   },
   {
     "code": "0310",
@@ -5931,6 +6549,7 @@
     "isco1d": "0",
     "isco2d": "03",
     "isco3d": "031",
-    "isco4d": "0310"
+    "isco4d": "0310",
+    "extended_code": "0310"
   }
 ]

@@ -1,620 +1,620 @@
-code,title,Level,parent,isco1d,isco2d,isco3d,isco4d
-1,Managers,1,NA,1,NA,NA,NA
-11,"Chief Executives, Senior Officials and Legislators",2,1,1,11,NA,NA
-111,Legislators and Senior Officials,3,11,1,11,111,NA
-1111,Legislators,4,111,1,11,111,1111
-1112,Senior Government Officials,4,111,1,11,111,1112
-1113,Traditional Chiefs and Heads of Villages,4,111,1,11,111,1113
-1114,Senior Officials of Special-interest Organizations,4,111,1,11,111,1114
-112,Managing Directors and Chief Executives,3,11,1,11,112,NA
-1120,Managing Directors and Chief Executives,4,112,1,11,112,1120
-12,Administrative and Commercial Managers,2,1,1,12,NA,NA
-121,Business Services and Administration Managers,3,12,1,12,121,NA
-1211,Finance Managers,4,121,1,12,121,1211
-1212,Human Resource Managers,4,121,1,12,121,1212
-1213,Policy and Planning Managers,4,121,1,12,121,1213
-1219,Business Services and Administration Managers Not Elsewhere Classified,4,121,1,12,121,1219
-122,"Sales, Marketing and Development Managers",3,12,1,12,122,NA
-1221,Sales and Marketing Managers,4,122,1,12,122,1221
-1222,Advertising and Public Relations Managers,4,122,1,12,122,1222
-1223,Research and Development Managers,4,122,1,12,122,1223
-13,Production and Specialized Services Managers,2,1,1,13,NA,NA
-131,"Production Managers in Agriculture, Forestry and Fisheries",3,13,1,13,131,NA
-1311,Agricultural and Forestry Production Managers,4,131,1,13,131,1311
-1312,Aquaculture and Fisheries Production Managers,4,131,1,13,131,1312
-132,"Manufacturing, Mining, Construction and Distribution Managers",3,13,1,13,132,NA
-1321,Manufacturing Managers,4,132,1,13,132,1321
-1322,Mining Managers,4,132,1,13,132,1322
-1323,Construction Managers,4,132,1,13,132,1323
-1324,"Supply, Distribution and Related Managers",4,132,1,13,132,1324
-133,Information and Communications Technology Service managers,3,13,1,13,133,NA
-1330,Information and Communications Technology Service Managers,4,133,1,13,133,1330
-134,Professional Services Managers,3,13,1,13,134,NA
-1341,Child Care Service Managers,4,134,1,13,134,1341
-1342,Health Service Managers,4,134,1,13,134,1342
-1343,Aged Care Service Managers,4,134,1,13,134,1343
-1344,Social Welfare Managers,4,134,1,13,134,1344
-1345,Education Managers,4,134,1,13,134,1345
-1346,Financial and Insurance Services Branch managers,4,134,1,13,134,1346
-1349,Professional Services Managers Not Elsewhere Classified,4,134,1,13,134,1349
-14,"Hospitality, Retail and Other Services Managers",2,1,1,14,NA,NA
-141,Hotel and Restaurant Managers,3,14,1,14,141,NA
-1411,Hotel Managers,4,141,1,14,141,1411
-1412,Restaurant Managers,4,141,1,14,141,1412
-142,Retail and Wholesale Trade Managers,3,14,1,14,142,NA
-1420,Retail and Wholesale Trade Managers,4,142,1,14,142,1420
-143,Other Services Managers,3,14,1,14,143,NA
-1431,"Sports, Recreation and Cultural Centre Managers",4,143,1,14,143,1431
-1439,Services Managers Not Elsewhere Classified,4,143,1,14,143,1439
-2,Professionals,1,NA,2,NA,NA,NA
-21,Science and Engineering Professionals,2,2,2,21,NA,NA
-211,Physical and Earth Science Professionals,3,21,2,21,211,NA
-2111,Physicists and Astronomers,4,211,2,21,211,2111
-2112,Meteorologists,4,211,2,21,211,2112
-2113,Chemists,4,211,2,21,211,2113
-2114,Geologists and geophysicists,4,211,2,21,211,2114
-212,"Mathematicians, Actuaries and Statisticians",3,21,2,21,212,NA
-2120,"Mathematicians, Actuaries and Statisticians",4,212,2,21,212,2120
-213,Life Science Professionals,3,21,2,21,213,NA
-2131,"Biologists, Botanists, Zoologists and Related Professionals",4,213,2,21,213,2131
-2132,"Farming, Forestry and Fisheries Advisers",4,213,2,21,213,2132
-2133,Environmental Protection Professionals,4,213,2,21,213,2133
-214,Engineering Professionals (excluding Electrotechnology),3,21,2,21,214,NA
-2141,Industrial and Production Engineers,4,214,2,21,214,2141
-2142,Civil Engineers,4,214,2,21,214,2142
-2143,Environmental Engineers,4,214,2,21,214,2143
-2144,Mechanical Engineers,4,214,2,21,214,2144
-2145,Chemical Engineers,4,214,2,21,214,2145
-2146,"Mining Engineers, Metallurgists and Related Professionals",4,214,2,21,214,2146
-2149,Engineering Professionals Not Elsewhere Classified,4,214,2,21,214,2149
-215,Electrotechnology Engineers,3,21,2,21,215,NA
-2151,Electrical Engineers,4,215,2,21,215,2151
-2152,Electronics Engineers,4,215,2,21,215,2152
-2153,Telecommunications Engineers,4,215,2,21,215,2153
-216,"Architects, Planners, Surveyors and Designers",3,21,2,21,216,NA
-2161,Building Architects,4,216,2,21,216,2161
-2162,Landscape Architects,4,216,2,21,216,2162
-2163,Product and Garment Designers,4,216,2,21,216,2163
-2164,Town and Traffic Planners,4,216,2,21,216,2164
-2165,Cartographers and Surveyors,4,216,2,21,216,2165
-2166,Graphic and Multimedia Designers,4,216,2,21,216,2166
-22,Health Professionals,2,2,2,22,NA,NA
-221,Medical Doctors,3,22,2,22,221,NA
-2211,Generalist Medical Practitioners,4,221,2,22,221,2211
-2212,Specialist Medical Practitioners,4,221,2,22,221,2212
-222,Nursing and Midwifery Professionals,3,22,2,22,222,NA
-2221,Nursing Professionals,4,222,2,22,222,2221
-2222,Midwifery Professionals,4,222,2,22,222,2222
-223,Traditional and Complementary Medicine Professionals,3,22,2,22,223,NA
-2230,Traditional and Complementary Medicine Professionals,4,223,2,22,223,2230
-224,Paramedical Practitioners,3,22,2,22,224,NA
-2240,Paramedical Practitioners,4,224,2,22,224,2240
-225,Veterinarians,3,22,2,22,225,NA
-2250,Veterinarians,4,225,2,22,225,2250
-226,Other Health Professionals,3,22,2,22,226,NA
-2261,Dentists,4,226,2,22,226,2261
-2262,Pharmacists,4,226,2,22,226,2262
-2263,Environmental and Occupational Health and Hygiene Professionals,4,226,2,22,226,2263
-2264,Physiotherapists,4,226,2,22,226,2264
-2265,Dieticians and Nutritionists,4,226,2,22,226,2265
-2266,Audiologists and Speech Therapists,4,226,2,22,226,2266
-2267,Optometrists and Ophthalmic Opticians,4,226,2,22,226,2267
-2269,Health Professionals Not Elsewhere Classified,4,226,2,22,226,2269
-23,Teaching Professionals,2,2,2,23,NA,NA
-231,University and Higher Education Teachers,3,23,2,23,231,NA
-2310,University and Higher Education Teachers,4,231,2,23,231,2310
-232,Vocational education teachers,3,23,2,23,232,NA
-2320,Vocational Education Teachers,4,232,2,23,232,2320
-233,Secondary Education Teachers,3,23,2,23,233,NA
-2330,Secondary Education Teachers,4,233,2,23,233,2330
-234,Primary School and Early Childhood Teachers,3,23,2,23,234,NA
-2341,Primary School Teachers,4,234,2,23,234,2341
-2342,Early Childhood Educators,4,234,2,23,234,2342
-235,Other Teaching Professionals,3,23,2,23,235,NA
-2351,Education Methods Specialists,4,235,2,23,235,2351
-2352,Special Needs Teachers,4,235,2,23,235,2352
-2353,Other Language Teachers,4,235,2,23,235,2353
-2354,Other Music Teachers,4,235,2,23,235,2354
-2355,Other Arts Teachers,4,235,2,23,235,2355
-2356,Information Technology Trainers,4,235,2,23,235,2356
-2359,Teaching Professionals Not Elsewhere Classified,4,235,2,23,235,2359
-24,Business and Administration Professionals,2,2,2,24,NA,NA
-241,Finance Professionals,3,24,2,24,241,NA
-2411,Accountants,4,241,2,24,241,2411
-2412,Financial and Investment Advisers,4,241,2,24,241,2412
-2413,Financial Analysts,4,241,2,24,241,2413
-242,Administration Professionals,3,24,2,24,242,NA
-2421,Management and Organization Analysts,4,242,2,24,242,2421
-2422,Policy Administration Professionals,4,242,2,24,242,2422
-2423,Personnel and Careers Professionals,4,242,2,24,242,2423
-2424,Training and Staff Development Professionals,4,242,2,24,242,2424
-243,"Sales, Marketing and Public Relations Professionals",3,24,2,24,243,NA
-2431,Advertising and Marketing Professionals,4,243,2,24,243,2431
-2432,Public Relations Professionals,4,243,2,24,243,2432
-2433,Technical and Medical Sales Professionals (excluding ICT),4,243,2,24,243,2433
-2434,Information and Communications Technology Sales Professionals,4,243,2,24,243,2434
-25,Information and Communications Technology Professionals,2,2,2,25,NA,NA
-251,Software and Applications Developers and Analysts,3,25,2,25,251,NA
-2511,Systems Analysts,4,251,2,25,251,2511
-2512,Software Developers,4,251,2,25,251,2512
-2513,Web and Multimedia Developers,4,251,2,25,251,2513
-2514,Applications Programmers,4,251,2,25,251,2514
-2519,Software and Applications Developers and Analysts Not Elsewhere Classified,4,251,2,25,251,2519
-252,Database and Network Professionals,3,25,2,25,252,NA
-2521,Database Designers and Administrators,4,252,2,25,252,2521
-2522,Systems Aministrators,4,252,2,25,252,2522
-2523,Computer Network Professionals,4,252,2,25,252,2523
-2529,Database and Network Professionals Not Elsewhere Classified,4,252,2,25,252,2529
-26,"Legal, Social and Cultural Professionals",2,2,2,26,NA,NA
-261,Legal Professionals,3,26,2,26,261,NA
-2611,Lawyers,4,261,2,26,261,2611
-2612,Judges,4,261,2,26,261,2612
-2619,Legal Professionals Not Elsewhere Classified,4,261,2,26,261,2619
-262,"Librarians, Archivists and Curators",3,26,2,26,262,NA
-2621,Archivists and Curators,4,262,2,26,262,2621
-2622,Librarians and Related Information Professionals,4,262,2,26,262,2622
-263,Social and Religious Professionals,3,26,2,26,263,NA
-2631,Economists,4,263,2,26,263,2631
-2632,"Sociologists, Anthropologists and Related Professionals",4,263,2,26,263,2632
-2633,"Philosophers, Historians and Political Scientists",4,263,2,26,263,2633
-2634,Psychologists,4,263,2,26,263,2634
-2635,Social Work and Counselling Professionals,4,263,2,26,263,2635
-2636,Religious Professionals,4,263,2,26,263,2636
-264,"Authors, Journalists and Linguists",3,26,2,26,264,NA
-2641,Authors and Related Writers,4,264,2,26,264,2641
-2642,Journalists,4,264,2,26,264,2642
-2643,"Translators, Interpreters and Other Linguists",4,264,2,26,264,2643
-265,Creative and Performing Artists,3,26,2,26,265,NA
-2651,Visual Artists,4,265,2,26,265,2651
-2652,"Musicians, Singers and Composers",4,265,2,26,265,2652
-2653,Dancers and Choreographers,4,265,2,26,265,2653
-2654,"Film, Stage and Related Directors and Producers",4,265,2,26,265,2654
-2655,Actors,4,265,2,26,265,2655
-2656,"Announcers on Radio, Television and Other Media",4,265,2,26,265,2656
-2659,Creative and Performing Artists Not Elsewhere Classified,4,265,2,26,265,2659
-3,Technicians and Associate Professionals,1,NA,3,NA,NA,NA
-31,Science and Engineering Associate Professionals,2,3,3,31,NA,NA
-311,Physical and Engineering Science Technicians,3,31,3,31,311,NA
-3111,Chemical and Physical Science Technicians,4,311,3,31,311,3111
-3112,Civil Engineering Technicians,4,311,3,31,311,3112
-3113,Electrical Engineering Technicians,4,311,3,31,311,3113
-3114,Electronics Engineering Technicians,4,311,3,31,311,3114
-3115,Mechanical Engineering Technicians,4,311,3,31,311,3115
-3116,Chemical Engineering Technicians,4,311,3,31,311,3116
-3117,Mining and metallurgical technicians,4,311,3,31,311,3117
-3118,Draughtspersons,4,311,3,31,311,3118
-3119,Physical and Engineering Science Technicians Not Elsewhere Classified,4,311,3,31,311,3119
-312,"Mining, Manufacturing and Construction Supervisors",3,31,3,31,312,NA
-3121,Mining Supervisors,4,312,3,31,312,3121
-3122,Manufacturing Supervisors,4,312,3,31,312,3122
-3123,Construction Supervisors,4,312,3,31,312,3123
-313,Process Control Technicians,3,31,3,31,313,NA
-3131,Power Production Plant Operators,4,313,3,31,313,3131
-3132,Incinerator and Water Treatment Plant Operators,4,313,3,31,313,3132
-3133,Chemical Processing Plant Controllers,4,313,3,31,313,3133
-3134,Petroleum and Natural Gas Refining Plant Operators,4,313,3,31,313,3134
-3135,Metal Production Process Controllers,4,313,3,31,313,3135
-3139,Process Control Technicians Not Elsewhere Classified,4,313,3,31,313,3139
-314,Life Science Technicians and Related Associate Professionals,3,31,3,31,314,NA
-3141,Life Science Technicians (excluding Medical),4,314,3,31,314,3141
-3142,Agricultural Technicians,4,314,3,31,314,3142
-3143,Forestry Technicians,4,314,3,31,314,3143
-315,Ship and Aircraft Controllers and Technicians,3,31,3,31,315,NA
-3151,Ships' Engineers,4,315,3,31,315,3151
-3152,Ships' Deck Officers and Pilots,4,315,3,31,315,3152
-3153,Aircraft Pilots and Related Associate Professionals,4,315,3,31,315,3153
-3154,Air Traffic Controllers,4,315,3,31,315,3154
-3155,Air Traffic Safety Electronics Technicians,4,315,3,31,315,3155
-32,Health Associate Professionals,2,3,3,32,NA,NA
-321,Medical and Pharmaceutical Technicians,3,32,3,32,321,NA
-3211,Medical Imaging and Therapeutic Equipment Technicians,4,321,3,32,321,3211
-3212,Medical and Pathology Laboratory Technicians,4,321,3,32,321,3212
-3213,Pharmaceutical Technicians and Assistants,4,321,3,32,321,3213
-3214,Medical and Dental Prosthetic Technicians,4,321,3,32,321,3214
-322,Nursing and Midwifery Associate Professionals,3,32,3,32,322,NA
-3221,Nursing Associate Professionals,4,322,3,32,322,3221
-3222,Midwifery Associate Professionals,4,322,3,32,322,3222
-323,Traditional and Complementary Medicine Associate Professionals,3,32,3,32,323,NA
-3230,Traditional and Complementary Medicine Associate Professionals,4,323,3,32,323,3230
-324,Veterinary Technicians and Assistants,3,32,3,32,324,NA
-3240,Veterinary Technicians and Assistants,4,324,3,32,324,3240
-325,Other Health Associate Professionals,3,32,3,32,325,NA
-3251,Dental Assistants and Therapists,4,325,3,32,325,3251
-3252,Medical Records and Health Information Technicians,4,325,3,32,325,3252
-3253,Community Health Workers,4,325,3,32,325,3253
-3254,Dispensing Opticians,4,325,3,32,325,3254
-3255,Physiotherapy Technicians and Assistants,4,325,3,32,325,3255
-3256,Medical Assistants,4,325,3,32,325,3256
-3257,Environmental and Occupational Health Inspectors and Associates,4,325,3,32,325,3257
-3258,Ambulance Workers,4,325,3,32,325,3258
-3259,Health Associate Professionals Not Elsewhere Classified,4,325,3,32,325,3259
-33,Business and Administration Associate Professionals,2,3,3,33,NA,NA
-331,Financial and Mathematical Associate Professionals,3,33,3,33,331,NA
-3311,Securities and Finance Dealers and Brokers,4,331,3,33,331,3311
-3312,Credit and Loans Officers,4,331,3,33,331,3312
-3313,Accounting Associate Professionals,4,331,3,33,331,3313
-3314,"Statistical, Mathematical and Related Associate Professionals",4,331,3,33,331,3314
-3315,Valuers and Loss Assessors,4,331,3,33,331,3315
-332,Sales and Purchasing Agents and Brokers,3,33,3,33,332,NA
-3321,Insurance Representatives,4,332,3,33,332,3321
-3322,Commercial Sales Representatives,4,332,3,33,332,3322
-3323,Buyers,4,332,3,33,332,3323
-3324,Trade Brokers,4,332,3,33,332,3324
-333,Business Services Agents,3,33,3,33,333,NA
-3331,Clearing and Forwarding Aents,4,333,3,33,333,3331
-3332,Conference and Event Planners,4,333,3,33,333,3332
-3333,Employment agents and contractors,4,333,3,33,333,3333
-3334,Real Estate Agents and Property Managers,4,333,3,33,333,3334
-3339,Business Services Agents Not Elsewhere Classified,4,333,3,33,333,3339
-334,Administrative and Specialized Secretaries,3,33,3,33,334,NA
-3341,Office Supervisors,4,334,3,33,334,3341
-3342,Legal Secretaries,4,334,3,33,334,3342
-3343,Administrative and Executive Secretaries,4,334,3,33,334,3343
-3344,Medical Secretaries,4,334,3,33,334,3344
-335,Government Regulatory  Associate Professionals,3,33,3,33,335,NA
-3351,Customs and Border Inspectors,4,335,3,33,335,3351
-3352,Government Tax and Excise Officials,4,335,3,33,335,3352
-3353,Government Social Benefits Officials,4,335,3,33,335,3353
-3354,Government Licensing Officials,4,335,3,33,335,3354
-3355,Police Inspectors and Detectives,4,335,3,33,335,3355
-3359,Government Regulatory AssociatePprofessionals Not Elsewhere Classified,4,335,3,33,335,3359
-34,"Legal, Social, Cultural and Related Associate Professionals",2,3,3,34,NA,NA
-341,"Legal, Social and Religious Associate Professionals",3,34,3,34,341,NA
-3411,Legal and Related Associate Professionals,4,341,3,34,341,3411
-3412,Social Work Associate Professionals,4,341,3,34,341,3412
-3413,Religious Associate Professionals,4,341,3,34,341,3413
-342,Sports and Fitness Workers,3,34,3,34,342,NA
-3421,Athletes and Sports Players,4,342,3,34,342,3421
-3422,"Sports Coaches, Instructors and Officials",4,342,3,34,342,3422
-3423,Fitness and Recreation Instructors and Programme Leaders,4,342,3,34,342,3423
-343,"Artistic, Cultural and Culinary Associate Professionals",3,34,3,34,343,NA
-3431,Photographers,4,343,3,34,343,3431
-3432,Interior Designers and Decorators,4,343,3,34,343,3432
-3433,"Gallery, Museum and Library Technicians",4,343,3,34,343,3433
-3434,Chefs,4,343,3,34,343,3434
-3435,Other Artistic and Cultural Associate Professionals,4,343,3,34,343,3435
-35,Information and Communications Technicians,2,3,3,35,NA,NA
-351,Information and Communications Technology Operations and User Support Technicians,3,35,3,35,351,NA
-3511,Information and Communications Technology Operations Technicians,4,351,3,35,351,3511
-3512,Information and Communications Technology User Support Technicians,4,351,3,35,351,3512
-3513,Computer Network and Systems Technicians,4,351,3,35,351,3513
-3514,Web Technicians,4,351,3,35,351,3514
-352,Telecommunications and Broadcasting Technicians,3,35,3,35,352,NA
-3521,Broadcasting and Audio-visual Technicians,4,352,3,35,352,3521
-3522,Telecommunications Engineering Technicians,4,352,3,35,352,3522
-4,Clerical Support Workers,1,NA,4,NA,NA,NA
-41,General and Keyboard Clerks,2,4,4,41,NA,NA
-411,General Office Clerks,3,41,4,41,411,NA
-4110,General Office Clerks,4,411,4,41,411,4110
-412,Secretaries (general),3,41,4,41,412,NA
-4120,Secretaries (general),4,412,4,41,412,4120
-413,Keyboard Operators,3,41,4,41,413,NA
-4131,Typists and Word Processing Operators,4,413,4,41,413,4131
-4132,Data Entry Clerks,4,413,4,41,413,4132
-42,Customer Services Clerks,2,4,4,42,NA,NA
-421,"Tellers, Money Collectors and Related Clerks",3,42,4,42,421,NA
-4211,Bank Tellers and Related Clerks,4,421,4,42,421,4211
-4212,"Bookmakers, Croupiers and Related Gaming Workers",4,421,4,42,421,4212
-4213,Pawnbrokers and Money-lenders,4,421,4,42,421,4213
-4214,Debt Collectors and Related Workers,4,421,4,42,421,4214
-422,Client Information Workers,3,42,4,42,422,NA
-4221,Travel Consultants and Clerks,4,422,4,42,422,4221
-4222,Contact Centre Information Clerks,4,422,4,42,422,4222
-4223,Telephone Switchboard Operators,4,422,4,42,422,4223
-4224,Hotel Receptionists,4,422,4,42,422,4224
-4225,Inquiry Clerks,4,422,4,42,422,4225
-4226,Receptionists (general),4,422,4,42,422,4226
-4227,Survey and Market Research Interviewers,4,422,4,42,422,4227
-4229,Client Information Workers Not Elsewhere Classified,4,422,4,42,422,4229
-43,Numerical and Material Recording Clerks,2,4,4,43,NA,NA
-431,Numerical Clerks,3,43,4,43,431,NA
-4311,Accounting and Bookkeeping Clerks,4,431,4,43,431,4311
-4312,"Statistical, Finance and Insurance Clerks",4,431,4,43,431,4312
-4313,Payroll Clerks,4,431,4,43,431,4313
-432,Material Recording and Transport Clerks,3,43,4,43,432,NA
-4321,Stock Clerks,4,432,4,43,432,4321
-4322,Production Clerks,4,432,4,43,432,4322
-4323,Transport Clerks,4,432,4,43,432,4323
-44,Other Clerical Support Workers,2,4,4,44,NA,NA
-441,Other Clerical Support Workers,3,44,4,44,441,NA
-4411,Library Clerks,4,441,4,44,441,4411
-4412,Mail Carriers and Sorting Clerks,4,441,4,44,441,4412
-4413,"Coding, Proofreading and Related Clerks",4,441,4,44,441,4413
-4414,Scribes and Related Workers,4,441,4,44,441,4414
-4415,Filing and Copying Clerks,4,441,4,44,441,4415
-4416,Personnel Clerks,4,441,4,44,441,4416
-4419,Clerical Support Workers Not Elsewhere Classified,4,441,4,44,441,4419
-5,Service and Sales Workers,1,NA,5,NA,NA,NA
-51,Personal Service Workers,2,5,5,51,NA,NA
-511,"Travel Attendants, Conductors and Guides",3,51,5,51,511,NA
-5111,Travel Attendants and Travel Stewards,4,511,5,51,511,5111
-5112,Transport Conductors,4,511,5,51,511,5112
-5113,Travel Guides,4,511,5,51,511,5113
-512,Cooks,3,51,5,51,512,NA
-5120,Cooks,4,512,5,51,512,5120
-513,Waiters and Bartenders,3,51,5,51,513,NA
-5131,Waiters,4,513,5,51,513,5131
-5132,Bartenders,4,513,5,51,513,5132
-514,"Hairdressers, Beauticians and Related Workers",3,51,5,51,514,NA
-5141,Hairdressers,4,514,5,51,514,5141
-5142,Beauticians and Related Workers,4,514,5,51,514,5142
-515,Building and Housekeeping Supervisors,3,51,5,51,515,NA
-5151,"Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments",4,515,5,51,515,5151
-5152,Domestic Housekeepers,4,515,5,51,515,5152
-5153,Building Caretakers,4,515,5,51,515,5153
-516,Other Personal Services Workers,3,51,5,51,516,NA
-5161,"Astrologers, Fortune-tellers and Related Workers",4,516,5,51,516,5161
-5162,Companions and Valets,4,516,5,51,516,5162
-5163,Undertakers and Embalmers,4,516,5,51,516,5163
-5164,Pet Groomers and Animal Care Workers,4,516,5,51,516,5164
-5165,Driving Instructors,4,516,5,51,516,5165
-5169,Personal Services Workers Not Elsewhere Classified,4,516,5,51,516,5169
-52,Sales Workers,2,5,5,52,NA,NA
-521,Street and Market Salespersons,3,52,5,52,521,NA
-5211,Stall and Market Salespersons,4,521,5,52,521,5211
-5212,Street Food Salespersons,4,521,5,52,521,5212
-522,Shop Aalespersons,3,52,5,52,522,NA
-5221,Shopkeepers,4,522,5,52,522,5221
-5222,Shop Supervisors,4,522,5,52,522,5222
-5223,Shop Sales Assistants,4,522,5,52,522,5223
-523,Cashiers and Ticket Clerks,3,52,5,52,523,NA
-5230,Cashiers and Ticket Clerks,4,523,5,52,523,5230
-524,Other Sales Workers,3,52,5,52,524,NA
-5241,Fashion and Other Models,4,524,5,52,524,5241
-5242,Sales Demonstrators,4,524,5,52,524,5242
-5243,Door-to-door Salespersons,4,524,5,52,524,5243
-5244,Contact Centre Salespersons,4,524,5,52,524,5244
-5245,Service Station Attendants,4,524,5,52,524,5245
-5246,Food Service Counter Attendants,4,524,5,52,524,5246
-5249,Sales Workers Not Elsewhere Classified,4,524,5,52,524,5249
-53,Personal Care Workers,2,5,5,53,NA,NA
-531,Child Care Workers and Teachers' Aides,3,53,5,53,531,NA
-5311,Child Care Workers,4,531,5,53,531,5311
-5312,Teachers' Aides,4,531,5,53,531,5312
-532,Personal Care Workers in Health Services,3,53,5,53,532,NA
-5321,Health Care Assistants,4,532,5,53,532,5321
-5322,Home-based Personal Care Workers,4,532,5,53,532,5322
-5329,Personal Care Workers in Health Services Not Elsewhere Classified,4,532,5,53,532,5329
-54,Protective Services Workers,2,5,5,54,NA,NA
-541,Protective Services Workers,3,54,5,54,541,NA
-5411,Fire Fighters,4,541,5,54,541,5411
-5412,Police Officers,4,541,5,54,541,5412
-5413,Prison Guards,4,541,5,54,541,5413
-5414,Security Guards,4,541,5,54,541,5414
-5419,Protective Services Workers Not Elsewhere Classified,4,541,5,54,541,5419
-6,"Skilled Agricultural, Forestry and Fishery Workers",1,NA,6,NA,NA,NA
-61,Market-oriented Skilled Agricultural Workers,2,6,6,61,NA,NA
-611,Market Gardeners and Crop Growers,3,61,6,61,611,NA
-6111,Field Crop and Vegetable Growers,4,611,6,61,611,6111
-6112,Tree and Shrub Crop Growers,4,611,6,61,611,6112
-6113,"Gardeners, Horticultural and Nursery Growers",4,611,6,61,611,6113
-6114,Mixed Crop Growers,4,611,6,61,611,6114
-612,Animal Producers,3,61,6,61,612,NA
-6121,Livestock and Dairy Producers,4,612,6,61,612,6121
-6122,Poultry Producers,4,612,6,61,612,6122
-6123,Apiarists and Sericulturists,4,612,6,61,612,6123
-6129,Animal Producers Not Elsewhere Classified,4,612,6,61,612,6129
-613,Mixed Crop and Animal Producers,3,61,6,61,613,NA
-6130,Mixed Crop and Animal Producers,4,613,6,61,613,6130
-62,"Market-Oriented Skilled Forestry, Fishery and Hunting Workers",2,6,6,62,NA,NA
-621,Forestry and Related Workers,3,62,6,62,621,NA
-6210,Forestry and Related Workers,4,621,6,62,621,6210
-622,"Fishery Workers, Hunters and Trappers",3,62,6,62,622,NA
-6221,Aquaculture Workers,4,622,6,62,622,6221
-6222,Inland and Coastal Waters Fishery Workers,4,622,6,62,622,6222
-6223,Deep-sea Fishery Workers,4,622,6,62,622,6223
-6224,Hunters and Trappers,4,622,6,62,622,6224
-63,"Subsistence Farmers, Fishers, Hunters and Gatherers",2,6,6,63,NA,NA
-631,Subsistence Crop Farmers,3,63,6,63,631,NA
-6310,Subsistence Crop Farmers,4,631,6,63,631,6310
-632,Subsistence Livestock Farmers,3,63,6,63,632,NA
-6320,Subsistence Livestock Farmers,4,632,6,63,632,6320
-633,Subsistence Mixed Crop and Livestock Farmers,3,63,6,63,633,NA
-6330,Subsistence Mixed Crop and Livestock Farmers,4,633,6,63,633,6330
-634,"Subsistence Fishers, Hunters, Trappers and Gatherers",3,63,6,63,634,NA
-6340,"Subsistence Fishers, Hunters, Trappers and Gatherers",4,634,6,63,634,6340
-7,Craft and Related Trades Workers,1,NA,7,NA,NA,NA
-71,Building and Related Trades Workers (excluding Electricians),2,7,7,71,NA,NA
-711,Building Frame and Related Trades Workers,3,71,7,71,711,NA
-7111,House Builders,4,711,7,71,711,7111
-7112,Bricklayers and Related Workers,4,711,7,71,711,7112
-7113,"Stonemasons, Stone Cutters, Splitters and Carvers",4,711,7,71,711,7113
-7114,"Concrete Placers, Concrete Finishers and Related Workers",4,711,7,71,711,7114
-7115,Carpenters and Joiners,4,711,7,71,711,7115
-7119,Building Frame and Related Trades Workers Not Elsewhere Classified,4,711,7,71,711,7119
-712,Building Finishers and Related Trades Workers,3,71,7,71,712,NA
-7121,Roofers,4,712,7,71,712,7121
-7122,Floor Layers and Tile Setters,4,712,7,71,712,7122
-7123,Plasterers,4,712,7,71,712,7123
-7124,Insulation Workers,4,712,7,71,712,7124
-7125,Glaziers,4,712,7,71,712,7125
-7126,Plumbers and Pipe Fitters,4,712,7,71,712,7126
-7127,Air Conditioning and Refrigeration Mechanics,4,712,7,71,712,7127
-713,"Painters, Building Structure Cleaners and Related Trades Workers",3,71,7,71,713,NA
-7131,Painters and Related Workers,4,713,7,71,713,7131
-7132,Spray Painters and Varnishers,4,713,7,71,713,7132
-7133,Building Structure Cleaners,4,713,7,71,713,7133
-72,"Metal, Machinery and Related Trades Workers",2,7,7,72,NA,NA
-721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",3,72,7,72,721,NA
-7211,Metal Moulders and Coremakers,4,721,7,72,721,7211
-7212,Welders and Flame Cutters,4,721,7,72,721,7212
-7213,Sheet Metal Workers,4,721,7,72,721,7213
-7214,Structural Metal Preparers and Erectors,4,721,7,72,721,7214
-7215,Riggers and Cable Splicers,4,721,7,72,721,7215
-722,"Blacksmiths, Toolmakers and Related Trades Workers",3,72,7,72,722,NA
-7221,"Blacksmiths, Hammersmiths and Forging Press Workers",4,722,7,72,722,7221
-7222,Toolmakers and Related Workers,4,722,7,72,722,7222
-7223,Metal Working Machine Tool Setters and  Operators,4,722,7,72,722,7223
-7224,"Metal Polishers, Wheel Grinders and Tool Sharpeners",4,722,7,72,722,7224
-723,Machinery Mechanics and Repairers,3,72,7,72,723,NA
-7231,Motor Vehicle Mechanics and Repairers,4,723,7,72,723,7231
-7232,Aircraft Engine Mechanics and Repairers,4,723,7,72,723,7232
-7233,Agricultural and Industrial Machinery Mechanics and Repairers,4,723,7,72,723,7233
-7234,Bicycle and Related Repairers,4,723,7,72,723,7234
-73,Handicraft and Printing Workers,2,7,7,73,NA,NA
-731,Handicraft Workers,3,73,7,73,731,NA
-7311,Precision-instrument Makers and Repairers,4,731,7,73,731,7311
-7312,Musical Instrument Makers and Tuners,4,731,7,73,731,7312
-7313,Jewellery and Precious Metal Workers,4,731,7,73,731,7313
-7314,Potters and Related Workers,4,731,7,73,731,7314
-7315,"Glass Makers, Cutters, Grinders and Finishers",4,731,7,73,731,7315
-7316,"Sign Writers, Decorative Painters, Engravers and Etchers",4,731,7,73,731,7316
-7317,"Handicraft Workers in Wood, Basketry and Related Materials",4,731,7,73,731,7317
-7318,"Handicraft Workers in Textile, Leather and Related Materials",4,731,7,73,731,7318
-7319,Handicraft Workers Not Elsewhere Classified,4,731,7,73,731,7319
-732,Printing Trades Workers,3,73,7,73,732,NA
-7321,Pre-press Technicians,4,732,7,73,732,7321
-7322,Printers,4,732,7,73,732,7322
-7323,Print Finishing and Binding Workers,4,732,7,73,732,7323
-74,Electrical and Electronics Trades Workers,2,7,7,74,NA,NA
-741,Electrical Equipment Installers and Repairers,3,74,7,74,741,NA
-7411,Building and Related Electricians,4,741,7,74,741,7411
-7412,Electrical Mechanics and Fitters,4,741,7,74,741,7412
-7413,Electrical Line Installers and Repairers,4,741,7,74,741,7413
-742,Electronics and Telecommunications Installers and Repairers,3,74,7,74,742,NA
-7421,Electronics Mechanics and Servicers,4,742,7,74,742,7421
-7422,Information and Communications Technology Installers and Servicers,4,742,7,74,742,7422
-75,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",2,7,7,75,NA,NA
-751,Food Processing and Related Trades Workers,3,75,7,75,751,NA
-7511,"Butchers, Fishmongers and Related Food Preparers",4,751,7,75,751,7511
-7512,"Bakers, Pastry-cooks and Confectionery Makers",4,751,7,75,751,7512
-7513,Dairy Products Makers,4,751,7,75,751,7513
-7514,"Fruit, Vegetable and Related Preservers",4,751,7,75,751,7514
-7515,Food and Beverage Tasters and Graders,4,751,7,75,751,7515
-7516,Tobacco Preparers and Tobacco Products Makers,4,751,7,75,751,7516
-752,"Wood Treaters, Cabinet-makers and Related Trades Workers",3,75,7,75,752,NA
-7521,Wood Treaters,4,752,7,75,752,7521
-7522,Cabinet-makers and Related Workers,4,752,7,75,752,7522
-7523,Woodworking Machine Tool Setters and Operators,4,752,7,75,752,7523
-753,Garment and Related Trades Workers,3,75,7,75,753,NA
-7531,"Tailors, Dressmakers, Furriers and Hatters",4,753,7,75,753,7531
-7532,Garment and Related Patternmakers and Cutters,4,753,7,75,753,7532
-7533,"Sewing, Embroidery and Related Workers",4,753,7,75,753,7533
-7534,Upholsterers and Related Workers,4,753,7,75,753,7534
-7535,"Pelt Dressers, Tanners and Fellmongers",4,753,7,75,753,7535
-7536,Shoemakers and Related Workers,4,753,7,75,753,7536
-754,Other Craft and Related Workers,3,75,7,75,754,NA
-7541,Underwater Divers,4,754,7,75,754,7541
-7542,Shotfirers and Blasters,4,754,7,75,754,7542
-7543,Product Graders and Testers (except Foods and Beverages),4,754,7,75,754,7543
-7544,Fumigators and Other Pest and Weed Controllers,4,754,7,75,754,7544
-7549,Craft and Related Workers not Elsewhere Classified,4,754,7,75,754,7549
-8,"Plant and Machine Operators, and Assemblers",1,NA,8,NA,NA,NA
-81,Stationary Plant and Machine Operators,2,8,8,81,NA,NA
-811,Mining and Mineral Processing Plant Operators,3,81,8,81,811,NA
-8111,Miners and Quarriers,4,811,8,81,811,8111
-8112,Mineral and Stone Processing Plant Operators,4,811,8,81,811,8112
-8113,Well Drillers and Borers and Related Workers,4,811,8,81,811,8113
-8114,"Cement, Stone and Other Mineral Products Machine Operators",4,811,8,81,811,8114
-812,Metal Processing and Finishing Plant Operators,3,81,8,81,812,NA
-8121,Metal Processing Plant Operators,4,812,8,81,812,8121
-8122,"Metal Finishing, Plating and Coating Machine Operators",4,812,8,81,812,8122
-813,Chemical and Photographic Products Plant and Machine Operators,3,81,8,81,813,NA
-8131,Chemical Products Plant and Machine Operators,4,813,8,81,813,8131
-8132,Photographic Products Machine Operators,4,813,8,81,813,8132
-814,"Rubber, Plastic and Paper Products Machine Operators",3,81,8,81,814,NA
-8141,Rubber Products Machine Operators,4,814,8,81,814,8141
-8142,Plastic Products Machine Operators,4,814,8,81,814,8142
-8143,Paper Products Machine Operators,4,814,8,81,814,8143
-815,"Textile, Fur and Leather Products Machine Operators",3,81,8,81,815,NA
-8151,"Fibre Preparing, Spinning and Winding Machine Operators",4,815,8,81,815,8151
-8152,Weaving and Knitting Machine Operators,4,815,8,81,815,8152
-8153,Sewing Machine Operators,4,815,8,81,815,8153
-8154,"Bleaching, Dyeing and Fabric Cleaning Machine Operators",4,815,8,81,815,8154
-8155,Fur and Leather Preparing Machine Operators,4,815,8,81,815,8155
-8156,Shoemaking and Related Machine Operators,4,815,8,81,815,8156
-8157,Laundry Machine Operators,4,815,8,81,815,8157
-8159,"Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified",4,815,8,81,815,8159
-816,Food and Related Products Machine Operators,3,81,8,81,816,NA
-8160,Food and Related Products Machine Operators,4,816,8,81,816,8160
-817,Wood Processing and Papermaking Plant Operators,3,81,8,81,817,NA
-8171,Pulp and Papermaking Plant Operators,4,817,8,81,817,8171
-8172,Wood Processing Plant Operators,4,817,8,81,817,8172
-818,Other Stationary Plant and Machine Operators,3,81,8,81,818,NA
-8181,Glass and Ceramics Plant Operators,4,818,8,81,818,8181
-8182,Steam Engine and Boiler Operators,4,818,8,81,818,8182
-8183,"Packing, Bottling and Labelling Machine Operators",4,818,8,81,818,8183
-8189,Stationary Plant and Machine Operators Not Elsewhere Classified,4,818,8,81,818,8189
-82,Assemblers,2,8,8,82,NA,NA
-821,Assemblers,3,82,8,82,821,NA
-8211,Mechanical Machinery Assemblers,4,821,8,82,821,8211
-8212,Electrical and Electronic Equipment Assemblers,4,821,8,82,821,8212
-8219,Assemblers Not Elsewhere Classified,4,821,8,82,821,8219
-83,Drivers and Mobile Plant Operators,2,8,8,83,NA,NA
-831,Locomotive Engine Drivers and Related Workers,3,83,8,83,831,NA
-8311,Locomotive Engine Drivers,4,831,8,83,831,8311
-8312,"Railway Brake, Signal and Switch Operators",4,831,8,83,831,8312
-832,"Car, Van and Motorcycle Drivers",3,83,8,83,832,NA
-8321,Motorcycle Drivers,4,832,8,83,832,8321
-8322,"Car, Taxi and Van Drivers",4,832,8,83,832,8322
-833,Heavy Truck and Bus Drivers,3,83,8,83,833,NA
-8331,Bus and Tram Drivers,4,833,8,83,833,8331
-8332,Heavy Truck and Lorry Drivers,4,833,8,83,833,8332
-834,Mobile Plant Operators,3,83,8,83,834,NA
-8341,Mobile Farm and Forestry Plant Operators,4,834,8,83,834,8341
-8342,Earthmoving and Related Plant Operators,4,834,8,83,834,8342
-8343,"Crane, hoist and related plant operators",4,834,8,83,834,8343
-8344,Lifting Truck Operators,4,834,8,83,834,8344
-835,Ships' Deck Crews and Related Workers,3,83,8,83,835,NA
-8350,Ships' Deck Crews and Related Workers,4,835,8,83,835,8350
-9,Elementary Occupations,1,NA,9,NA,NA,NA
-91,Cleaners and Helpers,2,9,9,91,NA,NA
-911,"Domestic, Hotel and Office Cleaners and Helpers",3,91,9,91,911,NA
-9111,Domestic Cleaners and Helpers,4,911,9,91,911,9111
-9112,"Cleaners and Helpers in Offices, Hotels and Other Establishments",4,911,9,91,911,9112
-912,"Vehicle, Window, Laundry and Other Hand Cleaning Workers",3,91,9,91,912,NA
-9121,Hand Launderers and Pressers,4,912,9,91,912,9121
-9122,Vehicle Cleaners,4,912,9,91,912,9122
-9123,Window Cleaners,4,912,9,91,912,9123
-9129,Other Cleaning Workers,4,912,9,91,912,9129
-92,"Agricultural, Forestry and Fishery Labourers",2,9,9,92,NA,NA
-921,"Agricultural, Forestry and Fishery Labourers",3,92,9,92,921,NA
-9211,Crop Farm Labourers,4,921,9,92,921,9211
-9212,Livestock Farm Labourers,4,921,9,92,921,9212
-9213,Mixed Crop and Livestock Farm Labourers,4,921,9,92,921,9213
-9214,Garden and Horticultural Labourers,4,921,9,92,921,9214
-9215,Forestry Labourers,4,921,9,92,921,9215
-9216,Fishery and Aquaculture Labourers,4,921,9,92,921,9216
-93,"Labourers in Mining, Construction, Manufacturing and Transport",2,9,9,93,NA,NA
-931,Mining and Construction Labourers,3,93,9,93,931,NA
-9311,Mining and Quarrying Labourers,4,931,9,93,931,9311
-9312,Civil Engineering Labourers,4,931,9,93,931,9312
-9313,Building Construction Labourers,4,931,9,93,931,9313
-932,Manufacturing Labourers,3,93,9,93,932,NA
-9321,Hand Packers,4,932,9,93,932,9321
-9329,Manufacturing Labourers Not Elsewhere Classified,4,932,9,93,932,9329
-933,Transport and Storage Labourers,3,93,9,93,933,NA
-9331,Hand and Pedal Vehicle Drivers,4,933,9,93,933,9331
-9332,Drivers of Animal-drawn Vehicles and Machinery,4,933,9,93,933,9332
-9333,Freight Handlers,4,933,9,93,933,9333
-9334,Shelf Fillers,4,933,9,93,933,9334
-94,Food Preparation Assistants,2,9,9,94,NA,NA
-941,Food Preparation Assistants,3,94,9,94,941,NA
-9411,Fast Food Preparers,4,941,9,94,941,9411
-9412,Kitchen Helpers,4,941,9,94,941,9412
-95,Street and Related Sales and Service Workers,2,9,9,95,NA,NA
-951,Street and Related Service Workers,3,95,9,95,951,NA
-9510,Street and Related Service Workers,4,951,9,95,951,9510
-952,Street Vendors (excluding Food),3,95,9,95,952,NA
-9520,Street Vendors (excluding Food),4,952,9,95,952,9520
-96,Refuse Workers and Other Elementary Workers,2,9,9,96,NA,NA
-961,Refuse Workers,3,96,9,96,961,NA
-9611,Garbage and Recycling Collectors,4,961,9,96,961,9611
-9612,Refuse Sorters,4,961,9,96,961,9612
-9613,Sweepers and Related Labourers,4,961,9,96,961,9613
-962,Other Elementary Workers,3,96,9,96,962,NA
-9621,"Messengers, Package Deliverers and Luggage Porters",4,962,9,96,962,9621
-9622,Odd Job Persons,4,962,9,96,962,9622
-9623,Meter Readers and Vending-machine Collectors,4,962,9,96,962,9623
-9624,Water and Firewood Collectors,4,962,9,96,962,9624
-9629,Elementary Workers Not Elsewhere Classified,4,962,9,96,962,9629
-0,Armed Forces Occupations,1,NA,0,NA,NA,NA
-01,Commissioned Armed forces Officers,2,0,0,01,NA,NA
-011,Commissioned Armed Forces Officers,3,01,0,01,011,NA
-0110,Commissioned Armed Forces Officers,4,011,0,01,011,0110
-02,Non-commissioned Armed Forces Officers,2,0,0,02,NA,NA
-021,Non-commissioned Armed Forces Officers,3,02,0,02,021,NA
-0210,Non-commissioned Armed Forces Officers,4,021,0,02,021,0210
-03,"Armed Forces Occupations, Other Ranks",2,0,0,03,NA,NA
-031,"Armed Forces Occupations, Other Ranks",3,03,0,03,031,NA
-0310,"Armed Forces Occupations, Other Ranks",4,031,0,03,031,0310
+code,title,Level,parent,isco1d,isco2d,isco3d,isco4d,extended_code
+1,Managers,1,NA,1,NA,NA,NA,1000
+11,"Chief Executives, Senior Officials and Legislators",2,1,1,11,NA,NA,1100
+111,Legislators and Senior Officials,3,11,1,11,111,NA,1110
+1111,Legislators,4,111,1,11,111,1111,1111
+1112,Senior Government Officials,4,111,1,11,111,1112,1112
+1113,Traditional Chiefs and Heads of Villages,4,111,1,11,111,1113,1113
+1114,Senior Officials of Special-interest Organizations,4,111,1,11,111,1114,1114
+112,Managing Directors and Chief Executives,3,11,1,11,112,NA,1120
+1120,Managing Directors and Chief Executives,4,112,1,11,112,1120,1120
+12,Administrative and Commercial Managers,2,1,1,12,NA,NA,1200
+121,Business Services and Administration Managers,3,12,1,12,121,NA,1210
+1211,Finance Managers,4,121,1,12,121,1211,1211
+1212,Human Resource Managers,4,121,1,12,121,1212,1212
+1213,Policy and Planning Managers,4,121,1,12,121,1213,1213
+1219,Business Services and Administration Managers Not Elsewhere Classified,4,121,1,12,121,1219,1219
+122,"Sales, Marketing and Development Managers",3,12,1,12,122,NA,1220
+1221,Sales and Marketing Managers,4,122,1,12,122,1221,1221
+1222,Advertising and Public Relations Managers,4,122,1,12,122,1222,1222
+1223,Research and Development Managers,4,122,1,12,122,1223,1223
+13,Production and Specialized Services Managers,2,1,1,13,NA,NA,1300
+131,"Production Managers in Agriculture, Forestry and Fisheries",3,13,1,13,131,NA,1310
+1311,Agricultural and Forestry Production Managers,4,131,1,13,131,1311,1311
+1312,Aquaculture and Fisheries Production Managers,4,131,1,13,131,1312,1312
+132,"Manufacturing, Mining, Construction and Distribution Managers",3,13,1,13,132,NA,1320
+1321,Manufacturing Managers,4,132,1,13,132,1321,1321
+1322,Mining Managers,4,132,1,13,132,1322,1322
+1323,Construction Managers,4,132,1,13,132,1323,1323
+1324,"Supply, Distribution and Related Managers",4,132,1,13,132,1324,1324
+133,Information and Communications Technology Service managers,3,13,1,13,133,NA,1330
+1330,Information and Communications Technology Service Managers,4,133,1,13,133,1330,1330
+134,Professional Services Managers,3,13,1,13,134,NA,1340
+1341,Child Care Service Managers,4,134,1,13,134,1341,1341
+1342,Health Service Managers,4,134,1,13,134,1342,1342
+1343,Aged Care Service Managers,4,134,1,13,134,1343,1343
+1344,Social Welfare Managers,4,134,1,13,134,1344,1344
+1345,Education Managers,4,134,1,13,134,1345,1345
+1346,Financial and Insurance Services Branch managers,4,134,1,13,134,1346,1346
+1349,Professional Services Managers Not Elsewhere Classified,4,134,1,13,134,1349,1349
+14,"Hospitality, Retail and Other Services Managers",2,1,1,14,NA,NA,1400
+141,Hotel and Restaurant Managers,3,14,1,14,141,NA,1410
+1411,Hotel Managers,4,141,1,14,141,1411,1411
+1412,Restaurant Managers,4,141,1,14,141,1412,1412
+142,Retail and Wholesale Trade Managers,3,14,1,14,142,NA,1420
+1420,Retail and Wholesale Trade Managers,4,142,1,14,142,1420,1420
+143,Other Services Managers,3,14,1,14,143,NA,1430
+1431,"Sports, Recreation and Cultural Centre Managers",4,143,1,14,143,1431,1431
+1439,Services Managers Not Elsewhere Classified,4,143,1,14,143,1439,1439
+2,Professionals,1,NA,2,NA,NA,NA,2000
+21,Science and Engineering Professionals,2,2,2,21,NA,NA,2100
+211,Physical and Earth Science Professionals,3,21,2,21,211,NA,2110
+2111,Physicists and Astronomers,4,211,2,21,211,2111,2111
+2112,Meteorologists,4,211,2,21,211,2112,2112
+2113,Chemists,4,211,2,21,211,2113,2113
+2114,Geologists and geophysicists,4,211,2,21,211,2114,2114
+212,"Mathematicians, Actuaries and Statisticians",3,21,2,21,212,NA,2120
+2120,"Mathematicians, Actuaries and Statisticians",4,212,2,21,212,2120,2120
+213,Life Science Professionals,3,21,2,21,213,NA,2130
+2131,"Biologists, Botanists, Zoologists and Related Professionals",4,213,2,21,213,2131,2131
+2132,"Farming, Forestry and Fisheries Advisers",4,213,2,21,213,2132,2132
+2133,Environmental Protection Professionals,4,213,2,21,213,2133,2133
+214,Engineering Professionals (excluding Electrotechnology),3,21,2,21,214,NA,2140
+2141,Industrial and Production Engineers,4,214,2,21,214,2141,2141
+2142,Civil Engineers,4,214,2,21,214,2142,2142
+2143,Environmental Engineers,4,214,2,21,214,2143,2143
+2144,Mechanical Engineers,4,214,2,21,214,2144,2144
+2145,Chemical Engineers,4,214,2,21,214,2145,2145
+2146,"Mining Engineers, Metallurgists and Related Professionals",4,214,2,21,214,2146,2146
+2149,Engineering Professionals Not Elsewhere Classified,4,214,2,21,214,2149,2149
+215,Electrotechnology Engineers,3,21,2,21,215,NA,2150
+2151,Electrical Engineers,4,215,2,21,215,2151,2151
+2152,Electronics Engineers,4,215,2,21,215,2152,2152
+2153,Telecommunications Engineers,4,215,2,21,215,2153,2153
+216,"Architects, Planners, Surveyors and Designers",3,21,2,21,216,NA,2160
+2161,Building Architects,4,216,2,21,216,2161,2161
+2162,Landscape Architects,4,216,2,21,216,2162,2162
+2163,Product and Garment Designers,4,216,2,21,216,2163,2163
+2164,Town and Traffic Planners,4,216,2,21,216,2164,2164
+2165,Cartographers and Surveyors,4,216,2,21,216,2165,2165
+2166,Graphic and Multimedia Designers,4,216,2,21,216,2166,2166
+22,Health Professionals,2,2,2,22,NA,NA,2200
+221,Medical Doctors,3,22,2,22,221,NA,2210
+2211,Generalist Medical Practitioners,4,221,2,22,221,2211,2211
+2212,Specialist Medical Practitioners,4,221,2,22,221,2212,2212
+222,Nursing and Midwifery Professionals,3,22,2,22,222,NA,2220
+2221,Nursing Professionals,4,222,2,22,222,2221,2221
+2222,Midwifery Professionals,4,222,2,22,222,2222,2222
+223,Traditional and Complementary Medicine Professionals,3,22,2,22,223,NA,2230
+2230,Traditional and Complementary Medicine Professionals,4,223,2,22,223,2230,2230
+224,Paramedical Practitioners,3,22,2,22,224,NA,2240
+2240,Paramedical Practitioners,4,224,2,22,224,2240,2240
+225,Veterinarians,3,22,2,22,225,NA,2250
+2250,Veterinarians,4,225,2,22,225,2250,2250
+226,Other Health Professionals,3,22,2,22,226,NA,2260
+2261,Dentists,4,226,2,22,226,2261,2261
+2262,Pharmacists,4,226,2,22,226,2262,2262
+2263,Environmental and Occupational Health and Hygiene Professionals,4,226,2,22,226,2263,2263
+2264,Physiotherapists,4,226,2,22,226,2264,2264
+2265,Dieticians and Nutritionists,4,226,2,22,226,2265,2265
+2266,Audiologists and Speech Therapists,4,226,2,22,226,2266,2266
+2267,Optometrists and Ophthalmic Opticians,4,226,2,22,226,2267,2267
+2269,Health Professionals Not Elsewhere Classified,4,226,2,22,226,2269,2269
+23,Teaching Professionals,2,2,2,23,NA,NA,2300
+231,University and Higher Education Teachers,3,23,2,23,231,NA,2310
+2310,University and Higher Education Teachers,4,231,2,23,231,2310,2310
+232,Vocational education teachers,3,23,2,23,232,NA,2320
+2320,Vocational Education Teachers,4,232,2,23,232,2320,2320
+233,Secondary Education Teachers,3,23,2,23,233,NA,2330
+2330,Secondary Education Teachers,4,233,2,23,233,2330,2330
+234,Primary School and Early Childhood Teachers,3,23,2,23,234,NA,2340
+2341,Primary School Teachers,4,234,2,23,234,2341,2341
+2342,Early Childhood Educators,4,234,2,23,234,2342,2342
+235,Other Teaching Professionals,3,23,2,23,235,NA,2350
+2351,Education Methods Specialists,4,235,2,23,235,2351,2351
+2352,Special Needs Teachers,4,235,2,23,235,2352,2352
+2353,Other Language Teachers,4,235,2,23,235,2353,2353
+2354,Other Music Teachers,4,235,2,23,235,2354,2354
+2355,Other Arts Teachers,4,235,2,23,235,2355,2355
+2356,Information Technology Trainers,4,235,2,23,235,2356,2356
+2359,Teaching Professionals Not Elsewhere Classified,4,235,2,23,235,2359,2359
+24,Business and Administration Professionals,2,2,2,24,NA,NA,2400
+241,Finance Professionals,3,24,2,24,241,NA,2410
+2411,Accountants,4,241,2,24,241,2411,2411
+2412,Financial and Investment Advisers,4,241,2,24,241,2412,2412
+2413,Financial Analysts,4,241,2,24,241,2413,2413
+242,Administration Professionals,3,24,2,24,242,NA,2420
+2421,Management and Organization Analysts,4,242,2,24,242,2421,2421
+2422,Policy Administration Professionals,4,242,2,24,242,2422,2422
+2423,Personnel and Careers Professionals,4,242,2,24,242,2423,2423
+2424,Training and Staff Development Professionals,4,242,2,24,242,2424,2424
+243,"Sales, Marketing and Public Relations Professionals",3,24,2,24,243,NA,2430
+2431,Advertising and Marketing Professionals,4,243,2,24,243,2431,2431
+2432,Public Relations Professionals,4,243,2,24,243,2432,2432
+2433,Technical and Medical Sales Professionals (excluding ICT),4,243,2,24,243,2433,2433
+2434,Information and Communications Technology Sales Professionals,4,243,2,24,243,2434,2434
+25,Information and Communications Technology Professionals,2,2,2,25,NA,NA,2500
+251,Software and Applications Developers and Analysts,3,25,2,25,251,NA,2510
+2511,Systems Analysts,4,251,2,25,251,2511,2511
+2512,Software Developers,4,251,2,25,251,2512,2512
+2513,Web and Multimedia Developers,4,251,2,25,251,2513,2513
+2514,Applications Programmers,4,251,2,25,251,2514,2514
+2519,Software and Applications Developers and Analysts Not Elsewhere Classified,4,251,2,25,251,2519,2519
+252,Database and Network Professionals,3,25,2,25,252,NA,2520
+2521,Database Designers and Administrators,4,252,2,25,252,2521,2521
+2522,Systems Aministrators,4,252,2,25,252,2522,2522
+2523,Computer Network Professionals,4,252,2,25,252,2523,2523
+2529,Database and Network Professionals Not Elsewhere Classified,4,252,2,25,252,2529,2529
+26,"Legal, Social and Cultural Professionals",2,2,2,26,NA,NA,2600
+261,Legal Professionals,3,26,2,26,261,NA,2610
+2611,Lawyers,4,261,2,26,261,2611,2611
+2612,Judges,4,261,2,26,261,2612,2612
+2619,Legal Professionals Not Elsewhere Classified,4,261,2,26,261,2619,2619
+262,"Librarians, Archivists and Curators",3,26,2,26,262,NA,2620
+2621,Archivists and Curators,4,262,2,26,262,2621,2621
+2622,Librarians and Related Information Professionals,4,262,2,26,262,2622,2622
+263,Social and Religious Professionals,3,26,2,26,263,NA,2630
+2631,Economists,4,263,2,26,263,2631,2631
+2632,"Sociologists, Anthropologists and Related Professionals",4,263,2,26,263,2632,2632
+2633,"Philosophers, Historians and Political Scientists",4,263,2,26,263,2633,2633
+2634,Psychologists,4,263,2,26,263,2634,2634
+2635,Social Work and Counselling Professionals,4,263,2,26,263,2635,2635
+2636,Religious Professionals,4,263,2,26,263,2636,2636
+264,"Authors, Journalists and Linguists",3,26,2,26,264,NA,2640
+2641,Authors and Related Writers,4,264,2,26,264,2641,2641
+2642,Journalists,4,264,2,26,264,2642,2642
+2643,"Translators, Interpreters and Other Linguists",4,264,2,26,264,2643,2643
+265,Creative and Performing Artists,3,26,2,26,265,NA,2650
+2651,Visual Artists,4,265,2,26,265,2651,2651
+2652,"Musicians, Singers and Composers",4,265,2,26,265,2652,2652
+2653,Dancers and Choreographers,4,265,2,26,265,2653,2653
+2654,"Film, Stage and Related Directors and Producers",4,265,2,26,265,2654,2654
+2655,Actors,4,265,2,26,265,2655,2655
+2656,"Announcers on Radio, Television and Other Media",4,265,2,26,265,2656,2656
+2659,Creative and Performing Artists Not Elsewhere Classified,4,265,2,26,265,2659,2659
+3,Technicians and Associate Professionals,1,NA,3,NA,NA,NA,3000
+31,Science and Engineering Associate Professionals,2,3,3,31,NA,NA,3100
+311,Physical and Engineering Science Technicians,3,31,3,31,311,NA,3110
+3111,Chemical and Physical Science Technicians,4,311,3,31,311,3111,3111
+3112,Civil Engineering Technicians,4,311,3,31,311,3112,3112
+3113,Electrical Engineering Technicians,4,311,3,31,311,3113,3113
+3114,Electronics Engineering Technicians,4,311,3,31,311,3114,3114
+3115,Mechanical Engineering Technicians,4,311,3,31,311,3115,3115
+3116,Chemical Engineering Technicians,4,311,3,31,311,3116,3116
+3117,Mining and metallurgical technicians,4,311,3,31,311,3117,3117
+3118,Draughtspersons,4,311,3,31,311,3118,3118
+3119,Physical and Engineering Science Technicians Not Elsewhere Classified,4,311,3,31,311,3119,3119
+312,"Mining, Manufacturing and Construction Supervisors",3,31,3,31,312,NA,3120
+3121,Mining Supervisors,4,312,3,31,312,3121,3121
+3122,Manufacturing Supervisors,4,312,3,31,312,3122,3122
+3123,Construction Supervisors,4,312,3,31,312,3123,3123
+313,Process Control Technicians,3,31,3,31,313,NA,3130
+3131,Power Production Plant Operators,4,313,3,31,313,3131,3131
+3132,Incinerator and Water Treatment Plant Operators,4,313,3,31,313,3132,3132
+3133,Chemical Processing Plant Controllers,4,313,3,31,313,3133,3133
+3134,Petroleum and Natural Gas Refining Plant Operators,4,313,3,31,313,3134,3134
+3135,Metal Production Process Controllers,4,313,3,31,313,3135,3135
+3139,Process Control Technicians Not Elsewhere Classified,4,313,3,31,313,3139,3139
+314,Life Science Technicians and Related Associate Professionals,3,31,3,31,314,NA,3140
+3141,Life Science Technicians (excluding Medical),4,314,3,31,314,3141,3141
+3142,Agricultural Technicians,4,314,3,31,314,3142,3142
+3143,Forestry Technicians,4,314,3,31,314,3143,3143
+315,Ship and Aircraft Controllers and Technicians,3,31,3,31,315,NA,3150
+3151,Ships' Engineers,4,315,3,31,315,3151,3151
+3152,Ships' Deck Officers and Pilots,4,315,3,31,315,3152,3152
+3153,Aircraft Pilots and Related Associate Professionals,4,315,3,31,315,3153,3153
+3154,Air Traffic Controllers,4,315,3,31,315,3154,3154
+3155,Air Traffic Safety Electronics Technicians,4,315,3,31,315,3155,3155
+32,Health Associate Professionals,2,3,3,32,NA,NA,3200
+321,Medical and Pharmaceutical Technicians,3,32,3,32,321,NA,3210
+3211,Medical Imaging and Therapeutic Equipment Technicians,4,321,3,32,321,3211,3211
+3212,Medical and Pathology Laboratory Technicians,4,321,3,32,321,3212,3212
+3213,Pharmaceutical Technicians and Assistants,4,321,3,32,321,3213,3213
+3214,Medical and Dental Prosthetic Technicians,4,321,3,32,321,3214,3214
+322,Nursing and Midwifery Associate Professionals,3,32,3,32,322,NA,3220
+3221,Nursing Associate Professionals,4,322,3,32,322,3221,3221
+3222,Midwifery Associate Professionals,4,322,3,32,322,3222,3222
+323,Traditional and Complementary Medicine Associate Professionals,3,32,3,32,323,NA,3230
+3230,Traditional and Complementary Medicine Associate Professionals,4,323,3,32,323,3230,3230
+324,Veterinary Technicians and Assistants,3,32,3,32,324,NA,3240
+3240,Veterinary Technicians and Assistants,4,324,3,32,324,3240,3240
+325,Other Health Associate Professionals,3,32,3,32,325,NA,3250
+3251,Dental Assistants and Therapists,4,325,3,32,325,3251,3251
+3252,Medical Records and Health Information Technicians,4,325,3,32,325,3252,3252
+3253,Community Health Workers,4,325,3,32,325,3253,3253
+3254,Dispensing Opticians,4,325,3,32,325,3254,3254
+3255,Physiotherapy Technicians and Assistants,4,325,3,32,325,3255,3255
+3256,Medical Assistants,4,325,3,32,325,3256,3256
+3257,Environmental and Occupational Health Inspectors and Associates,4,325,3,32,325,3257,3257
+3258,Ambulance Workers,4,325,3,32,325,3258,3258
+3259,Health Associate Professionals Not Elsewhere Classified,4,325,3,32,325,3259,3259
+33,Business and Administration Associate Professionals,2,3,3,33,NA,NA,3300
+331,Financial and Mathematical Associate Professionals,3,33,3,33,331,NA,3310
+3311,Securities and Finance Dealers and Brokers,4,331,3,33,331,3311,3311
+3312,Credit and Loans Officers,4,331,3,33,331,3312,3312
+3313,Accounting Associate Professionals,4,331,3,33,331,3313,3313
+3314,"Statistical, Mathematical and Related Associate Professionals",4,331,3,33,331,3314,3314
+3315,Valuers and Loss Assessors,4,331,3,33,331,3315,3315
+332,Sales and Purchasing Agents and Brokers,3,33,3,33,332,NA,3320
+3321,Insurance Representatives,4,332,3,33,332,3321,3321
+3322,Commercial Sales Representatives,4,332,3,33,332,3322,3322
+3323,Buyers,4,332,3,33,332,3323,3323
+3324,Trade Brokers,4,332,3,33,332,3324,3324
+333,Business Services Agents,3,33,3,33,333,NA,3330
+3331,Clearing and Forwarding Aents,4,333,3,33,333,3331,3331
+3332,Conference and Event Planners,4,333,3,33,333,3332,3332
+3333,Employment agents and contractors,4,333,3,33,333,3333,3333
+3334,Real Estate Agents and Property Managers,4,333,3,33,333,3334,3334
+3339,Business Services Agents Not Elsewhere Classified,4,333,3,33,333,3339,3339
+334,Administrative and Specialized Secretaries,3,33,3,33,334,NA,3340
+3341,Office Supervisors,4,334,3,33,334,3341,3341
+3342,Legal Secretaries,4,334,3,33,334,3342,3342
+3343,Administrative and Executive Secretaries,4,334,3,33,334,3343,3343
+3344,Medical Secretaries,4,334,3,33,334,3344,3344
+335,Government Regulatory  Associate Professionals,3,33,3,33,335,NA,3350
+3351,Customs and Border Inspectors,4,335,3,33,335,3351,3351
+3352,Government Tax and Excise Officials,4,335,3,33,335,3352,3352
+3353,Government Social Benefits Officials,4,335,3,33,335,3353,3353
+3354,Government Licensing Officials,4,335,3,33,335,3354,3354
+3355,Police Inspectors and Detectives,4,335,3,33,335,3355,3355
+3359,Government Regulatory AssociatePprofessionals Not Elsewhere Classified,4,335,3,33,335,3359,3359
+34,"Legal, Social, Cultural and Related Associate Professionals",2,3,3,34,NA,NA,3400
+341,"Legal, Social and Religious Associate Professionals",3,34,3,34,341,NA,3410
+3411,Legal and Related Associate Professionals,4,341,3,34,341,3411,3411
+3412,Social Work Associate Professionals,4,341,3,34,341,3412,3412
+3413,Religious Associate Professionals,4,341,3,34,341,3413,3413
+342,Sports and Fitness Workers,3,34,3,34,342,NA,3420
+3421,Athletes and Sports Players,4,342,3,34,342,3421,3421
+3422,"Sports Coaches, Instructors and Officials",4,342,3,34,342,3422,3422
+3423,Fitness and Recreation Instructors and Programme Leaders,4,342,3,34,342,3423,3423
+343,"Artistic, Cultural and Culinary Associate Professionals",3,34,3,34,343,NA,3430
+3431,Photographers,4,343,3,34,343,3431,3431
+3432,Interior Designers and Decorators,4,343,3,34,343,3432,3432
+3433,"Gallery, Museum and Library Technicians",4,343,3,34,343,3433,3433
+3434,Chefs,4,343,3,34,343,3434,3434
+3435,Other Artistic and Cultural Associate Professionals,4,343,3,34,343,3435,3435
+35,Information and Communications Technicians,2,3,3,35,NA,NA,3500
+351,Information and Communications Technology Operations and User Support Technicians,3,35,3,35,351,NA,3510
+3511,Information and Communications Technology Operations Technicians,4,351,3,35,351,3511,3511
+3512,Information and Communications Technology User Support Technicians,4,351,3,35,351,3512,3512
+3513,Computer Network and Systems Technicians,4,351,3,35,351,3513,3513
+3514,Web Technicians,4,351,3,35,351,3514,3514
+352,Telecommunications and Broadcasting Technicians,3,35,3,35,352,NA,3520
+3521,Broadcasting and Audio-visual Technicians,4,352,3,35,352,3521,3521
+3522,Telecommunications Engineering Technicians,4,352,3,35,352,3522,3522
+4,Clerical Support Workers,1,NA,4,NA,NA,NA,4000
+41,General and Keyboard Clerks,2,4,4,41,NA,NA,4100
+411,General Office Clerks,3,41,4,41,411,NA,4110
+4110,General Office Clerks,4,411,4,41,411,4110,4110
+412,Secretaries (general),3,41,4,41,412,NA,4120
+4120,Secretaries (general),4,412,4,41,412,4120,4120
+413,Keyboard Operators,3,41,4,41,413,NA,4130
+4131,Typists and Word Processing Operators,4,413,4,41,413,4131,4131
+4132,Data Entry Clerks,4,413,4,41,413,4132,4132
+42,Customer Services Clerks,2,4,4,42,NA,NA,4200
+421,"Tellers, Money Collectors and Related Clerks",3,42,4,42,421,NA,4210
+4211,Bank Tellers and Related Clerks,4,421,4,42,421,4211,4211
+4212,"Bookmakers, Croupiers and Related Gaming Workers",4,421,4,42,421,4212,4212
+4213,Pawnbrokers and Money-lenders,4,421,4,42,421,4213,4213
+4214,Debt Collectors and Related Workers,4,421,4,42,421,4214,4214
+422,Client Information Workers,3,42,4,42,422,NA,4220
+4221,Travel Consultants and Clerks,4,422,4,42,422,4221,4221
+4222,Contact Centre Information Clerks,4,422,4,42,422,4222,4222
+4223,Telephone Switchboard Operators,4,422,4,42,422,4223,4223
+4224,Hotel Receptionists,4,422,4,42,422,4224,4224
+4225,Inquiry Clerks,4,422,4,42,422,4225,4225
+4226,Receptionists (general),4,422,4,42,422,4226,4226
+4227,Survey and Market Research Interviewers,4,422,4,42,422,4227,4227
+4229,Client Information Workers Not Elsewhere Classified,4,422,4,42,422,4229,4229
+43,Numerical and Material Recording Clerks,2,4,4,43,NA,NA,4300
+431,Numerical Clerks,3,43,4,43,431,NA,4310
+4311,Accounting and Bookkeeping Clerks,4,431,4,43,431,4311,4311
+4312,"Statistical, Finance and Insurance Clerks",4,431,4,43,431,4312,4312
+4313,Payroll Clerks,4,431,4,43,431,4313,4313
+432,Material Recording and Transport Clerks,3,43,4,43,432,NA,4320
+4321,Stock Clerks,4,432,4,43,432,4321,4321
+4322,Production Clerks,4,432,4,43,432,4322,4322
+4323,Transport Clerks,4,432,4,43,432,4323,4323
+44,Other Clerical Support Workers,2,4,4,44,NA,NA,4400
+441,Other Clerical Support Workers,3,44,4,44,441,NA,4410
+4411,Library Clerks,4,441,4,44,441,4411,4411
+4412,Mail Carriers and Sorting Clerks,4,441,4,44,441,4412,4412
+4413,"Coding, Proofreading and Related Clerks",4,441,4,44,441,4413,4413
+4414,Scribes and Related Workers,4,441,4,44,441,4414,4414
+4415,Filing and Copying Clerks,4,441,4,44,441,4415,4415
+4416,Personnel Clerks,4,441,4,44,441,4416,4416
+4419,Clerical Support Workers Not Elsewhere Classified,4,441,4,44,441,4419,4419
+5,Service and Sales Workers,1,NA,5,NA,NA,NA,5000
+51,Personal Service Workers,2,5,5,51,NA,NA,5100
+511,"Travel Attendants, Conductors and Guides",3,51,5,51,511,NA,5110
+5111,Travel Attendants and Travel Stewards,4,511,5,51,511,5111,5111
+5112,Transport Conductors,4,511,5,51,511,5112,5112
+5113,Travel Guides,4,511,5,51,511,5113,5113
+512,Cooks,3,51,5,51,512,NA,5120
+5120,Cooks,4,512,5,51,512,5120,5120
+513,Waiters and Bartenders,3,51,5,51,513,NA,5130
+5131,Waiters,4,513,5,51,513,5131,5131
+5132,Bartenders,4,513,5,51,513,5132,5132
+514,"Hairdressers, Beauticians and Related Workers",3,51,5,51,514,NA,5140
+5141,Hairdressers,4,514,5,51,514,5141,5141
+5142,Beauticians and Related Workers,4,514,5,51,514,5142,5142
+515,Building and Housekeeping Supervisors,3,51,5,51,515,NA,5150
+5151,"Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments",4,515,5,51,515,5151,5151
+5152,Domestic Housekeepers,4,515,5,51,515,5152,5152
+5153,Building Caretakers,4,515,5,51,515,5153,5153
+516,Other Personal Services Workers,3,51,5,51,516,NA,5160
+5161,"Astrologers, Fortune-tellers and Related Workers",4,516,5,51,516,5161,5161
+5162,Companions and Valets,4,516,5,51,516,5162,5162
+5163,Undertakers and Embalmers,4,516,5,51,516,5163,5163
+5164,Pet Groomers and Animal Care Workers,4,516,5,51,516,5164,5164
+5165,Driving Instructors,4,516,5,51,516,5165,5165
+5169,Personal Services Workers Not Elsewhere Classified,4,516,5,51,516,5169,5169
+52,Sales Workers,2,5,5,52,NA,NA,5200
+521,Street and Market Salespersons,3,52,5,52,521,NA,5210
+5211,Stall and Market Salespersons,4,521,5,52,521,5211,5211
+5212,Street Food Salespersons,4,521,5,52,521,5212,5212
+522,Shop Aalespersons,3,52,5,52,522,NA,5220
+5221,Shopkeepers,4,522,5,52,522,5221,5221
+5222,Shop Supervisors,4,522,5,52,522,5222,5222
+5223,Shop Sales Assistants,4,522,5,52,522,5223,5223
+523,Cashiers and Ticket Clerks,3,52,5,52,523,NA,5230
+5230,Cashiers and Ticket Clerks,4,523,5,52,523,5230,5230
+524,Other Sales Workers,3,52,5,52,524,NA,5240
+5241,Fashion and Other Models,4,524,5,52,524,5241,5241
+5242,Sales Demonstrators,4,524,5,52,524,5242,5242
+5243,Door-to-door Salespersons,4,524,5,52,524,5243,5243
+5244,Contact Centre Salespersons,4,524,5,52,524,5244,5244
+5245,Service Station Attendants,4,524,5,52,524,5245,5245
+5246,Food Service Counter Attendants,4,524,5,52,524,5246,5246
+5249,Sales Workers Not Elsewhere Classified,4,524,5,52,524,5249,5249
+53,Personal Care Workers,2,5,5,53,NA,NA,5300
+531,Child Care Workers and Teachers' Aides,3,53,5,53,531,NA,5310
+5311,Child Care Workers,4,531,5,53,531,5311,5311
+5312,Teachers' Aides,4,531,5,53,531,5312,5312
+532,Personal Care Workers in Health Services,3,53,5,53,532,NA,5320
+5321,Health Care Assistants,4,532,5,53,532,5321,5321
+5322,Home-based Personal Care Workers,4,532,5,53,532,5322,5322
+5329,Personal Care Workers in Health Services Not Elsewhere Classified,4,532,5,53,532,5329,5329
+54,Protective Services Workers,2,5,5,54,NA,NA,5400
+541,Protective Services Workers,3,54,5,54,541,NA,5410
+5411,Fire Fighters,4,541,5,54,541,5411,5411
+5412,Police Officers,4,541,5,54,541,5412,5412
+5413,Prison Guards,4,541,5,54,541,5413,5413
+5414,Security Guards,4,541,5,54,541,5414,5414
+5419,Protective Services Workers Not Elsewhere Classified,4,541,5,54,541,5419,5419
+6,"Skilled Agricultural, Forestry and Fishery Workers",1,NA,6,NA,NA,NA,6000
+61,Market-oriented Skilled Agricultural Workers,2,6,6,61,NA,NA,6100
+611,Market Gardeners and Crop Growers,3,61,6,61,611,NA,6110
+6111,Field Crop and Vegetable Growers,4,611,6,61,611,6111,6111
+6112,Tree and Shrub Crop Growers,4,611,6,61,611,6112,6112
+6113,"Gardeners, Horticultural and Nursery Growers",4,611,6,61,611,6113,6113
+6114,Mixed Crop Growers,4,611,6,61,611,6114,6114
+612,Animal Producers,3,61,6,61,612,NA,6120
+6121,Livestock and Dairy Producers,4,612,6,61,612,6121,6121
+6122,Poultry Producers,4,612,6,61,612,6122,6122
+6123,Apiarists and Sericulturists,4,612,6,61,612,6123,6123
+6129,Animal Producers Not Elsewhere Classified,4,612,6,61,612,6129,6129
+613,Mixed Crop and Animal Producers,3,61,6,61,613,NA,6130
+6130,Mixed Crop and Animal Producers,4,613,6,61,613,6130,6130
+62,"Market-Oriented Skilled Forestry, Fishery and Hunting Workers",2,6,6,62,NA,NA,6200
+621,Forestry and Related Workers,3,62,6,62,621,NA,6210
+6210,Forestry and Related Workers,4,621,6,62,621,6210,6210
+622,"Fishery Workers, Hunters and Trappers",3,62,6,62,622,NA,6220
+6221,Aquaculture Workers,4,622,6,62,622,6221,6221
+6222,Inland and Coastal Waters Fishery Workers,4,622,6,62,622,6222,6222
+6223,Deep-sea Fishery Workers,4,622,6,62,622,6223,6223
+6224,Hunters and Trappers,4,622,6,62,622,6224,6224
+63,"Subsistence Farmers, Fishers, Hunters and Gatherers",2,6,6,63,NA,NA,6300
+631,Subsistence Crop Farmers,3,63,6,63,631,NA,6310
+6310,Subsistence Crop Farmers,4,631,6,63,631,6310,6310
+632,Subsistence Livestock Farmers,3,63,6,63,632,NA,6320
+6320,Subsistence Livestock Farmers,4,632,6,63,632,6320,6320
+633,Subsistence Mixed Crop and Livestock Farmers,3,63,6,63,633,NA,6330
+6330,Subsistence Mixed Crop and Livestock Farmers,4,633,6,63,633,6330,6330
+634,"Subsistence Fishers, Hunters, Trappers and Gatherers",3,63,6,63,634,NA,6340
+6340,"Subsistence Fishers, Hunters, Trappers and Gatherers",4,634,6,63,634,6340,6340
+7,Craft and Related Trades Workers,1,NA,7,NA,NA,NA,7000
+71,Building and Related Trades Workers (excluding Electricians),2,7,7,71,NA,NA,7100
+711,Building Frame and Related Trades Workers,3,71,7,71,711,NA,7110
+7111,House Builders,4,711,7,71,711,7111,7111
+7112,Bricklayers and Related Workers,4,711,7,71,711,7112,7112
+7113,"Stonemasons, Stone Cutters, Splitters and Carvers",4,711,7,71,711,7113,7113
+7114,"Concrete Placers, Concrete Finishers and Related Workers",4,711,7,71,711,7114,7114
+7115,Carpenters and Joiners,4,711,7,71,711,7115,7115
+7119,Building Frame and Related Trades Workers Not Elsewhere Classified,4,711,7,71,711,7119,7119
+712,Building Finishers and Related Trades Workers,3,71,7,71,712,NA,7120
+7121,Roofers,4,712,7,71,712,7121,7121
+7122,Floor Layers and Tile Setters,4,712,7,71,712,7122,7122
+7123,Plasterers,4,712,7,71,712,7123,7123
+7124,Insulation Workers,4,712,7,71,712,7124,7124
+7125,Glaziers,4,712,7,71,712,7125,7125
+7126,Plumbers and Pipe Fitters,4,712,7,71,712,7126,7126
+7127,Air Conditioning and Refrigeration Mechanics,4,712,7,71,712,7127,7127
+713,"Painters, Building Structure Cleaners and Related Trades Workers",3,71,7,71,713,NA,7130
+7131,Painters and Related Workers,4,713,7,71,713,7131,7131
+7132,Spray Painters and Varnishers,4,713,7,71,713,7132,7132
+7133,Building Structure Cleaners,4,713,7,71,713,7133,7133
+72,"Metal, Machinery and Related Trades Workers",2,7,7,72,NA,NA,7200
+721,"Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",3,72,7,72,721,NA,7210
+7211,Metal Moulders and Coremakers,4,721,7,72,721,7211,7211
+7212,Welders and Flame Cutters,4,721,7,72,721,7212,7212
+7213,Sheet Metal Workers,4,721,7,72,721,7213,7213
+7214,Structural Metal Preparers and Erectors,4,721,7,72,721,7214,7214
+7215,Riggers and Cable Splicers,4,721,7,72,721,7215,7215
+722,"Blacksmiths, Toolmakers and Related Trades Workers",3,72,7,72,722,NA,7220
+7221,"Blacksmiths, Hammersmiths and Forging Press Workers",4,722,7,72,722,7221,7221
+7222,Toolmakers and Related Workers,4,722,7,72,722,7222,7222
+7223,Metal Working Machine Tool Setters and  Operators,4,722,7,72,722,7223,7223
+7224,"Metal Polishers, Wheel Grinders and Tool Sharpeners",4,722,7,72,722,7224,7224
+723,Machinery Mechanics and Repairers,3,72,7,72,723,NA,7230
+7231,Motor Vehicle Mechanics and Repairers,4,723,7,72,723,7231,7231
+7232,Aircraft Engine Mechanics and Repairers,4,723,7,72,723,7232,7232
+7233,Agricultural and Industrial Machinery Mechanics and Repairers,4,723,7,72,723,7233,7233
+7234,Bicycle and Related Repairers,4,723,7,72,723,7234,7234
+73,Handicraft and Printing Workers,2,7,7,73,NA,NA,7300
+731,Handicraft Workers,3,73,7,73,731,NA,7310
+7311,Precision-instrument Makers and Repairers,4,731,7,73,731,7311,7311
+7312,Musical Instrument Makers and Tuners,4,731,7,73,731,7312,7312
+7313,Jewellery and Precious Metal Workers,4,731,7,73,731,7313,7313
+7314,Potters and Related Workers,4,731,7,73,731,7314,7314
+7315,"Glass Makers, Cutters, Grinders and Finishers",4,731,7,73,731,7315,7315
+7316,"Sign Writers, Decorative Painters, Engravers and Etchers",4,731,7,73,731,7316,7316
+7317,"Handicraft Workers in Wood, Basketry and Related Materials",4,731,7,73,731,7317,7317
+7318,"Handicraft Workers in Textile, Leather and Related Materials",4,731,7,73,731,7318,7318
+7319,Handicraft Workers Not Elsewhere Classified,4,731,7,73,731,7319,7319
+732,Printing Trades Workers,3,73,7,73,732,NA,7320
+7321,Pre-press Technicians,4,732,7,73,732,7321,7321
+7322,Printers,4,732,7,73,732,7322,7322
+7323,Print Finishing and Binding Workers,4,732,7,73,732,7323,7323
+74,Electrical and Electronics Trades Workers,2,7,7,74,NA,NA,7400
+741,Electrical Equipment Installers and Repairers,3,74,7,74,741,NA,7410
+7411,Building and Related Electricians,4,741,7,74,741,7411,7411
+7412,Electrical Mechanics and Fitters,4,741,7,74,741,7412,7412
+7413,Electrical Line Installers and Repairers,4,741,7,74,741,7413,7413
+742,Electronics and Telecommunications Installers and Repairers,3,74,7,74,742,NA,7420
+7421,Electronics Mechanics and Servicers,4,742,7,74,742,7421,7421
+7422,Information and Communications Technology Installers and Servicers,4,742,7,74,742,7422,7422
+75,"Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",2,7,7,75,NA,NA,7500
+751,Food Processing and Related Trades Workers,3,75,7,75,751,NA,7510
+7511,"Butchers, Fishmongers and Related Food Preparers",4,751,7,75,751,7511,7511
+7512,"Bakers, Pastry-cooks and Confectionery Makers",4,751,7,75,751,7512,7512
+7513,Dairy Products Makers,4,751,7,75,751,7513,7513
+7514,"Fruit, Vegetable and Related Preservers",4,751,7,75,751,7514,7514
+7515,Food and Beverage Tasters and Graders,4,751,7,75,751,7515,7515
+7516,Tobacco Preparers and Tobacco Products Makers,4,751,7,75,751,7516,7516
+752,"Wood Treaters, Cabinet-makers and Related Trades Workers",3,75,7,75,752,NA,7520
+7521,Wood Treaters,4,752,7,75,752,7521,7521
+7522,Cabinet-makers and Related Workers,4,752,7,75,752,7522,7522
+7523,Woodworking Machine Tool Setters and Operators,4,752,7,75,752,7523,7523
+753,Garment and Related Trades Workers,3,75,7,75,753,NA,7530
+7531,"Tailors, Dressmakers, Furriers and Hatters",4,753,7,75,753,7531,7531
+7532,Garment and Related Patternmakers and Cutters,4,753,7,75,753,7532,7532
+7533,"Sewing, Embroidery and Related Workers",4,753,7,75,753,7533,7533
+7534,Upholsterers and Related Workers,4,753,7,75,753,7534,7534
+7535,"Pelt Dressers, Tanners and Fellmongers",4,753,7,75,753,7535,7535
+7536,Shoemakers and Related Workers,4,753,7,75,753,7536,7536
+754,Other Craft and Related Workers,3,75,7,75,754,NA,7540
+7541,Underwater Divers,4,754,7,75,754,7541,7541
+7542,Shotfirers and Blasters,4,754,7,75,754,7542,7542
+7543,Product Graders and Testers (except Foods and Beverages),4,754,7,75,754,7543,7543
+7544,Fumigators and Other Pest and Weed Controllers,4,754,7,75,754,7544,7544
+7549,Craft and Related Workers not Elsewhere Classified,4,754,7,75,754,7549,7549
+8,"Plant and Machine Operators, and Assemblers",1,NA,8,NA,NA,NA,8000
+81,Stationary Plant and Machine Operators,2,8,8,81,NA,NA,8100
+811,Mining and Mineral Processing Plant Operators,3,81,8,81,811,NA,8110
+8111,Miners and Quarriers,4,811,8,81,811,8111,8111
+8112,Mineral and Stone Processing Plant Operators,4,811,8,81,811,8112,8112
+8113,Well Drillers and Borers and Related Workers,4,811,8,81,811,8113,8113
+8114,"Cement, Stone and Other Mineral Products Machine Operators",4,811,8,81,811,8114,8114
+812,Metal Processing and Finishing Plant Operators,3,81,8,81,812,NA,8120
+8121,Metal Processing Plant Operators,4,812,8,81,812,8121,8121
+8122,"Metal Finishing, Plating and Coating Machine Operators",4,812,8,81,812,8122,8122
+813,Chemical and Photographic Products Plant and Machine Operators,3,81,8,81,813,NA,8130
+8131,Chemical Products Plant and Machine Operators,4,813,8,81,813,8131,8131
+8132,Photographic Products Machine Operators,4,813,8,81,813,8132,8132
+814,"Rubber, Plastic and Paper Products Machine Operators",3,81,8,81,814,NA,8140
+8141,Rubber Products Machine Operators,4,814,8,81,814,8141,8141
+8142,Plastic Products Machine Operators,4,814,8,81,814,8142,8142
+8143,Paper Products Machine Operators,4,814,8,81,814,8143,8143
+815,"Textile, Fur and Leather Products Machine Operators",3,81,8,81,815,NA,8150
+8151,"Fibre Preparing, Spinning and Winding Machine Operators",4,815,8,81,815,8151,8151
+8152,Weaving and Knitting Machine Operators,4,815,8,81,815,8152,8152
+8153,Sewing Machine Operators,4,815,8,81,815,8153,8153
+8154,"Bleaching, Dyeing and Fabric Cleaning Machine Operators",4,815,8,81,815,8154,8154
+8155,Fur and Leather Preparing Machine Operators,4,815,8,81,815,8155,8155
+8156,Shoemaking and Related Machine Operators,4,815,8,81,815,8156,8156
+8157,Laundry Machine Operators,4,815,8,81,815,8157,8157
+8159,"Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified",4,815,8,81,815,8159,8159
+816,Food and Related Products Machine Operators,3,81,8,81,816,NA,8160
+8160,Food and Related Products Machine Operators,4,816,8,81,816,8160,8160
+817,Wood Processing and Papermaking Plant Operators,3,81,8,81,817,NA,8170
+8171,Pulp and Papermaking Plant Operators,4,817,8,81,817,8171,8171
+8172,Wood Processing Plant Operators,4,817,8,81,817,8172,8172
+818,Other Stationary Plant and Machine Operators,3,81,8,81,818,NA,8180
+8181,Glass and Ceramics Plant Operators,4,818,8,81,818,8181,8181
+8182,Steam Engine and Boiler Operators,4,818,8,81,818,8182,8182
+8183,"Packing, Bottling and Labelling Machine Operators",4,818,8,81,818,8183,8183
+8189,Stationary Plant and Machine Operators Not Elsewhere Classified,4,818,8,81,818,8189,8189
+82,Assemblers,2,8,8,82,NA,NA,8200
+821,Assemblers,3,82,8,82,821,NA,8210
+8211,Mechanical Machinery Assemblers,4,821,8,82,821,8211,8211
+8212,Electrical and Electronic Equipment Assemblers,4,821,8,82,821,8212,8212
+8219,Assemblers Not Elsewhere Classified,4,821,8,82,821,8219,8219
+83,Drivers and Mobile Plant Operators,2,8,8,83,NA,NA,8300
+831,Locomotive Engine Drivers and Related Workers,3,83,8,83,831,NA,8310
+8311,Locomotive Engine Drivers,4,831,8,83,831,8311,8311
+8312,"Railway Brake, Signal and Switch Operators",4,831,8,83,831,8312,8312
+832,"Car, Van and Motorcycle Drivers",3,83,8,83,832,NA,8320
+8321,Motorcycle Drivers,4,832,8,83,832,8321,8321
+8322,"Car, Taxi and Van Drivers",4,832,8,83,832,8322,8322
+833,Heavy Truck and Bus Drivers,3,83,8,83,833,NA,8330
+8331,Bus and Tram Drivers,4,833,8,83,833,8331,8331
+8332,Heavy Truck and Lorry Drivers,4,833,8,83,833,8332,8332
+834,Mobile Plant Operators,3,83,8,83,834,NA,8340
+8341,Mobile Farm and Forestry Plant Operators,4,834,8,83,834,8341,8341
+8342,Earthmoving and Related Plant Operators,4,834,8,83,834,8342,8342
+8343,"Crane, hoist and related plant operators",4,834,8,83,834,8343,8343
+8344,Lifting Truck Operators,4,834,8,83,834,8344,8344
+835,Ships' Deck Crews and Related Workers,3,83,8,83,835,NA,8350
+8350,Ships' Deck Crews and Related Workers,4,835,8,83,835,8350,8350
+9,Elementary Occupations,1,NA,9,NA,NA,NA,9000
+91,Cleaners and Helpers,2,9,9,91,NA,NA,9100
+911,"Domestic, Hotel and Office Cleaners and Helpers",3,91,9,91,911,NA,9110
+9111,Domestic Cleaners and Helpers,4,911,9,91,911,9111,9111
+9112,"Cleaners and Helpers in Offices, Hotels and Other Establishments",4,911,9,91,911,9112,9112
+912,"Vehicle, Window, Laundry and Other Hand Cleaning Workers",3,91,9,91,912,NA,9120
+9121,Hand Launderers and Pressers,4,912,9,91,912,9121,9121
+9122,Vehicle Cleaners,4,912,9,91,912,9122,9122
+9123,Window Cleaners,4,912,9,91,912,9123,9123
+9129,Other Cleaning Workers,4,912,9,91,912,9129,9129
+92,"Agricultural, Forestry and Fishery Labourers",2,9,9,92,NA,NA,9200
+921,"Agricultural, Forestry and Fishery Labourers",3,92,9,92,921,NA,9210
+9211,Crop Farm Labourers,4,921,9,92,921,9211,9211
+9212,Livestock Farm Labourers,4,921,9,92,921,9212,9212
+9213,Mixed Crop and Livestock Farm Labourers,4,921,9,92,921,9213,9213
+9214,Garden and Horticultural Labourers,4,921,9,92,921,9214,9214
+9215,Forestry Labourers,4,921,9,92,921,9215,9215
+9216,Fishery and Aquaculture Labourers,4,921,9,92,921,9216,9216
+93,"Labourers in Mining, Construction, Manufacturing and Transport",2,9,9,93,NA,NA,9300
+931,Mining and Construction Labourers,3,93,9,93,931,NA,9310
+9311,Mining and Quarrying Labourers,4,931,9,93,931,9311,9311
+9312,Civil Engineering Labourers,4,931,9,93,931,9312,9312
+9313,Building Construction Labourers,4,931,9,93,931,9313,9313
+932,Manufacturing Labourers,3,93,9,93,932,NA,9320
+9321,Hand Packers,4,932,9,93,932,9321,9321
+9329,Manufacturing Labourers Not Elsewhere Classified,4,932,9,93,932,9329,9329
+933,Transport and Storage Labourers,3,93,9,93,933,NA,9330
+9331,Hand and Pedal Vehicle Drivers,4,933,9,93,933,9331,9331
+9332,Drivers of Animal-drawn Vehicles and Machinery,4,933,9,93,933,9332,9332
+9333,Freight Handlers,4,933,9,93,933,9333,9333
+9334,Shelf Fillers,4,933,9,93,933,9334,9334
+94,Food Preparation Assistants,2,9,9,94,NA,NA,9400
+941,Food Preparation Assistants,3,94,9,94,941,NA,9410
+9411,Fast Food Preparers,4,941,9,94,941,9411,9411
+9412,Kitchen Helpers,4,941,9,94,941,9412,9412
+95,Street and Related Sales and Service Workers,2,9,9,95,NA,NA,9500
+951,Street and Related Service Workers,3,95,9,95,951,NA,9510
+9510,Street and Related Service Workers,4,951,9,95,951,9510,9510
+952,Street Vendors (excluding Food),3,95,9,95,952,NA,9520
+9520,Street Vendors (excluding Food),4,952,9,95,952,9520,9520
+96,Refuse Workers and Other Elementary Workers,2,9,9,96,NA,NA,9600
+961,Refuse Workers,3,96,9,96,961,NA,9610
+9611,Garbage and Recycling Collectors,4,961,9,96,961,9611,9611
+9612,Refuse Sorters,4,961,9,96,961,9612,9612
+9613,Sweepers and Related Labourers,4,961,9,96,961,9613,9613
+962,Other Elementary Workers,3,96,9,96,962,NA,9620
+9621,"Messengers, Package Deliverers and Luggage Porters",4,962,9,96,962,9621,9621
+9622,Odd Job Persons,4,962,9,96,962,9622,9622
+9623,Meter Readers and Vending-machine Collectors,4,962,9,96,962,9623,9623
+9624,Water and Firewood Collectors,4,962,9,96,962,9624,9624
+9629,Elementary Workers Not Elsewhere Classified,4,962,9,96,962,9629,9629
+0,Armed Forces Occupations,1,NA,0,NA,NA,NA,0000
+01,Commissioned Armed forces Officers,2,0,0,01,NA,NA,0100
+011,Commissioned Armed Forces Officers,3,01,0,01,011,NA,0110
+0110,Commissioned Armed Forces Officers,4,011,0,01,011,0110,0110
+02,Non-commissioned Armed Forces Officers,2,0,0,02,NA,NA,0200
+021,Non-commissioned Armed Forces Officers,3,02,0,02,021,NA,0210
+0210,Non-commissioned Armed Forces Officers,4,021,0,02,021,0210,0210
+03,"Armed Forces Occupations, Other Ranks",2,0,0,03,NA,NA,0300
+031,"Armed Forces Occupations, Other Ranks",3,03,0,03,031,NA,0310
+0310,"Armed Forces Occupations, Other Ranks",4,031,0,03,031,0310,0310
