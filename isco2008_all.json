@@ -1,0 +1,5936 @@
+[
+  {
+    "code": "1",
+    "title": "Managers",
+    "Level": 1,
+    "isco1d": "1"
+  },
+  {
+    "code": "11",
+    "title": "Chief Executives, Senior Officials and Legislators",
+    "Level": 2,
+    "parent": "1",
+    "isco1d": "1",
+    "isco2d": "11"
+  },
+  {
+    "code": "111",
+    "title": "Legislators and Senior Officials",
+    "Level": 3,
+    "parent": "11",
+    "isco1d": "1",
+    "isco2d": "11",
+    "isco3d": "111"
+  },
+  {
+    "code": "1111",
+    "title": "Legislators",
+    "Level": 4,
+    "parent": "111",
+    "isco1d": "1",
+    "isco2d": "11",
+    "isco3d": "111",
+    "isco4d": "1111"
+  },
+  {
+    "code": "1112",
+    "title": "Senior Government Officials",
+    "Level": 4,
+    "parent": "111",
+    "isco1d": "1",
+    "isco2d": "11",
+    "isco3d": "111",
+    "isco4d": "1112"
+  },
+  {
+    "code": "1113",
+    "title": "Traditional Chiefs and Heads of Villages",
+    "Level": 4,
+    "parent": "111",
+    "isco1d": "1",
+    "isco2d": "11",
+    "isco3d": "111",
+    "isco4d": "1113"
+  },
+  {
+    "code": "1114",
+    "title": "Senior Officials of Special-interest Organizations",
+    "Level": 4,
+    "parent": "111",
+    "isco1d": "1",
+    "isco2d": "11",
+    "isco3d": "111",
+    "isco4d": "1114"
+  },
+  {
+    "code": "112",
+    "title": "Managing Directors and Chief Executives",
+    "Level": 3,
+    "parent": "11",
+    "isco1d": "1",
+    "isco2d": "11",
+    "isco3d": "112"
+  },
+  {
+    "code": "1120",
+    "title": "Managing Directors and Chief Executives",
+    "Level": 4,
+    "parent": "112",
+    "isco1d": "1",
+    "isco2d": "11",
+    "isco3d": "112",
+    "isco4d": "1120"
+  },
+  {
+    "code": "12",
+    "title": "Administrative and Commercial Managers",
+    "Level": 2,
+    "parent": "1",
+    "isco1d": "1",
+    "isco2d": "12"
+  },
+  {
+    "code": "121",
+    "title": "Business Services and Administration Managers",
+    "Level": 3,
+    "parent": "12",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "121"
+  },
+  {
+    "code": "1211",
+    "title": "Finance Managers",
+    "Level": 4,
+    "parent": "121",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "121",
+    "isco4d": "1211"
+  },
+  {
+    "code": "1212",
+    "title": "Human Resource Managers",
+    "Level": 4,
+    "parent": "121",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "121",
+    "isco4d": "1212"
+  },
+  {
+    "code": "1213",
+    "title": "Policy and Planning Managers",
+    "Level": 4,
+    "parent": "121",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "121",
+    "isco4d": "1213"
+  },
+  {
+    "code": "1219",
+    "title": "Business Services and Administration Managers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "121",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "121",
+    "isco4d": "1219"
+  },
+  {
+    "code": "122",
+    "title": "Sales, Marketing and Development Managers",
+    "Level": 3,
+    "parent": "12",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "122"
+  },
+  {
+    "code": "1221",
+    "title": "Sales and Marketing Managers",
+    "Level": 4,
+    "parent": "122",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "122",
+    "isco4d": "1221"
+  },
+  {
+    "code": "1222",
+    "title": "Advertising and Public Relations Managers",
+    "Level": 4,
+    "parent": "122",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "122",
+    "isco4d": "1222"
+  },
+  {
+    "code": "1223",
+    "title": "Research and Development Managers",
+    "Level": 4,
+    "parent": "122",
+    "isco1d": "1",
+    "isco2d": "12",
+    "isco3d": "122",
+    "isco4d": "1223"
+  },
+  {
+    "code": "13",
+    "title": "Production and Specialized Services Managers",
+    "Level": 2,
+    "parent": "1",
+    "isco1d": "1",
+    "isco2d": "13"
+  },
+  {
+    "code": "131",
+    "title": "Production Managers in Agriculture, Forestry and Fisheries",
+    "Level": 3,
+    "parent": "13",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "131"
+  },
+  {
+    "code": "1311",
+    "title": "Agricultural and Forestry Production Managers",
+    "Level": 4,
+    "parent": "131",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "131",
+    "isco4d": "1311"
+  },
+  {
+    "code": "1312",
+    "title": "Aquaculture and Fisheries Production Managers",
+    "Level": 4,
+    "parent": "131",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "131",
+    "isco4d": "1312"
+  },
+  {
+    "code": "132",
+    "title": "Manufacturing, Mining, Construction and Distribution Managers",
+    "Level": 3,
+    "parent": "13",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "132"
+  },
+  {
+    "code": "1321",
+    "title": "Manufacturing Managers",
+    "Level": 4,
+    "parent": "132",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "132",
+    "isco4d": "1321"
+  },
+  {
+    "code": "1322",
+    "title": "Mining Managers",
+    "Level": 4,
+    "parent": "132",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "132",
+    "isco4d": "1322"
+  },
+  {
+    "code": "1323",
+    "title": "Construction Managers",
+    "Level": 4,
+    "parent": "132",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "132",
+    "isco4d": "1323"
+  },
+  {
+    "code": "1324",
+    "title": "Supply, Distribution and Related Managers",
+    "Level": 4,
+    "parent": "132",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "132",
+    "isco4d": "1324"
+  },
+  {
+    "code": "133",
+    "title": "Information and Communications Technology Service managers",
+    "Level": 3,
+    "parent": "13",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "133"
+  },
+  {
+    "code": "1330",
+    "title": "Information and Communications Technology Service Managers",
+    "Level": 4,
+    "parent": "133",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "133",
+    "isco4d": "1330"
+  },
+  {
+    "code": "134",
+    "title": "Professional Services Managers",
+    "Level": 3,
+    "parent": "13",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "134"
+  },
+  {
+    "code": "1341",
+    "title": "Child Care Service Managers",
+    "Level": 4,
+    "parent": "134",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "134",
+    "isco4d": "1341"
+  },
+  {
+    "code": "1342",
+    "title": "Health Service Managers",
+    "Level": 4,
+    "parent": "134",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "134",
+    "isco4d": "1342"
+  },
+  {
+    "code": "1343",
+    "title": "Aged Care Service Managers",
+    "Level": 4,
+    "parent": "134",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "134",
+    "isco4d": "1343"
+  },
+  {
+    "code": "1344",
+    "title": "Social Welfare Managers",
+    "Level": 4,
+    "parent": "134",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "134",
+    "isco4d": "1344"
+  },
+  {
+    "code": "1345",
+    "title": "Education Managers",
+    "Level": 4,
+    "parent": "134",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "134",
+    "isco4d": "1345"
+  },
+  {
+    "code": "1346",
+    "title": "Financial and Insurance Services Branch managers",
+    "Level": 4,
+    "parent": "134",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "134",
+    "isco4d": "1346"
+  },
+  {
+    "code": "1349",
+    "title": "Professional Services Managers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "134",
+    "isco1d": "1",
+    "isco2d": "13",
+    "isco3d": "134",
+    "isco4d": "1349"
+  },
+  {
+    "code": "14",
+    "title": "Hospitality, Retail and Other Services Managers",
+    "Level": 2,
+    "parent": "1",
+    "isco1d": "1",
+    "isco2d": "14"
+  },
+  {
+    "code": "141",
+    "title": "Hotel and Restaurant Managers",
+    "Level": 3,
+    "parent": "14",
+    "isco1d": "1",
+    "isco2d": "14",
+    "isco3d": "141"
+  },
+  {
+    "code": "1411",
+    "title": "Hotel Managers",
+    "Level": 4,
+    "parent": "141",
+    "isco1d": "1",
+    "isco2d": "14",
+    "isco3d": "141",
+    "isco4d": "1411"
+  },
+  {
+    "code": "1412",
+    "title": "Restaurant Managers",
+    "Level": 4,
+    "parent": "141",
+    "isco1d": "1",
+    "isco2d": "14",
+    "isco3d": "141",
+    "isco4d": "1412"
+  },
+  {
+    "code": "142",
+    "title": "Retail and Wholesale Trade Managers",
+    "Level": 3,
+    "parent": "14",
+    "isco1d": "1",
+    "isco2d": "14",
+    "isco3d": "142"
+  },
+  {
+    "code": "1420",
+    "title": "Retail and Wholesale Trade Managers",
+    "Level": 4,
+    "parent": "142",
+    "isco1d": "1",
+    "isco2d": "14",
+    "isco3d": "142",
+    "isco4d": "1420"
+  },
+  {
+    "code": "143",
+    "title": "Other Services Managers",
+    "Level": 3,
+    "parent": "14",
+    "isco1d": "1",
+    "isco2d": "14",
+    "isco3d": "143"
+  },
+  {
+    "code": "1431",
+    "title": "Sports, Recreation and Cultural Centre Managers",
+    "Level": 4,
+    "parent": "143",
+    "isco1d": "1",
+    "isco2d": "14",
+    "isco3d": "143",
+    "isco4d": "1431"
+  },
+  {
+    "code": "1439",
+    "title": "Services Managers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "143",
+    "isco1d": "1",
+    "isco2d": "14",
+    "isco3d": "143",
+    "isco4d": "1439"
+  },
+  {
+    "code": "2",
+    "title": "Professionals",
+    "Level": 1,
+    "isco1d": "2"
+  },
+  {
+    "code": "21",
+    "title": "Science and Engineering Professionals",
+    "Level": 2,
+    "parent": "2",
+    "isco1d": "2",
+    "isco2d": "21"
+  },
+  {
+    "code": "211",
+    "title": "Physical and Earth Science Professionals",
+    "Level": 3,
+    "parent": "21",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "211"
+  },
+  {
+    "code": "2111",
+    "title": "Physicists and Astronomers",
+    "Level": 4,
+    "parent": "211",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "211",
+    "isco4d": "2111"
+  },
+  {
+    "code": "2112",
+    "title": "Meteorologists",
+    "Level": 4,
+    "parent": "211",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "211",
+    "isco4d": "2112"
+  },
+  {
+    "code": "2113",
+    "title": "Chemists",
+    "Level": 4,
+    "parent": "211",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "211",
+    "isco4d": "2113"
+  },
+  {
+    "code": "2114",
+    "title": "Geologists and geophysicists",
+    "Level": 4,
+    "parent": "211",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "211",
+    "isco4d": "2114"
+  },
+  {
+    "code": "212",
+    "title": "Mathematicians, Actuaries and Statisticians",
+    "Level": 3,
+    "parent": "21",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "212"
+  },
+  {
+    "code": "2120",
+    "title": "Mathematicians, Actuaries and Statisticians",
+    "Level": 4,
+    "parent": "212",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "212",
+    "isco4d": "2120"
+  },
+  {
+    "code": "213",
+    "title": "Life Science Professionals",
+    "Level": 3,
+    "parent": "21",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "213"
+  },
+  {
+    "code": "2131",
+    "title": "Biologists, Botanists, Zoologists and Related Professionals",
+    "Level": 4,
+    "parent": "213",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "213",
+    "isco4d": "2131"
+  },
+  {
+    "code": "2132",
+    "title": "Farming, Forestry and Fisheries Advisers",
+    "Level": 4,
+    "parent": "213",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "213",
+    "isco4d": "2132"
+  },
+  {
+    "code": "2133",
+    "title": "Environmental Protection Professionals",
+    "Level": 4,
+    "parent": "213",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "213",
+    "isco4d": "2133"
+  },
+  {
+    "code": "214",
+    "title": "Engineering Professionals (excluding Electrotechnology)",
+    "Level": 3,
+    "parent": "21",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "214"
+  },
+  {
+    "code": "2141",
+    "title": "Industrial and Production Engineers",
+    "Level": 4,
+    "parent": "214",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "214",
+    "isco4d": "2141"
+  },
+  {
+    "code": "2142",
+    "title": "Civil Engineers",
+    "Level": 4,
+    "parent": "214",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "214",
+    "isco4d": "2142"
+  },
+  {
+    "code": "2143",
+    "title": "Environmental Engineers",
+    "Level": 4,
+    "parent": "214",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "214",
+    "isco4d": "2143"
+  },
+  {
+    "code": "2144",
+    "title": "Mechanical Engineers",
+    "Level": 4,
+    "parent": "214",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "214",
+    "isco4d": "2144"
+  },
+  {
+    "code": "2145",
+    "title": "Chemical Engineers",
+    "Level": 4,
+    "parent": "214",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "214",
+    "isco4d": "2145"
+  },
+  {
+    "code": "2146",
+    "title": "Mining Engineers, Metallurgists and Related Professionals",
+    "Level": 4,
+    "parent": "214",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "214",
+    "isco4d": "2146"
+  },
+  {
+    "code": "2149",
+    "title": "Engineering Professionals Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "214",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "214",
+    "isco4d": "2149"
+  },
+  {
+    "code": "215",
+    "title": "Electrotechnology Engineers",
+    "Level": 3,
+    "parent": "21",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "215"
+  },
+  {
+    "code": "2151",
+    "title": "Electrical Engineers",
+    "Level": 4,
+    "parent": "215",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "215",
+    "isco4d": "2151"
+  },
+  {
+    "code": "2152",
+    "title": "Electronics Engineers",
+    "Level": 4,
+    "parent": "215",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "215",
+    "isco4d": "2152"
+  },
+  {
+    "code": "2153",
+    "title": "Telecommunications Engineers",
+    "Level": 4,
+    "parent": "215",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "215",
+    "isco4d": "2153"
+  },
+  {
+    "code": "216",
+    "title": "Architects, Planners, Surveyors and Designers",
+    "Level": 3,
+    "parent": "21",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "216"
+  },
+  {
+    "code": "2161",
+    "title": "Building Architects",
+    "Level": 4,
+    "parent": "216",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "216",
+    "isco4d": "2161"
+  },
+  {
+    "code": "2162",
+    "title": "Landscape Architects",
+    "Level": 4,
+    "parent": "216",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "216",
+    "isco4d": "2162"
+  },
+  {
+    "code": "2163",
+    "title": "Product and Garment Designers",
+    "Level": 4,
+    "parent": "216",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "216",
+    "isco4d": "2163"
+  },
+  {
+    "code": "2164",
+    "title": "Town and Traffic Planners",
+    "Level": 4,
+    "parent": "216",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "216",
+    "isco4d": "2164"
+  },
+  {
+    "code": "2165",
+    "title": "Cartographers and Surveyors",
+    "Level": 4,
+    "parent": "216",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "216",
+    "isco4d": "2165"
+  },
+  {
+    "code": "2166",
+    "title": "Graphic and Multimedia Designers",
+    "Level": 4,
+    "parent": "216",
+    "isco1d": "2",
+    "isco2d": "21",
+    "isco3d": "216",
+    "isco4d": "2166"
+  },
+  {
+    "code": "22",
+    "title": "Health Professionals",
+    "Level": 2,
+    "parent": "2",
+    "isco1d": "2",
+    "isco2d": "22"
+  },
+  {
+    "code": "221",
+    "title": "Medical Doctors",
+    "Level": 3,
+    "parent": "22",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "221"
+  },
+  {
+    "code": "2211",
+    "title": "Generalist Medical Practitioners",
+    "Level": 4,
+    "parent": "221",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "221",
+    "isco4d": "2211"
+  },
+  {
+    "code": "2212",
+    "title": "Specialist Medical Practitioners",
+    "Level": 4,
+    "parent": "221",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "221",
+    "isco4d": "2212"
+  },
+  {
+    "code": "222",
+    "title": "Nursing and Midwifery Professionals",
+    "Level": 3,
+    "parent": "22",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "222"
+  },
+  {
+    "code": "2221",
+    "title": "Nursing Professionals",
+    "Level": 4,
+    "parent": "222",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "222",
+    "isco4d": "2221"
+  },
+  {
+    "code": "2222",
+    "title": "Midwifery Professionals",
+    "Level": 4,
+    "parent": "222",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "222",
+    "isco4d": "2222"
+  },
+  {
+    "code": "223",
+    "title": "Traditional and Complementary Medicine Professionals",
+    "Level": 3,
+    "parent": "22",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "223"
+  },
+  {
+    "code": "2230",
+    "title": "Traditional and Complementary Medicine Professionals",
+    "Level": 4,
+    "parent": "223",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "223",
+    "isco4d": "2230"
+  },
+  {
+    "code": "224",
+    "title": "Paramedical Practitioners",
+    "Level": 3,
+    "parent": "22",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "224"
+  },
+  {
+    "code": "2240",
+    "title": "Paramedical Practitioners",
+    "Level": 4,
+    "parent": "224",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "224",
+    "isco4d": "2240"
+  },
+  {
+    "code": "225",
+    "title": "Veterinarians",
+    "Level": 3,
+    "parent": "22",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "225"
+  },
+  {
+    "code": "2250",
+    "title": "Veterinarians",
+    "Level": 4,
+    "parent": "225",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "225",
+    "isco4d": "2250"
+  },
+  {
+    "code": "226",
+    "title": "Other Health Professionals",
+    "Level": 3,
+    "parent": "22",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226"
+  },
+  {
+    "code": "2261",
+    "title": "Dentists",
+    "Level": 4,
+    "parent": "226",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226",
+    "isco4d": "2261"
+  },
+  {
+    "code": "2262",
+    "title": "Pharmacists",
+    "Level": 4,
+    "parent": "226",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226",
+    "isco4d": "2262"
+  },
+  {
+    "code": "2263",
+    "title": "Environmental and Occupational Health and Hygiene Professionals",
+    "Level": 4,
+    "parent": "226",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226",
+    "isco4d": "2263"
+  },
+  {
+    "code": "2264",
+    "title": "Physiotherapists",
+    "Level": 4,
+    "parent": "226",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226",
+    "isco4d": "2264"
+  },
+  {
+    "code": "2265",
+    "title": "Dieticians and Nutritionists",
+    "Level": 4,
+    "parent": "226",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226",
+    "isco4d": "2265"
+  },
+  {
+    "code": "2266",
+    "title": "Audiologists and Speech Therapists",
+    "Level": 4,
+    "parent": "226",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226",
+    "isco4d": "2266"
+  },
+  {
+    "code": "2267",
+    "title": "Optometrists and Ophthalmic Opticians",
+    "Level": 4,
+    "parent": "226",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226",
+    "isco4d": "2267"
+  },
+  {
+    "code": "2269",
+    "title": "Health Professionals Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "226",
+    "isco1d": "2",
+    "isco2d": "22",
+    "isco3d": "226",
+    "isco4d": "2269"
+  },
+  {
+    "code": "23",
+    "title": "Teaching Professionals",
+    "Level": 2,
+    "parent": "2",
+    "isco1d": "2",
+    "isco2d": "23"
+  },
+  {
+    "code": "231",
+    "title": "University and Higher Education Teachers",
+    "Level": 3,
+    "parent": "23",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "231"
+  },
+  {
+    "code": "2310",
+    "title": "University and Higher Education Teachers",
+    "Level": 4,
+    "parent": "231",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "231",
+    "isco4d": "2310"
+  },
+  {
+    "code": "232",
+    "title": "Vocational education teachers",
+    "Level": 3,
+    "parent": "23",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "232"
+  },
+  {
+    "code": "2320",
+    "title": "Vocational Education Teachers",
+    "Level": 4,
+    "parent": "232",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "232",
+    "isco4d": "2320"
+  },
+  {
+    "code": "233",
+    "title": "Secondary Education Teachers",
+    "Level": 3,
+    "parent": "23",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "233"
+  },
+  {
+    "code": "2330",
+    "title": "Secondary Education Teachers",
+    "Level": 4,
+    "parent": "233",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "233",
+    "isco4d": "2330"
+  },
+  {
+    "code": "234",
+    "title": "Primary School and Early Childhood Teachers",
+    "Level": 3,
+    "parent": "23",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "234"
+  },
+  {
+    "code": "2341",
+    "title": "Primary School Teachers",
+    "Level": 4,
+    "parent": "234",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "234",
+    "isco4d": "2341"
+  },
+  {
+    "code": "2342",
+    "title": "Early Childhood Educators",
+    "Level": 4,
+    "parent": "234",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "234",
+    "isco4d": "2342"
+  },
+  {
+    "code": "235",
+    "title": "Other Teaching Professionals",
+    "Level": 3,
+    "parent": "23",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "235"
+  },
+  {
+    "code": "2351",
+    "title": "Education Methods Specialists",
+    "Level": 4,
+    "parent": "235",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "235",
+    "isco4d": "2351"
+  },
+  {
+    "code": "2352",
+    "title": "Special Needs Teachers",
+    "Level": 4,
+    "parent": "235",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "235",
+    "isco4d": "2352"
+  },
+  {
+    "code": "2353",
+    "title": "Other Language Teachers",
+    "Level": 4,
+    "parent": "235",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "235",
+    "isco4d": "2353"
+  },
+  {
+    "code": "2354",
+    "title": "Other Music Teachers",
+    "Level": 4,
+    "parent": "235",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "235",
+    "isco4d": "2354"
+  },
+  {
+    "code": "2355",
+    "title": "Other Arts Teachers",
+    "Level": 4,
+    "parent": "235",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "235",
+    "isco4d": "2355"
+  },
+  {
+    "code": "2356",
+    "title": "Information Technology Trainers",
+    "Level": 4,
+    "parent": "235",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "235",
+    "isco4d": "2356"
+  },
+  {
+    "code": "2359",
+    "title": "Teaching Professionals Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "235",
+    "isco1d": "2",
+    "isco2d": "23",
+    "isco3d": "235",
+    "isco4d": "2359"
+  },
+  {
+    "code": "24",
+    "title": "Business and Administration Professionals",
+    "Level": 2,
+    "parent": "2",
+    "isco1d": "2",
+    "isco2d": "24"
+  },
+  {
+    "code": "241",
+    "title": "Finance Professionals",
+    "Level": 3,
+    "parent": "24",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "241"
+  },
+  {
+    "code": "2411",
+    "title": "Accountants",
+    "Level": 4,
+    "parent": "241",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "241",
+    "isco4d": "2411"
+  },
+  {
+    "code": "2412",
+    "title": "Financial and Investment Advisers",
+    "Level": 4,
+    "parent": "241",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "241",
+    "isco4d": "2412"
+  },
+  {
+    "code": "2413",
+    "title": "Financial Analysts",
+    "Level": 4,
+    "parent": "241",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "241",
+    "isco4d": "2413"
+  },
+  {
+    "code": "242",
+    "title": "Administration Professionals",
+    "Level": 3,
+    "parent": "24",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "242"
+  },
+  {
+    "code": "2421",
+    "title": "Management and Organization Analysts",
+    "Level": 4,
+    "parent": "242",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "242",
+    "isco4d": "2421"
+  },
+  {
+    "code": "2422",
+    "title": "Policy Administration Professionals",
+    "Level": 4,
+    "parent": "242",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "242",
+    "isco4d": "2422"
+  },
+  {
+    "code": "2423",
+    "title": "Personnel and Careers Professionals",
+    "Level": 4,
+    "parent": "242",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "242",
+    "isco4d": "2423"
+  },
+  {
+    "code": "2424",
+    "title": "Training and Staff Development Professionals",
+    "Level": 4,
+    "parent": "242",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "242",
+    "isco4d": "2424"
+  },
+  {
+    "code": "243",
+    "title": "Sales, Marketing and Public Relations Professionals",
+    "Level": 3,
+    "parent": "24",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "243"
+  },
+  {
+    "code": "2431",
+    "title": "Advertising and Marketing Professionals",
+    "Level": 4,
+    "parent": "243",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "243",
+    "isco4d": "2431"
+  },
+  {
+    "code": "2432",
+    "title": "Public Relations Professionals",
+    "Level": 4,
+    "parent": "243",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "243",
+    "isco4d": "2432"
+  },
+  {
+    "code": "2433",
+    "title": "Technical and Medical Sales Professionals (excluding ICT)",
+    "Level": 4,
+    "parent": "243",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "243",
+    "isco4d": "2433"
+  },
+  {
+    "code": "2434",
+    "title": "Information and Communications Technology Sales Professionals",
+    "Level": 4,
+    "parent": "243",
+    "isco1d": "2",
+    "isco2d": "24",
+    "isco3d": "243",
+    "isco4d": "2434"
+  },
+  {
+    "code": "25",
+    "title": "Information and Communications Technology Professionals",
+    "Level": 2,
+    "parent": "2",
+    "isco1d": "2",
+    "isco2d": "25"
+  },
+  {
+    "code": "251",
+    "title": "Software and Applications Developers and Analysts",
+    "Level": 3,
+    "parent": "25",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "251"
+  },
+  {
+    "code": "2511",
+    "title": "Systems Analysts",
+    "Level": 4,
+    "parent": "251",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "251",
+    "isco4d": "2511"
+  },
+  {
+    "code": "2512",
+    "title": "Software Developers",
+    "Level": 4,
+    "parent": "251",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "251",
+    "isco4d": "2512"
+  },
+  {
+    "code": "2513",
+    "title": "Web and Multimedia Developers",
+    "Level": 4,
+    "parent": "251",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "251",
+    "isco4d": "2513"
+  },
+  {
+    "code": "2514",
+    "title": "Applications Programmers",
+    "Level": 4,
+    "parent": "251",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "251",
+    "isco4d": "2514"
+  },
+  {
+    "code": "2519",
+    "title": "Software and Applications Developers and Analysts Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "251",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "251",
+    "isco4d": "2519"
+  },
+  {
+    "code": "252",
+    "title": "Database and Network Professionals",
+    "Level": 3,
+    "parent": "25",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "252"
+  },
+  {
+    "code": "2521",
+    "title": "Database Designers and Administrators",
+    "Level": 4,
+    "parent": "252",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "252",
+    "isco4d": "2521"
+  },
+  {
+    "code": "2522",
+    "title": "Systems Aministrators",
+    "Level": 4,
+    "parent": "252",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "252",
+    "isco4d": "2522"
+  },
+  {
+    "code": "2523",
+    "title": "Computer Network Professionals",
+    "Level": 4,
+    "parent": "252",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "252",
+    "isco4d": "2523"
+  },
+  {
+    "code": "2529",
+    "title": "Database and Network Professionals Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "252",
+    "isco1d": "2",
+    "isco2d": "25",
+    "isco3d": "252",
+    "isco4d": "2529"
+  },
+  {
+    "code": "26",
+    "title": "Legal, Social and Cultural Professionals",
+    "Level": 2,
+    "parent": "2",
+    "isco1d": "2",
+    "isco2d": "26"
+  },
+  {
+    "code": "261",
+    "title": "Legal Professionals",
+    "Level": 3,
+    "parent": "26",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "261"
+  },
+  {
+    "code": "2611",
+    "title": "Lawyers",
+    "Level": 4,
+    "parent": "261",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "261",
+    "isco4d": "2611"
+  },
+  {
+    "code": "2612",
+    "title": "Judges",
+    "Level": 4,
+    "parent": "261",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "261",
+    "isco4d": "2612"
+  },
+  {
+    "code": "2619",
+    "title": "Legal Professionals Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "261",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "261",
+    "isco4d": "2619"
+  },
+  {
+    "code": "262",
+    "title": "Librarians, Archivists and Curators",
+    "Level": 3,
+    "parent": "26",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "262"
+  },
+  {
+    "code": "2621",
+    "title": "Archivists and Curators",
+    "Level": 4,
+    "parent": "262",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "262",
+    "isco4d": "2621"
+  },
+  {
+    "code": "2622",
+    "title": "Librarians and Related Information Professionals",
+    "Level": 4,
+    "parent": "262",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "262",
+    "isco4d": "2622"
+  },
+  {
+    "code": "263",
+    "title": "Social and Religious Professionals",
+    "Level": 3,
+    "parent": "26",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "263"
+  },
+  {
+    "code": "2631",
+    "title": "Economists",
+    "Level": 4,
+    "parent": "263",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "263",
+    "isco4d": "2631"
+  },
+  {
+    "code": "2632",
+    "title": "Sociologists, Anthropologists and Related Professionals",
+    "Level": 4,
+    "parent": "263",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "263",
+    "isco4d": "2632"
+  },
+  {
+    "code": "2633",
+    "title": "Philosophers, Historians and Political Scientists",
+    "Level": 4,
+    "parent": "263",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "263",
+    "isco4d": "2633"
+  },
+  {
+    "code": "2634",
+    "title": "Psychologists",
+    "Level": 4,
+    "parent": "263",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "263",
+    "isco4d": "2634"
+  },
+  {
+    "code": "2635",
+    "title": "Social Work and Counselling Professionals",
+    "Level": 4,
+    "parent": "263",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "263",
+    "isco4d": "2635"
+  },
+  {
+    "code": "2636",
+    "title": "Religious Professionals",
+    "Level": 4,
+    "parent": "263",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "263",
+    "isco4d": "2636"
+  },
+  {
+    "code": "264",
+    "title": "Authors, Journalists and Linguists",
+    "Level": 3,
+    "parent": "26",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "264"
+  },
+  {
+    "code": "2641",
+    "title": "Authors and Related Writers",
+    "Level": 4,
+    "parent": "264",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "264",
+    "isco4d": "2641"
+  },
+  {
+    "code": "2642",
+    "title": "Journalists",
+    "Level": 4,
+    "parent": "264",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "264",
+    "isco4d": "2642"
+  },
+  {
+    "code": "2643",
+    "title": "Translators, Interpreters and Other Linguists",
+    "Level": 4,
+    "parent": "264",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "264",
+    "isco4d": "2643"
+  },
+  {
+    "code": "265",
+    "title": "Creative and Performing Artists",
+    "Level": 3,
+    "parent": "26",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "265"
+  },
+  {
+    "code": "2651",
+    "title": "Visual Artists",
+    "Level": 4,
+    "parent": "265",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "265",
+    "isco4d": "2651"
+  },
+  {
+    "code": "2652",
+    "title": "Musicians, Singers and Composers",
+    "Level": 4,
+    "parent": "265",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "265",
+    "isco4d": "2652"
+  },
+  {
+    "code": "2653",
+    "title": "Dancers and Choreographers",
+    "Level": 4,
+    "parent": "265",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "265",
+    "isco4d": "2653"
+  },
+  {
+    "code": "2654",
+    "title": "Film, Stage and Related Directors and Producers",
+    "Level": 4,
+    "parent": "265",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "265",
+    "isco4d": "2654"
+  },
+  {
+    "code": "2655",
+    "title": "Actors",
+    "Level": 4,
+    "parent": "265",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "265",
+    "isco4d": "2655"
+  },
+  {
+    "code": "2656",
+    "title": "Announcers on Radio, Television and Other Media",
+    "Level": 4,
+    "parent": "265",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "265",
+    "isco4d": "2656"
+  },
+  {
+    "code": "2659",
+    "title": "Creative and Performing Artists Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "265",
+    "isco1d": "2",
+    "isco2d": "26",
+    "isco3d": "265",
+    "isco4d": "2659"
+  },
+  {
+    "code": "3",
+    "title": "Technicians and Associate Professionals",
+    "Level": 1,
+    "isco1d": "3"
+  },
+  {
+    "code": "31",
+    "title": "Science and Engineering Associate Professionals",
+    "Level": 2,
+    "parent": "3",
+    "isco1d": "3",
+    "isco2d": "31"
+  },
+  {
+    "code": "311",
+    "title": "Physical and Engineering Science Technicians",
+    "Level": 3,
+    "parent": "31",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311"
+  },
+  {
+    "code": "3111",
+    "title": "Chemical and Physical Science Technicians",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3111"
+  },
+  {
+    "code": "3112",
+    "title": "Civil Engineering Technicians",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3112"
+  },
+  {
+    "code": "3113",
+    "title": "Electrical Engineering Technicians",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3113"
+  },
+  {
+    "code": "3114",
+    "title": "Electronics Engineering Technicians",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3114"
+  },
+  {
+    "code": "3115",
+    "title": "Mechanical Engineering Technicians",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3115"
+  },
+  {
+    "code": "3116",
+    "title": "Chemical Engineering Technicians",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3116"
+  },
+  {
+    "code": "3117",
+    "title": "Mining and metallurgical technicians",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3117"
+  },
+  {
+    "code": "3118",
+    "title": "Draughtspersons",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3118"
+  },
+  {
+    "code": "3119",
+    "title": "Physical and Engineering Science Technicians Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "311",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "311",
+    "isco4d": "3119"
+  },
+  {
+    "code": "312",
+    "title": "Mining, Manufacturing and Construction Supervisors",
+    "Level": 3,
+    "parent": "31",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "312"
+  },
+  {
+    "code": "3121",
+    "title": "Mining Supervisors",
+    "Level": 4,
+    "parent": "312",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "312",
+    "isco4d": "3121"
+  },
+  {
+    "code": "3122",
+    "title": "Manufacturing Supervisors",
+    "Level": 4,
+    "parent": "312",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "312",
+    "isco4d": "3122"
+  },
+  {
+    "code": "3123",
+    "title": "Construction Supervisors",
+    "Level": 4,
+    "parent": "312",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "312",
+    "isco4d": "3123"
+  },
+  {
+    "code": "313",
+    "title": "Process Control Technicians",
+    "Level": 3,
+    "parent": "31",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "313"
+  },
+  {
+    "code": "3131",
+    "title": "Power Production Plant Operators",
+    "Level": 4,
+    "parent": "313",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "313",
+    "isco4d": "3131"
+  },
+  {
+    "code": "3132",
+    "title": "Incinerator and Water Treatment Plant Operators",
+    "Level": 4,
+    "parent": "313",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "313",
+    "isco4d": "3132"
+  },
+  {
+    "code": "3133",
+    "title": "Chemical Processing Plant Controllers",
+    "Level": 4,
+    "parent": "313",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "313",
+    "isco4d": "3133"
+  },
+  {
+    "code": "3134",
+    "title": "Petroleum and Natural Gas Refining Plant Operators",
+    "Level": 4,
+    "parent": "313",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "313",
+    "isco4d": "3134"
+  },
+  {
+    "code": "3135",
+    "title": "Metal Production Process Controllers",
+    "Level": 4,
+    "parent": "313",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "313",
+    "isco4d": "3135"
+  },
+  {
+    "code": "3139",
+    "title": "Process Control Technicians Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "313",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "313",
+    "isco4d": "3139"
+  },
+  {
+    "code": "314",
+    "title": "Life Science Technicians and Related Associate Professionals",
+    "Level": 3,
+    "parent": "31",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "314"
+  },
+  {
+    "code": "3141",
+    "title": "Life Science Technicians (excluding Medical)",
+    "Level": 4,
+    "parent": "314",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "314",
+    "isco4d": "3141"
+  },
+  {
+    "code": "3142",
+    "title": "Agricultural Technicians",
+    "Level": 4,
+    "parent": "314",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "314",
+    "isco4d": "3142"
+  },
+  {
+    "code": "3143",
+    "title": "Forestry Technicians",
+    "Level": 4,
+    "parent": "314",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "314",
+    "isco4d": "3143"
+  },
+  {
+    "code": "315",
+    "title": "Ship and Aircraft Controllers and Technicians",
+    "Level": 3,
+    "parent": "31",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "315"
+  },
+  {
+    "code": "3151",
+    "title": "Ships' Engineers",
+    "Level": 4,
+    "parent": "315",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "315",
+    "isco4d": "3151"
+  },
+  {
+    "code": "3152",
+    "title": "Ships' Deck Officers and Pilots",
+    "Level": 4,
+    "parent": "315",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "315",
+    "isco4d": "3152"
+  },
+  {
+    "code": "3153",
+    "title": "Aircraft Pilots and Related Associate Professionals",
+    "Level": 4,
+    "parent": "315",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "315",
+    "isco4d": "3153"
+  },
+  {
+    "code": "3154",
+    "title": "Air Traffic Controllers",
+    "Level": 4,
+    "parent": "315",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "315",
+    "isco4d": "3154"
+  },
+  {
+    "code": "3155",
+    "title": "Air Traffic Safety Electronics Technicians",
+    "Level": 4,
+    "parent": "315",
+    "isco1d": "3",
+    "isco2d": "31",
+    "isco3d": "315",
+    "isco4d": "3155"
+  },
+  {
+    "code": "32",
+    "title": "Health Associate Professionals",
+    "Level": 2,
+    "parent": "3",
+    "isco1d": "3",
+    "isco2d": "32"
+  },
+  {
+    "code": "321",
+    "title": "Medical and Pharmaceutical Technicians",
+    "Level": 3,
+    "parent": "32",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "321"
+  },
+  {
+    "code": "3211",
+    "title": "Medical Imaging and Therapeutic Equipment Technicians",
+    "Level": 4,
+    "parent": "321",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "321",
+    "isco4d": "3211"
+  },
+  {
+    "code": "3212",
+    "title": "Medical and Pathology Laboratory Technicians",
+    "Level": 4,
+    "parent": "321",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "321",
+    "isco4d": "3212"
+  },
+  {
+    "code": "3213",
+    "title": "Pharmaceutical Technicians and Assistants",
+    "Level": 4,
+    "parent": "321",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "321",
+    "isco4d": "3213"
+  },
+  {
+    "code": "3214",
+    "title": "Medical and Dental Prosthetic Technicians",
+    "Level": 4,
+    "parent": "321",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "321",
+    "isco4d": "3214"
+  },
+  {
+    "code": "322",
+    "title": "Nursing and Midwifery Associate Professionals",
+    "Level": 3,
+    "parent": "32",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "322"
+  },
+  {
+    "code": "3221",
+    "title": "Nursing Associate Professionals",
+    "Level": 4,
+    "parent": "322",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "322",
+    "isco4d": "3221"
+  },
+  {
+    "code": "3222",
+    "title": "Midwifery Associate Professionals",
+    "Level": 4,
+    "parent": "322",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "322",
+    "isco4d": "3222"
+  },
+  {
+    "code": "323",
+    "title": "Traditional and Complementary Medicine Associate Professionals",
+    "Level": 3,
+    "parent": "32",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "323"
+  },
+  {
+    "code": "3230",
+    "title": "Traditional and Complementary Medicine Associate Professionals",
+    "Level": 4,
+    "parent": "323",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "323",
+    "isco4d": "3230"
+  },
+  {
+    "code": "324",
+    "title": "Veterinary Technicians and Assistants",
+    "Level": 3,
+    "parent": "32",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "324"
+  },
+  {
+    "code": "3240",
+    "title": "Veterinary Technicians and Assistants",
+    "Level": 4,
+    "parent": "324",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "324",
+    "isco4d": "3240"
+  },
+  {
+    "code": "325",
+    "title": "Other Health Associate Professionals",
+    "Level": 3,
+    "parent": "32",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325"
+  },
+  {
+    "code": "3251",
+    "title": "Dental Assistants and Therapists",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3251"
+  },
+  {
+    "code": "3252",
+    "title": "Medical Records and Health Information Technicians",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3252"
+  },
+  {
+    "code": "3253",
+    "title": "Community Health Workers",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3253"
+  },
+  {
+    "code": "3254",
+    "title": "Dispensing Opticians",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3254"
+  },
+  {
+    "code": "3255",
+    "title": "Physiotherapy Technicians and Assistants",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3255"
+  },
+  {
+    "code": "3256",
+    "title": "Medical Assistants",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3256"
+  },
+  {
+    "code": "3257",
+    "title": "Environmental and Occupational Health Inspectors and Associates",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3257"
+  },
+  {
+    "code": "3258",
+    "title": "Ambulance Workers",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3258"
+  },
+  {
+    "code": "3259",
+    "title": "Health Associate Professionals Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "325",
+    "isco1d": "3",
+    "isco2d": "32",
+    "isco3d": "325",
+    "isco4d": "3259"
+  },
+  {
+    "code": "33",
+    "title": "Business and Administration Associate Professionals",
+    "Level": 2,
+    "parent": "3",
+    "isco1d": "3",
+    "isco2d": "33"
+  },
+  {
+    "code": "331",
+    "title": "Financial and Mathematical Associate Professionals",
+    "Level": 3,
+    "parent": "33",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "331"
+  },
+  {
+    "code": "3311",
+    "title": "Securities and Finance Dealers and Brokers",
+    "Level": 4,
+    "parent": "331",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "331",
+    "isco4d": "3311"
+  },
+  {
+    "code": "3312",
+    "title": "Credit and Loans Officers",
+    "Level": 4,
+    "parent": "331",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "331",
+    "isco4d": "3312"
+  },
+  {
+    "code": "3313",
+    "title": "Accounting Associate Professionals",
+    "Level": 4,
+    "parent": "331",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "331",
+    "isco4d": "3313"
+  },
+  {
+    "code": "3314",
+    "title": "Statistical, Mathematical and Related Associate Professionals",
+    "Level": 4,
+    "parent": "331",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "331",
+    "isco4d": "3314"
+  },
+  {
+    "code": "3315",
+    "title": "Valuers and Loss Assessors",
+    "Level": 4,
+    "parent": "331",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "331",
+    "isco4d": "3315"
+  },
+  {
+    "code": "332",
+    "title": "Sales and Purchasing Agents and Brokers",
+    "Level": 3,
+    "parent": "33",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "332"
+  },
+  {
+    "code": "3321",
+    "title": "Insurance Representatives",
+    "Level": 4,
+    "parent": "332",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "332",
+    "isco4d": "3321"
+  },
+  {
+    "code": "3322",
+    "title": "Commercial Sales Representatives",
+    "Level": 4,
+    "parent": "332",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "332",
+    "isco4d": "3322"
+  },
+  {
+    "code": "3323",
+    "title": "Buyers",
+    "Level": 4,
+    "parent": "332",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "332",
+    "isco4d": "3323"
+  },
+  {
+    "code": "3324",
+    "title": "Trade Brokers",
+    "Level": 4,
+    "parent": "332",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "332",
+    "isco4d": "3324"
+  },
+  {
+    "code": "333",
+    "title": "Business Services Agents",
+    "Level": 3,
+    "parent": "33",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "333"
+  },
+  {
+    "code": "3331",
+    "title": "Clearing and Forwarding Aents",
+    "Level": 4,
+    "parent": "333",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "333",
+    "isco4d": "3331"
+  },
+  {
+    "code": "3332",
+    "title": "Conference and Event Planners",
+    "Level": 4,
+    "parent": "333",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "333",
+    "isco4d": "3332"
+  },
+  {
+    "code": "3333",
+    "title": "Employment agents and contractors",
+    "Level": 4,
+    "parent": "333",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "333",
+    "isco4d": "3333"
+  },
+  {
+    "code": "3334",
+    "title": "Real Estate Agents and Property Managers",
+    "Level": 4,
+    "parent": "333",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "333",
+    "isco4d": "3334"
+  },
+  {
+    "code": "3339",
+    "title": "Business Services Agents Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "333",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "333",
+    "isco4d": "3339"
+  },
+  {
+    "code": "334",
+    "title": "Administrative and Specialized Secretaries",
+    "Level": 3,
+    "parent": "33",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "334"
+  },
+  {
+    "code": "3341",
+    "title": "Office Supervisors",
+    "Level": 4,
+    "parent": "334",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "334",
+    "isco4d": "3341"
+  },
+  {
+    "code": "3342",
+    "title": "Legal Secretaries",
+    "Level": 4,
+    "parent": "334",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "334",
+    "isco4d": "3342"
+  },
+  {
+    "code": "3343",
+    "title": "Administrative and Executive Secretaries",
+    "Level": 4,
+    "parent": "334",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "334",
+    "isco4d": "3343"
+  },
+  {
+    "code": "3344",
+    "title": "Medical Secretaries",
+    "Level": 4,
+    "parent": "334",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "334",
+    "isco4d": "3344"
+  },
+  {
+    "code": "335",
+    "title": "Government Regulatory  Associate Professionals",
+    "Level": 3,
+    "parent": "33",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "335"
+  },
+  {
+    "code": "3351",
+    "title": "Customs and Border Inspectors",
+    "Level": 4,
+    "parent": "335",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "335",
+    "isco4d": "3351"
+  },
+  {
+    "code": "3352",
+    "title": "Government Tax and Excise Officials",
+    "Level": 4,
+    "parent": "335",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "335",
+    "isco4d": "3352"
+  },
+  {
+    "code": "3353",
+    "title": "Government Social Benefits Officials",
+    "Level": 4,
+    "parent": "335",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "335",
+    "isco4d": "3353"
+  },
+  {
+    "code": "3354",
+    "title": "Government Licensing Officials",
+    "Level": 4,
+    "parent": "335",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "335",
+    "isco4d": "3354"
+  },
+  {
+    "code": "3355",
+    "title": "Police Inspectors and Detectives",
+    "Level": 4,
+    "parent": "335",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "335",
+    "isco4d": "3355"
+  },
+  {
+    "code": "3359",
+    "title": "Government Regulatory AssociatePprofessionals Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "335",
+    "isco1d": "3",
+    "isco2d": "33",
+    "isco3d": "335",
+    "isco4d": "3359"
+  },
+  {
+    "code": "34",
+    "title": "Legal, Social, Cultural and Related Associate Professionals",
+    "Level": 2,
+    "parent": "3",
+    "isco1d": "3",
+    "isco2d": "34"
+  },
+  {
+    "code": "341",
+    "title": "Legal, Social and Religious Associate Professionals",
+    "Level": 3,
+    "parent": "34",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "341"
+  },
+  {
+    "code": "3411",
+    "title": "Legal and Related Associate Professionals",
+    "Level": 4,
+    "parent": "341",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "341",
+    "isco4d": "3411"
+  },
+  {
+    "code": "3412",
+    "title": "Social Work Associate Professionals",
+    "Level": 4,
+    "parent": "341",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "341",
+    "isco4d": "3412"
+  },
+  {
+    "code": "3413",
+    "title": "Religious Associate Professionals",
+    "Level": 4,
+    "parent": "341",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "341",
+    "isco4d": "3413"
+  },
+  {
+    "code": "342",
+    "title": "Sports and Fitness Workers",
+    "Level": 3,
+    "parent": "34",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "342"
+  },
+  {
+    "code": "3421",
+    "title": "Athletes and Sports Players",
+    "Level": 4,
+    "parent": "342",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "342",
+    "isco4d": "3421"
+  },
+  {
+    "code": "3422",
+    "title": "Sports Coaches, Instructors and Officials",
+    "Level": 4,
+    "parent": "342",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "342",
+    "isco4d": "3422"
+  },
+  {
+    "code": "3423",
+    "title": "Fitness and Recreation Instructors and Programme Leaders",
+    "Level": 4,
+    "parent": "342",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "342",
+    "isco4d": "3423"
+  },
+  {
+    "code": "343",
+    "title": "Artistic, Cultural and Culinary Associate Professionals",
+    "Level": 3,
+    "parent": "34",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "343"
+  },
+  {
+    "code": "3431",
+    "title": "Photographers",
+    "Level": 4,
+    "parent": "343",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "343",
+    "isco4d": "3431"
+  },
+  {
+    "code": "3432",
+    "title": "Interior Designers and Decorators",
+    "Level": 4,
+    "parent": "343",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "343",
+    "isco4d": "3432"
+  },
+  {
+    "code": "3433",
+    "title": "Gallery, Museum and Library Technicians",
+    "Level": 4,
+    "parent": "343",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "343",
+    "isco4d": "3433"
+  },
+  {
+    "code": "3434",
+    "title": "Chefs",
+    "Level": 4,
+    "parent": "343",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "343",
+    "isco4d": "3434"
+  },
+  {
+    "code": "3435",
+    "title": "Other Artistic and Cultural Associate Professionals",
+    "Level": 4,
+    "parent": "343",
+    "isco1d": "3",
+    "isco2d": "34",
+    "isco3d": "343",
+    "isco4d": "3435"
+  },
+  {
+    "code": "35",
+    "title": "Information and Communications Technicians",
+    "Level": 2,
+    "parent": "3",
+    "isco1d": "3",
+    "isco2d": "35"
+  },
+  {
+    "code": "351",
+    "title": "Information and Communications Technology Operations and User Support Technicians",
+    "Level": 3,
+    "parent": "35",
+    "isco1d": "3",
+    "isco2d": "35",
+    "isco3d": "351"
+  },
+  {
+    "code": "3511",
+    "title": "Information and Communications Technology Operations Technicians",
+    "Level": 4,
+    "parent": "351",
+    "isco1d": "3",
+    "isco2d": "35",
+    "isco3d": "351",
+    "isco4d": "3511"
+  },
+  {
+    "code": "3512",
+    "title": "Information and Communications Technology User Support Technicians",
+    "Level": 4,
+    "parent": "351",
+    "isco1d": "3",
+    "isco2d": "35",
+    "isco3d": "351",
+    "isco4d": "3512"
+  },
+  {
+    "code": "3513",
+    "title": "Computer Network and Systems Technicians",
+    "Level": 4,
+    "parent": "351",
+    "isco1d": "3",
+    "isco2d": "35",
+    "isco3d": "351",
+    "isco4d": "3513"
+  },
+  {
+    "code": "3514",
+    "title": "Web Technicians",
+    "Level": 4,
+    "parent": "351",
+    "isco1d": "3",
+    "isco2d": "35",
+    "isco3d": "351",
+    "isco4d": "3514"
+  },
+  {
+    "code": "352",
+    "title": "Telecommunications and Broadcasting Technicians",
+    "Level": 3,
+    "parent": "35",
+    "isco1d": "3",
+    "isco2d": "35",
+    "isco3d": "352"
+  },
+  {
+    "code": "3521",
+    "title": "Broadcasting and Audio-visual Technicians",
+    "Level": 4,
+    "parent": "352",
+    "isco1d": "3",
+    "isco2d": "35",
+    "isco3d": "352",
+    "isco4d": "3521"
+  },
+  {
+    "code": "3522",
+    "title": "Telecommunications Engineering Technicians",
+    "Level": 4,
+    "parent": "352",
+    "isco1d": "3",
+    "isco2d": "35",
+    "isco3d": "352",
+    "isco4d": "3522"
+  },
+  {
+    "code": "4",
+    "title": "Clerical Support Workers",
+    "Level": 1,
+    "isco1d": "4"
+  },
+  {
+    "code": "41",
+    "title": "General and Keyboard Clerks",
+    "Level": 2,
+    "parent": "4",
+    "isco1d": "4",
+    "isco2d": "41"
+  },
+  {
+    "code": "411",
+    "title": "General Office Clerks",
+    "Level": 3,
+    "parent": "41",
+    "isco1d": "4",
+    "isco2d": "41",
+    "isco3d": "411"
+  },
+  {
+    "code": "4110",
+    "title": "General Office Clerks",
+    "Level": 4,
+    "parent": "411",
+    "isco1d": "4",
+    "isco2d": "41",
+    "isco3d": "411",
+    "isco4d": "4110"
+  },
+  {
+    "code": "412",
+    "title": "Secretaries (general)",
+    "Level": 3,
+    "parent": "41",
+    "isco1d": "4",
+    "isco2d": "41",
+    "isco3d": "412"
+  },
+  {
+    "code": "4120",
+    "title": "Secretaries (general)",
+    "Level": 4,
+    "parent": "412",
+    "isco1d": "4",
+    "isco2d": "41",
+    "isco3d": "412",
+    "isco4d": "4120"
+  },
+  {
+    "code": "413",
+    "title": "Keyboard Operators",
+    "Level": 3,
+    "parent": "41",
+    "isco1d": "4",
+    "isco2d": "41",
+    "isco3d": "413"
+  },
+  {
+    "code": "4131",
+    "title": "Typists and Word Processing Operators",
+    "Level": 4,
+    "parent": "413",
+    "isco1d": "4",
+    "isco2d": "41",
+    "isco3d": "413",
+    "isco4d": "4131"
+  },
+  {
+    "code": "4132",
+    "title": "Data Entry Clerks",
+    "Level": 4,
+    "parent": "413",
+    "isco1d": "4",
+    "isco2d": "41",
+    "isco3d": "413",
+    "isco4d": "4132"
+  },
+  {
+    "code": "42",
+    "title": "Customer Services Clerks",
+    "Level": 2,
+    "parent": "4",
+    "isco1d": "4",
+    "isco2d": "42"
+  },
+  {
+    "code": "421",
+    "title": "Tellers, Money Collectors and Related Clerks",
+    "Level": 3,
+    "parent": "42",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "421"
+  },
+  {
+    "code": "4211",
+    "title": "Bank Tellers and Related Clerks",
+    "Level": 4,
+    "parent": "421",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "421",
+    "isco4d": "4211"
+  },
+  {
+    "code": "4212",
+    "title": "Bookmakers, Croupiers and Related Gaming Workers",
+    "Level": 4,
+    "parent": "421",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "421",
+    "isco4d": "4212"
+  },
+  {
+    "code": "4213",
+    "title": "Pawnbrokers and Money-lenders",
+    "Level": 4,
+    "parent": "421",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "421",
+    "isco4d": "4213"
+  },
+  {
+    "code": "4214",
+    "title": "Debt Collectors and Related Workers",
+    "Level": 4,
+    "parent": "421",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "421",
+    "isco4d": "4214"
+  },
+  {
+    "code": "422",
+    "title": "Client Information Workers",
+    "Level": 3,
+    "parent": "42",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422"
+  },
+  {
+    "code": "4221",
+    "title": "Travel Consultants and Clerks",
+    "Level": 4,
+    "parent": "422",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422",
+    "isco4d": "4221"
+  },
+  {
+    "code": "4222",
+    "title": "Contact Centre Information Clerks",
+    "Level": 4,
+    "parent": "422",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422",
+    "isco4d": "4222"
+  },
+  {
+    "code": "4223",
+    "title": "Telephone Switchboard Operators",
+    "Level": 4,
+    "parent": "422",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422",
+    "isco4d": "4223"
+  },
+  {
+    "code": "4224",
+    "title": "Hotel Receptionists",
+    "Level": 4,
+    "parent": "422",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422",
+    "isco4d": "4224"
+  },
+  {
+    "code": "4225",
+    "title": "Inquiry Clerks",
+    "Level": 4,
+    "parent": "422",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422",
+    "isco4d": "4225"
+  },
+  {
+    "code": "4226",
+    "title": "Receptionists (general)",
+    "Level": 4,
+    "parent": "422",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422",
+    "isco4d": "4226"
+  },
+  {
+    "code": "4227",
+    "title": "Survey and Market Research Interviewers",
+    "Level": 4,
+    "parent": "422",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422",
+    "isco4d": "4227"
+  },
+  {
+    "code": "4229",
+    "title": "Client Information Workers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "422",
+    "isco1d": "4",
+    "isco2d": "42",
+    "isco3d": "422",
+    "isco4d": "4229"
+  },
+  {
+    "code": "43",
+    "title": "Numerical and Material Recording Clerks",
+    "Level": 2,
+    "parent": "4",
+    "isco1d": "4",
+    "isco2d": "43"
+  },
+  {
+    "code": "431",
+    "title": "Numerical Clerks",
+    "Level": 3,
+    "parent": "43",
+    "isco1d": "4",
+    "isco2d": "43",
+    "isco3d": "431"
+  },
+  {
+    "code": "4311",
+    "title": "Accounting and Bookkeeping Clerks",
+    "Level": 4,
+    "parent": "431",
+    "isco1d": "4",
+    "isco2d": "43",
+    "isco3d": "431",
+    "isco4d": "4311"
+  },
+  {
+    "code": "4312",
+    "title": "Statistical, Finance and Insurance Clerks",
+    "Level": 4,
+    "parent": "431",
+    "isco1d": "4",
+    "isco2d": "43",
+    "isco3d": "431",
+    "isco4d": "4312"
+  },
+  {
+    "code": "4313",
+    "title": "Payroll Clerks",
+    "Level": 4,
+    "parent": "431",
+    "isco1d": "4",
+    "isco2d": "43",
+    "isco3d": "431",
+    "isco4d": "4313"
+  },
+  {
+    "code": "432",
+    "title": "Material Recording and Transport Clerks",
+    "Level": 3,
+    "parent": "43",
+    "isco1d": "4",
+    "isco2d": "43",
+    "isco3d": "432"
+  },
+  {
+    "code": "4321",
+    "title": "Stock Clerks",
+    "Level": 4,
+    "parent": "432",
+    "isco1d": "4",
+    "isco2d": "43",
+    "isco3d": "432",
+    "isco4d": "4321"
+  },
+  {
+    "code": "4322",
+    "title": "Production Clerks",
+    "Level": 4,
+    "parent": "432",
+    "isco1d": "4",
+    "isco2d": "43",
+    "isco3d": "432",
+    "isco4d": "4322"
+  },
+  {
+    "code": "4323",
+    "title": "Transport Clerks",
+    "Level": 4,
+    "parent": "432",
+    "isco1d": "4",
+    "isco2d": "43",
+    "isco3d": "432",
+    "isco4d": "4323"
+  },
+  {
+    "code": "44",
+    "title": "Other Clerical Support Workers",
+    "Level": 2,
+    "parent": "4",
+    "isco1d": "4",
+    "isco2d": "44"
+  },
+  {
+    "code": "441",
+    "title": "Other Clerical Support Workers",
+    "Level": 3,
+    "parent": "44",
+    "isco1d": "4",
+    "isco2d": "44",
+    "isco3d": "441"
+  },
+  {
+    "code": "4411",
+    "title": "Library Clerks",
+    "Level": 4,
+    "parent": "441",
+    "isco1d": "4",
+    "isco2d": "44",
+    "isco3d": "441",
+    "isco4d": "4411"
+  },
+  {
+    "code": "4412",
+    "title": "Mail Carriers and Sorting Clerks",
+    "Level": 4,
+    "parent": "441",
+    "isco1d": "4",
+    "isco2d": "44",
+    "isco3d": "441",
+    "isco4d": "4412"
+  },
+  {
+    "code": "4413",
+    "title": "Coding, Proofreading and Related Clerks",
+    "Level": 4,
+    "parent": "441",
+    "isco1d": "4",
+    "isco2d": "44",
+    "isco3d": "441",
+    "isco4d": "4413"
+  },
+  {
+    "code": "4414",
+    "title": "Scribes and Related Workers",
+    "Level": 4,
+    "parent": "441",
+    "isco1d": "4",
+    "isco2d": "44",
+    "isco3d": "441",
+    "isco4d": "4414"
+  },
+  {
+    "code": "4415",
+    "title": "Filing and Copying Clerks",
+    "Level": 4,
+    "parent": "441",
+    "isco1d": "4",
+    "isco2d": "44",
+    "isco3d": "441",
+    "isco4d": "4415"
+  },
+  {
+    "code": "4416",
+    "title": "Personnel Clerks",
+    "Level": 4,
+    "parent": "441",
+    "isco1d": "4",
+    "isco2d": "44",
+    "isco3d": "441",
+    "isco4d": "4416"
+  },
+  {
+    "code": "4419",
+    "title": "Clerical Support Workers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "441",
+    "isco1d": "4",
+    "isco2d": "44",
+    "isco3d": "441",
+    "isco4d": "4419"
+  },
+  {
+    "code": "5",
+    "title": "Service and Sales Workers",
+    "Level": 1,
+    "isco1d": "5"
+  },
+  {
+    "code": "51",
+    "title": "Personal Service Workers",
+    "Level": 2,
+    "parent": "5",
+    "isco1d": "5",
+    "isco2d": "51"
+  },
+  {
+    "code": "511",
+    "title": "Travel Attendants, Conductors and Guides",
+    "Level": 3,
+    "parent": "51",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "511"
+  },
+  {
+    "code": "5111",
+    "title": "Travel Attendants and Travel Stewards",
+    "Level": 4,
+    "parent": "511",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "511",
+    "isco4d": "5111"
+  },
+  {
+    "code": "5112",
+    "title": "Transport Conductors",
+    "Level": 4,
+    "parent": "511",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "511",
+    "isco4d": "5112"
+  },
+  {
+    "code": "5113",
+    "title": "Travel Guides",
+    "Level": 4,
+    "parent": "511",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "511",
+    "isco4d": "5113"
+  },
+  {
+    "code": "512",
+    "title": "Cooks",
+    "Level": 3,
+    "parent": "51",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "512"
+  },
+  {
+    "code": "5120",
+    "title": "Cooks",
+    "Level": 4,
+    "parent": "512",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "512",
+    "isco4d": "5120"
+  },
+  {
+    "code": "513",
+    "title": "Waiters and Bartenders",
+    "Level": 3,
+    "parent": "51",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "513"
+  },
+  {
+    "code": "5131",
+    "title": "Waiters",
+    "Level": 4,
+    "parent": "513",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "513",
+    "isco4d": "5131"
+  },
+  {
+    "code": "5132",
+    "title": "Bartenders",
+    "Level": 4,
+    "parent": "513",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "513",
+    "isco4d": "5132"
+  },
+  {
+    "code": "514",
+    "title": "Hairdressers, Beauticians and Related Workers",
+    "Level": 3,
+    "parent": "51",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "514"
+  },
+  {
+    "code": "5141",
+    "title": "Hairdressers",
+    "Level": 4,
+    "parent": "514",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "514",
+    "isco4d": "5141"
+  },
+  {
+    "code": "5142",
+    "title": "Beauticians and Related Workers",
+    "Level": 4,
+    "parent": "514",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "514",
+    "isco4d": "5142"
+  },
+  {
+    "code": "515",
+    "title": "Building and Housekeeping Supervisors",
+    "Level": 3,
+    "parent": "51",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "515"
+  },
+  {
+    "code": "5151",
+    "title": "Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments",
+    "Level": 4,
+    "parent": "515",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "515",
+    "isco4d": "5151"
+  },
+  {
+    "code": "5152",
+    "title": "Domestic Housekeepers",
+    "Level": 4,
+    "parent": "515",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "515",
+    "isco4d": "5152"
+  },
+  {
+    "code": "5153",
+    "title": "Building Caretakers",
+    "Level": 4,
+    "parent": "515",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "515",
+    "isco4d": "5153"
+  },
+  {
+    "code": "516",
+    "title": "Other Personal Services Workers",
+    "Level": 3,
+    "parent": "51",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "516"
+  },
+  {
+    "code": "5161",
+    "title": "Astrologers, Fortune-tellers and Related Workers",
+    "Level": 4,
+    "parent": "516",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "516",
+    "isco4d": "5161"
+  },
+  {
+    "code": "5162",
+    "title": "Companions and Valets",
+    "Level": 4,
+    "parent": "516",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "516",
+    "isco4d": "5162"
+  },
+  {
+    "code": "5163",
+    "title": "Undertakers and Embalmers",
+    "Level": 4,
+    "parent": "516",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "516",
+    "isco4d": "5163"
+  },
+  {
+    "code": "5164",
+    "title": "Pet Groomers and Animal Care Workers",
+    "Level": 4,
+    "parent": "516",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "516",
+    "isco4d": "5164"
+  },
+  {
+    "code": "5165",
+    "title": "Driving Instructors",
+    "Level": 4,
+    "parent": "516",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "516",
+    "isco4d": "5165"
+  },
+  {
+    "code": "5169",
+    "title": "Personal Services Workers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "516",
+    "isco1d": "5",
+    "isco2d": "51",
+    "isco3d": "516",
+    "isco4d": "5169"
+  },
+  {
+    "code": "52",
+    "title": "Sales Workers",
+    "Level": 2,
+    "parent": "5",
+    "isco1d": "5",
+    "isco2d": "52"
+  },
+  {
+    "code": "521",
+    "title": "Street and Market Salespersons",
+    "Level": 3,
+    "parent": "52",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "521"
+  },
+  {
+    "code": "5211",
+    "title": "Stall and Market Salespersons",
+    "Level": 4,
+    "parent": "521",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "521",
+    "isco4d": "5211"
+  },
+  {
+    "code": "5212",
+    "title": "Street Food Salespersons",
+    "Level": 4,
+    "parent": "521",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "521",
+    "isco4d": "5212"
+  },
+  {
+    "code": "522",
+    "title": "Shop Aalespersons",
+    "Level": 3,
+    "parent": "52",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "522"
+  },
+  {
+    "code": "5221",
+    "title": "Shopkeepers",
+    "Level": 4,
+    "parent": "522",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "522",
+    "isco4d": "5221"
+  },
+  {
+    "code": "5222",
+    "title": "Shop Supervisors",
+    "Level": 4,
+    "parent": "522",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "522",
+    "isco4d": "5222"
+  },
+  {
+    "code": "5223",
+    "title": "Shop Sales Assistants",
+    "Level": 4,
+    "parent": "522",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "522",
+    "isco4d": "5223"
+  },
+  {
+    "code": "523",
+    "title": "Cashiers and Ticket Clerks",
+    "Level": 3,
+    "parent": "52",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "523"
+  },
+  {
+    "code": "5230",
+    "title": "Cashiers and Ticket Clerks",
+    "Level": 4,
+    "parent": "523",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "523",
+    "isco4d": "5230"
+  },
+  {
+    "code": "524",
+    "title": "Other Sales Workers",
+    "Level": 3,
+    "parent": "52",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "524"
+  },
+  {
+    "code": "5241",
+    "title": "Fashion and Other Models",
+    "Level": 4,
+    "parent": "524",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "524",
+    "isco4d": "5241"
+  },
+  {
+    "code": "5242",
+    "title": "Sales Demonstrators",
+    "Level": 4,
+    "parent": "524",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "524",
+    "isco4d": "5242"
+  },
+  {
+    "code": "5243",
+    "title": "Door-to-door Salespersons",
+    "Level": 4,
+    "parent": "524",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "524",
+    "isco4d": "5243"
+  },
+  {
+    "code": "5244",
+    "title": "Contact Centre Salespersons",
+    "Level": 4,
+    "parent": "524",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "524",
+    "isco4d": "5244"
+  },
+  {
+    "code": "5245",
+    "title": "Service Station Attendants",
+    "Level": 4,
+    "parent": "524",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "524",
+    "isco4d": "5245"
+  },
+  {
+    "code": "5246",
+    "title": "Food Service Counter Attendants",
+    "Level": 4,
+    "parent": "524",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "524",
+    "isco4d": "5246"
+  },
+  {
+    "code": "5249",
+    "title": "Sales Workers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "524",
+    "isco1d": "5",
+    "isco2d": "52",
+    "isco3d": "524",
+    "isco4d": "5249"
+  },
+  {
+    "code": "53",
+    "title": "Personal Care Workers",
+    "Level": 2,
+    "parent": "5",
+    "isco1d": "5",
+    "isco2d": "53"
+  },
+  {
+    "code": "531",
+    "title": "Child Care Workers and Teachers' Aides",
+    "Level": 3,
+    "parent": "53",
+    "isco1d": "5",
+    "isco2d": "53",
+    "isco3d": "531"
+  },
+  {
+    "code": "5311",
+    "title": "Child Care Workers",
+    "Level": 4,
+    "parent": "531",
+    "isco1d": "5",
+    "isco2d": "53",
+    "isco3d": "531",
+    "isco4d": "5311"
+  },
+  {
+    "code": "5312",
+    "title": "Teachers' Aides",
+    "Level": 4,
+    "parent": "531",
+    "isco1d": "5",
+    "isco2d": "53",
+    "isco3d": "531",
+    "isco4d": "5312"
+  },
+  {
+    "code": "532",
+    "title": "Personal Care Workers in Health Services",
+    "Level": 3,
+    "parent": "53",
+    "isco1d": "5",
+    "isco2d": "53",
+    "isco3d": "532"
+  },
+  {
+    "code": "5321",
+    "title": "Health Care Assistants",
+    "Level": 4,
+    "parent": "532",
+    "isco1d": "5",
+    "isco2d": "53",
+    "isco3d": "532",
+    "isco4d": "5321"
+  },
+  {
+    "code": "5322",
+    "title": "Home-based Personal Care Workers",
+    "Level": 4,
+    "parent": "532",
+    "isco1d": "5",
+    "isco2d": "53",
+    "isco3d": "532",
+    "isco4d": "5322"
+  },
+  {
+    "code": "5329",
+    "title": "Personal Care Workers in Health Services Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "532",
+    "isco1d": "5",
+    "isco2d": "53",
+    "isco3d": "532",
+    "isco4d": "5329"
+  },
+  {
+    "code": "54",
+    "title": "Protective Services Workers",
+    "Level": 2,
+    "parent": "5",
+    "isco1d": "5",
+    "isco2d": "54"
+  },
+  {
+    "code": "541",
+    "title": "Protective Services Workers",
+    "Level": 3,
+    "parent": "54",
+    "isco1d": "5",
+    "isco2d": "54",
+    "isco3d": "541"
+  },
+  {
+    "code": "5411",
+    "title": "Fire Fighters",
+    "Level": 4,
+    "parent": "541",
+    "isco1d": "5",
+    "isco2d": "54",
+    "isco3d": "541",
+    "isco4d": "5411"
+  },
+  {
+    "code": "5412",
+    "title": "Police Officers",
+    "Level": 4,
+    "parent": "541",
+    "isco1d": "5",
+    "isco2d": "54",
+    "isco3d": "541",
+    "isco4d": "5412"
+  },
+  {
+    "code": "5413",
+    "title": "Prison Guards",
+    "Level": 4,
+    "parent": "541",
+    "isco1d": "5",
+    "isco2d": "54",
+    "isco3d": "541",
+    "isco4d": "5413"
+  },
+  {
+    "code": "5414",
+    "title": "Security Guards",
+    "Level": 4,
+    "parent": "541",
+    "isco1d": "5",
+    "isco2d": "54",
+    "isco3d": "541",
+    "isco4d": "5414"
+  },
+  {
+    "code": "5419",
+    "title": "Protective Services Workers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "541",
+    "isco1d": "5",
+    "isco2d": "54",
+    "isco3d": "541",
+    "isco4d": "5419"
+  },
+  {
+    "code": "6",
+    "title": "Skilled Agricultural, Forestry and Fishery Workers",
+    "Level": 1,
+    "isco1d": "6"
+  },
+  {
+    "code": "61",
+    "title": "Market-oriented Skilled Agricultural Workers",
+    "Level": 2,
+    "parent": "6",
+    "isco1d": "6",
+    "isco2d": "61"
+  },
+  {
+    "code": "611",
+    "title": "Market Gardeners and Crop Growers",
+    "Level": 3,
+    "parent": "61",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "611"
+  },
+  {
+    "code": "6111",
+    "title": "Field Crop and Vegetable Growers",
+    "Level": 4,
+    "parent": "611",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "611",
+    "isco4d": "6111"
+  },
+  {
+    "code": "6112",
+    "title": "Tree and Shrub Crop Growers",
+    "Level": 4,
+    "parent": "611",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "611",
+    "isco4d": "6112"
+  },
+  {
+    "code": "6113",
+    "title": "Gardeners, Horticultural and Nursery Growers",
+    "Level": 4,
+    "parent": "611",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "611",
+    "isco4d": "6113"
+  },
+  {
+    "code": "6114",
+    "title": "Mixed Crop Growers",
+    "Level": 4,
+    "parent": "611",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "611",
+    "isco4d": "6114"
+  },
+  {
+    "code": "612",
+    "title": "Animal Producers",
+    "Level": 3,
+    "parent": "61",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "612"
+  },
+  {
+    "code": "6121",
+    "title": "Livestock and Dairy Producers",
+    "Level": 4,
+    "parent": "612",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "612",
+    "isco4d": "6121"
+  },
+  {
+    "code": "6122",
+    "title": "Poultry Producers",
+    "Level": 4,
+    "parent": "612",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "612",
+    "isco4d": "6122"
+  },
+  {
+    "code": "6123",
+    "title": "Apiarists and Sericulturists",
+    "Level": 4,
+    "parent": "612",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "612",
+    "isco4d": "6123"
+  },
+  {
+    "code": "6129",
+    "title": "Animal Producers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "612",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "612",
+    "isco4d": "6129"
+  },
+  {
+    "code": "613",
+    "title": "Mixed Crop and Animal Producers",
+    "Level": 3,
+    "parent": "61",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "613"
+  },
+  {
+    "code": "6130",
+    "title": "Mixed Crop and Animal Producers",
+    "Level": 4,
+    "parent": "613",
+    "isco1d": "6",
+    "isco2d": "61",
+    "isco3d": "613",
+    "isco4d": "6130"
+  },
+  {
+    "code": "62",
+    "title": "Market-Oriented Skilled Forestry, Fishery and Hunting Workers",
+    "Level": 2,
+    "parent": "6",
+    "isco1d": "6",
+    "isco2d": "62"
+  },
+  {
+    "code": "621",
+    "title": "Forestry and Related Workers",
+    "Level": 3,
+    "parent": "62",
+    "isco1d": "6",
+    "isco2d": "62",
+    "isco3d": "621"
+  },
+  {
+    "code": "6210",
+    "title": "Forestry and Related Workers",
+    "Level": 4,
+    "parent": "621",
+    "isco1d": "6",
+    "isco2d": "62",
+    "isco3d": "621",
+    "isco4d": "6210"
+  },
+  {
+    "code": "622",
+    "title": "Fishery Workers, Hunters and Trappers",
+    "Level": 3,
+    "parent": "62",
+    "isco1d": "6",
+    "isco2d": "62",
+    "isco3d": "622"
+  },
+  {
+    "code": "6221",
+    "title": "Aquaculture Workers",
+    "Level": 4,
+    "parent": "622",
+    "isco1d": "6",
+    "isco2d": "62",
+    "isco3d": "622",
+    "isco4d": "6221"
+  },
+  {
+    "code": "6222",
+    "title": "Inland and Coastal Waters Fishery Workers",
+    "Level": 4,
+    "parent": "622",
+    "isco1d": "6",
+    "isco2d": "62",
+    "isco3d": "622",
+    "isco4d": "6222"
+  },
+  {
+    "code": "6223",
+    "title": "Deep-sea Fishery Workers",
+    "Level": 4,
+    "parent": "622",
+    "isco1d": "6",
+    "isco2d": "62",
+    "isco3d": "622",
+    "isco4d": "6223"
+  },
+  {
+    "code": "6224",
+    "title": "Hunters and Trappers",
+    "Level": 4,
+    "parent": "622",
+    "isco1d": "6",
+    "isco2d": "62",
+    "isco3d": "622",
+    "isco4d": "6224"
+  },
+  {
+    "code": "63",
+    "title": "Subsistence Farmers, Fishers, Hunters and Gatherers",
+    "Level": 2,
+    "parent": "6",
+    "isco1d": "6",
+    "isco2d": "63"
+  },
+  {
+    "code": "631",
+    "title": "Subsistence Crop Farmers",
+    "Level": 3,
+    "parent": "63",
+    "isco1d": "6",
+    "isco2d": "63",
+    "isco3d": "631"
+  },
+  {
+    "code": "6310",
+    "title": "Subsistence Crop Farmers",
+    "Level": 4,
+    "parent": "631",
+    "isco1d": "6",
+    "isco2d": "63",
+    "isco3d": "631",
+    "isco4d": "6310"
+  },
+  {
+    "code": "632",
+    "title": "Subsistence Livestock Farmers",
+    "Level": 3,
+    "parent": "63",
+    "isco1d": "6",
+    "isco2d": "63",
+    "isco3d": "632"
+  },
+  {
+    "code": "6320",
+    "title": "Subsistence Livestock Farmers",
+    "Level": 4,
+    "parent": "632",
+    "isco1d": "6",
+    "isco2d": "63",
+    "isco3d": "632",
+    "isco4d": "6320"
+  },
+  {
+    "code": "633",
+    "title": "Subsistence Mixed Crop and Livestock Farmers",
+    "Level": 3,
+    "parent": "63",
+    "isco1d": "6",
+    "isco2d": "63",
+    "isco3d": "633"
+  },
+  {
+    "code": "6330",
+    "title": "Subsistence Mixed Crop and Livestock Farmers",
+    "Level": 4,
+    "parent": "633",
+    "isco1d": "6",
+    "isco2d": "63",
+    "isco3d": "633",
+    "isco4d": "6330"
+  },
+  {
+    "code": "634",
+    "title": "Subsistence Fishers, Hunters, Trappers and Gatherers",
+    "Level": 3,
+    "parent": "63",
+    "isco1d": "6",
+    "isco2d": "63",
+    "isco3d": "634"
+  },
+  {
+    "code": "6340",
+    "title": "Subsistence Fishers, Hunters, Trappers and Gatherers",
+    "Level": 4,
+    "parent": "634",
+    "isco1d": "6",
+    "isco2d": "63",
+    "isco3d": "634",
+    "isco4d": "6340"
+  },
+  {
+    "code": "7",
+    "title": "Craft and Related Trades Workers",
+    "Level": 1,
+    "isco1d": "7"
+  },
+  {
+    "code": "71",
+    "title": "Building and Related Trades Workers (excluding Electricians)",
+    "Level": 2,
+    "parent": "7",
+    "isco1d": "7",
+    "isco2d": "71"
+  },
+  {
+    "code": "711",
+    "title": "Building Frame and Related Trades Workers",
+    "Level": 3,
+    "parent": "71",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "711"
+  },
+  {
+    "code": "7111",
+    "title": "House Builders",
+    "Level": 4,
+    "parent": "711",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "711",
+    "isco4d": "7111"
+  },
+  {
+    "code": "7112",
+    "title": "Bricklayers and Related Workers",
+    "Level": 4,
+    "parent": "711",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "711",
+    "isco4d": "7112"
+  },
+  {
+    "code": "7113",
+    "title": "Stonemasons, Stone Cutters, Splitters and Carvers",
+    "Level": 4,
+    "parent": "711",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "711",
+    "isco4d": "7113"
+  },
+  {
+    "code": "7114",
+    "title": "Concrete Placers, Concrete Finishers and Related Workers",
+    "Level": 4,
+    "parent": "711",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "711",
+    "isco4d": "7114"
+  },
+  {
+    "code": "7115",
+    "title": "Carpenters and Joiners",
+    "Level": 4,
+    "parent": "711",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "711",
+    "isco4d": "7115"
+  },
+  {
+    "code": "7119",
+    "title": "Building Frame and Related Trades Workers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "711",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "711",
+    "isco4d": "7119"
+  },
+  {
+    "code": "712",
+    "title": "Building Finishers and Related Trades Workers",
+    "Level": 3,
+    "parent": "71",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "712"
+  },
+  {
+    "code": "7121",
+    "title": "Roofers",
+    "Level": 4,
+    "parent": "712",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "712",
+    "isco4d": "7121"
+  },
+  {
+    "code": "7122",
+    "title": "Floor Layers and Tile Setters",
+    "Level": 4,
+    "parent": "712",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "712",
+    "isco4d": "7122"
+  },
+  {
+    "code": "7123",
+    "title": "Plasterers",
+    "Level": 4,
+    "parent": "712",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "712",
+    "isco4d": "7123"
+  },
+  {
+    "code": "7124",
+    "title": "Insulation Workers",
+    "Level": 4,
+    "parent": "712",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "712",
+    "isco4d": "7124"
+  },
+  {
+    "code": "7125",
+    "title": "Glaziers",
+    "Level": 4,
+    "parent": "712",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "712",
+    "isco4d": "7125"
+  },
+  {
+    "code": "7126",
+    "title": "Plumbers and Pipe Fitters",
+    "Level": 4,
+    "parent": "712",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "712",
+    "isco4d": "7126"
+  },
+  {
+    "code": "7127",
+    "title": "Air Conditioning and Refrigeration Mechanics",
+    "Level": 4,
+    "parent": "712",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "712",
+    "isco4d": "7127"
+  },
+  {
+    "code": "713",
+    "title": "Painters, Building Structure Cleaners and Related Trades Workers",
+    "Level": 3,
+    "parent": "71",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "713"
+  },
+  {
+    "code": "7131",
+    "title": "Painters and Related Workers",
+    "Level": 4,
+    "parent": "713",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "713",
+    "isco4d": "7131"
+  },
+  {
+    "code": "7132",
+    "title": "Spray Painters and Varnishers",
+    "Level": 4,
+    "parent": "713",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "713",
+    "isco4d": "7132"
+  },
+  {
+    "code": "7133",
+    "title": "Building Structure Cleaners",
+    "Level": 4,
+    "parent": "713",
+    "isco1d": "7",
+    "isco2d": "71",
+    "isco3d": "713",
+    "isco4d": "7133"
+  },
+  {
+    "code": "72",
+    "title": "Metal, Machinery and Related Trades Workers",
+    "Level": 2,
+    "parent": "7",
+    "isco1d": "7",
+    "isco2d": "72"
+  },
+  {
+    "code": "721",
+    "title": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+    "Level": 3,
+    "parent": "72",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "721"
+  },
+  {
+    "code": "7211",
+    "title": "Metal Moulders and Coremakers",
+    "Level": 4,
+    "parent": "721",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "721",
+    "isco4d": "7211"
+  },
+  {
+    "code": "7212",
+    "title": "Welders and Flame Cutters",
+    "Level": 4,
+    "parent": "721",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "721",
+    "isco4d": "7212"
+  },
+  {
+    "code": "7213",
+    "title": "Sheet Metal Workers",
+    "Level": 4,
+    "parent": "721",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "721",
+    "isco4d": "7213"
+  },
+  {
+    "code": "7214",
+    "title": "Structural Metal Preparers and Erectors",
+    "Level": 4,
+    "parent": "721",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "721",
+    "isco4d": "7214"
+  },
+  {
+    "code": "7215",
+    "title": "Riggers and Cable Splicers",
+    "Level": 4,
+    "parent": "721",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "721",
+    "isco4d": "7215"
+  },
+  {
+    "code": "722",
+    "title": "Blacksmiths, Toolmakers and Related Trades Workers",
+    "Level": 3,
+    "parent": "72",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "722"
+  },
+  {
+    "code": "7221",
+    "title": "Blacksmiths, Hammersmiths and Forging Press Workers",
+    "Level": 4,
+    "parent": "722",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "722",
+    "isco4d": "7221"
+  },
+  {
+    "code": "7222",
+    "title": "Toolmakers and Related Workers",
+    "Level": 4,
+    "parent": "722",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "722",
+    "isco4d": "7222"
+  },
+  {
+    "code": "7223",
+    "title": "Metal Working Machine Tool Setters and  Operators",
+    "Level": 4,
+    "parent": "722",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "722",
+    "isco4d": "7223"
+  },
+  {
+    "code": "7224",
+    "title": "Metal Polishers, Wheel Grinders and Tool Sharpeners",
+    "Level": 4,
+    "parent": "722",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "722",
+    "isco4d": "7224"
+  },
+  {
+    "code": "723",
+    "title": "Machinery Mechanics and Repairers",
+    "Level": 3,
+    "parent": "72",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "723"
+  },
+  {
+    "code": "7231",
+    "title": "Motor Vehicle Mechanics and Repairers",
+    "Level": 4,
+    "parent": "723",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "723",
+    "isco4d": "7231"
+  },
+  {
+    "code": "7232",
+    "title": "Aircraft Engine Mechanics and Repairers",
+    "Level": 4,
+    "parent": "723",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "723",
+    "isco4d": "7232"
+  },
+  {
+    "code": "7233",
+    "title": "Agricultural and Industrial Machinery Mechanics and Repairers",
+    "Level": 4,
+    "parent": "723",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "723",
+    "isco4d": "7233"
+  },
+  {
+    "code": "7234",
+    "title": "Bicycle and Related Repairers",
+    "Level": 4,
+    "parent": "723",
+    "isco1d": "7",
+    "isco2d": "72",
+    "isco3d": "723",
+    "isco4d": "7234"
+  },
+  {
+    "code": "73",
+    "title": "Handicraft and Printing Workers",
+    "Level": 2,
+    "parent": "7",
+    "isco1d": "7",
+    "isco2d": "73"
+  },
+  {
+    "code": "731",
+    "title": "Handicraft Workers",
+    "Level": 3,
+    "parent": "73",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731"
+  },
+  {
+    "code": "7311",
+    "title": "Precision-instrument Makers and Repairers",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7311"
+  },
+  {
+    "code": "7312",
+    "title": "Musical Instrument Makers and Tuners",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7312"
+  },
+  {
+    "code": "7313",
+    "title": "Jewellery and Precious Metal Workers",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7313"
+  },
+  {
+    "code": "7314",
+    "title": "Potters and Related Workers",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7314"
+  },
+  {
+    "code": "7315",
+    "title": "Glass Makers, Cutters, Grinders and Finishers",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7315"
+  },
+  {
+    "code": "7316",
+    "title": "Sign Writers, Decorative Painters, Engravers and Etchers",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7316"
+  },
+  {
+    "code": "7317",
+    "title": "Handicraft Workers in Wood, Basketry and Related Materials",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7317"
+  },
+  {
+    "code": "7318",
+    "title": "Handicraft Workers in Textile, Leather and Related Materials",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7318"
+  },
+  {
+    "code": "7319",
+    "title": "Handicraft Workers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "731",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "731",
+    "isco4d": "7319"
+  },
+  {
+    "code": "732",
+    "title": "Printing Trades Workers",
+    "Level": 3,
+    "parent": "73",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "732"
+  },
+  {
+    "code": "7321",
+    "title": "Pre-press Technicians",
+    "Level": 4,
+    "parent": "732",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "732",
+    "isco4d": "7321"
+  },
+  {
+    "code": "7322",
+    "title": "Printers",
+    "Level": 4,
+    "parent": "732",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "732",
+    "isco4d": "7322"
+  },
+  {
+    "code": "7323",
+    "title": "Print Finishing and Binding Workers",
+    "Level": 4,
+    "parent": "732",
+    "isco1d": "7",
+    "isco2d": "73",
+    "isco3d": "732",
+    "isco4d": "7323"
+  },
+  {
+    "code": "74",
+    "title": "Electrical and Electronics Trades Workers",
+    "Level": 2,
+    "parent": "7",
+    "isco1d": "7",
+    "isco2d": "74"
+  },
+  {
+    "code": "741",
+    "title": "Electrical Equipment Installers and Repairers",
+    "Level": 3,
+    "parent": "74",
+    "isco1d": "7",
+    "isco2d": "74",
+    "isco3d": "741"
+  },
+  {
+    "code": "7411",
+    "title": "Building and Related Electricians",
+    "Level": 4,
+    "parent": "741",
+    "isco1d": "7",
+    "isco2d": "74",
+    "isco3d": "741",
+    "isco4d": "7411"
+  },
+  {
+    "code": "7412",
+    "title": "Electrical Mechanics and Fitters",
+    "Level": 4,
+    "parent": "741",
+    "isco1d": "7",
+    "isco2d": "74",
+    "isco3d": "741",
+    "isco4d": "7412"
+  },
+  {
+    "code": "7413",
+    "title": "Electrical Line Installers and Repairers",
+    "Level": 4,
+    "parent": "741",
+    "isco1d": "7",
+    "isco2d": "74",
+    "isco3d": "741",
+    "isco4d": "7413"
+  },
+  {
+    "code": "742",
+    "title": "Electronics and Telecommunications Installers and Repairers",
+    "Level": 3,
+    "parent": "74",
+    "isco1d": "7",
+    "isco2d": "74",
+    "isco3d": "742"
+  },
+  {
+    "code": "7421",
+    "title": "Electronics Mechanics and Servicers",
+    "Level": 4,
+    "parent": "742",
+    "isco1d": "7",
+    "isco2d": "74",
+    "isco3d": "742",
+    "isco4d": "7421"
+  },
+  {
+    "code": "7422",
+    "title": "Information and Communications Technology Installers and Servicers",
+    "Level": 4,
+    "parent": "742",
+    "isco1d": "7",
+    "isco2d": "74",
+    "isco3d": "742",
+    "isco4d": "7422"
+  },
+  {
+    "code": "75",
+    "title": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+    "Level": 2,
+    "parent": "7",
+    "isco1d": "7",
+    "isco2d": "75"
+  },
+  {
+    "code": "751",
+    "title": "Food Processing and Related Trades Workers",
+    "Level": 3,
+    "parent": "75",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "751"
+  },
+  {
+    "code": "7511",
+    "title": "Butchers, Fishmongers and Related Food Preparers",
+    "Level": 4,
+    "parent": "751",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "751",
+    "isco4d": "7511"
+  },
+  {
+    "code": "7512",
+    "title": "Bakers, Pastry-cooks and Confectionery Makers",
+    "Level": 4,
+    "parent": "751",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "751",
+    "isco4d": "7512"
+  },
+  {
+    "code": "7513",
+    "title": "Dairy Products Makers",
+    "Level": 4,
+    "parent": "751",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "751",
+    "isco4d": "7513"
+  },
+  {
+    "code": "7514",
+    "title": "Fruit, Vegetable and Related Preservers",
+    "Level": 4,
+    "parent": "751",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "751",
+    "isco4d": "7514"
+  },
+  {
+    "code": "7515",
+    "title": "Food and Beverage Tasters and Graders",
+    "Level": 4,
+    "parent": "751",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "751",
+    "isco4d": "7515"
+  },
+  {
+    "code": "7516",
+    "title": "Tobacco Preparers and Tobacco Products Makers",
+    "Level": 4,
+    "parent": "751",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "751",
+    "isco4d": "7516"
+  },
+  {
+    "code": "752",
+    "title": "Wood Treaters, Cabinet-makers and Related Trades Workers",
+    "Level": 3,
+    "parent": "75",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "752"
+  },
+  {
+    "code": "7521",
+    "title": "Wood Treaters",
+    "Level": 4,
+    "parent": "752",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "752",
+    "isco4d": "7521"
+  },
+  {
+    "code": "7522",
+    "title": "Cabinet-makers and Related Workers",
+    "Level": 4,
+    "parent": "752",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "752",
+    "isco4d": "7522"
+  },
+  {
+    "code": "7523",
+    "title": "Woodworking Machine Tool Setters and Operators",
+    "Level": 4,
+    "parent": "752",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "752",
+    "isco4d": "7523"
+  },
+  {
+    "code": "753",
+    "title": "Garment and Related Trades Workers",
+    "Level": 3,
+    "parent": "75",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "753"
+  },
+  {
+    "code": "7531",
+    "title": "Tailors, Dressmakers, Furriers and Hatters",
+    "Level": 4,
+    "parent": "753",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "753",
+    "isco4d": "7531"
+  },
+  {
+    "code": "7532",
+    "title": "Garment and Related Patternmakers and Cutters",
+    "Level": 4,
+    "parent": "753",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "753",
+    "isco4d": "7532"
+  },
+  {
+    "code": "7533",
+    "title": "Sewing, Embroidery and Related Workers",
+    "Level": 4,
+    "parent": "753",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "753",
+    "isco4d": "7533"
+  },
+  {
+    "code": "7534",
+    "title": "Upholsterers and Related Workers",
+    "Level": 4,
+    "parent": "753",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "753",
+    "isco4d": "7534"
+  },
+  {
+    "code": "7535",
+    "title": "Pelt Dressers, Tanners and Fellmongers",
+    "Level": 4,
+    "parent": "753",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "753",
+    "isco4d": "7535"
+  },
+  {
+    "code": "7536",
+    "title": "Shoemakers and Related Workers",
+    "Level": 4,
+    "parent": "753",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "753",
+    "isco4d": "7536"
+  },
+  {
+    "code": "754",
+    "title": "Other Craft and Related Workers",
+    "Level": 3,
+    "parent": "75",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "754"
+  },
+  {
+    "code": "7541",
+    "title": "Underwater Divers",
+    "Level": 4,
+    "parent": "754",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "754",
+    "isco4d": "7541"
+  },
+  {
+    "code": "7542",
+    "title": "Shotfirers and Blasters",
+    "Level": 4,
+    "parent": "754",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "754",
+    "isco4d": "7542"
+  },
+  {
+    "code": "7543",
+    "title": "Product Graders and Testers (except Foods and Beverages)",
+    "Level": 4,
+    "parent": "754",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "754",
+    "isco4d": "7543"
+  },
+  {
+    "code": "7544",
+    "title": "Fumigators and Other Pest and Weed Controllers",
+    "Level": 4,
+    "parent": "754",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "754",
+    "isco4d": "7544"
+  },
+  {
+    "code": "7549",
+    "title": "Craft and Related Workers not Elsewhere Classified",
+    "Level": 4,
+    "parent": "754",
+    "isco1d": "7",
+    "isco2d": "75",
+    "isco3d": "754",
+    "isco4d": "7549"
+  },
+  {
+    "code": "8",
+    "title": "Plant and Machine Operators, and Assemblers",
+    "Level": 1,
+    "isco1d": "8"
+  },
+  {
+    "code": "81",
+    "title": "Stationary Plant and Machine Operators",
+    "Level": 2,
+    "parent": "8",
+    "isco1d": "8",
+    "isco2d": "81"
+  },
+  {
+    "code": "811",
+    "title": "Mining and Mineral Processing Plant Operators",
+    "Level": 3,
+    "parent": "81",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "811"
+  },
+  {
+    "code": "8111",
+    "title": "Miners and Quarriers",
+    "Level": 4,
+    "parent": "811",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "811",
+    "isco4d": "8111"
+  },
+  {
+    "code": "8112",
+    "title": "Mineral and Stone Processing Plant Operators",
+    "Level": 4,
+    "parent": "811",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "811",
+    "isco4d": "8112"
+  },
+  {
+    "code": "8113",
+    "title": "Well Drillers and Borers and Related Workers",
+    "Level": 4,
+    "parent": "811",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "811",
+    "isco4d": "8113"
+  },
+  {
+    "code": "8114",
+    "title": "Cement, Stone and Other Mineral Products Machine Operators",
+    "Level": 4,
+    "parent": "811",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "811",
+    "isco4d": "8114"
+  },
+  {
+    "code": "812",
+    "title": "Metal Processing and Finishing Plant Operators",
+    "Level": 3,
+    "parent": "81",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "812"
+  },
+  {
+    "code": "8121",
+    "title": "Metal Processing Plant Operators",
+    "Level": 4,
+    "parent": "812",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "812",
+    "isco4d": "8121"
+  },
+  {
+    "code": "8122",
+    "title": "Metal Finishing, Plating and Coating Machine Operators",
+    "Level": 4,
+    "parent": "812",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "812",
+    "isco4d": "8122"
+  },
+  {
+    "code": "813",
+    "title": "Chemical and Photographic Products Plant and Machine Operators",
+    "Level": 3,
+    "parent": "81",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "813"
+  },
+  {
+    "code": "8131",
+    "title": "Chemical Products Plant and Machine Operators",
+    "Level": 4,
+    "parent": "813",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "813",
+    "isco4d": "8131"
+  },
+  {
+    "code": "8132",
+    "title": "Photographic Products Machine Operators",
+    "Level": 4,
+    "parent": "813",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "813",
+    "isco4d": "8132"
+  },
+  {
+    "code": "814",
+    "title": "Rubber, Plastic and Paper Products Machine Operators",
+    "Level": 3,
+    "parent": "81",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "814"
+  },
+  {
+    "code": "8141",
+    "title": "Rubber Products Machine Operators",
+    "Level": 4,
+    "parent": "814",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "814",
+    "isco4d": "8141"
+  },
+  {
+    "code": "8142",
+    "title": "Plastic Products Machine Operators",
+    "Level": 4,
+    "parent": "814",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "814",
+    "isco4d": "8142"
+  },
+  {
+    "code": "8143",
+    "title": "Paper Products Machine Operators",
+    "Level": 4,
+    "parent": "814",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "814",
+    "isco4d": "8143"
+  },
+  {
+    "code": "815",
+    "title": "Textile, Fur and Leather Products Machine Operators",
+    "Level": 3,
+    "parent": "81",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815"
+  },
+  {
+    "code": "8151",
+    "title": "Fibre Preparing, Spinning and Winding Machine Operators",
+    "Level": 4,
+    "parent": "815",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815",
+    "isco4d": "8151"
+  },
+  {
+    "code": "8152",
+    "title": "Weaving and Knitting Machine Operators",
+    "Level": 4,
+    "parent": "815",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815",
+    "isco4d": "8152"
+  },
+  {
+    "code": "8153",
+    "title": "Sewing Machine Operators",
+    "Level": 4,
+    "parent": "815",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815",
+    "isco4d": "8153"
+  },
+  {
+    "code": "8154",
+    "title": "Bleaching, Dyeing and Fabric Cleaning Machine Operators",
+    "Level": 4,
+    "parent": "815",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815",
+    "isco4d": "8154"
+  },
+  {
+    "code": "8155",
+    "title": "Fur and Leather Preparing Machine Operators",
+    "Level": 4,
+    "parent": "815",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815",
+    "isco4d": "8155"
+  },
+  {
+    "code": "8156",
+    "title": "Shoemaking and Related Machine Operators",
+    "Level": 4,
+    "parent": "815",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815",
+    "isco4d": "8156"
+  },
+  {
+    "code": "8157",
+    "title": "Laundry Machine Operators",
+    "Level": 4,
+    "parent": "815",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815",
+    "isco4d": "8157"
+  },
+  {
+    "code": "8159",
+    "title": "Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "815",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "815",
+    "isco4d": "8159"
+  },
+  {
+    "code": "816",
+    "title": "Food and Related Products Machine Operators",
+    "Level": 3,
+    "parent": "81",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "816"
+  },
+  {
+    "code": "8160",
+    "title": "Food and Related Products Machine Operators",
+    "Level": 4,
+    "parent": "816",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "816",
+    "isco4d": "8160"
+  },
+  {
+    "code": "817",
+    "title": "Wood Processing and Papermaking Plant Operators",
+    "Level": 3,
+    "parent": "81",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "817"
+  },
+  {
+    "code": "8171",
+    "title": "Pulp and Papermaking Plant Operators",
+    "Level": 4,
+    "parent": "817",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "817",
+    "isco4d": "8171"
+  },
+  {
+    "code": "8172",
+    "title": "Wood Processing Plant Operators",
+    "Level": 4,
+    "parent": "817",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "817",
+    "isco4d": "8172"
+  },
+  {
+    "code": "818",
+    "title": "Other Stationary Plant and Machine Operators",
+    "Level": 3,
+    "parent": "81",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "818"
+  },
+  {
+    "code": "8181",
+    "title": "Glass and Ceramics Plant Operators",
+    "Level": 4,
+    "parent": "818",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "818",
+    "isco4d": "8181"
+  },
+  {
+    "code": "8182",
+    "title": "Steam Engine and Boiler Operators",
+    "Level": 4,
+    "parent": "818",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "818",
+    "isco4d": "8182"
+  },
+  {
+    "code": "8183",
+    "title": "Packing, Bottling and Labelling Machine Operators",
+    "Level": 4,
+    "parent": "818",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "818",
+    "isco4d": "8183"
+  },
+  {
+    "code": "8189",
+    "title": "Stationary Plant and Machine Operators Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "818",
+    "isco1d": "8",
+    "isco2d": "81",
+    "isco3d": "818",
+    "isco4d": "8189"
+  },
+  {
+    "code": "82",
+    "title": "Assemblers",
+    "Level": 2,
+    "parent": "8",
+    "isco1d": "8",
+    "isco2d": "82"
+  },
+  {
+    "code": "821",
+    "title": "Assemblers",
+    "Level": 3,
+    "parent": "82",
+    "isco1d": "8",
+    "isco2d": "82",
+    "isco3d": "821"
+  },
+  {
+    "code": "8211",
+    "title": "Mechanical Machinery Assemblers",
+    "Level": 4,
+    "parent": "821",
+    "isco1d": "8",
+    "isco2d": "82",
+    "isco3d": "821",
+    "isco4d": "8211"
+  },
+  {
+    "code": "8212",
+    "title": "Electrical and Electronic Equipment Assemblers",
+    "Level": 4,
+    "parent": "821",
+    "isco1d": "8",
+    "isco2d": "82",
+    "isco3d": "821",
+    "isco4d": "8212"
+  },
+  {
+    "code": "8219",
+    "title": "Assemblers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "821",
+    "isco1d": "8",
+    "isco2d": "82",
+    "isco3d": "821",
+    "isco4d": "8219"
+  },
+  {
+    "code": "83",
+    "title": "Drivers and Mobile Plant Operators",
+    "Level": 2,
+    "parent": "8",
+    "isco1d": "8",
+    "isco2d": "83"
+  },
+  {
+    "code": "831",
+    "title": "Locomotive Engine Drivers and Related Workers",
+    "Level": 3,
+    "parent": "83",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "831"
+  },
+  {
+    "code": "8311",
+    "title": "Locomotive Engine Drivers",
+    "Level": 4,
+    "parent": "831",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "831",
+    "isco4d": "8311"
+  },
+  {
+    "code": "8312",
+    "title": "Railway Brake, Signal and Switch Operators",
+    "Level": 4,
+    "parent": "831",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "831",
+    "isco4d": "8312"
+  },
+  {
+    "code": "832",
+    "title": "Car, Van and Motorcycle Drivers",
+    "Level": 3,
+    "parent": "83",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "832"
+  },
+  {
+    "code": "8321",
+    "title": "Motorcycle Drivers",
+    "Level": 4,
+    "parent": "832",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "832",
+    "isco4d": "8321"
+  },
+  {
+    "code": "8322",
+    "title": "Car, Taxi and Van Drivers",
+    "Level": 4,
+    "parent": "832",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "832",
+    "isco4d": "8322"
+  },
+  {
+    "code": "833",
+    "title": "Heavy Truck and Bus Drivers",
+    "Level": 3,
+    "parent": "83",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "833"
+  },
+  {
+    "code": "8331",
+    "title": "Bus and Tram Drivers",
+    "Level": 4,
+    "parent": "833",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "833",
+    "isco4d": "8331"
+  },
+  {
+    "code": "8332",
+    "title": "Heavy Truck and Lorry Drivers",
+    "Level": 4,
+    "parent": "833",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "833",
+    "isco4d": "8332"
+  },
+  {
+    "code": "834",
+    "title": "Mobile Plant Operators",
+    "Level": 3,
+    "parent": "83",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "834"
+  },
+  {
+    "code": "8341",
+    "title": "Mobile Farm and Forestry Plant Operators",
+    "Level": 4,
+    "parent": "834",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "834",
+    "isco4d": "8341"
+  },
+  {
+    "code": "8342",
+    "title": "Earthmoving and Related Plant Operators",
+    "Level": 4,
+    "parent": "834",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "834",
+    "isco4d": "8342"
+  },
+  {
+    "code": "8343",
+    "title": "Crane, hoist and related plant operators",
+    "Level": 4,
+    "parent": "834",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "834",
+    "isco4d": "8343"
+  },
+  {
+    "code": "8344",
+    "title": "Lifting Truck Operators",
+    "Level": 4,
+    "parent": "834",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "834",
+    "isco4d": "8344"
+  },
+  {
+    "code": "835",
+    "title": "Ships' Deck Crews and Related Workers",
+    "Level": 3,
+    "parent": "83",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "835"
+  },
+  {
+    "code": "8350",
+    "title": "Ships' Deck Crews and Related Workers",
+    "Level": 4,
+    "parent": "835",
+    "isco1d": "8",
+    "isco2d": "83",
+    "isco3d": "835",
+    "isco4d": "8350"
+  },
+  {
+    "code": "9",
+    "title": "Elementary Occupations",
+    "Level": 1,
+    "isco1d": "9"
+  },
+  {
+    "code": "91",
+    "title": "Cleaners and Helpers",
+    "Level": 2,
+    "parent": "9",
+    "isco1d": "9",
+    "isco2d": "91"
+  },
+  {
+    "code": "911",
+    "title": "Domestic, Hotel and Office Cleaners and Helpers",
+    "Level": 3,
+    "parent": "91",
+    "isco1d": "9",
+    "isco2d": "91",
+    "isco3d": "911"
+  },
+  {
+    "code": "9111",
+    "title": "Domestic Cleaners and Helpers",
+    "Level": 4,
+    "parent": "911",
+    "isco1d": "9",
+    "isco2d": "91",
+    "isco3d": "911",
+    "isco4d": "9111"
+  },
+  {
+    "code": "9112",
+    "title": "Cleaners and Helpers in Offices, Hotels and Other Establishments",
+    "Level": 4,
+    "parent": "911",
+    "isco1d": "9",
+    "isco2d": "91",
+    "isco3d": "911",
+    "isco4d": "9112"
+  },
+  {
+    "code": "912",
+    "title": "Vehicle, Window, Laundry and Other Hand Cleaning Workers",
+    "Level": 3,
+    "parent": "91",
+    "isco1d": "9",
+    "isco2d": "91",
+    "isco3d": "912"
+  },
+  {
+    "code": "9121",
+    "title": "Hand Launderers and Pressers",
+    "Level": 4,
+    "parent": "912",
+    "isco1d": "9",
+    "isco2d": "91",
+    "isco3d": "912",
+    "isco4d": "9121"
+  },
+  {
+    "code": "9122",
+    "title": "Vehicle Cleaners",
+    "Level": 4,
+    "parent": "912",
+    "isco1d": "9",
+    "isco2d": "91",
+    "isco3d": "912",
+    "isco4d": "9122"
+  },
+  {
+    "code": "9123",
+    "title": "Window Cleaners",
+    "Level": 4,
+    "parent": "912",
+    "isco1d": "9",
+    "isco2d": "91",
+    "isco3d": "912",
+    "isco4d": "9123"
+  },
+  {
+    "code": "9129",
+    "title": "Other Cleaning Workers",
+    "Level": 4,
+    "parent": "912",
+    "isco1d": "9",
+    "isco2d": "91",
+    "isco3d": "912",
+    "isco4d": "9129"
+  },
+  {
+    "code": "92",
+    "title": "Agricultural, Forestry and Fishery Labourers",
+    "Level": 2,
+    "parent": "9",
+    "isco1d": "9",
+    "isco2d": "92"
+  },
+  {
+    "code": "921",
+    "title": "Agricultural, Forestry and Fishery Labourers",
+    "Level": 3,
+    "parent": "92",
+    "isco1d": "9",
+    "isco2d": "92",
+    "isco3d": "921"
+  },
+  {
+    "code": "9211",
+    "title": "Crop Farm Labourers",
+    "Level": 4,
+    "parent": "921",
+    "isco1d": "9",
+    "isco2d": "92",
+    "isco3d": "921",
+    "isco4d": "9211"
+  },
+  {
+    "code": "9212",
+    "title": "Livestock Farm Labourers",
+    "Level": 4,
+    "parent": "921",
+    "isco1d": "9",
+    "isco2d": "92",
+    "isco3d": "921",
+    "isco4d": "9212"
+  },
+  {
+    "code": "9213",
+    "title": "Mixed Crop and Livestock Farm Labourers",
+    "Level": 4,
+    "parent": "921",
+    "isco1d": "9",
+    "isco2d": "92",
+    "isco3d": "921",
+    "isco4d": "9213"
+  },
+  {
+    "code": "9214",
+    "title": "Garden and Horticultural Labourers",
+    "Level": 4,
+    "parent": "921",
+    "isco1d": "9",
+    "isco2d": "92",
+    "isco3d": "921",
+    "isco4d": "9214"
+  },
+  {
+    "code": "9215",
+    "title": "Forestry Labourers",
+    "Level": 4,
+    "parent": "921",
+    "isco1d": "9",
+    "isco2d": "92",
+    "isco3d": "921",
+    "isco4d": "9215"
+  },
+  {
+    "code": "9216",
+    "title": "Fishery and Aquaculture Labourers",
+    "Level": 4,
+    "parent": "921",
+    "isco1d": "9",
+    "isco2d": "92",
+    "isco3d": "921",
+    "isco4d": "9216"
+  },
+  {
+    "code": "93",
+    "title": "Labourers in Mining, Construction, Manufacturing and Transport",
+    "Level": 2,
+    "parent": "9",
+    "isco1d": "9",
+    "isco2d": "93"
+  },
+  {
+    "code": "931",
+    "title": "Mining and Construction Labourers",
+    "Level": 3,
+    "parent": "93",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "931"
+  },
+  {
+    "code": "9311",
+    "title": "Mining and Quarrying Labourers",
+    "Level": 4,
+    "parent": "931",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "931",
+    "isco4d": "9311"
+  },
+  {
+    "code": "9312",
+    "title": "Civil Engineering Labourers",
+    "Level": 4,
+    "parent": "931",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "931",
+    "isco4d": "9312"
+  },
+  {
+    "code": "9313",
+    "title": "Building Construction Labourers",
+    "Level": 4,
+    "parent": "931",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "931",
+    "isco4d": "9313"
+  },
+  {
+    "code": "932",
+    "title": "Manufacturing Labourers",
+    "Level": 3,
+    "parent": "93",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "932"
+  },
+  {
+    "code": "9321",
+    "title": "Hand Packers",
+    "Level": 4,
+    "parent": "932",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "932",
+    "isco4d": "9321"
+  },
+  {
+    "code": "9329",
+    "title": "Manufacturing Labourers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "932",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "932",
+    "isco4d": "9329"
+  },
+  {
+    "code": "933",
+    "title": "Transport and Storage Labourers",
+    "Level": 3,
+    "parent": "93",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "933"
+  },
+  {
+    "code": "9331",
+    "title": "Hand and Pedal Vehicle Drivers",
+    "Level": 4,
+    "parent": "933",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "933",
+    "isco4d": "9331"
+  },
+  {
+    "code": "9332",
+    "title": "Drivers of Animal-drawn Vehicles and Machinery",
+    "Level": 4,
+    "parent": "933",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "933",
+    "isco4d": "9332"
+  },
+  {
+    "code": "9333",
+    "title": "Freight Handlers",
+    "Level": 4,
+    "parent": "933",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "933",
+    "isco4d": "9333"
+  },
+  {
+    "code": "9334",
+    "title": "Shelf Fillers",
+    "Level": 4,
+    "parent": "933",
+    "isco1d": "9",
+    "isco2d": "93",
+    "isco3d": "933",
+    "isco4d": "9334"
+  },
+  {
+    "code": "94",
+    "title": "Food Preparation Assistants",
+    "Level": 2,
+    "parent": "9",
+    "isco1d": "9",
+    "isco2d": "94"
+  },
+  {
+    "code": "941",
+    "title": "Food Preparation Assistants",
+    "Level": 3,
+    "parent": "94",
+    "isco1d": "9",
+    "isco2d": "94",
+    "isco3d": "941"
+  },
+  {
+    "code": "9411",
+    "title": "Fast Food Preparers",
+    "Level": 4,
+    "parent": "941",
+    "isco1d": "9",
+    "isco2d": "94",
+    "isco3d": "941",
+    "isco4d": "9411"
+  },
+  {
+    "code": "9412",
+    "title": "Kitchen Helpers",
+    "Level": 4,
+    "parent": "941",
+    "isco1d": "9",
+    "isco2d": "94",
+    "isco3d": "941",
+    "isco4d": "9412"
+  },
+  {
+    "code": "95",
+    "title": "Street and Related Sales and Service Workers",
+    "Level": 2,
+    "parent": "9",
+    "isco1d": "9",
+    "isco2d": "95"
+  },
+  {
+    "code": "951",
+    "title": "Street and Related Service Workers",
+    "Level": 3,
+    "parent": "95",
+    "isco1d": "9",
+    "isco2d": "95",
+    "isco3d": "951"
+  },
+  {
+    "code": "9510",
+    "title": "Street and Related Service Workers",
+    "Level": 4,
+    "parent": "951",
+    "isco1d": "9",
+    "isco2d": "95",
+    "isco3d": "951",
+    "isco4d": "9510"
+  },
+  {
+    "code": "952",
+    "title": "Street Vendors (excluding Food)",
+    "Level": 3,
+    "parent": "95",
+    "isco1d": "9",
+    "isco2d": "95",
+    "isco3d": "952"
+  },
+  {
+    "code": "9520",
+    "title": "Street Vendors (excluding Food)",
+    "Level": 4,
+    "parent": "952",
+    "isco1d": "9",
+    "isco2d": "95",
+    "isco3d": "952",
+    "isco4d": "9520"
+  },
+  {
+    "code": "96",
+    "title": "Refuse Workers and Other Elementary Workers",
+    "Level": 2,
+    "parent": "9",
+    "isco1d": "9",
+    "isco2d": "96"
+  },
+  {
+    "code": "961",
+    "title": "Refuse Workers",
+    "Level": 3,
+    "parent": "96",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "961"
+  },
+  {
+    "code": "9611",
+    "title": "Garbage and Recycling Collectors",
+    "Level": 4,
+    "parent": "961",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "961",
+    "isco4d": "9611"
+  },
+  {
+    "code": "9612",
+    "title": "Refuse Sorters",
+    "Level": 4,
+    "parent": "961",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "961",
+    "isco4d": "9612"
+  },
+  {
+    "code": "9613",
+    "title": "Sweepers and Related Labourers",
+    "Level": 4,
+    "parent": "961",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "961",
+    "isco4d": "9613"
+  },
+  {
+    "code": "962",
+    "title": "Other Elementary Workers",
+    "Level": 3,
+    "parent": "96",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "962"
+  },
+  {
+    "code": "9621",
+    "title": "Messengers, Package Deliverers and Luggage Porters",
+    "Level": 4,
+    "parent": "962",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "962",
+    "isco4d": "9621"
+  },
+  {
+    "code": "9622",
+    "title": "Odd Job Persons",
+    "Level": 4,
+    "parent": "962",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "962",
+    "isco4d": "9622"
+  },
+  {
+    "code": "9623",
+    "title": "Meter Readers and Vending-machine Collectors",
+    "Level": 4,
+    "parent": "962",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "962",
+    "isco4d": "9623"
+  },
+  {
+    "code": "9624",
+    "title": "Water and Firewood Collectors",
+    "Level": 4,
+    "parent": "962",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "962",
+    "isco4d": "9624"
+  },
+  {
+    "code": "9629",
+    "title": "Elementary Workers Not Elsewhere Classified",
+    "Level": 4,
+    "parent": "962",
+    "isco1d": "9",
+    "isco2d": "96",
+    "isco3d": "962",
+    "isco4d": "9629"
+  },
+  {
+    "code": "0",
+    "title": "Armed Forces Occupations",
+    "Level": 1,
+    "isco1d": "0"
+  },
+  {
+    "code": "01",
+    "title": "Commissioned Armed forces Officers",
+    "Level": 2,
+    "parent": "0",
+    "isco1d": "0",
+    "isco2d": "01"
+  },
+  {
+    "code": "011",
+    "title": "Commissioned Armed Forces Officers",
+    "Level": 3,
+    "parent": "01",
+    "isco1d": "0",
+    "isco2d": "01",
+    "isco3d": "011"
+  },
+  {
+    "code": "0110",
+    "title": "Commissioned Armed Forces Officers",
+    "Level": 4,
+    "parent": "011",
+    "isco1d": "0",
+    "isco2d": "01",
+    "isco3d": "011",
+    "isco4d": "0110"
+  },
+  {
+    "code": "02",
+    "title": "Non-commissioned Armed Forces Officers",
+    "Level": 2,
+    "parent": "0",
+    "isco1d": "0",
+    "isco2d": "02"
+  },
+  {
+    "code": "021",
+    "title": "Non-commissioned Armed Forces Officers",
+    "Level": 3,
+    "parent": "02",
+    "isco1d": "0",
+    "isco2d": "02",
+    "isco3d": "021"
+  },
+  {
+    "code": "0210",
+    "title": "Non-commissioned Armed Forces Officers",
+    "Level": 4,
+    "parent": "021",
+    "isco1d": "0",
+    "isco2d": "02",
+    "isco3d": "021",
+    "isco4d": "0210"
+  },
+  {
+    "code": "03",
+    "title": "Armed Forces Occupations, Other Ranks",
+    "Level": 2,
+    "parent": "0",
+    "isco1d": "0",
+    "isco2d": "03"
+  },
+  {
+    "code": "031",
+    "title": "Armed Forces Occupations, Other Ranks",
+    "Level": 3,
+    "parent": "03",
+    "isco1d": "0",
+    "isco2d": "03",
+    "isco3d": "031"
+  },
+  {
+    "code": "0310",
+    "title": "Armed Forces Occupations, Other Ranks",
+    "Level": 4,
+    "parent": "031",
+    "isco1d": "0",
+    "isco2d": "03",
+    "isco3d": "031",
+    "isco4d": "0310"
+  }
+]
